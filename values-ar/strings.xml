@@ -206,7 +206,7 @@
     <string name="d">d</string>
     <string name="mass_booster_has_expired">انتهت معززة الشامل</string>
     <string name="exp_booster_has_expired">انتهت صلاحية معززة إكس</string>
-    <string name="chat_suffix_desc">Add to nick%s suffix</string>
+    <string name="chat_suffix_desc">إضافة إلى نيك %s لاحقة</string>
     <string name="user_role_desc">هذا اللاعب %s</string>
     <string name="size_animation_speed">حجم سرعة الحركة:</string>
     <string name="search">البحث</string>
@@ -217,7 +217,7 @@
     <string name="random">مجهول</string>
     <string name="key">مفتاح</string>
     <string name="left_label">(%s left)</string>
-    <string name="coins_battle">"Coins battle: "</string>
+    <string name="coins_battle">"عملات معركة: "</string>
     <string name="Spectate">Spectate</string>
     <string name="game_isnt_started_yet">Game isn\'t started yet. You may lose your coins!</string>
     <string name="show_cell_border">Show cell border</string>
