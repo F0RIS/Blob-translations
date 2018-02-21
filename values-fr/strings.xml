@@ -220,25 +220,25 @@
     <string name="rules_title">Rules</string>
     <string name="rules_description">
     \n
-    1.) Do not insult other players\n
-    2.) Do not pretend to be a MODERATOR\n
-    3.) Do not exchange Blob.io accounts outside or in-side the game\n
-    4.) Do not cheat to reach top Ranking of the game\n
-    5.) Do not use inappropriate names in game\n
-    6.) Do not take advantage of bugs in the game\n
-    7.) Do not team with someone on opposite teaming (CROSS TEAMING)\n
+   1.) N'insultez pas les autres joueurs\n
+    2.) Ne prétends pas être un MODERATEUR\n
+    3.) N'échangez pas de comptes Blob.io à l'extérieur ou à l'intérieur du jeu.\n
+    4.) Ne trichez pas pour atteindre le haut Classement du jeu\n
+    5.) N'utilisez pas de noms inappropriés dans le jeu\n
+    6.) Ne pas profiter des bugs dans le jeu\n
+    7.) Ne faites pas équipe avec quelqu'un de l'équipe adverse (CROSS TEAMING)\n
     </string>
-    <string name="top_week_exp_desc">Get as much exp as you can during week and win coins reward!</string>
-    <string name="server_app_description">With this app you can create own server and play offline or with friends!</string>
-    <string name="show_fps">Show FPS</string>
-    <string name="saved">Saved</string>
-    <string name="delete_server">Delete server?</string>
-    <string name="deleted">Deleted</string>
-    <string name="added">Added</string>
-    <string name="add_new">Add new</string>
-    <string name="cant_be_empty">%s can\'t be empty!</string>
-    <string name="list">List</string>
+    <string name="top_week_exp_desc">Obtenez autant exp comme vous pouvez pendant la semaine et gagnez des pièces de monnaie!</string>
+    <string name="server_app_description">Avec cette application, vous pouvez créer votre propre serveur et jouer hors ligne ou avec des amis!</string>
+    <string name="show_fps">Afficher fps</string>
+    <string name="saved">Enregistré</string>
+    <string name="delete_server">Supprimer le serveur?</string>
+    <string name="deleted">Supprimé</string>
+    <string name="added">Ajoutée</string>
+    <string name="add_new">Ajouter un nouveau</string>
+    <string name="cant_be_empty">%s cun \ 't être vide!</string>
+    <string name="list">liste</string>
     <string name="info_title">Info</string>
-    <string name="time_left">Time left:</string>
-    <string name="edit">Edit</string>
+    <string name="time_left">Temps restant:</string>
+    <string name="edit">modifier</string>
 </resources>
