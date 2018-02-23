@@ -220,11 +220,12 @@
     <string name="rules_title">Règles</string>
     <string name="rules_description">
     \n
-    1.) Ne pas insulter les autres joueurs\n
-    2.) Ne prétends pas être un MOD\n
-    3.) N'échangez pas les comptes Blob.io à l'extérieur ou à l'intérieur du jeu\n
+
+   1.) N'insultez pas les autres joueurs\n
+    2.) Ne prétends pas être un MODERATEUR\n
+    3.) N'échangez pas de comptes Blob.io à l'extérieur ou à l'intérieur du jeu.\n
     4.) Ne trichez pas pour atteindre le haut Classement du jeu\n
-    5.) Dne pas utiliser de noms inappropriés dans le jeu\n
+    5.) N'utilisez pas de noms inappropriés dans le jeu\n
     6.) Ne pas profiter des bugs dans le jeu\n
     7.) Ne faites pas équipe avec quelqu'un de l'équipe adverse (CROSS TEAMING)\n
     </string>
@@ -236,7 +237,7 @@
     <string name="deleted">Supprimé</string>
     <string name="added">Ajoutée</string>
     <string name="add_new">Ajouter un nouveau</string>
-    <string name="cant_be_empty">%s ne peut pas être vide!</string>
+    <string name="cant_be_empty">%s cun't être vide!</string>
     <string name="list">liste</string>
     <string name="info_title">Info</string>
     <string name="time_left">Temps restant:</string>
