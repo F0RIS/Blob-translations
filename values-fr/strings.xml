@@ -236,7 +236,7 @@
     <string name="deleted">Supprimé</string>
     <string name="added">Ajoutée</string>
     <string name="add_new">Ajouter un nouveau</string>
-    <string name="cant_be_empty">%s cun \ 't être vide!</string>
+    <string name="cant_be_empty">%s cun't être vide!</string>
     <string name="list">liste</string>
     <string name="info_title">Info</string>
     <string name="time_left">Temps restant:</string>
