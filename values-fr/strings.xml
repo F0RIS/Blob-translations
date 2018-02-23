@@ -211,15 +211,16 @@
     <string name="random">Au hasard</string>
     <string name="key">Clé</string>
     <string name="left_label">(%s left)</string>
-    <string name="coins_battle">"Coins battle: "</string>
+    <string name="coins_battle">"Bataille de pièces::"</string>
     <string name="Spectate">Spectate</string>
-    <string name="game_isnt_started_yet">Game isn\'t started yet. You may lose your coins!</string>
-    <string name="show_cell_border">Show cell border</string>
-    <string name="cur_week_exp">Cur. Week Exp</string>
-    <string name="prev_week_exp">Prev. Week Exp</string>
-    <string name="rules_title">Rules</string>
+    <string name="game_isnt_started_yet">Le jeu n \ 'est pas encore commencé. Vous risquez de perdre vos pièces de monnaie!</string>
+    <string name="show_cell_border">Afficher la bordure de la cellule</string>
+    <string name="cur_week_exp">XP hebdomadaire</string>
+    <string name="prev_week_exp">XP hebdomadaire</string>
+    <string name="rules_title">Règles</string>
     <string name="rules_description">
     \n
+
    1.) N'insultez pas les autres joueurs\n
     2.) Ne prétends pas être un MODERATEUR\n
     3.) N'échangez pas de comptes Blob.io à l'extérieur ou à l'intérieur du jeu.\n
