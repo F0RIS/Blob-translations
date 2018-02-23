@@ -30,7 +30,7 @@
     <string name="skin_title">تعيين اسملهذا الجلد؟</string>
     <string name="connect_to">الاتصال</string>
     <string name="connecting">الاتصالالخاصة IP</string>
-    <string name="enter_ip">نوع server IP</string>
+    <string name="enter_ip">نوع خادم إب</string>
     <string name="copied">نسخ</string>
     <string name="connection_closed">اتصال مغلقة منقبل الملقم</string>
     <string name="connection_lost">فقد الاتصال</string>
@@ -51,7 +51,7 @@
     <string name="share_text">كنت أعتقد كنت هزيمة لي فيالنقطة؟ ها، أنها محاولة :) #blob_game %1$s</string>
     <string name="share_score_text">حصلت %1$d نقاط في لعبة Blob! العب معي! #blob_game %2$s</string>
     <string name="records">السجلات</string>
-    <string name="spec_mode_after_death"> بعد Spectateالموت</string>
+    <string name="spec_mode_after_death"> بعد سبكتات الموت</string>
     <string name="darkTheme">موضوع الظلام</string>
     <string name="left_hand_control">تحكم اليداليسرى</string>
     <!--<string name="party_btn">الطرف</string>-->
@@ -192,7 +192,7 @@
     <string name="free_coins_toast">كنت حصلت على %d النقود مجانا!</string>
     <string name="free_coins">عملات مجانية</string>
     <string name="watch_video">شاهد الفيديو</string>
-    <string name="lvl_coins_reward">Congratulations! You achieved Lvl %1$d and gained %2$d coins!</string>
+    <string name="lvl_coins_reward">تهانينا! لقد حققت لفل٪ 1 $ d واكتسبت٪ 2 $ d عملات!</string>
 
     <!-- Items description localization -->
     <string name="mass_booster_x1_5_desc">بدء اللعبة مع كتلة أكبر x1.5 لمدة 1 ساعة القادمة</string>
@@ -206,7 +206,7 @@
     <string name="d">d</string>
     <string name="mass_booster_has_expired">انتهت معززة الشامل</string>
     <string name="exp_booster_has_expired">انتهت صلاحية معززة إكس</string>
-    <string name="chat_suffix_desc">Add to nick%s suffix</string>
+    <string name="chat_suffix_desc">إضافة إلى نيك %s لاحقة</string>
     <string name="user_role_desc">هذا اللاعب %s</string>
     <string name="size_animation_speed">حجم سرعة الحركة:</string>
     <string name="search">البحث</string>
@@ -217,13 +217,13 @@
     <string name="random">مجهول</string>
     <string name="key">مفتاح</string>
     <string name="left_label">(%s left)</string>
-    <string name="coins_battle">"Coins battle: "</string>
+    <string name="coins_battle">"عملات معركة: "</string>
     <string name="Spectate">Spectate</string>
-    <string name="game_isnt_started_yet">Game isn\'t started yet. You may lose your coins!</string>
-    <string name="show_cell_border">Show cell border</string>
-    <string name="cur_week_exp">Cur. Week Exp</string>
-    <string name="prev_week_exp">Prev. Week Exp</string>
-    <string name="rules_title">Rules</string>
+    <string name="game_isnt_started_yet">لم تبدأ اللعبة بعد. قد تفقد القطع النقدية الخاصة بك!</string>
+    <string name="show_cell_border">إظهار حدود الخلية</string>
+    <string name="cur_week_exp">لئيم. أسبوع إكس</string>
+    <string name="prev_week_exp">لئيم. أسبوع إكس</string>
+    <string name="rules_title">قواعد</string>
     <string name="rules_description">
         1.) لا إهانة لاعبين آخرين.\n
         2.) لا تدعي أن يكون مشرف.\n
@@ -233,19 +233,19 @@
         6.) لا تستفيد من فشل النظام في اللعبة.\n
         7.) لا فريق مع شخص على عكس الفريق. (كروس تيمينغ)\n
     </string>
-    <string name="top_week_exp_desc">Get as much exp as you can during week and win coins reward!</string>
+    <string name="top_week_exp_desc">الحصول على أكبر قدر كما يمكنك خلال الأسبوع والفوز النقود مكافأة!</string>
     <string name="server_app_description">مع هذا التطبيق يمكنك إنشاء الخادم الخاص واللعب حاليا أو مع الأصدقاء!</string>
-    <string name="show_fps">Show FPS</string>
-    <string name="saved">Saved</string>
-    <string name="delete_server">Delete server?</string>
-    <string name="deleted">Deleted</string>
-    <string name="added">Added</string>
-    <string name="add_new">Add new</string>
+    <string name="show_fps">عرض واي فاي</string>
+    <string name="saved">تم الحفظ</string>
+    <string name="delete_server">هل تريد حذف الخادم؟</string>
+    <string name="deleted">تم الحذف</string>
+    <string name="added">وأضاف</string>
+    <string name="add_new">اضف جديد</string>
     <string name="cant_be_empty">%s can\'t be empty!</string>
-    <string name="list">List</string>
-    <string name="info_title">Info</string>
-    <string name="time_left">Time left:</string>
-    <string name="edit">Edit</string>
+    <string name="list">قائمة</string>
+    <string name="info_title">معلومات</string>
+    <string name="time_left">الوقت المتبقي:</string>
+    <string name="edit">تصحيح</string>
 </resources>
 
 
