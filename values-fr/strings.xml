@@ -82,7 +82,7 @@
 
     <string name="fb_info_title">Information</string>
     <string name="fb_info_message">Connectez-vous à Facebook et obtenez une plus grande masse au départ!
-        Jouez et obtenez une plus grande masse pour obtenir plus de nuances de niveau!</string>
+        Jouez et obtenez une plus grande masse pour obtenir plus de nuances de niveau!</string>
     <string name="how_to_install">Comment installer</string>
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
     <string name="prem_skin_message">Vous souhaitez utiliser cette peau?</string>
@@ -137,7 +137,7 @@
     <string name="join_game">Connectez-vous au jeu</string>
     <string name="accept">Accepter</string>
     <string name="decline">Déclin</string>
-    <string name="copy_ip">Copier IP</string>
+    <string name="copy">Copier</string>
 
     <string name="better_skins_quality">Meilleure qualité des peaux</string>
     <string name="better_skins_warning">Cela peut entraîner une lenteur.</string>
@@ -213,21 +213,20 @@
     <string name="left_label">(%s left)</string>
     <string name="coins_battle">"Bataille de pièces::"</string>
     <string name="Spectate">Spectate</string>
-    <string name="game_isnt_started_yet">Le jeu n \ 'est pas encore commencé. Vous risquez de perdre vos pièces de monnaie!</string>
+    <string name="game_isnt_started_yet">Le jeu n\'est pas encore commencé. Vous risquez de perdre vos pièces de monnaie!</string>
     <string name="show_cell_border">Afficher la bordure de la cellule</string>
     <string name="cur_week_exp">XP hebdomadaire</string>
     <string name="prev_week_exp">XP hebdomadaire</string>
     <string name="rules_title">Règles</string>
     <string name="rules_description">
     \n
-
-   1.) N'insultez pas les autres joueurs\n
+    1.) N\'insultez pas les autres joueurs\n
     2.) Ne prétends pas être un MODERATEUR\n
-    3.) N'échangez pas de comptes Blob.io à l'extérieur ou à l'intérieur du jeu.\n
+    3.) N\'échangez pas de comptes Blob.io à l\'extérieur ou à l\'intérieur du jeu.\n
     4.) Ne trichez pas pour atteindre le haut Classement du jeu\n
-    5.) N'utilisez pas de noms inappropriés dans le jeu\n
+    5.) N\'utilisez pas de noms inappropriés dans le jeu\n
     6.) Ne pas profiter des bugs dans le jeu\n
-    7.) Ne faites pas équipe avec quelqu'un de l'équipe adverse (CROSS TEAMING)\n
+    7.) Ne faites pas équipe avec quelqu\'un de l\'équipe adverse (CROSS TEAMING)\n
     </string>
     <string name="top_week_exp_desc">Obtenez autant exp comme vous pouvez pendant la semaine et gagnez des pièces de monnaie!</string>
     <string name="server_app_description">Avec cette application, vous pouvez créer votre propre serveur et jouer hors ligne ou avec des amis!</string>
@@ -237,9 +236,14 @@
     <string name="deleted">Supprimé</string>
     <string name="added">Ajoutée</string>
     <string name="add_new">Ajouter un nouveau</string>
-    <string name="cant_be_empty">%s cun't être vide!</string>
+    <string name="cant_be_empty">%s cun\'t être vide!</string>
     <string name="list">liste</string>
     <string name="info_title">Info</string>
     <string name="time_left">Temps restant:</string>
     <string name="edit">modifier</string>
+    <string name="score_title">Score:</string>
+    <string name="bet_value">Bet value:</string>
+    <string name="create">Create</string>
+    <string name="custom_server">Custom server</string>
+    <string name="custom_server_created">Custom server created</string>
 </resources>

@@ -137,7 +137,7 @@
     <string name="join_game">Seguir amigo</string>
     <string name="accept">Aceitar</string>
     <string name="decline">Excluídos</string>
-    <string name="copy_ip">Copiar IP</string>
+    <string name="copy">Copiar</string>
 
     <string name="better_skins_quality">Melhor qualidade de skins</string>
     <string name="better_skins_warning">Isso pode causar lentidões.</string>
@@ -231,6 +231,7 @@
     <string name="top_week_exp_desc">Get as much exp as you can during week and win coins reward!</string>
     <string name="server_app_description">Com este aplicativo, você pode criar seu próprio servidor e jogar offline ou com amigos!</string>
     <string name="show_fps">Show FPS</string>
+    <string name="score_title">Score:</string>
     <string name="saved">Saved</string>
     <string name="delete_server">Delete server?</string>
     <string name="deleted">Deleted</string>
@@ -241,4 +242,8 @@
     <string name="info_title">Info</string>
     <string name="time_left">Time left:</string>
     <string name="edit">Edit</string>
+    <string name="bet_value">Bet value:</string>
+    <string name="create">Create</string>
+    <string name="custom_server">Custom server</string>
+    <string name="custom_server_created">Custom server created</string>
 </resources>

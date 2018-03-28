@@ -63,16 +63,14 @@
         &#160;&#160;- The bigger you are the slower you move\n
         &#160;- Tap on relevant button to divide into two smaller blobs. One half of you shoots forward quickly, use this trick to strike other players and eat them.\n
         &#160;- If you are divided you can recombine into one blob after a certain period of time has passed, the bigger your blobs the longer you have to wait before you can form into one blob again\n
-        &#160;- If you are smaller than the spikeballs then you can hide inside them for protection, but beware, if you are larger than a spikeball then touching it makes you burst into many tiny blobs.\n
+        &#160;- If you are smaller than the spikeballs (virus) then you can hide inside them for protection, but beware, if you are larger than a virus then touching it makes you burst into many tiny blobs.\n
         &#160;- You can make spikeballs to split and it somebody by throwing some your mass in it\n
         &#160;- You can\'t eat or be eaten by players the exact same size as you\n
         Control:\n
         &#160;- Tap anywhere on screen to move your cell or just use joystick\n
         &#160;- Tap on corresponding button to split or eject some mass\n\n
-        &#160; You can read this info again by clicking at icon with question mark in menu and selecting "Game mechanics"\n
+        &#160; You can read this info again by clicking at icon with question mark in main menu\n
         &#160; Restart application and clear RAM, if something went wrong.\n
-        &#160; Also you can disable showing names and mass to prevent lags.\n
-
     </string>
     <string name="first_start_dialog_title">Game mechanics</string>
     <string name="update_title">Update available</string>
@@ -140,7 +138,7 @@
     <string name="join_game">Join game</string>
     <string name="accept">Accept</string>
     <string name="decline">Decline</string>
-    <string name="copy_ip">Copy IP</string>
+    <string name="copy">Copy</string>
 
     <string name="free" translatable="false">Free</string>
     <string name="premium" translatable="false">Premium</string>
@@ -184,7 +182,7 @@
     </string-array>
 
     <string-array name="servers_list_actions" translatable="false">
-        <item>@string/copy_ip</item>
+        <item>@string/copy</item>
         <item>@string/share</item>
     </string-array>
 
@@ -285,6 +283,7 @@
     <string name="top_week_exp_desc">Get as much exp as you can during week and win coins reward!</string>
     <string name="server_app_description">With this app you can create own server and play offline or with friends!</string>
     <string name="show_fps">Show FPS</string>
+    <string name="score_title">Score:</string>
 
     <string name="saved">Saved</string>
     <string name="delete_server">Delete server?</string>
@@ -296,4 +295,8 @@
     <string name="info_title">Info</string>
     <string name="time_left">Time left:</string>
     <string name="edit">Edit</string>
+    <string name="bet_value">Bet value:</string>
+    <string name="create">Create</string>
+    <string name="custom_server">Custom server</string>
+    <string name="custom_server_created">Custom server created</string>
 </resources>

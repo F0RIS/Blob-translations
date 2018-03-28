@@ -64,9 +64,8 @@
         &#160;- Вы можете заставить вирус разделиться и взорвать таким образом какого-либо игрока, для этого стреляйте своей массой в "вирус"\n
         &#160;- Вы не можете съесть или быть съеденным игроком, который такого же размера как и вы.\n
         \n
-        &#160;&#160;Вы можете прочитать эту информация еще раз, нажав в главном меню на иконку с вопросительным знаком и выбрав "Механика игры".\n
+        &#160;&#160;Вы можете прочитать эту информацию еще раз, нажав в главном меню на иконку с вопросительным знаком.\n
         &#160;&#160;Перезапустите приложение и очистите ОЗУ, если что-то пошло не так.\n
-        &#160;&#160;Так же вы можете отключить показ ников и массы, что бы избежать лагов.
     </string>
     <string name="first_start_dialog_title">Механика игры</string>
     <string name="update_title">Доступно обновление</string>
@@ -126,10 +125,10 @@
 
     <string name="view_profile">Профиль</string>
     <string name="delete">Удалить</string>
-    <string name="join_game">Присоединиться</string>
+    <string name="join_game">Войти</string>
     <string name="accept">Принять</string>
     <string name="decline">Отказать</string>
-    <string name="copy_ip">Копировать IP</string>
+    <string name="copy">Копир.</string>
 
     <string name="you_must_log_in">Вы должны авторизоваться</string>
     <string name="registered">Зарегистрирован</string>
@@ -145,7 +144,7 @@
     <string name="send_friend_request">Подружиться</string>
     <string name="moved_to_declined">Помещен в \"Отклонены\"</string>
     <string name="friend_request_successful">Приглашение в друзья отправлено</string>
-    <string name="copy_user_id">Копировать ID</string>
+    <string name="copy_user_id">Копир. ID</string>
     <string name="show_friends">Показывать друзей</string>
     <string name="watch">Смотреть</string>
     <string name="unknown_user">Неизвестный пользователь</string>
@@ -215,19 +214,20 @@
     <string name="show_cell_border">Показывать обводку</string>
     <string name="cur_week_exp">Текущ. нед. Exp</string>
     <string name="prev_week_exp">Пред. нед. Exp</string>
-    <string name="rules_title">Rules</string>
+    <string name="rules_title">Правила</string>
     <string name="rules_description">\n
         1.) Не оскорбляйте других игроков\n
         2.) Не просите статус Модератора\n
         3.) Не обменивайте/продавайте аккаунты\n
-        4.) Не инспользуйте читы что бы достигнуть топов\n
+        4.) Не используйте читы что бы достигнуть топов\n
         5.) Не используйте нецензурные слова в нике\n
-        6.) Не используйте баги игры ради приемущества над другими\n
-        7.) Не играйте совместно с людми из другой команды, например в режиме TEAMS,TS2v2\n
+        6.) Не используйте баги игры ради преимущества над другими\n
+        7.) Не играйте совместно с людьми из другой команды, например в режиме TEAMS,TS2v2\n
     </string>
     <string name="top_week_exp_desc">Набери как можно больше опыта в течении недели и получи награду монетами!</string>
     <string name="server_app_description">С этим приложением ты можешь создать свой сервер и играть оффлайн с друзьями!</string>
     <string name="show_fps">Показывать FPS</string>
+    <string name="score_title">Счет:</string>
 
     <string name="saved">Сохранено</string>
     <string name="delete_server">Удалить сервер?</string>
@@ -239,4 +239,8 @@
     <string name="info_title">Инфо</string>
     <string name="time_left">Осталось времени:</string>
     <string name="edit">Изменить</string>
+    <string name="bet_value">Ставка:</string>
+    <string name="create">Создать</string>
+    <string name="custom_server">Личный сервер</string>
+    <string name="custom_server_created">Личный сервер создан</string>
 </resources>
