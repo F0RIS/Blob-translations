@@ -246,11 +246,11 @@
     <string name="info_title">معلومات</string>
     <string name="time_left">الوقت المتبقي:</string>
     <string name="edit">تصحيح</string>
-    <string name="score_title">Score:</string>
-    <string name="bet_value">Bet value:</string>
-    <string name="create">Create</string>
-    <string name="custom_server">Custom server</string>
-    <string name="custom_server_created">Custom server created</string>
+    <string name="score_title">:النقاط</string>
+    <string name="bet_value">:قيمة الرهان</string>
+    <string name="create">يصنع</string>
+    <string name="custom_server">السيرفر المخصص</string>
+    <string name="custom_server_created"> تم صنع السيرفر المخصص</string>
 </resources>
 
 
