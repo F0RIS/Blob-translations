@@ -230,20 +230,20 @@
     </string>
     <string name="top_week_exp_desc">Get as much exp as you can during week and win coins reward!</string>
     <string name="server_app_description">Com este aplicativo, você pode criar seu próprio servidor e jogar offline ou com amigos!</string>
-    <string name="show_fps">Show FPS</string>
-    <string name="score_title">Score:</string>
-    <string name="saved">Saved</string>
-    <string name="delete_server">Delete server?</string>
-    <string name="deleted">Deleted</string>
-    <string name="added">Added</string>
-    <string name="add_new">Add new</string>
+    <string name="show_fps">Mostrar FPS</string>
+    <string name="score_title">Pontuação:</string>
+    <string name="saved">Salvo</string>
+    <string name="delete_server">Excluir servidor?</string>
+    <string name="deleted">Excluído</string>
+    <string name="added">Adicionado</string>
+    <string name="add_new">Adicionar servidor</string>
     <string name="cant_be_empty">%s can\'t be empty!</string>
-    <string name="list">List</string>
+    <string name="list">Lista</string>
     <string name="info_title">Info</string>
-    <string name="time_left">Time left:</string>
+    <string name="time_left">Tempo restante:</string>
     <string name="edit">Edit</string>
-    <string name="bet_value">Bet value:</string>
-    <string name="create">Create</string>
-    <string name="custom_server">Custom server</string>
-    <string name="custom_server_created">Custom server created</string>
+    <string name="bet_value">Valor da aposta:</string>
+    <string name="create">Criar</string>
+    <string name="custom_server">Servidor personalizado</string>
+    <string name="custom_server_created">Servidor personalizado criado!</string>
 </resources>
