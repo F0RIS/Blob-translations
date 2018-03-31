@@ -3,22 +3,22 @@
     <string name="cancel">Cancelar</string>
     <string name="error">Error</string>
     <string name="no_internet">Para jugar tienes que tener una conexión a Internet</string>
-    <string name="show_minimap">Mostrar mini-map</string>
+    <string name="show_minimap">Mostrar mapa</string>
     <string name="show_chat">Mostrar chat</string>
-    <string name="show_advanced_minimap">Mostrar mapa avanzado</string>
+    <string name="show_advanced_minimap">Mapa avanzado</string>
     <string name="region">Región:</string>
-    <string name="show_grid">Mostrar las rejillas</string>
+    <string name="show_grid">Mostrar rejillas</string>
     <string name="show_mass">Mostrar masa</string>
     <string name="show_names">Mostrar nombres</string>
-    <string name="name">Nombres</string>
+    <string name="name">Nombre</string>
 
     <string name="default_name">No me comas!</string>
     <string name="play">Jugar</string>
-    <string name="nick_name">Su nombre:</string>
+    <string name="nick_name">Apodo:</string>
     <string name="exit_dialog">Que tu quieres?</string>
     <string name="exit">Salir</string>
     <string name="restart">Reingresar</string>
-    <string name="show_leaders">Mostrar líderes</string>
+    <string name="show_leaders">Mostrar marcador</string>
     <string name="show_skins">Mostrar skins</string>
     <string name="show_DirectionPointer">Dirección del puntero</string>
     <string name="show_joystick">Joystick</string>
@@ -28,10 +28,10 @@
     <string name="skin_message">Esto cambiará su nombre</string>
     <string name="skin_title">Quieres usar esta skin?</string>
     <string name="connect_to">Conectar a</string>
-    <string name="connecting">Conectando</string>
-    <string name="enter_ip">Escriba IP</string>
-    <string name="copied">Copiado</string>
-    <string name="connection_closed">Conexión perdida, no se pudo conectar, vuelva a intentarlo</string>
+    <string name="connecting">Conectando...</string>
+    <string name="enter_ip">Especificar IP</string>
+    <string name="copied">Copiado:</string>
+    <string name="connection_closed">Conexión perdida</string>
     <string name="connection_lost">Conexión perdida</string>
     <string name="cant_connect">No se pudo conectar a este servidor. Por favor, inténtelo de nuevo</string>
     <string name="about_title">Acerca</string>
@@ -44,10 +44,10 @@
     </string>
 
     <string name="check_update">Comprobar la actualización</string>
-    <string name="score_result">Su puntuación %1$s</string>
-    <string name="you_set_new_record">¡Has alcanzado un nuevo récord en este modo de juego!</string>
+    <string name="score_result">Su puntuación: %1$s</string>
+    <string name="you_set_new_record">Has alcanzado un nuevo récord en este modo de juego!</string>
     <string name="share">Partilhar</string>
-    <string name="share_text">¿Crees que puedes derrotarme? Haha :) #blob_game %1$s</string>
+    <string name="share_text">Crees que puedes derrotarme? Haha :) #blob_game %1$s</string>
     <string name="share_score_text">Lo logré %1$d puntuación en Blob io! Juega conmigo! #blob_game %2$s</string>
     <string name="records">Récords</string>
     <string name="spec_mode_after_death">Espectar al morrir</string>
@@ -57,10 +57,10 @@
     <string name="party_created">Envía este enlace a tus amigos:</string>
     <string name="joining">Entrando...</string>
     <string name="creating_party">Creando partida...</string>
-    <string name="party_description">¡Juega con tus amigos en la misma habitación!</string>
+    <string name="party_description">Juega con tus amigos en la misma habitación!</string>
     <string name="vibration">Vibración</string>
     <string name="game_mechanic_description">
-        &#160;&#160;- Cuanto mayor sea, más lento se mueve\n
+        &#160;- Cuanto mayor sea, más lento se mueve\n
         &#160;- Toque el botón relevante para dividir en dos blobs más pequeños.\n
         &#160;- La mitad de ustedes dispara rápidamente, use este truco para atacar a otros jugadores y coma. \n
         &#160;- Si usted está dividido, usted puede recombinar en un blob después de un cierto período de tiempo haber pasado, cuanto mayor sea sus gotas, más usted debe aguardar antes de que usted pueda formarse nuevamente en un blob.\n
@@ -69,7 +69,7 @@
         &#160;- Usted no puede comer o ser comido por jugadores exactamente del mismo tamaño que usted.\n
         &#160;- Controles: Toque cualquier lugar en la pantalla para mover su blob o use joystick.\n
         &#160;- Toque el botón correspondiente para dividir o expulsar alguna masa.\n
-        &#160; Puede leer esta información de nuevo haciendo clic en el icono con signo de interrogación en el menú y seleccionando "Mecanismo del juego".\n
+        &#160; Puede leer esta información de nuevo haciendo clic en el icono con signo de interrogación en el menú y seleccionando "Info".\n
         &#160; Reinicie la aplicación y limpie la RAM si ha salido mal.\n
         &#160; Además, puede desactivar la visualización de nombres y la masa para evitar retrasos.\n
 
@@ -78,12 +78,12 @@
     <string name="update_title">Actualización disponible</string>
     <string name="update_message">Usted quiere tenerlo ahora?</string>
     <string name="players">Jugadores:&#160;</string>
-    <string name="totals">Total</string>
+    <string name="totals">Totales</string>
 
 
     <string name="fb_info_title">Información</string>
-    <string name="fb_info_message">¡Entrar en Facebook y obtener una mayor masa inicialmente!
-        ¡Juegue y obtenga mayor masa para obtener más skins de nivel!</string>
+    <string name="fb_info_message">Entrar con Google o Facebook y obtener una mayor masa inicialmente!
+        Juegue y obtenga mayor masa para obtener más skins de nivel!</string>
     <string name="how_to_install">Cómo instalar</string>
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
     <string name="prem_skin_message">Quieres usar esta skin?</string>
@@ -94,8 +94,8 @@
     <string name="top">Ranking&#160;</string>
     <string name="receiving">Recibiendo...</string>
     <string name="get_it">Consíguelo</string>
-    <string name="keep_ip">Ponga el IP</string>
-    <string name="keep_ip_description">El juego no cambiará el IP durante la jugada</string>
+    <string name="keep_ip">Mantener servidor</string>
+    <string name="keep_ip_description">El juego no cambiará el servidor durante la jugada</string>
 
     <!-- Rate this app-->
     <string name="rta_dialog_title">Evalúe esta aplicación </string>
@@ -125,7 +125,7 @@
     <string name="followers">Eliminados</string>
     <string name="blocked">Bloqueado</string>
     <string name="playing">Jugando:&#160;</string>
-    <string name="offline">Offline</string>
+    <string name="offline">Desconectado</string>
     <string name="relations">Relaciones</string>
     <string name="you_must_log_in">Usted necesita entrar</string>
     <string name="last_seen">Última visita</string>
@@ -133,9 +133,9 @@
     <string name="game_time">Tiempo jugado</string>
     <string name="user_info_records">Récords:</string>
 
-    <string name="view_profile">Ver perfil</string>
+    <string name="view_profile">Abrir perfil</string>
     <string name="delete">Eliminar</string>
-    <string name="join_game">Seguir a amigo</string>
+    <string name="join_game">Seguir</string>
     <string name="accept">Aceptar</string>
     <string name="decline">Eliminar</string>
     <string name="copy">Copiar</string>
@@ -144,16 +144,16 @@
     <string name="better_skins_warning">Esto puede causar lentitud.</string>
 
 
-    <string name="stop_on_release">Pare en el lanzamiento</string>
+    <string name="stop_on_release">Parar en el lanzamiento</string>
     <string name="type_user_id">Introducir ID jugador</string>
     <string name="copy_user_id">Copiar ID</string>
     <string name="send_friend_request">Enviar solicitud</string>
     <string name="friend_request_successful">Solicitud de amistad enviada!</string>
-    <string name="added_new_friend">Nuevo amigo agregado</string>
-    <string name="moved_to_declined">Movido a los eliminados</string>
-    <string name="show_friends">Mostrar los amigos</string>
-    <string name="watch">Ver el vídeo</string>
-    <string name="unknown_user">Jugador no identificado</string>
+    <string name="added_new_friend">Nuevo amigo agregado!</string>
+    <string name="moved_to_declined">Movido a los eliminados.</string>
+    <string name="show_friends">Mostrar amigos</string>
+    <string name="watch">Mirar</string>
+    <string name="unknown_user">Jugador no identificado.</string>
     <string name="reset">Reingresar</string>
 
     <!-- More settings -->
@@ -177,23 +177,23 @@
     <!-- API ERROR MESSAGES -->
     <string name="user_not_found">Jugador no encontrado</string>
     <string name="request_already_sent_error">Solicitud de amistad ya enviada</string>
-    <string name="already_friend_error">Este jugador ya es su amigo</string>
+    <string name="already_friend_error">Este jugador ya es su amigo.</string>
     <string name="not_enough_coins">Usted no tiene monedas suficientes para comprar este artículo</string>
-    <string name="already_own_item">Usted ya tiene este artículo</string>
+    <string name="already_own_item">Usted ya tiene este artículo.</string>
 
     <string name="searching_ad_video">Buscando un vídeo, espere</string>
     <string name="processing">Procesando...</string>
     <string name="free_coins_toast">Ganaste %d monedas de gracia!</string>
     <string name="free_coins">Monedas gratis</string>
-    <string name="watch_video">Ver el vídeo</string>
+    <string name="watch_video">Mirar</string>
     <string name="lvl_coins_reward">¡Enhorabuena! Usted ha llegado al nivel %1$d y ganó %2$d monedas!</string>
 
     <!-- Items description localization -->
-    <string name="mass_booster_x1_5_desc">Entrar en el juego con x1.5 masa a mas por 1 hora</string>
-    <string name="mass_booster_x2_desc">Entrar en el juego con x2 masa a mas por 1 hora</string>
-    <string name="exp_booster_x1_5_desc">Todo el XP ganado quedará x1.5 a más por 1 hora</string>
-    <string name="exp_booster_x2_desc">Todo o XP ganhado quedará a mas por 1 hora</string>
-    <string name="watch_video_desc">Ver el vídeo y ganar% de monedas!</string>
+    <string name="mass_booster_x1_5_desc">Comience el juego con masa x1.5 mayor para las próximas 1 hora</string>
+    <string name="mass_booster_x2_desc">Comience el juego con doble masa durante las próximas 1 hora</string>
+    <string name="exp_booster_x1_5_desc">Todos los EXPs ganados se multiplican en 1,5 para las próximas 1 hora</string>
+    <string name="exp_booster_x2_desc">Todas las EXPs ganadas se multiplicarán por 2 para las próximas 1 hora</string>
+    <string name="watch_video_desc">Mirar y ganar% de monedas!</string>
     <string name="free_coins_desc">Ganar %1$s monedas de gracia por cada %2$d hora</string>
     <string name="m">m</string>
     <string name="h">h</string>
@@ -202,34 +202,34 @@
     <string name="exp_booster_has_expired">El refuerzo de XP acabó</string>
 
     <string name="chat_suffix_desc">Añadir al nick%s sufijo</string>
-    <string name="user_role_desc">El jugador es %s</string>
+    <string name="user_role_desc">Jugador: %s</string>
     <string name="size_animation_speed">Velocidad de la animación:</string>
     <string name="search">Búsqueda</string>
     <string name="type_skin_name">Nombre de la skin</string>
     <string name="waiting_for_players">Esperando jugadores</string>
-    <string name="type_room_key">Contraseña de la sala</string>
+    <string name="type_room_key">Contraseña de la sala:</string>
 
     <string name="random">Aleatorio</string>
     <string name="key">Contraseña</string>
-    <string name="left_label">(%s left)</string>
+    <string name="left_label">(%s salió)</string>
     <string name="coins_battle">"Batalla de monedas: "</string>
-    <string name="Spectate">Ver juego</string>
+    <string name="Spectate">Mirar</string>
     <string name="game_isnt_started_yet">El juego monta no ha comenzado. Puede perder sus monedas!</string>
-    <string name="show_cell_border">Mostrar borde del blob </string>
+    <string name="show_cell_border">Mostrar borde</string>
     <string name="cur_week_exp">Cur. Week Exp</string>
     <string name="prev_week_exp">Prev. Week Exp</string>
     <string name="rules_title">Reglas</string>
     <string name="rules_description">
         \n
         1.) No insulte a otros jugadores.\n
-        2.) No pretenda ser un MODERADOR\n
-        3.) No cambie las cuentas del Blob io, fuera o dentro del juego.\n
-        4.) No use trampas para alcanzar el TOP.1 "Ranking del juego".\n
+        2.) No piense en MODERADOR\n
+        3.) No cambie las cuentas del Blob, fuera o dentro del juego.\n
+        4.) No use trampas para alcanzar el TOP.1.\n
         5.) No utilice nombres inapropiados en el juego.\n
         6.) No se aproveche de fallas que puedan tener en el juego.\n
-        7.) No se alía con alguien de un equipo opuesto. (EQUIPO CRUZADO)\n
+        7.) No hacer equipo con alguien del equipo opuesto. (EQUIPO CRUZADO)\n
     </string>
-    <string name="top_week_exp_desc">Get as much exp as you can during week and win coins reward!</string>
+    <string name="top_week_exp_desc">Recoge  el máximo de EXP durante una semana y usted ganará recompensa en las monedas!!</string>
     <string name="server_app_description">Con esta aplicación puedes crear tu propio servidor y jugar sin conexión o con amigos!</string>
     <string name="show_fps">Mostrar FPS</string>
     <string name="score_title">Puntuación:</string>
@@ -238,7 +238,7 @@
     <string name="deleted">Eliminado</string>
     <string name="added">Agregado</string>
     <string name="add_new">Agregar servidor</string>
-    <string name="cant_be_empty">%s can\'t be empty!</string>
+    <string name="cant_be_empty">%s no puede quedar vacío!</string>
     <string name="list">Lista</string>
     <string name="info_title">Info</string>
     <string name="time_left">Tiempo restante:</string>
