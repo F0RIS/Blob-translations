@@ -3,22 +3,22 @@
     <string name="cancel">Cancelar</string>
     <string name="error">Erro</string>
     <string name="no_internet">Para jogar você precisa ter uma conexão com a Internet</string>
-    <string name="show_minimap">Mostrar mini-mapa</string>
+    <string name="show_minimap">Mostrar mapa</string>
     <string name="show_chat">Mostrar bate-papo</string>
     <string name="show_advanced_minimap">Mapa avançado</string>
     <string name="region">Região:</string>
-    <string name="show_grid">Mostrar as grades</string>
+    <string name="show_grid">Mostrar grades</string>
     <string name="show_mass">Mostrar massa</string>
     <string name="show_names">Mostrar nomes</string>
     <string name="name">Nome</string>
 
     <string name="default_name">Não me coma!</string>
     <string name="play">Jogar</string>
-    <string name="nick_name">Seu nome:</string>
+    <string name="nick_name">Apelido:</string>
     <string name="exit_dialog">O quê você quer?</string>
     <string name="exit">Sair</string>
     <string name="restart">Reiniciar</string>
-    <string name="show_leaders">Mostrar líderes</string>
+    <string name="show_leaders">Mostrar placar</string>
     <string name="show_skins">Mostrar skins</string>
     <string name="show_DirectionPointer">Direção do ponteiro</string>
     <string name="show_joystick">Joystick</string>
@@ -28,9 +28,9 @@
     <string name="skin_message">Será alterado seu nome</string>
     <string name="skin_title">Quer mesmo utilizá-la?</string>
     <string name="connect_to">Conectar a</string>
-    <string name="connecting">Conectando</string>
-    <string name="enter_ip">Colocar IP</string>
-    <string name="copied">Copiado</string>
+    <string name="connecting">Conectando...</string>
+    <string name="enter_ip">Especifique servidor</string>
+    <string name="copied">Copiado:</string>
     <string name="connection_closed">Conexão expirou</string>
     <string name="connection_lost">Conexão perdida</string>
     <string name="cant_connect">Não é possível se conectar, por favor, tente novamente</string>
@@ -68,7 +68,7 @@
         &#160;- Você não pode comer ou ser comido por jogadores exatamente do mesmo tamanho que você.\n
         &#160;- Controles: Toque em qualquer lugar na tela para mover seu blob ou use joystick.\n
         &#160;- Toque no botão correspondente para dividir ou ejetar alguma massa.\n\n
-        &#160; Você pode ler esta informação novamente clicando no ícone com ponto de interrogação no menu e selecionando "Mecanismo do jogo".\n
+        &#160; Você pode ler esta informação novamente clicando no ícone com ponto de interrogação no menu e selecionando "Info".\n
         &#160; Reinicie o aplicativo e limpe a RAM, se algo deu errado.\n
         &#160; Além disso, você pode desativar a exibição de nomes e massa para evitar atrasos.\n
 
@@ -77,11 +77,11 @@
     <string name="update_title">Atualização disponível</string>
     <string name="update_message">Você quer atualizar?</string>
     <string name="players">Jogadores:&#160;</string>
-    <string name="totals">Total</string>
+    <string name="totals">Totais</string>
 
 
     <string name="fb_info_title">Informação</string>
-    <string name="fb_info_message">Faça login no Facebook e obtenha uma maior massa inicialmente!
+    <string name="fb_info_message">Faça login no Google ou Facebook e obtenha uma maior massa inicialmente!
         Jogue e obtenha maior massa para obter mais skins de nível!</string>
     <string name="how_to_install">Como instalar</string>
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
@@ -124,7 +124,7 @@
     <string name="followers">Excluídos</string>
     <string name="blocked">Bloqueado</string>
     <string name="playing">Jogando:&#160;</string>
-    <string name="offline">Offline</string>
+    <string name="offline">Desconectado</string>
     <string name="relations">Relações</string>
     <string name="you_must_log_in">Você precisa logar-se</string>
     <string name="last_seen">Visto pela última vez</string>
@@ -132,18 +132,18 @@
     <string name="game_time">Tempo jogado</string>
     <string name="user_info_records">Recordes:</string>
 
-    <string name="view_profile">Ver perfil</string>
+    <string name="view_profile">Abrir perfil</string>
     <string name="delete">Excluir</string>
     <string name="join_game">Seguir amigo</string>
     <string name="accept">Aceitar</string>
-    <string name="decline">Excluídos</string>
+    <string name="decline">Excluir</string>
     <string name="copy">Copiar</string>
 
     <string name="better_skins_quality">Melhor qualidade de skins</string>
     <string name="better_skins_warning">Isso pode causar lentidões.</string>
 
 
-    <string name="stop_on_release">Pare no lançamento</string>
+    <string name="stop_on_release">Parar no lançamento</string>
     <string name="type_user_id">Digite ID jogador</string>
     <string name="copy_user_id">Copiar ID</string>
     <string name="send_friend_request">Pedir amizade</string>
@@ -184,14 +184,14 @@
     <string name="processing">Processando...</string>
     <string name="free_coins_toast">Você ganhou %d moedas de graça!</string>
     <string name="free_coins">Moedas grátis</string>
-    <string name="watch_video">Assista o vídeo</string>
+    <string name="watch_video">Assistir</string>
     <string name="lvl_coins_reward">Parabéns! Você chegou ao nível %1$d e ganhou %2$d moedas!</string>
 
     <!-- Items description localization -->
-    <string name="mass_booster_x1_5_desc">Entrar no jogo com x1.5 de massa a mais por 1 hora</string>
-    <string name="mass_booster_x2_desc">Entrar no jogo com x2 de massa a mais por 1 hora</string>
-    <string name="exp_booster_x1_5_desc">Todo XP ganhado ficará x1.5 a mais por 1 hora</string>
-    <string name="exp_booster_x2_desc">Todo o XP ganhado ficará x2 a mais por 1 hora</string>
+    <string name="mass_booster_x1_5_desc">Comece o jogo com massa x1.5 maior para as próximas 1 hora</string>
+    <string name="mass_booster_x2_desc">Comece o jogo com massa dupla durante as próximas 1 hora</string>
+    <string name="exp_booster_x1_5_desc">Todos os EXPs ganhados se multiplica em 1,5 para as próximas 1 hora</string>
+    <string name="exp_booster_x2_desc">Todos os EXPs ganhados será multiplicados por 2 para as próximas 1 hora</string>
     <string name="watch_video_desc">Assista ao vídeo e ganhe %d moedas!</string>
     <string name="free_coins_desc">Ganhe %1$s moedas de graça a cada %2$d hora</string>
     <string name="m">m</string>
@@ -201,34 +201,34 @@
     <string name="exp_booster_has_expired">O reforço de XP acabou</string>
 
     <string name="chat_suffix_desc">Adicionar ao nick%s sufixo</string>
-    <string name="user_role_desc">O jogador é %s</string>
+    <string name="user_role_desc">Jogador: %s</string>
     <string name="size_animation_speed">Velocidade da animação:</string>
     <string name="search">Procurar</string>
     <string name="type_skin_name">Nome da skin</string>
     <string name="waiting_for_players">Esperando jogadores</string>
-    <string name="type_room_key">Senha da sala</string>
+    <string name="type_room_key">Senha da sala:</string>
 
     <string name="random">Aleatória</string>
     <string name="key">Com senha</string>
-    <string name="left_label">(%s left)</string>
+    <string name="left_label">(%s saiu)</string>
     <string name="coins_battle">"Batalha de moedas: "</string>
     <string name="Spectate">Espectar</string>
     <string name="game_isnt_started_yet">A partida ainda não começou. Você pode perder suas moedas!</string>
-    <string name="show_cell_border">Mostrar borda da célula</string>
+    <string name="show_cell_border">Mostrar borda</string>
     <string name="cur_week_exp">Cur. Week Exp</string>
     <string name="prev_week_exp">Prev. Week Exp</string>
-    <string name="rules_title">Rules</string>
+    <string name="rules_title">Regras</string>
     <string name="rules_description">
         \n
         1.) Não insulte outros jogadores.\n
-        2.) Não pretenda ser um MODERADOR\n
-        3.) Não troque as contas do Blob io, fora ou dentro do jogo.\n
-        4.) Não trapaceie para alcançar o TOP.1 "Ranking do jogo".\n
+        2.) Não fique pedindo para ser MODERADOR\n
+        3.) Não troque as contas do Blob, fora ou dentro do jogo.\n
+        4.) Não trapaceie para alcançar a liderança do ranking.\n
         5.) Não use nomes inapropriados no jogo.\n
         6.) Não se aproveite das falhas que possam ter no jogo.\n
-        7.) Não alie-se com alguém de uma equipe oposta. (EQUIPE CRUZADA)\n
+        7.) Não faça time com alguém que já tenha equipe. (EQUIPE CRUZADA)\n
     </string>
-    <string name="top_week_exp_desc">Get as much exp as you can during week and win coins reward!</string>
+    <string name="top_week_exp_desc">Recolha o máximo de EXP durante uma semana, e você ganhará recompensa em moedas!</string>
     <string name="server_app_description">Com este aplicativo, você pode criar seu próprio servidor e jogar offline ou com amigos!</string>
     <string name="show_fps">Mostrar FPS</string>
     <string name="score_title">Pontuação:</string>
@@ -237,11 +237,11 @@
     <string name="deleted">Excluído</string>
     <string name="added">Adicionado</string>
     <string name="add_new">Adicionar servidor</string>
-    <string name="cant_be_empty">%s can\'t be empty!</string>
+    <string name="cant_be_empty">%s não pode ficar vazio!</string>
     <string name="list">Lista</string>
     <string name="info_title">Info</string>
     <string name="time_left">Tempo restante:</string>
-    <string name="edit">Edit</string>
+    <string name="edit">Editar</string>
     <string name="bet_value">Valor da aposta:</string>
     <string name="create">Criar</string>
     <string name="custom_server">Servidor personalizado</string>
