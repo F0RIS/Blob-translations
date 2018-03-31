@@ -243,4 +243,5 @@
     <string name="create">Создать</string>
     <string name="custom_server">Личный сервер</string>
     <string name="custom_server_created">Личный сервер создан</string>
+    <string name="highlight_friends">Подсвечивать друзей</string>
 </resources>

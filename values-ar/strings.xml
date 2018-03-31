@@ -15,7 +15,7 @@
 
     <string name="default_name">مايك</string>
     <string name="play">اللعب</string>
-    <string name="nick_name">الاسم المستعار:</string>
+    <string name="nick_name">الاسم المستعار</string>
     <string name="exit_dialog">ما الذي تريده؟</string>
     <string name="exit">خروج</string>
     <string name="restart">قم بإعادةتشغيل</string>
@@ -91,7 +91,7 @@
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
 
     <string name="prem_skin_message">إعداد هذاالجلد؟</string>
-    <string name="game_mode">نوع اللعبة:</string>
+    <string name="game_mode">نوع اللعبة</string>
     <string name="please_relogin">الرجاء ريلوجين لتسجيل مستخدم جديد</string>
     <string name="unavailable">غير متوفر</string>
     <string name="top_lvl">المستوياتالعليا</string>
@@ -164,14 +164,14 @@
 
     <!-- More settings -->
     <string name="more">أكثر من</string>
-    <string name="controls_opacity">يتحكم في التعتيم:</string>
-    <string name="chat_text_size">حجم نص الدردشة:</string>
-    <string name="camera_zoom">كاميرا التصغير:</string>
+    <string name="controls_opacity">يتحكم في التعتيم</string>
+    <string name="chat_text_size">حجم نص الدردشة</string>
+    <string name="camera_zoom">كاميرا التصغير</string>
     <string name="live_score">النتيجة الحية</string>
 
     <!-- Joystick settings-->
-    <string name="margins">هوامش:</string>
-    <string name="size">بحجم:</string>
+    <string name="margins">هوامش</string>
+    <string name="size">بحجم</string>
     <string name="old_type">نوع قديم</string>
 
     <string name="coins">عملات معدنية</string>
@@ -208,7 +208,7 @@
     <string name="exp_booster_has_expired">انتهت صلاحية معززة إكس</string>
     <string name="chat_suffix_desc">إضافة إلى نيك %s لاحقة</string>
     <string name="user_role_desc">هذا اللاعب %s</string>
-    <string name="size_animation_speed">حجم سرعة الحركة:</string>
+    <string name="size_animation_speed">حجم سرعة الحركة</string>
     <string name="search">البحث</string>
     <string name="type_skin_name">اكتب اسم السكن</string>
     <string name="waiting_for_players">جاري انتظار اللاعبين</string>
@@ -217,7 +217,7 @@
     <string name="random">مجهول</string>
     <string name="key">مفتاح</string>
     <string name="left_label">(%s left)</string>
-    <string name="coins_battle">"عملات معركة: "</string>
+    <string name="coins_battle">"عملات معركة "</string>
     <string name="Spectate">Spectate</string>
     <string name="game_isnt_started_yet">لم تبدأ اللعبة بعد. قد تفقد القطع النقدية الخاصة بك!</string>
     <string name="show_cell_border">إظهار حدود الخلية</string>
@@ -246,11 +246,11 @@
     <string name="info_title">معلومات</string>
     <string name="time_left">الوقت المتبقي:</string>
     <string name="edit">تصحيح</string>
-    <string name="score_title">:النقاط</string>
+    <string name="score_title">النقاط</string>
     <string name="bet_value">:قيمة الرهان</string>
     <string name="create">يصنع</string>
     <string name="custom_server">السيرفر المخصص</string>
     <string name="custom_server_created"> تم صنع السيرفر المخصص</string>
+    <string name="highlight_friends">Highlight friends</string>
 </resources>
-
 

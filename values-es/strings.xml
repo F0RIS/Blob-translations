@@ -83,7 +83,7 @@
 
     <string name="fb_info_title">Información</string>
     <string name="fb_info_message">¡Entrar en Facebook y obtener una mayor masa inicialmente!
-        ¡Juegue y obtenga mayor masa para obtener más skins de nivel!</string>
+        ¡Juegue y obtenga mayor masa para obtener más skins de nivel!</string>
     <string name="how_to_install">Cómo instalar</string>
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
     <string name="prem_skin_message">Quieres usar esta skin?</string>
@@ -247,4 +247,5 @@
     <string name="create">Crear</string>
     <string name="custom_server">Servidor personalizado</string>
     <string name="custom_server_created">Servidor personalizado creado!</string>
+    <string name="highlight_friends">Highlight friends</string>
 </resources>
