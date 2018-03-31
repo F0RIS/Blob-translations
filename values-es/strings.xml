@@ -247,5 +247,5 @@
     <string name="create">Crear</string>
     <string name="custom_server">Servidor personalizado</string>
     <string name="custom_server_created">Servidor personalizado creado!</string>
-    <string name="highlight_friends">Highlight friends</string>
+    <string name="highlight_friends">Amigos destaques</string>
 </resources>
