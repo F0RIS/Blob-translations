@@ -242,8 +242,8 @@
     <string name="time_left">Temps restant:</string>
     <string name="edit">modifier</string>
     <string name="score_title">Score:</string>
-    <string name="bet_value">Bet value:</string>
-    <string name="create">Create</string>
-    <string name="custom_server">Custom server</string>
-    <string name="custom_server_created">Custom server created</string>
+    <string name="bet_value">Valeur De Mise:</string>
+    <string name="create">Créé</string>
+    <string name="custom_server">Server Personnalisé</string>
+    <string name="custom_server_created">Serveur Personnalisé Créé</string>
 </resources>
