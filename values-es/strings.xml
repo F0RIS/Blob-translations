@@ -218,7 +218,7 @@
     <string name="show_cell_border">Mostrar borde del blob </string>
     <string name="cur_week_exp">Cur. Week Exp</string>
     <string name="prev_week_exp">Prev. Week Exp</string>
-    <string name="rules_title">Rules</string>
+    <string name="rules_title">Reglas</string>
     <string name="rules_description">
         \n
         1.) No insulte a otros jugadores.\n
@@ -231,20 +231,20 @@
     </string>
     <string name="top_week_exp_desc">Get as much exp as you can during week and win coins reward!</string>
     <string name="server_app_description">Con esta aplicación puedes crear tu propio servidor y jugar sin conexión o con amigos!</string>
-    <string name="show_fps">Show FPS</string>
-    <string name="score_title">Score:</string>
-    <string name="saved">Saved</string>
-    <string name="delete_server">Delete server?</string>
-    <string name="deleted">Deleted</string>
-    <string name="added">Added</string>
-    <string name="add_new">Add new</string>
+    <string name="show_fps">Mostrar FPS</string>
+    <string name="score_title">Puntuación:</string>
+    <string name="saved">Guardado</string>
+    <string name="delete_server">Eliminar servidor?</string>
+    <string name="deleted">Eliminado</string>
+    <string name="added">Agregado</string>
+    <string name="add_new">Agregar servidor</string>
     <string name="cant_be_empty">%s can\'t be empty!</string>
-    <string name="list">List</string>
+    <string name="list">Lista</string>
     <string name="info_title">Info</string>
-    <string name="time_left">Time left:</string>
-    <string name="edit">Edit</string>
-    <string name="bet_value">Bet value:</string>
-    <string name="create">Create</string>
-    <string name="custom_server">Custom server</string>
-    <string name="custom_server_created">Custom server created</string>
+    <string name="time_left">Tiempo restante:</string>
+    <string name="edit">Editar</string>
+    <string name="bet_value">Valor de la apuesta:</string>
+    <string name="create">Crear</string>
+    <string name="custom_server">Servidor personalizado</string>
+    <string name="custom_server_created">Servidor personalizado creado!</string>
 </resources>
