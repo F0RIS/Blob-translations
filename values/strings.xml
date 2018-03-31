@@ -80,7 +80,7 @@
 
 
     <string name="fb_info_title">Information</string>
-    <string name="fb_info_message">Log in with Facebook and get bigger start mass!\n
+    <string name="fb_info_message">Log in and get bigger start mass!\n
         Level up to get even more starting mass and unlock new LVLs skins!</string>
     <string name="how_to_install">How to install</string>
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
@@ -299,4 +299,5 @@
     <string name="create">Create</string>
     <string name="custom_server">Custom server</string>
     <string name="custom_server_created">Custom server created</string>
+    <string name="highlight_friends">Highlight friends</string>
 </resources>
