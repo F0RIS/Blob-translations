@@ -92,9 +92,9 @@
     <string name="top_lvl">Ranking de nível</string>
     <string name="top">Ranking&#160;</string>
     <string name="receiving">Recebendo...</string>
-    <string name="get_it">Adquirir</string>
-    <string name="keep_ip"> Definir</string>
-    <string name="keep_ip_description">O jogo não trocará o IP durante a partida.</string>
+    <string name="get_it">Selecionar</string>
+    <string name="keep_ip">Manter servidor</string>
+    <string name="keep_ip_description">O jogo não trocará o servidor durante a partida.</string>
 
     <!-- Rate this app-->
     <string name="rta_dialog_title">Avalie esse aplicativo</string>
@@ -134,7 +134,7 @@
 
     <string name="view_profile">Abrir perfil</string>
     <string name="delete">Excluir</string>
-    <string name="join_game">Seguir amigo</string>
+    <string name="join_game">Seguir</string>
     <string name="accept">Aceitar</string>
     <string name="decline">Excluir</string>
     <string name="copy">Copiar</string>
@@ -153,7 +153,7 @@
     <string name="show_friends">Mostrar amigos</string>
     <string name="watch">Assistir</string>
     <string name="unknown_user">Jogador não identificado.</string>
-    <string name="reset">Resetar</string>
+    <string name="reset">Restaurar</string>
 
     <!-- More settings -->
     <string name="more">Mais</string>
@@ -201,7 +201,7 @@
     <string name="exp_booster_has_expired">O reforço de XP acabou</string>
 
     <string name="chat_suffix_desc">Adicionar ao nick%s sufixo</string>
-    <string name="user_role_desc">Jogador: %s</string>
+    <string name="user_role_desc">Jogador %s</string>
     <string name="size_animation_speed">Velocidade da animação:</string>
     <string name="search">Procurar</string>
     <string name="type_skin_name">Nome da skin</string>
@@ -228,7 +228,7 @@
         6.) Não se aproveite das falhas que possam ter no jogo.\n
         7.) Não faça time com alguém que já tenha equipe. (EQUIPE CRUZADA)\n
     </string>
-    <string name="top_week_exp_desc">Recolha o máximo de EXP durante uma semana, e você ganhará recompensa em moedas!</string>
+    <string name="top_week_exp_desc">Recolha o máximo de EXP durante uma semana, e você ganhará recompensas!</string>
     <string name="server_app_description">Com este aplicativo, você pode criar seu próprio servidor e jogar offline ou com amigos!</string>
     <string name="show_fps">Mostrar FPS</string>
     <string name="score_title">Pontuação:</string>
@@ -246,5 +246,5 @@
     <string name="create">Criar</string>
     <string name="custom_server">Servidor personalizado</string>
     <string name="custom_server_created">Servidor personalizado criado!</string>
-    <string name="highlight_friends">Amigos destacados</string>
+    <string name="highlight_friends">Amigos destaque</string>
 </resources>
