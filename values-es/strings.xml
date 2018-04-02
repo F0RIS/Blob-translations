@@ -52,7 +52,7 @@
     <string name="records">Récords</string>
     <string name="spec_mode_after_death">Espectar al morrir</string>
     <string name="darkTheme">Tema oscuro</string>
-    <string name="left_hand_control">Control de la mano izquierda</string>
+    <string name="left_hand_control">Control de mano izquierda</string>
 
     <string name="party_created">Envía este enlace a tus amigos:</string>
     <string name="joining">Entrando...</string>
@@ -144,7 +144,7 @@
     <string name="better_skins_warning">Esto puede causar lentitud.</string>
 
 
-    <string name="stop_on_release">Parar en el lanzamiento</string>
+    <string name="stop_on_release">Parar en lanzamiento</string>
     <string name="type_user_id">Introducir ID jugador</string>
     <string name="copy_user_id">Copiar ID</string>
     <string name="send_friend_request">Enviar solicitud</string>
@@ -154,7 +154,7 @@
     <string name="show_friends">Mostrar amigos</string>
     <string name="watch">Mirar</string>
     <string name="unknown_user">Jugador no identificado.</string>
-    <string name="reset">Reingresar</string>
+    <string name="reset">Restaurar</string>
 
     <!-- More settings -->
     <string name="more">Más</string>
@@ -229,7 +229,7 @@
         6.) No se aproveche de fallas que puedan tener en el juego.\n
         7.) No hacer equipo con alguien del equipo opuesto. (EQUIPO CRUZADO)\n
     </string>
-    <string name="top_week_exp_desc">Recoge  el máximo de EXP durante una semana y usted ganará recompensa en las monedas!!</string>
+    <string name="top_week_exp_desc">Recoge  el máximo de EXP durante una semana y usted ganará recompensas!</string>
     <string name="server_app_description">Con esta aplicación puedes crear tu propio servidor y jugar sin conexión o con amigos!</string>
     <string name="show_fps">Mostrar FPS</string>
     <string name="score_title">Puntuación:</string>
@@ -247,5 +247,5 @@
     <string name="create">Crear</string>
     <string name="custom_server">Servidor personalizado</string>
     <string name="custom_server_created">Servidor personalizado creado!</string>
-    <string name="highlight_friends">Amigos destaques</string>
+    <string name="highlight_friends">Amigos destacados</string>
 </resources>
