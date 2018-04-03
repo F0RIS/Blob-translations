@@ -12,15 +12,15 @@
     <string name="show_names">Afficher les noms</string>
     <string name="name">Nom</string>
 
-    <string name="default_name">Não me coma</string>
+    <string name="default_name">Bonjour</string>
     <string name="play">Jouer</string>
     <string name="nick_name">Votre nom:</string>
     <string name="exit_dialog">Que voulez-vous?</string>
     <string name="exit">Sortie</string>
-    <string name="restart">Reset</string>
-    <string name="show_leaders">Montrer les leaders</string>
+    <string name="restart">Recommencer</string>
+    <string name="show_leaders">Montrer le classement</string>
     <string name="show_skins">Afficher les peaux</string>
-    <string name="show_DirectionPointer">Pointer direction</string>
+    <string name="show_DirectionPointer">Direction du pointeur</string>
     <string name="show_joystick">Joystick</string>
     <string name="save_button">Enregistrer</string>
     <string name="settings">Paramètres</string>
@@ -46,7 +46,7 @@
     <string name="check_update">Vérifier la mise à niveau</string>
     <string name="score_result">Votre score %1$s</string>
     <string name="you_set_new_record">Vous avez atteint un nouveau record dans ce mode de jeu!</string>
-    <string name="share">Partagez ceci</string>
+    <string name="share">Partage</string>
     <string name="share_text">Pensez-vous que vous pouvez me vaincre? Haha :) #blob_game %1$s</string>
     <string name="share_score_text">Je l\'ai fait %1$d marquer sur Blob io! Jouez avec moi! #blob_game %2$s</string>
     <string name="records">Records</string>
@@ -88,7 +88,7 @@
     <string name="prem_skin_message">Vous souhaitez utiliser cette peau?</string>
     <string name="game_mode">Modes de jeu:</string>
     <string name="please_relogin">Veuillez vous connecter à nouveau.</string>
-    <string name="unavailable">Non disponible</string>
+    <string name="unavailable">Indisponible</string>
     <string name="top_lvl">Classement de niveau</string>
     <string name="top">Classement&#160;</string>
     <string name="receiving">Recevoir...</string>
@@ -120,7 +120,7 @@
 
 
     <string name="my_friends">Amis</string>
-    <string name="my_new_friends">Le</string>
+    <string name="my_new_friends">Demande</string>
     <string name="followers">Supprimé</string>
     <string name="blocked">Bloqué</string>
     <string name="playing">Jouer:&#160;</string>
@@ -136,7 +136,7 @@
     <string name="delete">Supprimé</string>
     <string name="join_game">Connectez-vous au jeu</string>
     <string name="accept">Accepter</string>
-    <string name="decline">Déclin</string>
+    <string name="decline">Décliner</string>
     <string name="copy">Copier</string>
 
     <string name="better_skins_quality">Meilleure qualité des peaux</string>
@@ -149,11 +149,11 @@
     <string name="send_friend_request">Demander l\'amitié</string>
     <string name="friend_request_successful">Demande d\'ami envoyée!</string>
     <string name="added_new_friend">Nouveau ami ajouté</string>
-    <string name="moved_to_declined">Décidé à décliner</string>
-    <string name="show_friends">Montrer des amis</string>
+    <string name="moved_to_declined">Le supprimer</string>
+    <string name="show_friends">Voir mes amis</string>
     <string name="watch">Regarder</string>
     <string name="unknown_user">Joueur non identifié</string>
-    <string name="reset">Reset</string>
+    <string name="reset">Recommencer</string>
 
     <!-- More settings -->
     <string name="more">Plus</string>
@@ -212,8 +212,8 @@
     <string name="key">Clé</string>
     <string name="left_label">(%s left)</string>
     <string name="coins_battle">"Bataille de pièces::"</string>
-    <string name="Spectate">Spectate</string>
-    <string name="game_isnt_started_yet">Le jeu n\'est pas encore commencé. Vous risquez de perdre vos pièces de monnaie!</string>
+    <string name="Spectate">Regarder</string>
+    <string name="game_isnt_started_yet">Le jeu n\'a pas encore commencé. Vous risquez de perdre vos pièces de monnaie!</string>
     <string name="show_cell_border">Afficher la bordure de la cellule</string>
     <string name="cur_week_exp">XP hebdomadaire</string>
     <string name="prev_week_exp">XP hebdomadaire</string>
@@ -238,13 +238,13 @@
     <string name="add_new">Ajouter un nouveau</string>
     <string name="cant_be_empty">%s cun\'t être vide!</string>
     <string name="list">liste</string>
-    <string name="info_title">Info</string>
+    <string name="info_title">Information</string>
     <string name="time_left">Temps restant:</string>
     <string name="edit">modifier</string>
     <string name="score_title">Score:</string>
     <string name="bet_value">Valeur De Mise:</string>
     <string name="create">Créé</string>
-    <string name="custom_server">Server Personnalisé</string>
+    <string name="custom_server">Serveur Personnalisé</string>
     <string name="custom_server_created">Serveur Personnalisé Créé</string>
     <string name="highlight_friends">Mettre en évidence les amis</string>
 </resources>
