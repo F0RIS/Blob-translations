@@ -244,4 +244,12 @@
     <string name="custom_server">Личный сервер</string>
     <string name="custom_server_created">Личный сервер создан</string>
     <string name="highlight_friends">Подсвечивать друзей</string>
+    <string name="custom_colors">Кастомная тема</string>
+    <string name="background_title">Фон</string>
+    <string name="grid_title">Сетка</string>
+    <string name="food_title">Еда</string>
+    <string name="virus_title">Вирус</string>
+    <string name="mother_cell_title">Фидер</string>
+    <string name="eject_title">Эджект</string>
+    <string name="friend_name_title">Ник друга</string>
 </resources>

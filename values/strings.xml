@@ -300,4 +300,12 @@
     <string name="custom_server">Custom server</string>
     <string name="custom_server_created">Custom server created</string>
     <string name="highlight_friends">Highlight friends</string>
+    <string name="custom_colors">Custom theme</string>
+    <string name="background_title">Background</string>
+    <string name="grid_title">Grid</string>
+    <string name="food_title">Food</string>
+    <string name="virus_title">Virus</string>
+    <string name="mother_cell_title">Mother cell</string>
+    <string name="eject_title">Eject</string>
+    <string name="friend_name_title">Friend name</string>
 </resources>
