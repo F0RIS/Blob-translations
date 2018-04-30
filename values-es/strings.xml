@@ -89,7 +89,7 @@
     <string name="prem_skin_message">Quieres usar esta skin?</string>
     <string name="game_mode">Modo de juego:</string>
     <string name="please_relogin">Por favor, inicie sesión de nuevo.</string>
-    <string name="unavailable">No disponible</string>
+    <string name="unavailable">Indisponible</string>
     <string name="top_lvl">Ranking de nivel</string>
     <string name="top">Ranking&#160;</string>
     <string name="receiving">Recibiendo...</string>
@@ -248,12 +248,12 @@
     <string name="custom_server">Servidor personalizado</string>
     <string name="custom_server_created">Servidor personalizado creado!</string>
     <string name="highlight_friends">Amigos destacados</string>
-    <string name="custom_colors">Custom theme</string>
-    <string name="background_title">Background</string>
-    <string name="grid_title">Grid</string>
-    <string name="food_title">Food</string>
-    <string name="virus_title">Virus</string>
-    <string name="mother_cell_title">Mother cell</string>
-    <string name="eject_title">Eject</string>
-    <string name="friend_name_title">Friend name</string>
+    <string name="custom_colors">Personalizar colores</string>
+    <string name="background_title">Fondo</string>
+    <string name="grid_title">Rejillas</string>
+    <string name="food_title">Alimento</string>
+    <string name="virus_title">Virus/string>
+    <string name="mother_cell_title">Célula madre</string>
+    <string name="eject_title">Eyección</string>
+    <string name="friend_name_title">Nombre amigo</string>
 </resources>
