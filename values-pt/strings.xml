@@ -247,12 +247,12 @@
     <string name="custom_server">Servidor personalizado</string>
     <string name="custom_server_created">Servidor personalizado criado!</string>
     <string name="highlight_friends">Amigos destaque</string>
-    <string name="custom_colors">Custom theme</string>
-    <string name="background_title">Background</string>
-    <string name="grid_title">Grid</string>
-    <string name="food_title">Food</string>
-    <string name="virus_title">Virus</string>
-    <string name="mother_cell_title">Mother cell</string>
-    <string name="eject_title">Eject</string>
-    <string name="friend_name_title">Friend name</string>
+    <string name="custom_colors">Customizar cores</string>
+    <string name="background_title">Fundo</string>
+    <string name="grid_title">Grades</string>
+    <string name="food_title">Alimentação</string>
+    <string name="virus_title">Vírus</string>
+    <string name="mother_cell_title">Célula mãe</string>
+    <string name="eject_title">Ejeção</string>
+    <string name="friend_name_title">Nome amigo</string>
 </resources>
