@@ -254,5 +254,5 @@
     <string name="virus_title">Virus</string>
     <string name="mother_cell_title">Cellule mère</string>
     <string name="eject_title">Éjecter</string>
-    <string name="friend_name_title">Nom de l'ami</string>
+    <string name="friend_name_title">Nom de l\'ami</string>
 </resources>
