@@ -252,4 +252,10 @@
     <string name="mother_cell_title">Фидер</string>
     <string name="eject_title">Эджект</string>
     <string name="friend_name_title">Ник друга</string>
+    <string name="invitation_sent">Приглашение отправлено успешно!</string>
+    <string name="choose_friend">Выберите друга</string>
+    <string name="notifications">Уведомления</string>
+    <string name="join_server">Приглашение на сервер</string>
+    <string name="friend_request">Запрос в друзья</string>
+    <string name="friend_accepted">Принятие дружбы</string>
 </resources>

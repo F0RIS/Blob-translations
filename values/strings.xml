@@ -5,6 +5,7 @@
     <string name="ok" translatable="false">OK</string>
 
     <string name="default_name">don\'t eat me</string>
+    <string name="intent_prefix" translatable="false">blob.io</string>
 
     <string name="cancel">Cancel</string>
     <string name="error">Error</string>
@@ -199,7 +200,7 @@
     <string name="type_user_id">Type user ID</string>
     <string name="copy_user_id">Copy ID</string>
     <string name="send_friend_request">Invite</string>
-    <string name="friend_request_successful">Friend request sent successful</string>
+    <string name="friend_request_successful">Friend request sent successful!</string>
     <string name="added_new_friend">Added new friend</string>
     <string name="moved_to_declined">Moved to declined</string>
     <string name="show_friends">Show friends</string>
@@ -308,4 +309,10 @@
     <string name="mother_cell_title">Mother cell</string>
     <string name="eject_title">Eject</string>
     <string name="friend_name_title">Friend name</string>
+    <string name="invitation_sent">Invitation sent successful!</string>
+    <string name="choose_friend">Choose friend</string>
+    <string name="notifications">Notifications</string>
+    <string name="join_server">Join server</string>
+    <string name="friend_request">Friend request</string>
+    <string name="friend_accepted">Friend accepted</string>
 </resources>

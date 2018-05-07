@@ -255,4 +255,10 @@
     <string name="mother_cell_title">Célula mãe</string>
     <string name="eject_title">Ejeção</string>
     <string name="friend_name_title">Nome amigo</string>
+    <string name="invitation_sent">Invitation sent successful!</string>
+    <string name="choose_friend">Choose friend</string>
+    <string name="notifications">Notifications</string>
+    <string name="join_server">Join server</string>
+    <string name="friend_request">Friend request</string>
+    <string name="friend_accepted">Friend accepted</string>
 </resources>
