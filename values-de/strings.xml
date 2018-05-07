@@ -253,10 +253,10 @@
     <string name="mother_cell_title">Mutterzelle</string>
     <string name="eject_title">Auswerfen</string>
     <string name="friend_name_title">Name des Freundes</string>
-    <string name="invitation_sent">Invitation sent successful!</string>
-    <string name="choose_friend">Choose friend</string>
+    <string name="invitation_sent">Vous inviter à rejoindre ce serveur!</string>
+    <string name="choose_friend">Choisis ton ami</string>
     <string name="notifications">Notifications</string>
-    <string name="join_server">Join server</string>
-    <string name="friend_request">Friend request</string>
-    <string name="friend_accepted">Friend accepted</string>
+    <string name="join_server">Rejoindre le serveur</string>
+    <string name="friend_request">Demande d'ami</string>
+    <string name="friend_accepted">Ami accepter</string>
 </resources>
