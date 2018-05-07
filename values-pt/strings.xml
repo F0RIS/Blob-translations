@@ -256,9 +256,9 @@
     <string name="eject_title">Ejeção</string>
     <string name="friend_name_title">Nome amigo</string>
     <string name="invitation_sent">Invitation sent successful!</string>
-    <string name="choose_friend">Choose friend</string>
-    <string name="notifications">Notifications</string>
-    <string name="join_server">Join server</string>
-    <string name="friend_request">Friend request</string>
-    <string name="friend_accepted">Friend accepted</string>
+    <string name="choose_friend">Escolher amigo</string>
+    <string name="notifications">Notificações</string>
+    <string name="join_server">Junte-se ao meu servidor</string>
+    <string name="friend_request">Pedido de amizade</string>
+    <string name="friend_accepted">Amigo aceito</string>
 </resources>
