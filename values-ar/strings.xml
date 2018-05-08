@@ -260,11 +260,11 @@
     <string name="mother_cell_title">الفيروس الحمراء</string>
     <string name="eject_title">يخرج</string>
     <string name="friend_name_title">اسم الصديق</string>
-    <string name="invitation_sent">Invitation sent successful!</string>
-    <string name="choose_friend">Choose friend</string>
-    <string name="notifications">Notifications</string>
-    <string name="join_server">Join server</string>
-    <string name="friend_request">Friend request</string>
-    <string name="friend_accepted">Friend accepted</string>
+    <string name="invitation_sent">تم إرسال الدعوة بنجاح!</string>
+    <string name="choose_friend">اختر الصديق</string>
+    <string name="notifications">إخطارات</string>
+    <string name="join_server">انضم للخادم</string>
+    <string name="friend_request">طلب صداقة</string>
+    <string name="friend_accepted">صديق مقبول</string>
 </resources>
 
