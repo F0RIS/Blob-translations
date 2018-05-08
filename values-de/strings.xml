@@ -257,6 +257,6 @@
     <string name="choose_friend">Choisis ton ami</string>
     <string name="notifications">Notifications</string>
     <string name="join_server">Rejoindre le serveur</string>
-    <string name="friend_request">Demande d'ami</string>
+    <string name="friend_request">Demande d\'ami</string>
     <string name="friend_accepted">Ami accepter</string>
 </resources>
