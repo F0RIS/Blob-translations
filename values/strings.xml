@@ -285,6 +285,7 @@
     <string name="server_app_description">With this app you can create own server and play offline or with friends!</string>
     <string name="show_fps">Show FPS</string>
     <string name="score_title">Score:</string>
+    <string name="chat_enable_warning">With this option enabled app rating becomes higher!</string>
 
     <string name="saved">Saved</string>
     <string name="delete_server">Delete server?</string>
@@ -315,4 +316,9 @@
     <string name="join_server">Join server</string>
     <string name="friend_request">Friend request</string>
     <string name="friend_accepted">Friend accepted</string>
+    <string name="only_friends_skins">Only friends\' skins</string>
+    <string name="in_game_zoom">In-game zoom</string>
+    <string name="copy_nick">Copy nick</string>
+    <string name="medal_description">Medal for place lower than %s in global rankings!</string>
+    <string name="medal_description_first_place">Medal for placing FIRST place in global rankings!</string>
 </resources>

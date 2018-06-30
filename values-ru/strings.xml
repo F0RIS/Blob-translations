@@ -227,6 +227,7 @@
     <string name="top_week_exp_desc">Набери как можно больше опыта в течении недели и получи награду монетами!</string>
     <string name="server_app_description">С этим приложением ты можешь создать свой сервер и играть оффлайн с друзьями!</string>
     <string name="show_fps">Показывать FPS</string>
+    <string name="chat_enable_warning">С этой опцией рейтинг приложения становится выше!</string>
     <string name="score_title">Счет:</string>
 
     <string name="saved">Сохранено</string>
@@ -258,4 +259,9 @@
     <string name="join_server">Приглашение на сервер</string>
     <string name="friend_request">Запрос в друзья</string>
     <string name="friend_accepted">Принятие дружбы</string>
+    <string name="only_friends_skins">Только скины друзей</string>
+    <string name="in_game_zoom">Зум в игре</string>
+    <string name="copy_nick">Копир. ник</string>
+    <string name="medal_description">Медаль за позицию менее %s в глобальном топе!</string>
+    <string name="medal_description_first_place">Медаль за ПЕРВУЮ позицию в глобальном топе!</string>
 </resources>

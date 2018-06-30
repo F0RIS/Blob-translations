@@ -246,6 +246,7 @@
     <string name="info_title">معلومات</string>
     <string name="time_left">الوقت المتبقي:</string>
     <string name="edit">تصحيح</string>
+    <string name="chat_enable_warning">With this option enabled app rating becomes higher!</string>
     <string name="score_title">النقاط</string>
     <string name="bet_value">:قيمة الرهان</string>
     <string name="create">يصنع</string>
@@ -266,5 +267,10 @@
     <string name="join_server">انضم للخادم</string>
     <string name="friend_request">طلب صداقة</string>
     <string name="friend_accepted">صديق مقبول</string>
+    <string name="only_friends_skins">Only friends\' skins</string>
+    <string name="in_game_zoom">In-game zoom</string>
+    <string name="copy_nick">Copy nick</string>
+    <string name="medal_description">Medal for place lower than %s in global rankings!</string>
+    <string name="medal_description_first_place">Medal for placing FIRST place in global rankings!</string>
 </resources>
 
