@@ -262,7 +262,7 @@
     <string name="join_server">Únete al servidor</string>
     <string name="friend_request">Solicitud de amistad</string>
     <string name="friend_accepted">Amigo aceptado</string>
-    <string name="only_friends_skins">Sólo skins de amigos.</string>
+    <string name="only_friends_skins">Sólo skins de amigos</string>
     <string name="in_game_zoom">In-game zoom</string>
     <string name="copy_nick">Copiar usuario</string>
     <string name="medal_description">Medalla por ser menor a %s en las clasificaciones mundiales!</string>
