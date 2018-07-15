@@ -255,16 +255,16 @@
     <string name="mother_cell_title">Célula mãe</string>
     <string name="eject_title">Ejeção</string>
     <string name="friend_name_title">Nome amigo</string>
-    <string name="invitation_sent">Invitation sent successful!</string>
+    <string name="invitation_sent">Convite enviado com sucesso!</string>
     <string name="choose_friend">Escolher amigo</string>
     <string name="notifications">Notificações</string>
     <string name="join_server">Junte-se ao meu servidor</string>
     <string name="friend_request">Pedido de amizade</string>
-    <string name="friend_accepted">Amigo aceito</string>
-    <string name="only_friends_skins">Only friends\' skins</string>
-    <string name="in_game_zoom">In-game zoom</string>
-    <string name="copy_nick">Copy nick</string>
-    <string name="medal_description">Medal for place lower than %s in global rankings!</string>
-    <string name="medal_description_first_place">Medal for placing FIRST place in global rankings!</string>
-    <string name="chat_enable_warning">With this option enabledapp rating becomes higher!</string>
+    <string name="friend_accepted">Amigo aceito!</string>
+    <string name="only_friends_skins">Apenas skins dos amigos</string>
+    <string name="in_game_zoom">Zoom no jogo</string>
+    <string name="copy_nick">Copiar usuário</string>
+    <string name="medal_description">Medalha por ter colocação menor a %s nos rankings globais!</string>
+    <string name="medal_description_first_place">Medalha por ser o PRIMEIRO nos rankings globais!!</string>
+    <string name="chat_enable_warning">Com esta opção ativada, a alimentação fica mais alta!</string>
 </resources>
