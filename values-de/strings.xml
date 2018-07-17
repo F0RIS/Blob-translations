@@ -228,8 +228,8 @@
     <string name="top_week_exp_desc">Erhalten Sie so viel wie möglich während der Woche und gewinnen Sie Münzen Belohnung!</string>
     <string name="server_app_description">Mit dieser App können Sie eigene Server erstellen und offline oder mit Freunden spielen!</string>
     <string name="show_fps">Zeigen Sie FPS</string>
-    <string name="score_title">Punktzahl:</string>
     <string name="chat_enable_warning">With this option enabled app rating becomes higher!</string>
+    <string name="score_title">Punktzahl:</string>
 
     <string name="saved">Gerettet</string>
     <string name="delete_server">Server löschen?</string>

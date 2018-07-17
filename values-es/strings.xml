@@ -232,6 +232,7 @@
     <string name="top_week_exp_desc">Recoge  el máximo de EXP durante una semana y usted ganará recompensas!</string>
     <string name="server_app_description">Con esta aplicación puedes crear tu propio servidor y jugar sin conexión o con amigos!</string>
     <string name="show_fps">Mostrar FPS</string>
+    <string name="chat_enable_warning">Con esta opción activada, la alimentación será más alta!</string>
     <string name="score_title">Puntuación:</string>
     <string name="saved">Guardado</string>
     <string name="delete_server">Eliminar servidor?</string>
@@ -267,5 +268,4 @@
     <string name="copy_nick">Copiar usuario</string>
     <string name="medal_description">Medalla por ser menor a %s en las clasificaciones mundiales!</string>
     <string name="medal_description_first_place">Medalla por ser el PRIMER colocado en las classificaciones mundiales!</string>
-    <string name="chat_enable_warning">Con esta opción activada, la alimentación será más alta!</string>
 </resources>
