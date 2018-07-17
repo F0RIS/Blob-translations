@@ -260,12 +260,12 @@
     <string name="choose_friend">Escoger amigo</string>
     <string name="notifications">Notificaciones</string>
     <string name="join_server">Únete al servidor</string>
-    <string name="friend_request">Amigo solicitud</string>
+    <string name="friend_request">Solicitud de amistad</string>
     <string name="friend_accepted">Amigo aceptado</string>
-    <string name="only_friends_skins">Only friends\' skins</string>
+    <string name="only_friends_skins">Sólo skins de amigos</string>
     <string name="in_game_zoom">In-game zoom</string>
-    <string name="copy_nick">Copy nick</string>
-    <string name="medal_description">Medal for place lower than %s in global rankings!</string>
-    <string name="medal_description_first_place">Medal for placing FIRST place in global rankings!</string>
-    <string name="chat_enable_warning">With this option enabledapp rating becomes higher!</string>
+    <string name="copy_nick">Copiar usuario</string>
+    <string name="medal_description">Medalla por ser menor a %s en las clasificaciones mundiales!</string>
+    <string name="medal_description_first_place">Medalla por ser el PRIMER colocado en las classificaciones mundiales!</string>
+    <string name="chat_enable_warning">Con esta opción activada, la alimentación será más alta!</string>
 </resources>
