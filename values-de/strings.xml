@@ -53,7 +53,6 @@
     <string name="party_created">Gib diesen Link an deine Freunde weiter:</string>
     <string name="joining">Beitritt ...</string>
     <string name="creating_party">Party erstelleninvite</string>
-    <string name="party_description">Party einladen</string>
     <string name="vibration">Vibrieren</string>
     <string name="game_mechanic_description">
         &#160;&#160;- The bigger you are the slower you move\n
@@ -84,7 +83,6 @@
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
     <string name="prem_skin_message">Setup diese Haut?</string>
     <string name="game_mode">Spielmodus:</string>
-    <string name="please_relogin">Bitte loggen Sie sich erneut ein, um einen neuen Benutzer zu registrieren</string>
 
     <string name="unavailable">Nicht verfügbar</string>
     <string name="top_lvl">Höchststufe</string>
@@ -115,7 +113,6 @@
     <string name="macros">Makros</string>
     <string name="hello_fake">Du kannst diesen Nickname nur ab Level 30 verwenden :)</string>
     <string name="get_more">Mehr bekommen!</string>
-    <string name="get_prem_skins_descr">In dieser Version können Sie nur kostenlose Premium-Skins verwenden. Wenn Sie Premium-Skins kaufen möchten. Holen Sie sich dieses Spiel von Amazon</string>
 
 
     <string name="my_friends">Freunde</string>

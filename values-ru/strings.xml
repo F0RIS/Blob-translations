@@ -53,7 +53,6 @@
     <!--<string name="enter_token">Введите код группы</string>-->
     <string name="joining">Вход...</string>
     <string name="creating_party">Создание группы...</string>
-    <string name="party_description">Играйте с друзьями на одной карте</string>
     <string name="party_created">Дайте эту ссылку вашим друзьями</string>
     <string name="vibration">Вибрация</string>
     <string name="game_mechanic_description">
@@ -81,7 +80,6 @@
     </string>
     <string name="prem_skin_message">Установить этот скин?</string>
     <string name="game_mode">Режим игры:</string>
-    <string name="please_relogin">Пожалуйста перелогинтесь для регистрации пользователя</string>
     <string name="unavailable">Недоступно</string>
     <string name="receiving">Получение данных...</string>
     <string name="get_it">Получить</string>
@@ -111,7 +109,6 @@
     <string name="low_graphic">Слабая графика</string>
     <string name="macros">Макросы</string>
     <string name="get_more">Получить больше!</string>
-    <string name="get_prem_skins_descr">В этой версии вы можете использоваться только бесплатные премиум скины. Если вы хотите купить премиум скины, скачайте игру с Amazon</string>
 
 
     <string name="my_friends">Друзья</string>

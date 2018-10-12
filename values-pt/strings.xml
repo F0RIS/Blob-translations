@@ -57,7 +57,6 @@
     <string name="party_created">Mande esse link para seus amigos:</string>
     <string name="joining">Entrando...</string>
     <string name="creating_party">Criando partida...</string>
-    <string name="party_description">Jogue com os seus amigos na mesma sala!</string>
     <string name="vibration">Vibração</string>
     <string name="game_mechanic_description">
         &#160;- Quanto maior você é, mais lento você se move\n
@@ -87,7 +86,6 @@
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
     <string name="prem_skin_message">Você quer utilizá-la?</string>
     <string name="game_mode">Modo de jogo:</string>
-    <string name="please_relogin">Por favor, faça login novamente.</string>
     <string name="unavailable">Indisponível</string>
     <string name="top_lvl">Ranking de nível</string>
     <string name="top">Ranking&#160;</string>
@@ -116,7 +114,6 @@
     <string name="macros">Macros</string>
     <string name="hello_fake">Você só pode usar esse nome apartir do nível 30 :)</string>
     <string name="get_more">Comprar moedas</string>
-    <string name="get_prem_skins_descr">Nessa versão você só pode usar as skins premiuns. Se você quer comprar, obtenha o jogo na Amazon</string>
 
 
     <string name="my_friends">Amigos</string>

@@ -61,7 +61,6 @@
     <string name="party_created">إعطاء هذا الرابطلأصدقائك:</string>
     <string name="joining">الانضمام إلى...</string>
     <string name="creating_party">إنشاء حزب...</string>
-    <string name="party_description">\اللعب مع أصدقائك في نفس الخريطة</string>
     <string name="vibration">يهتز</string>
     <string name="game_mechanic_description">
         &#160;&#160;- كلما كنت تباطؤ\n
@@ -92,7 +91,6 @@
 
     <string name="prem_skin_message">إعداد هذاالجلد؟</string>
     <string name="game_mode">نوع اللعبة</string>
-    <string name="please_relogin">الرجاء ريلوجين لتسجيل مستخدم جديد</string>
     <string name="unavailable">غير متوفر</string>
     <string name="top_lvl">المستوياتالعليا</string>
     <string name="top">Top&#160;</string>
@@ -122,7 +120,6 @@
     <string name="macros">وحدات الماكرو</string>
     <string name="hello_fake">يمكنك استخدام هذا الاسمالمستعار فقط من مستوى 30 :)</string>
     <string name="get_more">خذ المزيد!</string>
-    <string name="get_prem_skins_descr">في هذا الإصدار يمكنك استخدام جلود قسط الحرة فقط. إذا كنت ترغب في شراء قسط الجلود. الحصول على هذه اللعبة من الأمازون</string>
 
 
     <string name="my_friends">أصدقاء</string>

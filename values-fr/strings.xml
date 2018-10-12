@@ -22,7 +22,7 @@
     <string name="show_skins">Afficher les peaux</string>
     <string name="show_DirectionPointer">Direction du pointeur</string>
     <string name="show_joystick">Joystick</string>
-    <string name="save_button">Enregistrer</string>
+    <string name="save_button">Sauvegarder</string>
     <string name="settings">Paramètres</string>
     <string name="skins_list">Peaux</string>
     <string name="skin_message">Cela changera votre nom</string>
@@ -31,7 +31,7 @@
     <string name="connecting">Connexion</string>
     <string name="enter_ip">Entrez l\'IP</string>
     <string name="copied">Copié</string>
-    <string name="connection_closed">La connexion a expiré</string>
+    <string name="connection_closed">Connexion expirée</string>
     <string name="connection_lost">Connexion perdue</string>
     <string name="cant_connect">Ne peut pas se connecter, réessayez ultérieurement</string>
     <string name="about_title">À propos de</string>
@@ -45,19 +45,18 @@
 
     <string name="check_update">Vérifier la mise à niveau</string>
     <string name="score_result">Votre score %1$s</string>
-    <string name="you_set_new_record">Vous avez atteint un nouveau record dans ce mode de jeu!</string>
+    <string name="you_set_new_record">Vous avez enregistré un nouveau record dans ce mode de jeu!</string>
     <string name="share">Partage</string>
     <string name="share_text">Pensez-vous que vous pouvez me vaincre? Haha :) #blob_game %1$s</string>
     <string name="share_score_text">Je l\'ai fait %1$d marquer sur Blob io! Jouez avec moi! #blob_game %2$s</string>
     <string name="records">Records</string>
-    <string name="spec_mode_after_death">Voir jusqu\'à la mort</string>
+    <string name="spec_mode_after_death">Voir après la mort</string>
     <string name="darkTheme">Thème sombre</string>
     <string name="left_hand_control">Contrôle de la main gauche</string>
 
     <string name="party_created">Envoyez ce lien à vos amis:</string>
     <string name="joining">En entrant...</string>
     <string name="creating_party">Création d\'un jeu...</string>
-    <string name="party_description">Jouez avec vos amis dans la même pièce!</string>
     <string name="vibration">Vibration</string>
     <string name="game_mechanic_description">
         &#160;- Plus vous êtes gros, plus vous bougez lentement.\n
@@ -87,7 +86,6 @@
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
     <string name="prem_skin_message">Vous souhaitez utiliser cette peau?</string>
     <string name="game_mode">Modes de jeu:</string>
-    <string name="please_relogin">Veuillez vous connecter à nouveau.</string>
     <string name="unavailable">Indisponible</string>
     <string name="top_lvl">Classement de niveau</string>
     <string name="top">Classement&#160;</string>
@@ -116,11 +114,10 @@
     <string name="macros">Macros</string>
     <string name="hello_fake">Vous ne pouvez utiliser ce nom que du niveau 30 :)</string>
     <string name="get_more">Obtenez devise</string>
-    <string name="get_prem_skins_descr">Dans cette version, vous ne pouvez utiliser que les peaux pré-mouches. Si vous voulez acheter, obtenez le jeu sur Amazon</string>
 
 
-    <string name="my_friends">Amis</string>
-    <string name="my_new_friends">Demande</string>
+    <string name="my_friends">Mes amis</string>
+    <string name="my_new_friends">Demande d\'ami</string>
     <string name="followers">Supprimé</string>
     <string name="blocked">Bloqué</string>
     <string name="playing">Jouer:&#160;</string>
@@ -129,14 +126,14 @@
     <string name="you_must_log_in">Vous devez vous connecter.</string>
     <string name="last_seen">Dernière vue</string>
     <string name="registered">Enregistrement en</string>
-    <string name="game_time">Temps joué</string>
+    <string name="game_time">Temps de jeu</string>
     <string name="user_info_records">Records:</string>
 
     <string name="view_profile">Voir le profil</string>
     <string name="delete">Supprimé</string>
     <string name="join_game">Connectez-vous au jeu</string>
     <string name="accept">Accepter</string>
-    <string name="decline">Décliner</string>
+    <string name="decline">Refuser</string>
     <string name="copy">Copier</string>
 
     <string name="better_skins_quality">Meilleure qualité des peaux</string>
