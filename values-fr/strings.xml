@@ -259,9 +259,9 @@
     <string name="join_server">Rejoindre le serveur</string>
     <string name="friend_request">Je veux etre ton amis!</string>
     <string name="friend_accepted">Accepte mon invitation!</string>
-    <string name="only_friends_skins">Only friends\' skins</string>
-    <string name="in_game_zoom">In-game zoom</string>
-    <string name="copy_nick">Copy nick</string>
-    <string name="medal_description">Medal for place lower than %s in global rankings!</string>
-    <string name="medal_description_first_place">Medal for placing FIRST place in global rankings!</string>
+    <string name="only_friends_skins">Seulement mes peaux d'amis</string>
+    <string name="in_game_zoom">Zoom en jeu</string>
+    <string name="copy_nick">Copier le nom d'utilisateur</string>
+    <string name="medal_description">Médaille pour la place inférieure à% s dans le classement mondial!</string>
+    <string name="medal_description_first_place">Médaille pour la première place dans le classement mondial!</string>
 </resources>
