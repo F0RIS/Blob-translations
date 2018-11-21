@@ -253,13 +253,13 @@
     <string name="friend_name_title">Name des Freundes</string>
     <string name="invitation_sent">Vous inviter à rejoindre ce serveur!</string>
     <string name="choose_friend">Choisis ton ami</string>
-    <string name="notifications">Notifications</string>
+    <string name="notifications">meldingen</string>
     <string name="join_server">Rejoindre le serveur</string>
     <string name="friend_request">Demande d\'ami</string>
     <string name="friend_accepted">Ami accepter</string>
-    <string name="only_friends_skins">Only friends\' skins</string>
-    <string name="in_game_zoom">In-game zoom</string>
-    <string name="copy_nick">Copy nick</string>
-    <string name="medal_description">Medal for place lower than %s in global rankings!</string>
-    <string name="medal_description_first_place">Medal for placing FIRST place in global rankings!</string>
+    <string name="only_friends_skins">Alleen de vellen van vrienden</string>
+    <string name="in_game_zoom">Zoom in de game</string>
+    <string name="copy_nick">Kopieer gebruikersnaam</string>
+    <string name="medal_description">Medaille voor plaats lager dan% s op wereldwijde ranglijst!</string>
+    <string name="medal_description_first_place">Medaille voor het plaatsen van EERSTE plaats in wereldwijde ranglijst!</string>
 </resources>
