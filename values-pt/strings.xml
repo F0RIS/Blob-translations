@@ -13,7 +13,7 @@
     <string name="name">Nome</string>
 
     <string name="default_name">Não me coma!</string>
-    <string name="play">JOGAR</string>
+    <string name="play">Jogar</string>
     <string name="nick_name">Apelido:</string>
     <string name="exit_dialog">O quê você quer?</string>
     <string name="exit">Sair</string>
@@ -23,8 +23,8 @@
     <string name="show_DirectionPointer">Direção do ponteiro</string>
     <string name="show_joystick">Joystick</string>
     <string name="save_button">Salvar</string>
-    <string name="settings">CONFIGURAÇÕES</string>
-    <string name="skins_list">SKINS</string>
+    <string name="settings">Configurações</string>
+    <string name="skins_list">Skins</string>
     <string name="skin_message">Será alterado seu nome!</string>
     <string name="skin_title">Quer mesmo utilizá-la?</string>
     <string name="connect_to">Conectar a</string>
@@ -230,7 +230,7 @@
     <string name="show_fps">Habilitar FPS/PING</string>
     <string name="chat_enable_warning">Com esta opção ativada, a alimentação fica mais alta!</string>
     <string name="score_title">Pontuação:</string>
-    <string name="saved">SALVOS</string>
+    <string name="saved">Salvos</string>
     <string name="delete_server">Excluir servidor?</string>
     <string name="deleted">Excluído!</string>
     <string name="added">Adicionado!</string>
