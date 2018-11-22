@@ -231,7 +231,7 @@
     <string name="show_fps">Activar FPS/PING</string>
     <string name="chat_enable_warning">Con esta opción activada, la alimentación será más alta!</string>
     <string name="score_title">Puntuación:</string>
-    <string name="saved">GUARDADOS</string>
+    <string name="saved">Guardados</string>
     <string name="delete_server">Eliminar servidor?</string>
     <string name="deleted">Eliminado!</string>
     <string name="added">Agregado!</string>
