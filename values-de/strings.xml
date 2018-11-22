@@ -224,7 +224,7 @@
     </string>
     <string name="top_week_exp_desc">Erhalten Sie so viel wie möglich während der Woche und gewinnen Sie Münzen Belohnung!</string>
     <string name="server_app_description">Mit dieser App können Sie eigene Server erstellen und offline oder mit Freunden spielen!</string>
-    <string name="show_fps">Zeigen Sie FPS</string>
+    <string name="show_fps">Zeigen Sie FPS/PING</string>
     <string name="chat_enable_warning">With this option enabled app rating becomes higher!</string>
     <string name="score_title">Punktzahl:</string>
 
@@ -260,6 +260,19 @@
     <string name="only_friends_skins">Alleen de vellen van vrienden</string>
     <string name="in_game_zoom">Zoom in de game</string>
     <string name="copy_nick">Kopieer gebruikersnaam</string>
-    <string name="medal_description">Medaille voor plaats lager dan% s op wereldwijde ranglijst!</string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="bronze">Bronze</string>
+    <string name="medal_description">%1$s medal for placing in the top %2$s in global rankings!</string>
     <string name="medal_description_first_place">Medaille voor het plaatsen van EERSTE plaats in wereldwijde ranglijst!</string>
+
+    <string name="try_for_free">Try for FREE</string>
+    <string name="account">Account</string>
+    <string name="no_ads">keine Werbung</string>
+    <string name="dialog_vip_desc_free_hours">x2 gratis <b>coins</b></string>
+    <string name="dialog_vip_desc_ingame_coins">in-game <b>coins</b></string>
+    <string name="dialog_vip_desc_additional_exp">zusätzliche <b>exp</b></string>
+    <string name="dialog_vip_desc_start_mass">startmasse</string>
+    <string name="dialog_vip_desc_discount">rabatt auf booster</string>
+    <string name="dialog_vip_desc_chat_label">chat und profilmarkierung</string>
 </resources>

@@ -227,7 +227,7 @@
     </string>
     <string name="top_week_exp_desc">Obtenez autant exp comme vous pouvez pendant la semaine et gagnez des pièces de monnaie!</string>
     <string name="server_app_description">Avec cette application, vous pouvez créer votre propre serveur et jouer hors ligne ou avec des amis!</string>
-    <string name="show_fps">Afficher fps</string>
+    <string name="show_fps">Afficher FPS/PING</string>
     <string name="saved">Enregistré</string>
     <string name="delete_server">Supprimer le serveur?</string>
     <string name="deleted">Supprimé</string>
@@ -259,9 +259,22 @@
     <string name="join_server">Rejoindre le serveur</string>
     <string name="friend_request">Je veux etre ton amis!</string>
     <string name="friend_accepted">Accepte mon invitation!</string>
-    <string name="only_friends_skins">Seulement mes peaux d'amis</string>
+    <string name="only_friends_skins">Seulement mes peaux d\'amis</string>
     <string name="in_game_zoom">Zoom en jeu</string>
-    <string name="copy_nick">Copier le nom d'utilisateur</string>
-    <string name="medal_description">Médaille pour la place inférieure à% s dans le classement mondial!</string>
+    <string name="copy_nick">Copier le nom d\'utilisateur</string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="bronze">Bronze</string>
+    <string name="medal_description">%1$s medal for placing in the top %2$s in global rankings!</string>
     <string name="medal_description_first_place">Médaille pour la première place dans le classement mondial!</string>
+
+    <string name="try_for_free">Try for FREE</string>
+    <string name="account">Account</string>
+    <string name="no_ads">no ads</string>
+    <string name="dialog_vip_desc_free_hours">free hour <b>coins</b></string>
+    <string name="dialog_vip_desc_ingame_coins">in-game <b>coins</b></string>
+    <string name="dialog_vip_desc_additional_exp">additional <b>exp</b></string>
+    <string name="dialog_vip_desc_start_mass">start mass</string>
+    <string name="dialog_vip_desc_discount">discount on boosters</string>
+    <string name="dialog_vip_desc_chat_label">chat and profile label</string>
 </resources>

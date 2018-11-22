@@ -94,7 +94,7 @@
     <string name="get_it">Get it!</string>
 
     <string name="keep_ip">Keep IP for this session</string>
-    <string name="keep_ip_description">Game will not automatically update IP during this game session</string>
+    <string name="keep_ip_description">IP will not be updated automatically</string>
 
     <!-- Rate this app-->
     <string name="rta_dialog_title">Rate this app</string>
@@ -280,7 +280,7 @@
     </string>
     <string name="top_week_exp_desc">Get as much exp as you can during the week and win coins as a reward!</string>
     <string name="server_app_description">With this app you can create your own server and play offline or with friends!</string>
-    <string name="show_fps">Show FPS</string>
+    <string name="show_fps">Show FPS/PING</string>
     <string name="score_title">Score:</string>
     <string name="chat_enable_warning">With this option enabled, app rating becomes higher!</string>
     <string name="saved">Saved</string>
@@ -315,7 +315,11 @@
     <string name="only_friends_skins">Only friends\' skins</string>
     <string name="in_game_zoom">In-game zoom</string>
     <string name="copy_nick">Copy nick</string>
-    <string name="medal_description">Medal for place lower than %s in global rankings!</string>
+    <!--<string name="medal_description">Medal for place lower than %s in global rankings!</string>-->
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="bronze">Bronze</string>
+    <string name="medal_description">%1$s medal for placing in the top %2$s in global rankings!</string>
     <string name="medal_description_first_place">Medal for placing FIRST in global rankings!</string>
     <string name="special_thanks" translatable="false">
         &#160;Dix (Servers, MODs, Support)\n
@@ -326,4 +330,15 @@
         Maroo (Game Design)\n
         WunZero (Marketing, Videos, Support)\n
     </string>
+
+    <string name="try_for_free">Try for FREE</string>
+    <string name="account">Account</string>
+    <string name="no_ads">no ads</string>
+    <string name="dialog_vip_desc_free_hours">free hour <b>coins</b></string>
+    <string name="dialog_vip_desc_ingame_coins">in-game <b>coins</b></string>
+    <string name="dialog_vip_desc_additional_exp">additional <b>exp</b></string>
+    <string name="dialog_vip_desc_start_mass">start mass</string>
+    <string name="dialog_vip_desc_discount">discount on boosters</string>
+    <string name="dialog_vip_desc_chat_label">chat and profile label</string>
+
 </resources>

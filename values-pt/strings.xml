@@ -227,7 +227,7 @@
     </string>
     <string name="top_week_exp_desc">Recolha o máximo de EXP durante uma semana, e você ganhará recompensas!</string>
     <string name="server_app_description">Com este aplicativo, você pode criar seu próprio servidor e jogar offline ou com amigos!</string>
-    <string name="show_fps">Mostrar FPS</string>
+    <string name="show_fps">Mostrar FPS/PING</string>
     <string name="chat_enable_warning">Com esta opção ativada, a alimentação fica mais alta!</string>
     <string name="score_title">Pontuação:</string>
     <string name="saved">Salvo</string>
@@ -262,6 +262,19 @@
     <string name="only_friends_skins">Apenas skins dos amigos</string>
     <string name="in_game_zoom">Zoom no jogo</string>
     <string name="copy_nick">Copiar usuário</string>
-    <string name="medal_description">Medalha por ter colocação menor a %s nos rankings globais!</string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="bronze">Bronze</string>
+    <string name="medal_description">%1$s medalha por ter colocação menor a %2$s nos rankings globais!</string>
     <string name="medal_description_first_place">Medalha por ser o PRIMEIRO nos rankings globais!!</string>
+
+    <string name="try_for_free">Try for FREE</string>
+    <string name="account">Account</string>
+    <string name="no_ads">no ads</string>
+    <string name="dialog_vip_desc_free_hours">free hour <b>coins</b></string>
+    <string name="dialog_vip_desc_ingame_coins">in-game <b>coins</b></string>
+    <string name="dialog_vip_desc_additional_exp">additional <b>exp</b></string>
+    <string name="dialog_vip_desc_start_mass">start mass</string>
+    <string name="dialog_vip_desc_discount">discount on boosters</string>
+    <string name="dialog_vip_desc_chat_label">chat and profile label</string>
 </resources>

@@ -267,7 +267,20 @@
     <string name="only_friends_skins">فقط جلود الأصدقاء</string>
     <string name="in_game_zoom">التكبير في اللعبة</string>
     <string name="copy_nick">نسخ اسم المستخدم</string>
-    <string name="medal_description">ميدالية لمكان أقل من٪ s في التصنيف العالمي!</string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="bronze">Bronze</string>
+    <string name="medal_description">%1$s medal for placing in the top %2$s in global rankings!</string>
     <string name="medal_description_first_place">ميدالية لوضع المركز الأول في التصنيف العالمي!</string>
+
+    <string name="try_for_free">Try for FREE</string>
+    <string name="account">حساب</string>
+    <string name="no_ads"> تعطيل الإعلانات</string>
+    <string name="dialog_vip_desc_free_hours">العملات المجانيه ساعة</string>
+    <string name="dialog_vip_desc_ingame_coins"> العملات في اللعبة</string>
+    <string name="dialog_vip_desc_additional_exp"> زيادة إضافية</string>
+    <string name="dialog_vip_desc_start_mass"> بدايه للكتلة</string>
+    <string name="dialog_vip_desc_discount">خصم على الدعاءم</string>
+    <string name="dialog_vip_desc_chat_label">علامة في الشات</string>
 </resources>
 
