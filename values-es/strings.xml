@@ -13,7 +13,7 @@
     <string name="name">Nombre</string>
 
     <string name="default_name">No me comas!</string>
-    <string name="play">JUGAR</string>
+    <string name="play">Jugar</string>
     <string name="nick_name">Apodo:</string>
     <string name="exit_dialog">Que tu quieres?</string>
     <string name="exit">Salir</string>
@@ -23,8 +23,8 @@
     <string name="show_DirectionPointer">Dirección del puntero</string>
     <string name="show_joystick">Joystick</string>
     <string name="save_button">Guardar</string>
-    <string name="settings">CONFIGURACIÓN</string>
-    <string name="skins_list">SKINS</string>
+    <string name="settings">Configuración</string>
+    <string name="skins_list">Skins</string>
     <string name="skin_message">Esto cambiará su nombre</string>
     <string name="skin_title">Quieres usar esta skin?</string>
     <string name="connect_to">Conectar a</string>
