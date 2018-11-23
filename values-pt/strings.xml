@@ -3,7 +3,7 @@
     <string name="cancel">Cancelar</string>
     <string name="error">Erro</string>
     <string name="no_internet">Para jogar você precisa ter uma conexão com a Internet.</string>
-    <string name="show_minimap"Ativar mapa</string>
+    <string name="show_minimap">Ativar mapa</string>
     <string name="show_chat">Ativar bate-papo</string>
     <string name="show_advanced_minimap">Ativar mapa avançado</string>
     <string name="region">Região:</string>
@@ -67,8 +67,7 @@
         &#160;- Você não pode comer ou ser comido por jogadores exatamente do mesmo tamanho que você.\n
         &#160;- Controles: Toque em qualquer lugar na tela para mover seu blob ou use joystick.\n
         &#160;- Toque no botão correspondente para dividir ou ejetar alguma massa.\n\n
-        
-	&#160;- Você pode ler esta informação novamente clicando no ícone com ponto de interrogação no menu e selecionando "Info".\n
+        &#160;- Você pode ler esta informação novamente clicando no ícone com ponto de interrogação no menu e selecionando "Info".\n
         &#160;- Reinicie o aplicativo e limpe a RAM, se algo deu errado.\n
         &#160;- Além disso, você pode desativar a exibição de nomes e massa para evitar atrasos.\n
 
@@ -268,7 +267,7 @@
     <string name="medal_description">%1$s medalha por ter colocação menor a %2$s nos ranking global!</string>
     <string name="medal_description_first_place">Medalha por ser o 1° no ranking global!</string>
 
-    <string name="try_for_free"Experimentar grátis</string>
+    <string name="try_for_free">Experimentar grátis</string>
     <string name="account">Conta</string>
     <string name="no_ads">Sem anúncios</string>
     <string name="dialog_vip_desc_free_hours">Hrs grátis em <b>moedas</b></string>

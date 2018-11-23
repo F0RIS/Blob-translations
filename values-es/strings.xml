@@ -68,7 +68,6 @@
         &#160;- Usted no puede comer o ser comido por jugadores exactamente del mismo tamaño que usted.\n
         &#160;- Controles: Toque cualquier lugar en la pantalla para mover su blob o use joystick.\n
         &#160;- Toque el botón correspondiente para dividir o expulsar alguna masa.\n
-        
         &#160;- Puede leer esta información de nuevo haciendo clic en el icono con signo de interrogación en el menú y seleccionando "Info".\n
         &#160;- Reinicie la aplicación y limpie la RAM si ha salido mal.\n
         &#160;- Además, puede desactivar la visualización de nombres y la masa para evitar retrasos.\n
@@ -266,7 +265,7 @@
     <string name="gold">Oro</string>
     <string name="silver">Plata</string>
     <string name="bronze">Bronce</string>
-    <string name="medal_description">%1$s Medalla por ser menor a %2$s en la clasificación global!</string>
+    <string name="medal_description">%1$s medalla por ser menor a %2$s en la clasificación global!</string>
     <string name="medal_description_first_place">Medalla por ser el 1° colocado en la classificación global!</string>
 
     <string name="try_for_free">Prueba gratuita</string>
