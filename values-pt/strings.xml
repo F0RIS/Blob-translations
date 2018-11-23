@@ -2,14 +2,14 @@
 <resources>
     <string name="cancel">Cancelar</string>
     <string name="error">Erro</string>
-    <string name="no_internet">Para jogar você precisa ter uma conexão com a Internet</string>
-    <string name="show_minimap">Mostrar mapa</string>
-    <string name="show_chat">Mostrar bate-papo</string>
-    <string name="show_advanced_minimap">Mapa avançado</string>
+    <string name="no_internet">Para jogar você precisa ter uma conexão com a Internet.</string>
+    <string name="show_minimap"Ativar mapa</string>
+    <string name="show_chat">Ativar bate-papo</string>
+    <string name="show_advanced_minimap">Ativar mapa avançado</string>
     <string name="region">Região:</string>
-    <string name="show_grid">Mostrar grades</string>
+    <string name="show_grid">Ativar grades</string>
     <string name="show_mass">Mostrar massa</string>
-    <string name="show_names">Mostrar nomes</string>
+    <string name="show_names">Ativar nomes</string>
     <string name="name">Nome</string>
 
     <string name="default_name">Não me coma!</string>
@@ -18,14 +18,14 @@
     <string name="exit_dialog">O quê você quer?</string>
     <string name="exit">Sair</string>
     <string name="restart">Reiniciar</string>
-    <string name="show_leaders">Mostrar placar</string>
+    <string name="show_leaders">Ativar placar</string>
     <string name="show_skins">Mostrar skins</string>
     <string name="show_DirectionPointer">Direção do ponteiro</string>
     <string name="show_joystick">Joystick</string>
     <string name="save_button">Salvar</string>
     <string name="settings">Configurações</string>
     <string name="skins_list">Skins</string>
-    <string name="skin_message">Será alterado seu nome</string>
+    <string name="skin_message">Será alterado seu nome!</string>
     <string name="skin_title">Quer mesmo utilizá-la?</string>
     <string name="connect_to">Conectar a</string>
     <string name="connecting">Conectando...</string>
@@ -33,7 +33,7 @@
     <string name="copied">Copiado:</string>
     <string name="connection_closed">Conexão expirou</string>
     <string name="connection_lost">Conexão perdida</string>
-    <string name="cant_connect">Não é possível se conectar, por favor, tente novamente</string>
+    <string name="cant_connect">Não foi possível se conectar, por favor, tente novamente</string>
     <string name="about_title">Sobre</string>
     <string name="about_text">&#032; Cliente Android Blob %1$s \n\n
 
@@ -50,11 +50,11 @@
     <string name="share_text">Você acha que consegue me derrotar? Haha :) #blob_game %1$s</string>
     <string name="share_score_text">Eu consegui %1$d pontuação no Blob io! Jogue comigo! #blob_game %2$s</string>
     <string name="records">Recordes</string>
-    <string name="spec_mode_after_death">Espectar até a morte</string>
+    <string name="spec_mode_after_death">Espectar após a morte</string>
     <string name="darkTheme">Tema escuro</string>
     <string name="left_hand_control">Controle mão esquerda</string>
 
-    <string name="party_created">Mande esse link para seus amigos:</string>
+    <string name="party_created">Mande este link para seus amigos:</string>
     <string name="joining">Entrando...</string>
     <string name="creating_party">Criando partida...</string>
     <string name="vibration">Vibração</string>
@@ -67,21 +67,21 @@
         &#160;- Você não pode comer ou ser comido por jogadores exatamente do mesmo tamanho que você.\n
         &#160;- Controles: Toque em qualquer lugar na tela para mover seu blob ou use joystick.\n
         &#160;- Toque no botão correspondente para dividir ou ejetar alguma massa.\n\n
-        &#160; Você pode ler esta informação novamente clicando no ícone com ponto de interrogação no menu e selecionando "Info".\n
-        &#160; Reinicie o aplicativo e limpe a RAM, se algo deu errado.\n
-        &#160; Além disso, você pode desativar a exibição de nomes e massa para evitar atrasos.\n
+        
+	&#160;- Você pode ler esta informação novamente clicando no ícone com ponto de interrogação no menu e selecionando "Info".\n
+        &#160;- Reinicie o aplicativo e limpe a RAM, se algo deu errado.\n
+        &#160;- Além disso, você pode desativar a exibição de nomes e massa para evitar atrasos.\n
 
     </string>
     <string name="first_start_dialog_title">Mecanismo do jogo</string>
-    <string name="update_title">Atualização disponível</string>
+    <string name="update_title">Atualização disponível!</string>
     <string name="update_message">Você quer atualizar?</string>
     <string name="players">Jogadores:&#160;</string>
     <string name="totals">Totais</string>
 
 
     <string name="fb_info_title">Informação</string>
-    <string name="fb_info_message">Faça login no Google ou Facebook e obtenha uma maior massa inicialmente!
-        Jogue e obtenha maior massa para obter mais skins de nível!</string>
+    <string name="fb_info_message">Conecte-se com o Google ou Facebook e obtenha uma maior massa inicialmente!</string>
     <string name="how_to_install">Como instalar</string>
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
     <string name="prem_skin_message">Você quer utilizá-la?</string>
@@ -92,7 +92,7 @@
     <string name="receiving">Recebendo...</string>
     <string name="get_it">Selecionar</string>
     <string name="keep_ip">Manter servidor</string>
-    <string name="keep_ip_description">O jogo não trocará o servidor durante a partida.</string>
+    <string name="keep_ip_description">O jogo não trocará o servidor durante a partida!</string>
 
     <!-- Rate this app-->
     <string name="rta_dialog_title">Avalie esse aplicativo</string>
@@ -106,13 +106,13 @@
     <string name="rta_dialog_message2">Se você gostou desse aplicativo, compartilhe para seus amigos, eles podem gostar!</string>
     <string name="rta_dialog_ok2">Compartilhar agora</string>
 
-    <string name="low_lvl_message">Você não tem o nível suficiente</string>
-    <string name="login_for_skins_message">Você tem que logar para utilizar as skins</string>
+    <string name="low_lvl_message">Nível não desbloqueado!</string>
+    <string name="login_for_skins_message">Você tem que conectar-se para utilizar as skins!</string>
     <string name="skin_unlocked">Você desbloqueou uma skin %1$s!</string>
     <string name="optimize_names">Otimizar nomes</string>
     <string name="low_graphic">Gráficos baixos</string>
     <string name="macros">Macros</string>
-    <string name="hello_fake">Você só pode usar esse nome apartir do nível 30 :)</string>
+    <string name="hello_fake">Você só pode usar esse nome a partir do nível 30 :)</string>
     <string name="get_more">Comprar moedas</string>
 
 
@@ -123,8 +123,8 @@
     <string name="playing">Jogando:&#160;</string>
     <string name="offline">Desconectado</string>
     <string name="relations">Relações</string>
-    <string name="you_must_log_in">Você precisa logar-se</string>
-    <string name="last_seen">Visto pela última vez</string>
+    <string name="you_must_log_in">Você precisa conectar-se!</string>
+    <string name="last_seen">Última conexão em</string>
     <string name="registered">Registrado em</string>
     <string name="game_time">Tempo jogado</string>
     <string name="user_info_records">Recordes:</string>
@@ -149,7 +149,7 @@
     <string name="moved_to_declined">Movido aos excluídos.</string>
     <string name="show_friends">Mostrar amigos</string>
     <string name="watch">Assistir</string>
-    <string name="unknown_user">Jogador não identificado.</string>
+    <string name="unknown_user">Jogador desconectado!</string>
     <string name="reset">Restaurar</string>
 
     <!-- More settings -->
@@ -157,7 +157,7 @@
     <string name="controls_opacity">Opacidade dos controles:</string>
     <string name="chat_text_size">Tamanho do texto do chat:</string>
     <string name="camera_zoom">Zoom da câmera:</string>
-    <string name="live_score">Pontuação ao vivo</string>
+    <string name="live_score">Placar ao vivo</string>
 
     <!-- Joystick settings-->
     <string name="margins">Margens:</string>
@@ -171,31 +171,31 @@
     <string name="bought_succeed">%s Compra bem sucedida!</string>
 
     <!-- API ERROR MESSAGES -->
-    <string name="user_not_found">Jogador não encontrado</string>
+    <string name="user_not_found">Jogador não encontrado.</string>
     <string name="request_already_sent_error">Pedido de amizade já enviada.</string>
-    <string name="already_friend_error">Esse jogador já é seu amigo.</string>
-    <string name="not_enough_coins">Você não tem moedas suficientes para comprar esse item.</string>
+    <string name="already_friend_error">Este jogador já é seu amigo.</string>
+    <string name="not_enough_coins">Moedas insuficientes para comprar isso.</string>
     <string name="already_own_item">Você já tem esse item.</string>
 
     <string name="searching_ad_video">Procurando por um vídeo, aguarde</string>
     <string name="processing">Processando...</string>
     <string name="free_coins_toast">Você ganhou %d moedas de graça!</string>
-    <string name="free_coins">Moedas grátis</string>
+    <string name="free_coins">Moedas grátis!</string>
     <string name="watch_video">Assistir</string>
     <string name="lvl_coins_reward">Parabéns! Você chegou ao nível %1$d e ganhou %2$d moedas!</string>
 
     <!-- Items description localization -->
-    <string name="mass_booster_x1_5_desc">Comece o jogo com massa x1.5 maior para as próximas 1 hora</string>
-    <string name="mass_booster_x2_desc">Comece o jogo com massa dupla durante as próximas 1 hora</string>
-    <string name="exp_booster_x1_5_desc">Todos os EXPs ganhados se multiplica em 1,5 para as próximas 1 hora</string>
-    <string name="exp_booster_x2_desc">Todos os EXPs ganhados será multiplicados por 2 para as próximas 1 hora</string>
+    <string name="mass_booster_x1_5_desc">Entre no jogo com o tamanho 1,5x maior, com duração de 1h!</string>
+    <string name="mass_booster_x2_desc">Entre no jogo com o tamanho 2x maior, com duração de 1h!</string>
+    <string name="exp_booster_x1_5_desc">Todo o EXP ganhado se multiplica por 1,5x, com duração de 1h!</string>
+    <string name="exp_booster_x2_desc">Todo o EXP ganhado se multiplica por 2x, com duração de 1h!</string>
     <string name="watch_video_desc">Assista ao vídeo e ganhe %d moedas!</string>
     <string name="free_coins_desc">Ganhe %1$s moedas de graça a cada %2$d hora</string>
     <string name="m">m</string>
     <string name="h">h</string>
     <string name="d">d</string>
-    <string name="mass_booster_has_expired">O reforço de massa acabou</string>
-    <string name="exp_booster_has_expired">O reforço de XP acabou</string>
+    <string name="mass_booster_has_expired">O impulso de massa acabou.</string>
+    <string name="exp_booster_has_expired">O impulso de EXP acabou.</string>
 
     <string name="chat_suffix_desc">Adicionar ao nick%s sufixo</string>
     <string name="user_role_desc">Jogador %s</string>
@@ -218,22 +218,22 @@
     <string name="rules_description">
         \n
         1.) Não insulte outros jogadores.\n
-        2.) Não fique pedindo para ser MODERADOR\n
-        3.) Não troque as contas do Blob, fora ou dentro do jogo.\n
-        4.) Não trapaceie para alcançar a liderança do ranking.\n
-        5.) Não use nomes inapropriados no jogo.\n
-        6.) Não se aproveite das falhas que possam ter no jogo.\n
-        7.) Não faça time com alguém que já tenha equipe. (EQUIPE CRUZADA)\n
+        2.) Não fique pedindo para ser MODERADOR.\n
+        3.) Não troque/venda a conta do BLOB.\n
+        4.) Não trapaceie para alcançar o TOP.1 no placar.\n
+        5.) Não use nomes inapropriados em jogo.\n
+        6.) Não aproveite de falhas que possam ter no jogo.\n
+        7.) Não faça time com alguém que já tenha equipe.\n
     </string>
     <string name="top_week_exp_desc">Recolha o máximo de EXP durante uma semana, e você ganhará recompensas!</string>
     <string name="server_app_description">Com este aplicativo, você pode criar seu próprio servidor e jogar offline ou com amigos!</string>
-    <string name="show_fps">Mostrar FPS/PING</string>
+    <string name="show_fps">Habilitar FPS/PING</string>
     <string name="chat_enable_warning">Com esta opção ativada, a alimentação fica mais alta!</string>
     <string name="score_title">Pontuação:</string>
-    <string name="saved">Salvo</string>
+    <string name="saved">Salvos</string>
     <string name="delete_server">Excluir servidor?</string>
-    <string name="deleted">Excluído</string>
-    <string name="added">Adicionado</string>
+    <string name="deleted">Excluído!</string>
+    <string name="added">Adicionado!</string>
     <string name="add_new">Adicionar servidor</string>
     <string name="cant_be_empty">%s não pode ficar vazio!</string>
     <string name="list">Lista</string>
@@ -244,7 +244,7 @@
     <string name="create">Criar</string>
     <string name="custom_server">Servidor personalizado</string>
     <string name="custom_server_created">Servidor personalizado criado!</string>
-    <string name="highlight_friends">Amigos destaque</string>
+    <string name="highlight_friends">Amigos destacados</string>
     <string name="custom_colors">Customizar cores</string>
     <string name="background_title">Fundo</string>
     <string name="grid_title">Grades</string>
@@ -252,29 +252,29 @@
     <string name="virus_title">Vírus</string>
     <string name="mother_cell_title">Célula mãe</string>
     <string name="eject_title">Ejeção</string>
-    <string name="friend_name_title">Nome amigo</string>
+    <string name="friend_name_title">Nick do amigo</string>
     <string name="invitation_sent">Convite enviado com sucesso!</string>
     <string name="choose_friend">Escolher amigo</string>
     <string name="notifications">Notificações</string>
-    <string name="join_server">Junte-se ao meu servidor</string>
+    <string name="join_server">Junte-se ao meu servidor!</string>
     <string name="friend_request">Pedido de amizade</string>
     <string name="friend_accepted">Amigo aceito!</string>
     <string name="only_friends_skins">Apenas skins dos amigos</string>
-    <string name="in_game_zoom">Zoom no jogo</string>
-    <string name="copy_nick">Copiar usuário</string>
-    <string name="gold">Gold</string>
-    <string name="silver">Silver</string>
+    <string name="in_game_zoom">Zoom em jogo</string>
+    <string name="copy_nick">Copiar apelido</string>
+    <string name="gold">Ouro</string>
+    <string name="silver">Prata</string>
     <string name="bronze">Bronze</string>
-    <string name="medal_description">%1$s medalha por ter colocação menor a %2$s nos rankings globais!</string>
-    <string name="medal_description_first_place">Medalha por ser o PRIMEIRO nos rankings globais!!</string>
+    <string name="medal_description">%1$s medalha por ter colocação menor a %2$s nos ranking global!</string>
+    <string name="medal_description_first_place">Medalha por ser o 1° no ranking global!</string>
 
-    <string name="try_for_free">Try for FREE</string>
-    <string name="account">Account</string>
-    <string name="no_ads">no ads</string>
-    <string name="dialog_vip_desc_free_hours">free hour <b>coins</b></string>
-    <string name="dialog_vip_desc_ingame_coins">in-game <b>coins</b></string>
-    <string name="dialog_vip_desc_additional_exp">additional <b>exp</b></string>
-    <string name="dialog_vip_desc_start_mass">start mass</string>
-    <string name="dialog_vip_desc_discount">discount on boosters</string>
-    <string name="dialog_vip_desc_chat_label">chat and profile label</string>
+    <string name="try_for_free"Experimentar grátis</string>
+    <string name="account">Conta</string>
+    <string name="no_ads">Sem anúncios</string>
+    <string name="dialog_vip_desc_free_hours">Hrs grátis em <b>moedas</b></string>
+    <string name="dialog_vip_desc_ingame_coins">Em jogo <b>moedas</b></string>
+    <string name="dialog_vip_desc_additional_exp">Adicional <b>exp</b></string>
+    <string name="dialog_vip_desc_start_mass">Massa inicial</string>
+    <string name="dialog_vip_desc_discount">Desconto em impulsos</string>
+    <string name="dialog_vip_desc_chat_label">Bate-papo e etiqueta</string>
 </resources>
