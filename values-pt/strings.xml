@@ -272,7 +272,7 @@
     <string name="no_ads">Sem anúncios</string>
     <string name="dialog_vip_desc_free_hours">Horas grátis em <b>moedas</b></string>
     <string name="dialog_vip_desc_ingame_coins">Em jogo de <b>moedas</b></string>
-    <string name="dialog_vip_desc_additional_exp">Adicional em <b>EXP</b></string>
+    <string name="dialog_vip_desc_additional_exp">Adicional em <b>exp</b></string>
     <string name="dialog_vip_desc_start_mass">Massa inicial</string>
     <string name="dialog_vip_desc_discount">Desconto em impulsos</string>
     <string name="dialog_vip_desc_chat_label">Bate-papo e perfil</string>
