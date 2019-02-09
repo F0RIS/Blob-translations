@@ -37,14 +37,14 @@
     <string name="about_title">Sobre</string>
     <string name="about_text">&#032; Cliente Android Blob %1$s \n\n
 
-	&#032;Esse aplicativo é semelhante ao Agar.io.\n
-	&#032;Se você encontrar alguma falha, verifique se há atualizações.
-        <!--<i>Email: Blobgame@yandex.ru</i>\n-->
+	&#032;Este jogo é uma versão melhorada de Agario.\n
+	&#032;Você pode enviar-nos sugestões através deste e-mail:
+        <!--<i>E-mail: blobgame@ya.ru</i>\n-->
 
     </string>
 
     <string name="check_update">Checar atualização</string>
-    <string name="score_result">Sua pontuação: %1$s</string>
+    <string name="score_result">Pontuação final: %1$s</string>
     <string name="you_set_new_record">Você atingiu um novo recorde nesse modo de jogo!</string>
     <string name="share">Compartilhar</string>
     <string name="share_text">Você acha que consegue me derrotar? Haha :) #blob_game %1$s</string>
@@ -91,7 +91,7 @@
     <string name="receiving">Recebendo...</string>
     <string name="get_it">Selecionar</string>
     <string name="keep_ip">Manter servidor</string>
-    <string name="keep_ip_description">O jogo não trocará o servidor durante a partida!</string>
+    <string name="keep_ip_description">O jogo manterá o servidor durante a partida!</string>
 
     <!-- Rate this app-->
     <string name="rta_dialog_title">Avalie esse aplicativo</string>
@@ -217,12 +217,12 @@
     <string name="rules_description">
         \n
         1.) Não insulte outros jogadores.\n
-        2.) Não fique pedindo para ser MODERADOR.\n
-        3.) Não troque/venda a conta do BLOB.\n
+        2.) Não finja ser um MODERADOR.\n
+        3.) Não negocie a sua conta BLOB.\n
         4.) Não trapaceie para alcançar o TOP.1 no placar.\n
         5.) Não use nomes inapropriados em jogo.\n
-        6.) Não aproveite de falhas que possam ter no jogo.\n
-        7.) Não faça time com alguém que já tenha equipe.\n
+        6.) Não tire proveito falhas que possam ter no jogo.\n
+        7.) Não faça time com alguém que já tenha equipe, conforme dito na regra N° 4.\n
     </string>
     <string name="top_week_exp_desc">Recolha o máximo de EXP durante uma semana, e você ganhará recompensas!</string>
     <string name="server_app_description">Com este aplicativo, você pode criar seu próprio servidor e jogar offline ou com amigos!</string>
@@ -270,10 +270,10 @@
     <string name="try_for_free">Experimentar grátis</string>
     <string name="account">Conta</string>
     <string name="no_ads">Sem anúncios</string>
-    <string name="dialog_vip_desc_free_hours">Hrs grátis em <b>moedas</b></string>
-    <string name="dialog_vip_desc_ingame_coins">Em jogo <b>moedas</b></string>
-    <string name="dialog_vip_desc_additional_exp">Adicional <b>exp</b></string>
+    <string name="dialog_vip_desc_free_hours">Horas grátis em <b>moedss</b></string>
+    <string name="dialog_vip_desc_ingame_coins">Em jogo de <b>moedss</b></string>
+    <string name="dialog_vip_desc_additional_exp">Adicional em <b>EXP</b></string>
     <string name="dialog_vip_desc_start_mass">Massa inicial</string>
     <string name="dialog_vip_desc_discount">Desconto em impulsos</string>
-    <string name="dialog_vip_desc_chat_label">Bate-papo e etiqueta</string>
+    <string name="dialog_vip_desc_chat_label">Bate-papo e perfil</string>
 </resources>
