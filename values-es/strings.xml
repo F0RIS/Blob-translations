@@ -277,13 +277,13 @@
     <string name="dialog_vip_desc_start_mass">Masa inicial</string>
     <string name="dialog_vip_desc_discount">Descuento en refuerzos</string>
     <string name="dialog_vip_desc_chat_label">Chat y perfil</string>
-    <string name="side">Side:</string>
-    <string name="bottom">Bottom:</string>
-    <string name="chat_m_hide_show">Hide/Show</string>
-    <string name="chat_m_expand_collapse">Expand/Collapse</string>
-    <string name="chat_m_invite_friend">Invite friend</string>
-    <string name="chat_m_big_map">Big Map</string>
-    <string name="chat_m_suicide">Suicide</string>
-    <string name="chat_m_select_message">Select message in the chat!</string>
+    <string name="side">Lado:</string>
+    <string name="bottom">Diferente:</string>
+    <string name="chat_m_hide_show">Deshabilitar/Activar</string>
+    <string name="chat_m_expand_collapse">Ampliar/Reducir</string>
+    <string name="chat_m_invite_friend">Invitar amigo</string>
+    <string name="chat_m_big_map">Mapa grande</string>
+    <string name="chat_m_suicide">Matarse</string>
+    <string name="chat_m_select_message">Seleccione el mensaje en la charla!</string>
     <string name="help">Help</string>
 </resources>
