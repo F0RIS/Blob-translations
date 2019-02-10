@@ -44,7 +44,7 @@
     </string>
 
     <string name="check_update">Comprobar la actualización</string>
-    <string name="score_result">Su puntuación: %1$s</string>
+    <string name="score_result">Puntuación final: %1$s</string>
     <string name="you_set_new_record">Has alcanzado un nuevo récord en este modo de juego!</string>
     <string name="share">Partilhar</string>
     <string name="share_text">Crees que puedes derrotarme? Haha :) #blob_game %1$s</string>
@@ -218,12 +218,12 @@
     <string name="rules_description">
         \n
         1.) No insulte a otros jugadores.\n
-        2.) No pida para ser un Moderador.\n
+        2.) No finja ser un MODERADOR.\n
         3.) No cambie las cuentas del Blob.\n
         4.) No use trampas para alcanzar el TOP.1.\n
         5.) No utilice nombres inapropiados en juego.\n
         6.) No aproveche de fallas que puedan tener en el juego.\n
-        7.) No hacer equipo con alguien del equipo opuesto. (EQUIPO CRUZADO)\n
+        7.) No hacer equipo con alguien del equipo opuesto, como se dice en la regla N° 4 \n
     </string>
     <string name="top_week_exp_desc">Recoge  el máximo de EXP durante una semana y usted ganará recompensas!</string>
     <string name="server_app_description">Con esta aplicación puedes crear tu propio servidor y jugar sin conexión o con amigos!</string>
@@ -271,10 +271,10 @@
     <string name="try_for_free">Prueba gratuita</string>
     <string name="account">Cuenta</string>
     <string name="no_ads">deshabilitar anuncios</string>
-    <string name="dialog_vip_desc_free_hours"><b>monedas</b> gratis hora</string>
-    <string name="dialog_vip_desc_ingame_coins"><b>monedas</b> en juego</string>
-    <string name="dialog_vip_desc_additional_exp">adicional <b>exp</b></string>
-    <string name="dialog_vip_desc_start_mass">masa inicial</string>
-    <string name="dialog_vip_desc_discount">de descuento en refuerzos</string>
-    <string name="dialog_vip_desc_chat_label">chat y marca de perfil</string>
+    <string name="dialog_vip_desc_free_hours"><b>Horas gratis en</b>monedas</string>
+    <string name="dialog_vip_desc_ingame_coins"><b>En juego de</b>monedas</string>
+    <string name="dialog_vip_desc_additional_exp">Adicional en<b>exp</b></string>
+    <string name="dialog_vip_desc_start_mass">Masa inicial</string>
+    <string name="dialog_vip_desc_discount">Descuento en refuerzos</string>
+    <string name="dialog_vip_desc_chat_label">Chat y perfil</string>
 </resources>
