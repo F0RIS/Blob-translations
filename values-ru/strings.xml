@@ -274,4 +274,16 @@
     <string name="dialog_vip_desc_start_mass">стартовая масса</string>
     <string name="dialog_vip_desc_discount">скидка на бустеры</string>
     <string name="dialog_vip_desc_chat_label">метка в чате и профиле</string>
+    <string name="side">Сторона:</string>
+    <string name="bottom">Низ:</string>
+
+    <!-- chat menu -->
+    <string name="chat_m_hide_show">Скрыть/Показать</string>
+    <string name="chat_m_expand_collapse">Развернуть/Свернуть</string>
+    <string name="chat_m_invite_friend">Пригласить друга</string>
+    <string name="chat_m_big_map">Большая карта</string>
+    <string name="chat_m_suicide">Умереть</string>
+    <string name="chat_m_select_message">Выберите сообщение в чате!</string>
+
+    <string name="help">Помощь</string>
 </resources>
