@@ -277,14 +277,14 @@
     <string name="dialog_vip_desc_start_mass">start mass</string>
     <string name="dialog_vip_desc_discount">discount on boosters</string>
     <string name="dialog_vip_desc_chat_label">chat and profile label</string>
-    <string name="side">Side:</string>
-    <string name="bottom">Bottom:</string>
+    <string name="side">Côté:</string>
+    <string name="bottom">Bas:</string>
 
-    <string name="chat_m_hide_show">Hide/Show</string>
-    <string name="chat_m_expand_collapse">Expand/Collapse</string>
-    <string name="chat_m_invite_friend">Invite friend</string>
-    <string name="chat_m_big_map">Big Map</string>
+    <string name="chat_m_hide_show">Masquer / Afficher</string>
+    <string name="chat_m_expand_collapse">Développer / Réduire</string>
+    <string name="chat_m_invite_friend">Inviter un ami</string>
+    <string name="chat_m_big_map">Grande carte</string>
     <string name="chat_m_suicide">Suicide</string>
-    <string name="chat_m_select_message">Select message in the chat!</string>
-    <string name="help">Help</string>
+    <string name="chat_m_select_message">Sélectionnez un message dans le chat!</string>
+    <string name="help">Aidez-moi</string>
 </resources>
