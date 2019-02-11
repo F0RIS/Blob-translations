@@ -277,8 +277,8 @@
     <string name="dialog_vip_desc_start_mass">Masa inicial</string>
     <string name="dialog_vip_desc_discount">Descuento en refuerzos</string>
     <string name="dialog_vip_desc_chat_label">Chat y perfil</string>
-    <string name="side">Lado:</string>
-    <string name="bottom">Diferente:</string>
+    <string name="side">Lados:</string>
+    <string name="bottom">Altura:</string>
     <string name="chat_m_hide_show">Deshabilitar/Activar</string>
     <string name="chat_m_expand_collapse">Ampliar/Reducir</string>
     <string name="chat_m_invite_friend">Invitar amigo</string>
