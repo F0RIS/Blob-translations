@@ -23,7 +23,7 @@
     <string name="show_DirectionPointer">Dirección del puntero</string>
     <string name="show_joystick">Joystick</string>
     <string name="save_button">Guardar</string>
-    <string name="settings">Configuración</string>
+    <string name="settings">Ajustes</string>
     <string name="skins_list">Skins</string>
     <string name="skin_message">Esto cambiará su nombre</string>
     <string name="skin_title">Quieres usar esta skin?</string>
@@ -37,9 +37,9 @@
     <string name="about_title">Acerca</string>
     <string name="about_text">&#032; Cliente Android Blob %1$s \n\n
 
-	&#032;Esta aplicación es similar a Agar.io.\n
-	&#032;Si este cliente falla, compruebe si hay actualizaciones.
-        <!--<i>Email: Blobgame@yandex.ru</i>\n-->
+	&#032;Este juego es una versión mejorada de Agario.\n
+	&#032;Usted puede enviarnos sugerencias a través de este e-mail:
+        <!--<i>E-mail: blobgame@ya.ru</i>\n-->
 
     </string>
 
