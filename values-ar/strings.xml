@@ -288,9 +288,9 @@
     <string name="chat_m_expand_collapse">Expand/Collapse</string>
     <string name="chat_m_invite_friend">Invite friend</string>
     <string name="chat_m_big_map">Big Map</string>
-    <string name="chat_m_suicide">Suicide</string>
-    <string name="chat_m_select_message">Select message in the chat!</string>
+    <string name="chat_m_suicide">انتحار</string>
+    <string name="chat_m_select_message">اختر رسالة في الدردشة!</string>
 
-    <string name="help">Help</string>
+    <string name="help">مساعدة</string>
 </resources>
 
