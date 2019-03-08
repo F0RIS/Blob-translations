@@ -270,7 +270,7 @@
     <string name="gold">ذهب</string>
     <string name="silver">فضة</string>
     <string name="bronze">برونز</string>
-    <string name="medal_description">٪ 1 $ s ميدالية لوضعها في الجزء العلوي٪ 2 $ s في التصنيف العالمي!</string>
+    <string name="medal_description"> ميدالية لوضعها %1$s في الجزء العلوي في التصنيف العالمي %2$s !</string>
     <string name="medal_description_first_place">ميدالية لوضع المركز الأول في التصنيف العالمي!</string>
 
     <string name="try_for_free">حاول مجانا</string>
