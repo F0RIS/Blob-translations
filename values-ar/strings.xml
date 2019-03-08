@@ -267,13 +267,13 @@
     <string name="only_friends_skins">فقط جلود الأصدقاء</string>
     <string name="in_game_zoom">التكبير في اللعبة</string>
     <string name="copy_nick">نسخ اسم المستخدم</string>
-    <string name="gold">Gold</string>
-    <string name="silver">Silver</string>
-    <string name="bronze">Bronze</string>
-    <string name="medal_description">%1$s medal for placing in the top %2$s in global rankings!</string>
+    <string name="gold">ذهب</string>
+    <string name="silver">فضة</string>
+    <string name="bronze">برونز</string>
+    <string name="medal_description">٪ 1 $ s ميدالية لوضعها في الجزء العلوي٪ 2 $ s في التصنيف العالمي!</string>
     <string name="medal_description_first_place">ميدالية لوضع المركز الأول في التصنيف العالمي!</string>
 
-    <string name="try_for_free">Try for FREE</string>
+    <string name="try_for_free">حاول مجانا</string>
     <string name="account">حساب</string>
     <string name="no_ads"> تعطيل الإعلانات</string>
     <string name="dialog_vip_desc_free_hours">العملات المجانيه ساعة</string>
@@ -282,15 +282,15 @@
     <string name="dialog_vip_desc_start_mass"> بدايه للكتلة</string>
     <string name="dialog_vip_desc_discount">خصم على الدعاءم</string>
     <string name="dialog_vip_desc_chat_label">علامة في الشات</string>
-    <string name="side">Side:</string>
-    <string name="bottom">Bottom:</string>
-    <string name="chat_m_hide_show">Hide/Show</string>
-    <string name="chat_m_expand_collapse">Expand/Collapse</string>
-    <string name="chat_m_invite_friend">Invite friend</string>
-    <string name="chat_m_big_map">Big Map</string>
-    <string name="chat_m_suicide">Suicide</string>
-    <string name="chat_m_select_message">Select message in the chat!</string>
+    <string name="side">جانب:</string>
+    <string name="bottom">الأسفل:</string>
+    <string name="chat_m_hide_show">إخفاء / عرض</string>
+    <string name="chat_m_expand_collapse">توسيع الانهيار</string>
+    <string name="chat_m_invite_friend">ادعو صديق</string>
+    <string name="chat_m_big_map">خريطة كبيرة</string>
+    <string name="chat_m_suicide">انتحار</string>
+    <string name="chat_m_select_message">اختر رسالة في الدردشة!</string>
 
-    <string name="help">Help</string>
+    <string name="help">مساعدة</string>
 </resources>
 
