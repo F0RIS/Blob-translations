@@ -23,7 +23,7 @@
     <string name="show_DirectionPointer">Dirección del puntero</string>
     <string name="show_joystick">Joystick</string>
     <string name="save_button">Guardar</string>
-    <string name="settings">Configuración</string>
+    <string name="settings">Ajustes</string>
     <string name="skins_list">Skins</string>
     <string name="skin_message">Esto cambiará su nombre</string>
     <string name="skin_title">Quieres usar esta skin?</string>
@@ -37,9 +37,9 @@
     <string name="about_title">Acerca</string>
     <string name="about_text">&#032; Cliente Android Blob %1$s \n\n
 
-	&#032;Esta aplicación es similar a Agar.io.\n
-	&#032;Si este cliente falla, compruebe si hay actualizaciones.
-        <!--<i>Email: Blobgame@yandex.ru</i>\n-->
+	&#032;Este juego es una versión mejorada de Agario.\n
+	&#032;Usted puede enviarnos sugerencias a través de este e-mail:
+        <!--<i>E-mail: blobgame@ya.ru</i>\n-->
 
     </string>
 
@@ -277,13 +277,13 @@
     <string name="dialog_vip_desc_start_mass">Masa inicial</string>
     <string name="dialog_vip_desc_discount">Descuento en refuerzos</string>
     <string name="dialog_vip_desc_chat_label">Chat y perfil</string>
-    <string name="side">Side:</string>
-    <string name="bottom">Bottom:</string>
-    <string name="chat_m_hide_show">Hide/Show</string>
-    <string name="chat_m_expand_collapse">Expand/Collapse</string>
-    <string name="chat_m_invite_friend">Invite friend</string>
-    <string name="chat_m_big_map">Big Map</string>
-    <string name="chat_m_suicide">Suicide</string>
-    <string name="chat_m_select_message">Select message in the chat!</string>
-    <string name="help">Help</string>
+    <string name="side">Lados:</string>
+    <string name="bottom">Altura:</string>
+    <string name="chat_m_hide_show">Deshabilitar/Activar</string>
+    <string name="chat_m_expand_collapse">Ampliar/Reducir</string>
+    <string name="chat_m_invite_friend">Invitar amigo</string>
+    <string name="chat_m_big_map">Mapa grande</string>
+    <string name="chat_m_suicide">Matarse</string>
+    <string name="chat_m_select_message">Seleccione el mensaje en la charla!</string>
+    <string name="help">Ayuda</string>
 </resources>
