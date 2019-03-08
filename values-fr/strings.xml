@@ -265,7 +265,7 @@
     <string name="gold">Or</string>
     <string name="silver">argent</string>
     <string name="bronze">Bronze</string>
-    <string name="medal_description">Médaille de% 1 $ s pour le top% 2 $ s au classement mondial!!</string>
+    <string name="medal_description">Médaille de %1$s pour le top %1$s au classement mondial!!</string>
     <string name="medal_description_first_place">Médaille pour la première place dans le classement mondial!</string>
 
     <string name="try_for_free">Essayer gratuitement</string>
