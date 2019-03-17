@@ -267,7 +267,7 @@
     <string name="medal_description">%1$s medalha por ter colocação menor a %2$s nos ranking global!</string>
     <string name="medal_description_first_place">Medalha por ser o 1° no ranking global!</string>
 
-    <string name="try_for_free">Experimentar grátis</string>
+    <string name="try_for_free">Experimentar grátis!</string>
     <string name="account">Conta</string>
     <string name="no_ads">Sem anúncios</string>
     <string name="dialog_vip_desc_free_hours">Horas grátis em <b>moedas</b></string>
@@ -285,4 +285,5 @@
     <string name="chat_m_suicide">Matar-se</string>
     <string name="chat_m_select_message">Selecione a mensagem no bate-papo!</string>
     <string name="help">Ajuda</string>
+    <string name="we_have_web_version_for_pc_players">We have web version for PC players!</string>
 </resources>

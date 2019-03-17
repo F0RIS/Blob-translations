@@ -331,7 +331,7 @@
         WunZero (Marketing, Videos, Support)\n
     </string>
 
-    <string name="try_for_free">Try for FREE</string>
+    <string name="try_for_free">Try for FREE!</string>
     <string name="account">Account</string>
     <string name="no_ads">no ads</string>
     <string name="dialog_vip_desc_free_hours">free hour <b>coins</b></string>
@@ -353,5 +353,6 @@
     <string name="chat_m_select_message">Select message in the chat!</string>
 
     <string name="help">Help</string>
+    <string name="we_have_web_version_for_pc_players">We have web version for PC players!</string>
 
 </resources>

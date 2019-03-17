@@ -238,7 +238,7 @@
     <string name="info_title">Information</string>
     <string name="time_left">Temps restant:</string>
     <string name="edit">modifier</string>
-    <string name="chat_enable_warning">Avec cette option, l'évaluation de l'application devient plus élevée!</string>
+    <string name="chat_enable_warning">Avec cette option, l\'évaluation de l\'application devient plus élevée!</string>
     <string name="score_title">Score:</string>
     <string name="bet_value">Valeur De Mise:</string>
     <string name="create">Créé</string>
@@ -268,7 +268,7 @@
     <string name="medal_description">Médaille de %1$s pour le top %1$s au classement mondial!!</string>
     <string name="medal_description_first_place">Médaille pour la première place dans le classement mondial!</string>
 
-    <string name="try_for_free">Essayer gratuitement</string>
+    <string name="try_for_free">Essayer gratuitement!</string>
     <string name="account">Compte</string>
     <string name="no_ads">pas de pubs</string>
     <string name="dialog_vip_desc_free_hours">heure libre <b>argent</b></string>
@@ -287,4 +287,5 @@
     <string name="chat_m_suicide">Suicide</string>
     <string name="chat_m_select_message">Sélectionnez un message dans le chat!</string>
     <string name="help">Aidez-moi</string>
+    <string name="we_have_web_version_for_pc_players">We have web version for PC players!</string>
 </resources>

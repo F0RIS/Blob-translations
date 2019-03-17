@@ -265,7 +265,7 @@
     <string name="medal_description">%1$s медаль за попадание в топ %2$s в глобальном топе!</string>
     <string name="medal_description_first_place">Медаль за ПЕРВУЮ позицию в глобальном топе!</string>
 
-    <string name="try_for_free">Попробовать бесплатно</string>
+    <string name="try_for_free">Попробовать бесплатно!</string>
     <string name="account">Аккаунт</string>
     <string name="no_ads">нет рекламы</string>
     <string name="dialog_vip_desc_free_hours">бесплатные часовые <b>монеты</b></string>
@@ -286,4 +286,5 @@
     <string name="chat_m_select_message">Выберите сообщение в чате!</string>
 
     <string name="help">Помощь</string>
+    <string name="we_have_web_version_for_pc_players">У нас есть веб версия для PC игроков!</string>
 </resources>
