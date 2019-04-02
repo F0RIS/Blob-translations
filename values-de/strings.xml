@@ -36,15 +36,15 @@
     <string name="cant_connect">Verbindung zum Server nicht möglich Bitte versuche es erneut</string>
     <string name="about_title">Über</string>
     <string name="about_text">&#032;&#032;Blob Android client %1$s \n\n
-        &#032;This application is agario like parody.\n
-        &#032;If this client stop working, check for updates.
+        &#032;Diese Anwendung ist wie eine Parodie.\n
+        &#032;Wenn dieser Client nicht mehr funktioniert, suchen Sie nach Updates.\n
     </string>
     <string name="check_update">Aktualisierung überprüfen</string>
     <string name="score_result">Ihr Ergebnis %1$s</string>
     <string name="you_set_new_record">Du hast in diesem Spielmodus einen neuen Rekord aufgestellt!</string>
     <string name="share">Aktie</string>
-    <string name="share_text">You think you can defeat me in Blob? Hah, try it :) #blob_game %1$s</string>
-    <string name="share_score_text">I got %1$d score in Blob game! Play with me! #blob_game %2$s</string>
+    <string name="share_text">Glaubst du, du kannst mich in Blob besiegen? Hah, versuch es :) #blob_game %1$s</string>
+    <string name="share_score_text">ich habe %1$d punkte im Blob-Spiel! Spiele mit mir! #blob_game %2$s</string>
     <string name="records">Aufzeichnungen</string>
     <string name="spec_mode_after_death">Spectate nach dem Tod</string>
     <string name="darkTheme">Dunkles Thema</string>
@@ -55,18 +55,18 @@
     <string name="creating_party">Party erstelleninvite</string>
     <string name="vibration">Vibrieren</string>
     <string name="game_mechanic_description">
-        &#160;&#160;- The bigger you are the slower you move\n
-        &#160;- Tap on relevant button to divide into two smaller blobs. One half of you shoots forward quickly, use this trick to strike other players and eat them.\n
-        &#160;- If you are divided you can recombine into one blob after a certain period of time has passed, the bigger your blobs the longer you have to wait before you can form into one blob again\n
-        &#160;- If you are smaller than the spikeballs then you can hide inside them for protection, but beware, if you are larger than a spikeball then touching it makes you burst into many tiny blobs.\n
-        &#160;- You can make spikeballs to split and it somebody by throwing some your mass in it\n
-        &#160;- You can\'t eat or be eaten by players the exact same size as you\n
-        Control:\n
-        &#160;- Tap anywhere on screen to move your cell or just use joystick\n
-        &#160;- Tap on corresponding button to split or eject some mass\n\n
-        &#160; You can read this info again by clicking at icon with question mark in menu and selecting "Game mechanics"\n
-        &#160; Restart application and clear RAM, if something went wrong.\n
-        &#160; Also you can disable showing names and mass to prevent lags.\n
+        &#160;&#160;- Je größer Sie sind, desto langsamer bewegen Sie sich\n
+        &#160;- Tippen Sie auf die entsprechende Schaltfläche, um in zwei kleinere Blobs zu unterteilen. Eine Hälfte von Ihnen schießt schnell vorwärts, verwenden Sie diesen Trick, um andere Spieler zu treffen und zu essen.\n
+        &#160;- Wenn Sie geteilt sind, können Sie nach Ablauf einer bestimmten Zeit zu einem Blob rekombinieren. Je größer Ihre Blobs, desto länger müssen Sie warten, bevor Sie sich wieder zu einem Blob formen können\n
+        &#160;- Wenn Sie kleiner als die stacheligen Bälle sind, können Sie sich zum Schutz in ihnen verstecken. Wenn Sie jedoch größer als ein Spikeball sind, werden Sie durch Berühren in viele winzige Flecken gesprengt.\n
+        &#160;- Du kannst Spikeballs zum Teilen machen und jemanden, indem du deine Masse hineinwirfst\n
+        &#160;- Sie können nicht von Spielern gegessen werden, die die gleiche Größe haben wie Sie\n
+        Steuerelemente:\n
+        &#160;- Tippen Sie auf eine beliebige Stelle auf dem Bildschirm, um Ihre Zelle zu verschieben, oder verwenden Sie einfach den Joystick\n
+        &#160;- Tippen Sie auf die entsprechende Schaltfläche, um eine Masse zu teilen oder auszuwerfen\n
+        &#160; Sie können diese Informationen erneut lesen, indem Sie auf das Fragezeichen-Symbol im Hauptmenü klicken und "Spielmechanik" auswählen.\n
+        &#160; Starten Sie die Anwendung neu und löschen Sie den Arbeitsspeicher, wenn etwas schiefgelaufen ist.\n
+        &#160; Sie können auch die Anzeige von Namen und Masse deaktivieren, um Verzögerungen zu vermeiden.\n
 
     </string>
     <string name="first_start_dialog_title">Spielmechanik</string>
@@ -218,7 +218,7 @@
         2.) Gib nicht vor, ein MODERATOR zu sein\n
         3.) Tauschen Sie keine Blob.io-Konten außerhalb oder innerhalb des Spiels aus\n
         4.) Betrüge nicht, um die beste Platzierung zu erreichen\n
-        5.) Do not use inappropriate names in game\n
+        5.) Verwenden Sie keine unangemessenen Namen im Spiel\n
         6.) Nutzen Sie keine Bugs im Spiel\n
         7.) Nicht mit jemandem auf der anderen Seite des Teams zusammenarbeiten (CROSS TEAMING)\n
     </string>
@@ -261,28 +261,28 @@
     <string name="in_game_zoom">Zoom in de game</string>
     <string name="copy_nick">Kopieer gebruikersnaam</string>
     <string name="gold">Gold</string>
-    <string name="silver">Silver</string>
+    <string name="silver">Silber</string>
     <string name="bronze">Bronze</string>
     <string name="medal_description">%1$s medal for placing in the top %2$s in global rankings!</string>
     <string name="medal_description_first_place">Medaille voor het plaatsen van EERSTE plaats in wereldwijde ranglijst!</string>
 
-    <string name="try_for_free">Try for FREE!</string>
-    <string name="account">Account</string>
+    <string name="try_for_free">Mach es kostenlos!</string>
+    <string name="account">Konto</string>
     <string name="no_ads">keine Werbung</string>
-    <string name="dialog_vip_desc_free_hours">x2 gratis <b>coins</b></string>
-    <string name="dialog_vip_desc_ingame_coins">in-game <b>coins</b></string>
+    <string name="dialog_vip_desc_free_hours">x2 gratis <b>Geld</b></string>
+    <string name="dialog_vip_desc_ingame_coins">in-game <b>Geld</b></string>
     <string name="dialog_vip_desc_additional_exp">zusätzliche <b>exp</b></string>
     <string name="dialog_vip_desc_start_mass">startmasse</string>
     <string name="dialog_vip_desc_discount">rabatt auf booster</string>
     <string name="dialog_vip_desc_chat_label">chat und profilmarkierung</string>
-    <string name="side">Side:</string>
-    <string name="bottom">Bottom:</string>
-    <string name="chat_m_hide_show">Hide/Show</string>
-    <string name="chat_m_expand_collapse">Expand/Collapse</string>
-    <string name="chat_m_invite_friend">Invite friend</string>
-    <string name="chat_m_big_map">Big Map</string>
-    <string name="chat_m_suicide">Suicide</string>
-    <string name="chat_m_select_message">Select message in the chat!</string>
-    <string name="help">Help</string>
-    <string name="we_have_web_version_for_pc_players">We have web version for PC players!</string>
+    <string name="side">Seite:</string>
+    <string name="bottom">Unterseite:</string>
+    <string name="chat_m_hide_show">verbergen/anzeigen</string>
+    <string name="chat_m_expand_collapse">Erweitern/Zusammenbruch</string>
+    <string name="chat_m_invite_friend">Einen Freund einladen</string>
+    <string name="chat_m_big_map">Sehr große Karte</string>
+    <string name="chat_m_suicide">Selbstmord</string>
+    <string name="chat_m_select_message">Wählen Sie eine Nachricht im Chat aus!</string>
+    <string name="help">Hilfe</string>
+    <string name="we_have_web_version_for_pc_players">Wir haben eine Webversion des Spiels für PC-Spieler!</string>
 </resources>
