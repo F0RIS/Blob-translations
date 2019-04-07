@@ -49,7 +49,7 @@
     <string name="you_set_new_record">You set a new record in this game mode!</string>
     <string name="share">Share</string>
     <string name="share_text">You think you can defeat me in Blob? Hah, try it :) #blob_game %1$s</string>
-    <string name="share_score_text">I got %1$d score in the Blob game! Play with me! #blob_game %2$s</string>
+    <string name="share_score_text">I got %1$d score in the Blob game! Come play with me! #blob_game %2$s</string>
     <string name="records">Records</string>
     <string name="spec_mode_after_death">Spectate after death</string>
     <string name="darkTheme">Dark theme</string>
@@ -62,9 +62,9 @@
     <string name="game_mechanic_description">
         &#160;&#160;- The bigger you are, the slower you move.\n
         &#160;- Tap on the relevant button to divide into two smaller blobs. One half of you shoots forward quickly - use this trick to strike other players and eat them.\n
-        &#160;- If you are divided you can recombine into one blob after a certain period of time has passed. The bigger your blobs are, the longer you have to wait before you can form into one blob again.\n
-        &#160;- If you are smaller than the spikeballs (virus) then you can hide inside them for protection, but beware, if you are larger than a virus then touching it makes you burst into many tiny blobs.\n
-        &#160;- You can make spikeballs split and hit somebody by throwing some of your mass into it.\n
+        &#160;- If you are divided into separate peaces you can recombine into one blob after a certain period of time has passed. The bigger your blobs are, the longer you have to wait before you can form into one blob again.\n
+        &#160;- If you are smaller than the spikeballs (virus) then you can hide inside of them for protection, but beware, if you are larger than a virus then touching it makes you burst into many tiny blobs.\n
+        &#160;- You can make viruses split and hit another blobs by throwing some of your mass into it.\n
         &#160;- You can\'t eat or be eaten by players the exact same size as you.\n
         Controls:\n
         &#160;- Tap anywhere on the screen to move your cell or just use the joystick.\n
@@ -80,7 +80,7 @@
 
 
     <string name="fb_info_title">Information</string>
-    <string name="fb_info_message">Log in and get bigger starting mass!\n
+    <string name="fb_info_message">Log in and achieve bigger starting mass!\n
         Level up to get even more starting mass and unlock new LVLs skins!</string>
     <string name="how_to_install">How to install</string>
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
@@ -329,6 +329,7 @@
         Andrey Lukyantsev (Skins)\n
         Maroo (Game Design)\n
         WunZero (Marketing, Videos, Support)\n
+        Mike B. (Ideas, Translations, Skins, Support)\n
     </string>
 
     <string name="try_for_free">Try for FREE!</string>
@@ -353,6 +354,6 @@
     <string name="chat_m_select_message">Select message in the chat!</string>
 
     <string name="help">Help</string>
-    <string name="we_have_web_version_for_pc_players">We have web version for PC players!</string>
+    <string name="we_have_a_web_version_for_pc_players">We have a web version for PC players!</string>
 
 </resources>
