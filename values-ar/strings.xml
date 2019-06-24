@@ -292,6 +292,14 @@
     <string name="chat_m_select_message">اختر رسالة في الدردشة!</string>
 
     <string name="help">مساعدة</string>
-    <string name="we_have_web_version_for_pc_players">لدينا نسخة على شبكة الإنترنت لمستخدمي الكمبيوتر!</string>
-</resources>
+    <string name="web_ver_desc">لدينا نسخة على شبكة الإنترنت لمستخدمي الكمبيوتر!</string>
+    <string name="share_request">Share the game to unlock this item!</string>
+    <string name="share_lvl_text">I have just achieved LVL $1%s in Blob.io! Can you beat me now, boy!?</string>
+    <string name="share_double_coins">Share your result and get DOUBLE coins!</string>
 
+    <string name="guide_text1"><![CDATA[Eat <b>food</b> to grow!]]></string>
+    <string name="guide_text2"><![CDATA[Press <b>SPLIT<b> to divide and eat other players!]]></string>
+    <string name="guide_text3"><![CDATA[Press <b>THROW</b> to shoot in viruses and blow up other players!]]></string>
+    <string name="guide_text4">Stay away from viruses!</string>
+
+</resources>

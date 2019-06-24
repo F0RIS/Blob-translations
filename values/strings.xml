@@ -41,7 +41,6 @@
     <string name="cant_connect">Can\'t connect to server. Please try again</string>
     <string name="about_title">About</string>
     <string name="about_text">&#032;&#032;Blob Android client %1$s \n\n
-        &#032;This game is an improved version of agario.\n
         &#032;You can send your suggestions here:
     </string>
     <string name="check_update">Check for Updates</string>
@@ -97,7 +96,7 @@
     <string name="keep_ip_description">IP will not be updated automatically</string>
 
     <!-- Rate this app-->
-    <string name="rta_dialog_title">Rate this app</string>
+    <string name="rta_dialog_title">Rate this game</string>
     <string name="rta_dialog_message">If you enjoy using this app, would you mind taking a moment to rate it? It won\'t take more than a minute. Thank you for your support!</string>
     <string name="rta_dialog_ok">Rate now</string>
     <string name="rta_dialog_cancel">Later</string>
@@ -105,7 +104,7 @@
 
     <!-- Share this app-->
     <string name="rta_dialog_title2">Share this app</string>
-    <string name="rta_dialog_message2">If you like this app, show it to your friends! They might like it too!</string>
+    <string name="rta_dialog_message2">If you like this game, show it to your friends! They might like it too!</string>
     <string name="rta_dialog_ok2">Share now!</string>
 
     <string name="low_lvl_message">Your lvl is lower than required</string>
@@ -235,7 +234,7 @@
     <string name="free_coins_toast">You got %d coins for free!</string>
     <string name="free_coins">Free coins</string>
     <string name="watch_video">Watch video</string>
-    <string name="lvl_coins_reward">Congratulations! You achieved Lvl %1$d and gained %2$d coins!</string>
+    <string name="lvl_coins_reward">Congratulations! You achieved LVL %1$d and gained %2$d coins!</string>
 
     <!-- Items description localization -->
     <string name="mass_booster_x1_5_desc">Start the game with x1.5 bigger mass for the next 1 hour!</string>
@@ -354,6 +353,15 @@
     <string name="chat_m_select_message">Select message in the chat!</string>
 
     <string name="help">Help</string>
-    <string name="we_have_a_web_version_for_pc_players">We have a web version for PC players!</string>
+    <string name="web_ver_desc">We have a web version for PC players!</string>
+    <string name="musconv_desc" translatable="false">Transfer your playlists and favorites</string>
+    <string name="share_request">Share the game to unlock this item!</string>
+    <string name="share_lvl_text">I have just achieved LVL %s in Blob.io! Can you beat me now, boy!?</string>
+    <string name="share_double_coins">Share your result and get DOUBLE coins!</string>
+
+    <string name="guide_text1"><![CDATA[Eat <b>food</b> to grow!]]></string>
+    <string name="guide_text2"><![CDATA[Press <b>SPLIT</b> to divide and eat other players!]]></string>
+    <string name="guide_text3"><![CDATA[Press <b>THROW</b> to shoot in viruses and blow up other players!]]></string>
+    <string name="guide_text4">Stay away from viruses!</string>
 
 </resources>

@@ -37,7 +37,6 @@
     <string name="about_title">Sobre</string>
     <string name="about_text">&#032; Cliente Android Blob %1$s \n\n
 
-	&#032;Este jogo é uma versão melhorada de Agario.\n
 	&#032;Você pode enviar-nos sugestões através deste e-mail:
         <!--<i>E-mail: blobgame@ya.ru</i>\n-->
 
@@ -285,5 +284,14 @@
     <string name="chat_m_suicide">Matar-se</string>
     <string name="chat_m_select_message">Selecione a mensagem no bate-papo!</string>
     <string name="help">Ajuda</string>
-    <string name="we_have_web_version_for_pc_players">Nós temos uma versão de internet para jogadores de PC!</string>
+    <string name="web_ver_desc">Nós temos uma versão de internet para jogadores de PC!</string>
+    <string name="share_request">Share the game to unlock this item!</string>
+    <string name="share_lvl_text">I have just achieved LVL $1%s in Blob.io! Can you beat me now, boy!?</string>
+    <string name="share_double_coins">Share your result and get DOUBLE coins!</string>
+
+    <string name="guide_text1"><![CDATA[Eat <b>food</b> to grow!]]></string>
+    <string name="guide_text2"><![CDATA[Press <b>SPLIT<b> to divide and eat other players!]]></string>
+    <string name="guide_text3"><![CDATA[Press <b>THROW</b> to shoot in viruses and blow up other players!]]></string>
+    <string name="guide_text4">Stay away from viruses!</string>
+
 </resources>

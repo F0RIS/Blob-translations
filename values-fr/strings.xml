@@ -37,7 +37,6 @@
     <string name="about_title">À propos de</string>
     <string name="about_text">&#032;&#032; Cliente Android Blob %1$s \n\n
 
-	&#032;Cette application ressemble à Agar.io.\n
 	&#032;Si vous rencontrez un échec, vérifiez les mises à jour.
         <!--<i>Email: Blobgame@yandex.ru</i>\n-->
 
@@ -287,5 +286,14 @@
     <string name="chat_m_suicide">Suicide</string>
     <string name="chat_m_select_message">Sélectionnez un message dans le chat!</string>
     <string name="help">Aidez-moi</string>
-    <string name="we_have_web_version_for_pc_players">Nous avons une version web pour les joueurs PC!</string>
+    <string name="web_ver_desc">Nous avons une version web pour les joueurs PC!</string>
+    <string name="share_request">Share the game to unlock this item!</string>
+    <string name="share_lvl_text">I have just achieved LVL $1%s in Blob.io! Can you beat me now, boy!?</string>
+    <string name="share_double_coins">Share your result and get DOUBLE coins!</string>
+
+    <string name="guide_text1"><![CDATA[Eat <b>food</b> to grow!]]></string>
+    <string name="guide_text2"><![CDATA[Press <b>SPLIT<b> to divide and eat other players!]]></string>
+    <string name="guide_text3"><![CDATA[Press <b>THROW</b> to shoot in viruses and blow up other players!]]></string>
+    <string name="guide_text4">Stay away from viruses!</string>
+
 </resources>

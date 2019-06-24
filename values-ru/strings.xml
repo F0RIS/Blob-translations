@@ -34,7 +34,6 @@
     <string name="connection_lost">Соединение утеряно</string>
     <string name="about_title">О программе</string>
     <string name="about_text">&#032;&#032;Blob Android клиент %1$s \n\n
-          &#032;&#032;Это приложение является agar.io подобным клоном.\n
           &#032;&#032;Если приложение перестало работать, проверьте обновления.\n</string>
 
     <string name="check_update">Проверить обновления</string>
@@ -87,7 +86,7 @@
     <string name="keep_ip_description">Игра не будет автоматически получать новый IP для данной игровой сесси</string>
 
     <!-- Rate this app-->
-    <string name="rta_dialog_title">Оцените приложение!</string>
+    <string name="rta_dialog_title">Оцените эту игру!</string>
     <string name="rta_dialog_message">Если вам понравилось это приложение, потратьте несколько секунд и оцените его пожалуйста. Спасибо за поддержку!</string>
     <string name="rta_dialog_ok">Оценить</string>
     <string name="rta_dialog_cancel">Напомнить позже</string>
@@ -286,5 +285,14 @@
     <string name="chat_m_select_message">Выберите сообщение в чате!</string>
 
     <string name="help">Помощь</string>
-    <string name="we_have_web_version_for_pc_players">У нас есть веб версия для PC игроков!</string>
+    <string name="web_ver_desc">У нас есть веб версия для PC игроков!</string>
+    <string name="share_request">Поделись игрой, что бы получить этот предмет!</string>
+    <string name="share_lvl_text">Я только что получил $1%s уровень в Blob.io! Сможешь меня теперь победить!?</string>
+    <string name="share_double_coins">Поделись своим результатом и получи в ДВА РАЗА больше монет!</string>
+
+    <string name="guide_text1"><![CDATA[Ешь <b>еду</b> и расти!]]></string>
+    <string name="guide_text2"><![CDATA[Жми <b>SPLIT</b> чтобы делиться и есть других игроков!]]></string>
+    <string name="guide_text3"><![CDATA[Жми <b>THROW</b> чтобы стрелять в вирусы и взрывать игроков!]]></string>
+    <string name="guide_text4">Остерегайся вирусов!</string>
+
 </resources>
