@@ -284,13 +284,13 @@
     <string name="chat_m_select_message">Seleccione el mensaje en la charla!</string>
     <string name="help">Ayuda</string>
     <string name="web_ver_desc">Tenemos una versión de Internet para jugadores de PC!</string>
-    <string name="share_request">Share the game to unlock this item!</string>
-    <string name="share_lvl_text">I have just achieved LVL $1%s in Blob.io! Can you beat me now, boy!?</string>
-    <string name="share_double_coins">Share your result and get DOUBLE coins!</string>
+    <string name="share_request">Compartir el juego para desbloquear este artículo!</string>
+    <string name="share_lvl_text">Acabo de desbloquear el LVL $1%s en Blob.io! Puedes superarme!?</string>
+    <string name="share_double_coins">Comparta su resultado para obtener el DOBLE de monedas!</string>
 
-    <string name="guide_text1"><![CDATA[Eat <b>food</b> to grow!]]></string>
-    <string name="guide_text2"><![CDATA[Press <b>SPLIT<b> to divide and eat other players!]]></string>
-    <string name="guide_text3"><![CDATA[Press <b>THROW</b> to shoot in viruses and blow up other players!]]></string>
-    <string name="guide_text4">Stay away from viruses!</string>
+    <string name="guide_text1"><![CDATA[Recoger <b>comida</b> para crecer!]]></string>
+    <string name="guide_text2"><![CDATA[Clic <b>SPLIT<b> para dividir y tragar a otros jugadores!]]></string>
+    <string name="guide_text3"><![CDATA[Clic <b>THROW</b> para disparar virus, alimentar o detonar a otros jugadores!]]></string>
+    <string name="guide_text4">Quédate lejos de los virus!!</string>
 
 </resources>
