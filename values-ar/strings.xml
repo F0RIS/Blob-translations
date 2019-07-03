@@ -293,13 +293,13 @@
 
     <string name="help">مساعدة</string>
     <string name="web_ver_desc">لدينا نسخة على شبكة الإنترنت لمستخدمي الكمبيوتر!</string>
-    <string name="share_request">Share the game to unlock this item!</string>
-    <string name="share_lvl_text">I have just achieved LVL $1%s in Blob.io! Can you beat me now, boy!?</string>
-    <string name="share_double_coins">Share your result and get DOUBLE coins!</string>
+    <string name="share_request">مشاركة اللعبة لفتح هذا العنصر!</string>
+    <string name="share_lvl_text">لقد حققت للتو LVL $1%s في Blob.io! يمكنك هزيمة لي الآن ، فتى؟</string>
+    <string name="share_double_coins">شارك نتائجك واحصل على عملات مزدوجة!</string>
 
-    <string name="guide_text1"><![CDATA[Eat <b>food</b> to grow!]]></string>
-    <string name="guide_text2"><![CDATA[Press <b>SPLIT<b> to divide and eat other players!]]></string>
-    <string name="guide_text3"><![CDATA[Press <b>THROW</b> to shoot in viruses and blow up other players!]]></string>
-    <string name="guide_text4">Stay away from viruses!</string>
+    <string name="guide_text1"><![CDATA[تأكل <b>طعام</b> ينمو!]]></string>
+    <string name="guide_text2"><![CDATA[صحافة <b>انشق، مزق<b> لتقسيم وأكل لاعبين آخرين!]]></string>
+    <string name="guide_text3"><![CDATA[صحافة <b>يرمي</b> لاطلاق النار في الفيروسات وتفجير لاعبين آخرين!]]></string>
+    <string name="guide_text4">ابتعد عن الفيروسات!</string>
 
 </resources>
