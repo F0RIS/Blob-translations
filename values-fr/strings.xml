@@ -295,5 +295,42 @@
     <string name="guide_text2"><![CDATA[presse <b>DIVISÉ<b> diviser et manger d'autres joueurs!]]></string>
     <string name="guide_text3"><![CDATA[presse <b>JETER</b> tirer dans les virus et faire sauter d'autres joueurs!]]></string>
     <string name="guide_text4">Éloignez-vous des virus!</string>
+	
+	        <string name="skins_yt_desc">
+        Vous pouvez enregistrer et télécharger votre ameplay sur YouTube pour devenir populaire et obtenir un rôle dans le jeu YT.
+        Votre skin sera ajouté à cette liste, afin que les gens l'utilisent!
+        Lire les exigences réelles pour la balise YT en discorde
+    </string>
+    
+    <string name="skins_prem_desc">Contrairement aux skins Free / YT, vous pouvez utiliser les skins PREM / LVL avec n'importe quel pseudo!</string>
+
+    <string name="skins_free_desc">Pour utiliser ces skins, vous devez définir votre nom comme nom de la peau.</string>
+    
+    <!-- In-game tips/hints -->
+     <string-array name="hints">
+        <item>Achetez VIP et débarrassez-vous de ADS!</item>
+        <item>Coopérer avec des amis et prendre en charge n'importe quel serveur!</item>
+        <item>Créez votre propre serveur avec des paramètres personnalisés et jouez avec vos amis!</item>
+        <item>Développez votre propre chaîne YouTube avec des vidéos de jeu, atteignez le rang YT et soyez populaire!</item>
+        <item>N'oubliez pas de collecter des pièces gratuites toutes les heures!</item>
+        <item>Obtenez plus d'EXP pendant une semaine que quiconque et gagnez 55000 pièces!</item>
+        <item>Vous pouvez combattre 2 vs 2 pour des pièces!</item>
+        <item>Vous pouvez faire une mêlée jusqu'à 5 contre 5!</item>
+        <item>Vous pouvez ouvrir une grande carte en cliquant sur une mini-carte dans le jeu!</item>
+        <item>Vous pouvez connecter la souris à votre téléphone et jouer avec elle comme sur un PC!</item>
+	<item>Utilisez l'application Blob Server pour créer votre propre serveur hors ligne!</item>
+        <item>Cliquez sur un triangle près du chat et invitez des amis sur votre serveur!</item>
+        <item>Connectez-vous pour monter et commencer le jeu avec une plus grande masse!</item>
+        <item>Utilisez les boosters Mass / Exp pour gagner plus et gagner plus rapidement!</item>
+        <item>Si vous manquez de pièces, achetez-les! :)</item>
+        <item>Utilisez des peaux rares et rendez tout le monde jaloux!</item>
+        <item>Personnalisez les couleurs et les paramètres du jeu selon vos besoins pour jouer plus confortablement!</item>
+        <item>Vous pouvez voir vos amis sur la mini-carte!</item>
+        <item>Discutez avec des gens et trouvez de nouveaux amis!</item>
+        <item>Rejoignez notre serveur de discorde pour voter / discuter et être à jour!</item>
+        <item>Amenez vos vrais amis à Blob pour s'amuser ensemble!</item>
+        <item>Chaque joueur a un identifiant unique, vous pouvez le partager pour que les gens puissent vous trouver dans Blob!</item>
+        <item>Vous pouvez jouer sur un serveur vide comme pratique!</item>
+    </string-array>
 
 </resources>
