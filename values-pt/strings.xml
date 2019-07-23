@@ -293,5 +293,42 @@
     <string name="guide_text2"><![CDATA[Pressione <b>SPLIT<b> para se dividir e engolir outros jogadores!]]></string>
     <string name="guide_text3"><![CDATA[Pressione <b>THROW</b> para atirar vírus, explodir ou alimentar outros jogadores!]]></string>
     <string name="guide_text4">Fique longe dos vírus!</string>
+	
+	    <string name="skins_yt_desc">
+        You can record and upload your gameplay on YouTube to become popular and get YT in-game ROLE.
+        Your skin will be added to this list, so people will user it!
+        Read actual requirements for YT tag in discord.
+    </string>
+    
+    <string name="skins_prem_desc">Unlike FREE/YT skins you can use PREM/LVL  skins with any nickname!</string>
+
+    <string name="skins_free_desc">To use these skins you should set their name as nickname</string>
+    
+    <!-- In-game tips/hints -->
+     <string-array name="hints">
+        <item>Buy VIP and get rid from ADS!</item>
+        <item>Cooperate with friends and take over any server!</item>
+        <item>Create own server with custom settings and play with your friends!</item>
+        <item>Grow own YouTube channel with gameplay vids, achieve YT rank and be popuplar!</item>
+        <item>Do not forget to collect free coins every 1 hour!</item>
+        <item>Get more EXP during one week than anybody else and win 55000 coins!</item>
+        <item>You can battle 2 vs 2 for coins!</item>
+        <item>You can make team scrimmage up to 5 vs 5!</item>
+        <item>You can open big map by clicking on a minimap in the game!</item>
+        <item>You can connect mouse to your phone and play with it like on PC!</item>
+        <item>Use Blob Server app to create own server offline!</item>
+        <item>Click on a triangle near chat and invite friends to your server!</item>
+        <item>Log in to lvl up and start game with bigger masss!</item>
+        <item>Use mass/exp boosters to win more and lvl up faster!</item>
+        <item>If you ran out of coins, just buy them! :)</item>
+        <item>Use rare skins and make everybody jealous!</item>
+        <item>Customize game colors/params to your needs to play more comfortable!</item>
+        <item>You can see your friends on the minimap!</item>
+        <item>Have a chat with people and find new friends!</item>
+        <item>Join our discord server to vote/chat and be up to date!</item>
+        <item>Bring your real life friends in Blob to have fun together!</item>
+        <item>Every player has a unique ID, you can share it so people can find you in Blob!</item>
+        <item>You can play on an empty server as a practice!</item>
+    </string-array>
 
 </resources>
