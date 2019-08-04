@@ -363,15 +363,14 @@
     <string name="guide_text2"><![CDATA[Press <b>SPLIT</b> to divide and eat other players!]]></string>
     <string name="guide_text3"><![CDATA[Press <b>THROW</b> to shoot in viruses and blow up other players!]]></string>
     <string name="guide_text4">Stay away from viruses!</string>
-    
-        <string name="skins_yt_desc">
+    <string name="guide_select_region">Select nearest region!</string>
+
+    <string name="skins_yt_desc">
         You can record and upload your gameplay on YouTube to become popular and get YT in-game ROLE.
         Your skin will be added to this list, so people will user it!
         Read actual requirements for YT tag in discord.
     </string>
-    
     <string name="skins_prem_desc">Unlike FREE/YT skins you can use PREM/LVL  skins with any nickname!</string>
-
     <string name="skins_free_desc">To use these skins you should set their name as nickname</string>
     
     <!-- In-game tips/hints -->

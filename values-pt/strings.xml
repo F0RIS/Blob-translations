@@ -293,15 +293,14 @@
     <string name="guide_text2"><![CDATA[Pressione <b>SPLIT<b> para se dividir e engolir outros jogadores!]]></string>
     <string name="guide_text3"><![CDATA[Pressione <b>THROW</b> para atirar vírus, explodir ou alimentar outros jogadores!]]></string>
     <string name="guide_text4">Fique longe dos vírus!</string>
+    <string name="guide_select_region">Selecione a região mais próxima</string>
 	
-	    <string name="skins_yt_desc">
+    <string name="skins_yt_desc">
         Você pode gravar e enviar seus vídeos para o YouTube para se tornar popular e obter a Tag YT no jogo.
         Sua skin será adicionada nesta lista, para que as pessoas usarem!
         Leia os requisitos para ter a tag YT no Discord.
     </string>
-    
     <string name="skins_prem_desc">Ao contrário das skins FREE/YT, você pode usar skins PREM/LVL com qualquer apelido!</string>
-
     <string name="skins_free_desc">Para usar essas skins você deve definir o nome delas como apelido</string>
     
     <!-- In-game tips/hints -->

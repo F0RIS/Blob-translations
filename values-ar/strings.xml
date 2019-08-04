@@ -301,18 +301,17 @@
     <string name="guide_text2"><![CDATA[صحافة <b>انشق، مزق<b> لتقسيم وأكل لاعبين آخرين!]]></string>
     <string name="guide_text3"><![CDATA[صحافة <b>يرمي</b> لاطلاق النار في الفيروسات وتفجير لاعبين آخرين!]]></string>
     <string name="guide_text4">ابتعد عن الفيروسات!</string>
+    <string name="guide_select_region">حدد أقرب منطقة</string>
     
     <string name="skins_yt_desc">
 يمكنك تسجيل وتحميل لعبتك على YouTube لتصبح شائعة والحصول على YT داخل اللعبة.
 ستتم إضافة بشرتك إلى هذه القائمة ، بحيث يستخدمها المستخدمون!
 قراءة المتطلبات الفعلية لعلامة YT في الفتنة.
     </string>
-    
     <string name="skins_prem_desc">على عكس جلود FREE / YT ، يمكنك استخدام جلود PREM / LVL مع أي لقب!</string>
-    
     <string name="skins_free_desc">لاستخدام هذه الجلود ، يجب عليك تعيين اسمك كاسم الجلد.</string>
     
-        <!-- In-game tips/hints -->
+    <!-- In-game tips/hints -->
     <string-array name="hints">
         <item>شراء VIP والتخلص من الإعلانات!</item>
         <item>التعاون مع الأصدقاء والاستيلاء على أي خادم!</item>
@@ -339,5 +338,4 @@
         <item>يمكنك اللعب على خادم فارغ كممارسة!</item>
         <item>تحقق من VK الرسمية للبقاء حتى الآن.</item>
     </string-array>
-    
 </resources>

@@ -292,15 +292,14 @@
     <string name="guide_text2"><![CDATA[Clic <b>SPLIT<b> para dividir y tragar a otros jugadores!]]></string>
     <string name="guide_text3"><![CDATA[Clic <b>THROW</b> para disparar virus, alimentar o detonar a otros jugadores!]]></string>
     <string name="guide_text4">Quédate lejos de los virus!</string>
+    <string name="guide_select_region">Seleccione la región más cercana</string>
 	
-	    <string name="skins_yt_desc">
+    <string name="skins_yt_desc">
         Puedes grabar y subir tus videos a YouTube para ser popular y obtener la etiqueta YT en el juego!
         Su skin se agregará a esta lista, para que las personas puedan usarla!
         Lea los requisitos para tener la etiqueta YT en Discord!
     </string>
-    
     <string name="skins_prem_desc">Con diferencia de skins FREE/YT, puedes usar skins PREM/LVL con cualquier apodo!</string>
-
     <string name="skins_free_desc">Para usar estas skins, debes ponerte su nombre como apodo</string>
     
     <!-- In-game tips/hints -->
@@ -329,5 +328,4 @@
         <item>Cada jugador tiene una ID única, puedes compartirla para que las personas puedan encontrarla en Blob!</item>
         <item>Puedes jugar en un servidor vacío para entrenar!</item>
     </string-array>
-
 </resources>
