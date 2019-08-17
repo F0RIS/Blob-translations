@@ -282,6 +282,8 @@
     <string name="dialog_vip_desc_start_mass"> بدايه للكتلة</string>
     <string name="dialog_vip_desc_discount">خصم على الدعاءم</string>
     <string name="dialog_vip_desc_chat_label">علامة في الشات</string>
+    <string name="dialog_vip_desc_border">Rainbow border</string>
+    <string name="dialog_vip_desc_lock_name">Gold lowered name</string>
     <string name="side">جانب:</string>
     <string name="bottom">الأسفل:</string>
     <string name="chat_m_hide_show">إخفاء / عرض</string>
@@ -310,7 +312,10 @@
     </string>
     <string name="skins_prem_desc">على عكس جلود FREE / YT ، يمكنك استخدام جلود PREM / LVL مع أي لقب!</string>
     <string name="skins_free_desc">لاستخدام هذه الجلود ، يجب عليك تعيين اسمك كاسم الجلد.</string>
-    
+    <string name="revenge">Revenge!</string>
+    <string name="kill_streak">Kill streak!</string>
+    <string name="killed_you">%s killed you</string>
+
     <!-- In-game tips/hints -->
     <string-array name="hints">
         <item>شراء VIP والتخلص من الإعلانات!</item>
@@ -337,5 +342,9 @@
         <item>كل لاعب لديه معرف فريد ، يمكنك مشاركته حتى يتمكن الأشخاص من العثور عليك في Blob!</item>
         <item>يمكنك اللعب على خادم فارغ كممارسة!</item>
         <item>تحقق من VK الرسمية للبقاء حتى الآن.</item>
+        <item>You can click on IP label and change it or open servers list!</item>
+        <item>Make sure to join our socials to be up to date, find friends and improve your skills!</item>
+        <item>We always experiment with new game modes. You can find them in servers list (unofficial category)!</item>
+        <item>We have awesome test game modes in unofficial!)</item>
     </string-array>
 </resources>

@@ -334,12 +334,14 @@
     <string name="try_for_free">Try for FREE!</string>
     <string name="account">Account</string>
     <string name="no_ads">no ads</string>
-    <string name="dialog_vip_desc_free_hours">free hour <b>coins</b></string>
+    <string name="dialog_vip_desc_free_hours">hour &amp; in-game <b>coins</b></string>
     <string name="dialog_vip_desc_ingame_coins">in-game <b>coins</b></string>
     <string name="dialog_vip_desc_additional_exp">additional <b>exp</b></string>
     <string name="dialog_vip_desc_start_mass">start mass</string>
     <string name="dialog_vip_desc_discount">discount on boosters</string>
     <string name="dialog_vip_desc_chat_label">chat and profile label</string>
+    <string name="dialog_vip_desc_border">Rainbow border</string>
+    <string name="dialog_vip_desc_lock_name">Gold lowered name</string>
 
     <string name="side">Side:</string>
     <string name="bottom">Bottom:</string>
@@ -372,9 +374,12 @@
     </string>
     <string name="skins_prem_desc">Unlike FREE/YT skins you can use PREM/LVL  skins with any nickname!</string>
     <string name="skins_free_desc">To use these skins you should set their name as nickname</string>
-    
+    <string name="revenge">Revenge!</string>
+    <string name="kill_streak">Kill streak!</string>
+    <string name="killed_you">%s killed you</string>
+
     <!-- In-game tips/hints -->
-     <string-array name="hints">
+    <string-array name="hints">
         <item>Buy VIP and get rid from ADS!</item>
         <item>Cooperate with friends and take over any server!</item>
         <item>Create own server with custom settings and play with your friends!</item>
@@ -398,5 +403,9 @@
         <item>Bring your real life friends in Blob to have fun together!</item>
         <item>Every player has a unique ID, you can share it so people can find you in Blob!</item>
         <item>You can play on an empty server as a practice!</item>
+        <item>You can click on IP label and change it or open servers list!</item>
+        <item>Make sure to join our socials to be up to date, find friends and improve your skills!</item>
+        <item>We always experiment with new game modes. You can find them in servers list (unofficial category)!</item>
+        <item>We have awesome test game modes in unofficial!)</item>
     </string-array>
 </resources>

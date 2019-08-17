@@ -274,6 +274,8 @@
     <string name="dialog_vip_desc_start_mass">startmasse</string>
     <string name="dialog_vip_desc_discount">rabatt auf booster</string>
     <string name="dialog_vip_desc_chat_label">chat und profilmarkierung</string>
+    <string name="dialog_vip_desc_border">Rainbow border</string>
+    <string name="dialog_vip_desc_lock_name">Gold lowered name</string>
     <string name="side">Seite:</string>
     <string name="bottom">Unterseite:</string>
     <string name="chat_m_hide_show">verbergen/anzeigen</string>
@@ -297,6 +299,9 @@
     <string name="skins_yt_desc">You can record and upload your gameplay on YouTube to become popular and get YT in-game ROLE. Your skin will be added to this list, so people will user it! Read actual requirements for YT tag in discord</string>
     <string name="skins_prem_desc">Unlike FREE/YT skins you can use PREM/LVL  skins with any nickname!</string>
     <string name="skins_free_desc">To use these skins you should set their name as nickname</string>
+    <string name="revenge">Revenge!</string>
+    <string name="kill_streak">Kill streak!</string>
+    <string name="killed_you">%s killed you</string>
 
     <string-array name="hints">
         <item>Buy VIP and get rid from ADS!</item>
@@ -322,5 +327,9 @@
         <item>Bring your real life friends in Blob to have fun together!</item>
         <item>Every player has a unique ID, you can share it so people can find you in Blob!</item>
         <item>You can play on an empty server as a practice!</item>
+        <item>You can click on IP label and change it or open servers list!</item>
+        <item>Make sure to join our socials to be up to date, find friends and improve your skills!</item>
+        <item>We always experiment with new game modes. You can find them in servers list (unofficial category)!</item>
+        <item>We have awesome test game modes in unofficial!)</item>
     </string-array>
 </resources>

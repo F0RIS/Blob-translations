@@ -276,6 +276,8 @@
     <string name="dialog_vip_desc_start_mass">taille de départ</string>
     <string name="dialog_vip_desc_discount">réduction sur les boosters</string>
     <string name="dialog_vip_desc_chat_label">étiquette de chat et de profil</string>
+    <string name="dialog_vip_desc_border">Rainbow border</string>
+    <string name="dialog_vip_desc_lock_name">Gold lowered name</string>
     <string name="side">Côté:</string>
     <string name="bottom">Bas:</string>
 
@@ -304,6 +306,9 @@
     </string>
     <string name="skins_prem_desc">Contrairement aux skins Free / YT, vous pouvez utiliser les skins PREM / LVL avec n\'importe quel pseudo!</string>
     <string name="skins_free_desc">Pour utiliser ces skins, vous devez définir votre nom comme nom de la peau.</string>
+    <string name="revenge">Revenge!</string>
+    <string name="kill_streak">Kill streak!</string>
+    <string name="killed_you">%s killed you</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -330,6 +335,10 @@
         <item>Amenez vos vrais amis à Blob pour s\'amuser ensemble!</item>
         <item>Chaque joueur a un identifiant unique, vous pouvez le partager pour que les gens puissent vous trouver dans Blob!</item>
         <item>Vous pouvez jouer sur un serveur vide comme pratique!</item>
+        <item>You can click on IP label and change it or open servers list!</item>
+        <item>Make sure to join our socials to be up to date, find friends and improve your skills!</item>
+        <item>We always experiment with new game modes. You can find them in servers list (unofficial category)!</item>
+        <item>We have awesome test game modes in unofficial!)</item>
     </string-array>
 
 </resources>

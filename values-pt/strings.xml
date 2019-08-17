@@ -275,6 +275,8 @@
     <string name="dialog_vip_desc_start_mass">Massa inicial</string>
     <string name="dialog_vip_desc_discount">Desconto em impulsos</string>
     <string name="dialog_vip_desc_chat_label">Bate-papo e perfil</string>
+    <string name="dialog_vip_desc_border">Rainbow border</string>
+    <string name="dialog_vip_desc_lock_name">Gold lowered name</string>
     <string name="side">Lados:</string>
     <string name="bottom">Altura:</string>
     <string name="chat_m_hide_show">Ocultar/Mostrar</string>
@@ -294,7 +296,7 @@
     <string name="guide_text3"><![CDATA[Pressione <b>THROW</b> para atirar vírus, explodir ou alimentar outros jogadores!]]></string>
     <string name="guide_text4">Fique longe dos vírus!</string>
     <string name="guide_select_region">Selecione a região mais próxima</string>
-	
+
     <string name="skins_yt_desc">
         Você pode gravar e enviar seus vídeos para o YouTube para se tornar popular e obter a Tag YT no jogo.
         Sua skin será adicionada nesta lista, para que as pessoas usarem!
@@ -302,9 +304,12 @@
     </string>
     <string name="skins_prem_desc">Ao contrário das skins FREE/YT, você pode usar skins PREM/LVL com qualquer apelido!</string>
     <string name="skins_free_desc">Para usar essas skins você deve definir o nome delas como apelido</string>
-    
+    <string name="revenge">Revenge!</string>
+    <string name="kill_streak">Kill streak!</string>
+    <string name="killed_you">%s killed you</string>
+
     <!-- In-game tips/hints -->
-     <string-array name="hints">
+    <string-array name="hints">
         <item>Assine o VIP para se livrar dos ADS!</item>
         <item>Jogue em conjunto com amigos e domine qualquer servidor!</item>
         <item>Crie seu próprio servidor com configurações personalizadas e jogue com seus amigos!</item>
@@ -328,6 +333,10 @@
         <item>Traga seus amigos da vida real em Blob para se divertir juntos!</item>
         <item>Cada jogador tem um ID único, você pode compartilhá-lo para que as pessoas possam encontrá-lo no Blob!</item>
         <item>Você pode jogar em um servidor vazio, para treinar!</item>
+        <item>You can click on IP label and change it or open servers list!</item>
+        <item>Make sure to join our socials to be up to date, find friends and improve your skills!</item>
+        <item>We always experiment with new game modes. You can find them in servers list (unofficial category)!</item>
+        <item>We have awesome test game modes in unofficial!)</item>
     </string-array>
 
 </resources>

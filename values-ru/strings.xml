@@ -267,12 +267,15 @@
     <string name="try_for_free">Попробовать бесплатно!</string>
     <string name="account">Аккаунт</string>
     <string name="no_ads">нет рекламы</string>
-    <string name="dialog_vip_desc_free_hours">бесплатные часовые <b>монеты</b></string>
+    <string name="dialog_vip_desc_free_hours">часовые &amp; собранные <b>монеты</b></string>
     <string name="dialog_vip_desc_ingame_coins">собранные в игре <b>монеты</b></string>
     <string name="dialog_vip_desc_additional_exp">дополнительный <b>опыт</b></string>
     <string name="dialog_vip_desc_start_mass">стартовая масса</string>
     <string name="dialog_vip_desc_discount">скидка на бустеры</string>
     <string name="dialog_vip_desc_chat_label">метка в чате и профиле</string>
+    <string name="dialog_vip_desc_border">радужная обводка</string>
+    <string name="dialog_vip_desc_lock_name">золотой низкий ник</string>
+
     <string name="side">Сторона:</string>
     <string name="bottom">Низ:</string>
 
@@ -303,6 +306,9 @@
     </string>
     <string name="skins_prem_desc">В отличии от FREE/YT скинов ты можешь использовать PREM/LVL скины с любым ником!</string>
     <string name="skins_free_desc">Что бы использовать эти скины ты должен установить их имя как ник</string>
+    <string name="revenge">Месть!</string>
+    <string name="kill_streak">Череда убийств!</string>
+    <string name="killed_you">%s убил тебя</string>
 
     <string-array name="hints">
         <item>Купи ВИП чтобы избавиться от рекламы!</item>
@@ -328,6 +334,10 @@
         <item>Зови своих друзей играть в Blob и отрывайтесь вместе!</item>
         <item>У каждого игрока есть уникальный ID, давай его людям чтобы они нашли тебя в игре!</item>
         <item>Ты можешь играть/тренироваться на пустом сервере!</item>
+        <item>Ты можешь нажать на IP в меню и изменить его или открыть список серверов!</item>
+        <item>Вступай в наши социалки, будь в курсе событий/обновлений и находий друзей!</item>
+        <item>Мы постоянно экспериментируем с новыми режимами игры, ты можешь найти их в списке серверов (unofficial)!</item>
+        <item>Не забывай проверять экспериментальные сервера в unofficial!)</item>
     </string-array>
 
 </resources>
