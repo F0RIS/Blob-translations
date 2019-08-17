@@ -275,7 +275,7 @@
     <string name="dialog_vip_desc_discount">Descuento en refuerzos</string>
     <string name="dialog_vip_desc_chat_label">Chat y perfil</string>
     <string name="dialog_vip_desc_border">Borde arcoiris</string>
-    <string name="dialog_vip_desc_lock_name">G Apodo abajo</string>
+    <string name="dialog_vip_desc_lock_name">Apodo abajo</string>
     <string name="side">Lados:</string>
     <string name="bottom">Altura:</string>
     <string name="chat_m_hide_show">Deshabilitar/Activar</string>
