@@ -275,8 +275,8 @@
     <string name="dialog_vip_desc_start_mass">Massa inicial</string>
     <string name="dialog_vip_desc_discount">Desconto em impulsos</string>
     <string name="dialog_vip_desc_chat_label">Bate-papo e perfil</string>
-    <string name="dialog_vip_desc_border">Rainbow border</string>
-    <string name="dialog_vip_desc_lock_name">Gold lowered name</string>
+    <string name="dialog_vip_desc_border">Borda de arco-íris</string>
+    <string name="dialog_vip_desc_lock_name">Nome embaixo</string>
     <string name="side">Lados:</string>
     <string name="bottom">Altura:</string>
     <string name="chat_m_hide_show">Ocultar/Mostrar</string>
@@ -304,9 +304,9 @@
     </string>
     <string name="skins_prem_desc">Ao contrário das skins FREE/YT, você pode usar skins PREM/LVL com qualquer apelido!</string>
     <string name="skins_free_desc">Para usar essas skins você deve definir o nome delas como apelido</string>
-    <string name="revenge">Revenge!</string>
-    <string name="kill_streak">Kill streak!</string>
-    <string name="killed_you">%s killed you</string>
+    <string name="revenge">Vingança!</string>
+    <string name="kill_streak">Matar à risca!</string>
+    <string name="killed_you">%s matou você</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -333,10 +333,10 @@
         <item>Traga seus amigos da vida real em Blob para se divertir juntos!</item>
         <item>Cada jogador tem um ID único, você pode compartilhá-lo para que as pessoas possam encontrá-lo no Blob!</item>
         <item>Você pode jogar em um servidor vazio, para treinar!</item>
-        <item>You can click on IP label and change it or open servers list!</item>
-        <item>Make sure to join our socials to be up to date, find friends and improve your skills!</item>
-        <item>We always experiment with new game modes. You can find them in servers list (unofficial category)!</item>
-        <item>We have awesome test game modes in unofficial!)</item>
+        <item>Você pode clicar no rótulo IP e alterá-lo ou abrir lista de servidores!</item>
+        <item>Certifique-se de juntar-se as nossas redes sociais para estar atualizado, encontrar amigos e melhorar suas habilidades!</item>
+        <item>Nós sempre experimentamos novos modos de jogo. Você pode encontrá-los na lista de servidores (servidores não oficiais)!</item>
+        <item>Temos incríveis modos de jogo de teste em não oficiais!)</item>
     </string-array>
 
 </resources>
