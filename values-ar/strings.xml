@@ -275,6 +275,7 @@
 
     <string name="try_for_free">حاول مجانا</string>
     <string name="account">حساب</string>
+    <string name="dialog_vip_desc_title2">Tired from ADS? TRY</string>
     <string name="no_ads"> تعطيل الإعلانات</string>
     <string name="dialog_vip_desc_free_hours">العملات المجانيه ساعة</string>
     <string name="dialog_vip_desc_ingame_coins"> العملات في اللعبة</string>
@@ -303,6 +304,10 @@
     <string name="guide_text2"><![CDATA[صحافة <b>انشق، مزق<b> لتقسيم وأكل لاعبين آخرين!]]></string>
     <string name="guide_text3"><![CDATA[صحافة <b>يرمي</b> لاطلاق النار في الفيروسات وتفجير لاعبين آخرين!]]></string>
     <string name="guide_text4">ابتعد عن الفيروسات!</string>
+    <string name="guide_text5">
+        <![CDATA[This game needs <b>strong internet</b>! Sit closer to your Wi-Fi,
+        mobile internet is not recommended! Use <b><i><font color="#1A0DAB">Blob Server</font></i></b> to play offline!]]>
+    </string>
     <string name="guide_select_region">حدد أقرب منطقة</string>
     
     <string name="skins_yt_desc">
@@ -315,6 +320,9 @@
     <string name="revenge">Revenge!</string>
     <string name="kill_streak">Kill streak!</string>
     <string name="killed_you">%s killed you</string>
+    <string name="servers_list_desc">Here you can choose empty server to practice alone or with friends and test (UNOFFICIAL) game modes</string>
+    <string name="custom_server_desc">Here you can create private server with custom params, add bots/minions and play with friends!</string>
+    <string name="ts2v2_desc">Here you can play in teams battle 2 vs 2. You can make coins bet and/or create battle with a key so only your friends will participate in it</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -341,7 +349,6 @@
         <item>أحضر أصدقاءك الحقيقيين في Blob واستمتعوا معًا!</item>
         <item>كل لاعب لديه معرف فريد ، يمكنك مشاركته حتى يتمكن الأشخاص من العثور عليك في Blob!</item>
         <item>يمكنك اللعب على خادم فارغ كممارسة!</item>
-        <item>تحقق من VK الرسمية للبقاء حتى الآن.</item>
         <item>يمكنك النقر فوق تسمية IP وتغييره أو فتح قائمة الخوادم!</item>
         <item>تأكد من الانضمام إلى مواقع التواصل الاجتماعي لدينا حتى تكون محدّثًا والعثور على أصدقاء وتحسين مهاراتك!</item>
         <item>نحن دائما تجربة مع لعبة وسائط جديدة. يمكنك العثور عليها في قائمة الخوادم (فئة غير رسمية)!</item>

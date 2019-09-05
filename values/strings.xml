@@ -12,7 +12,7 @@
     <string name="no_internet">For this game you need an internet connection</string>
     <string name="show_minimap">Show minimap</string>
     <string name="show_chat">Show chat</string>
-    <string name="show_advanced_minimap">Advanced minimap</string>
+    <string name="show_advanced_minimap">Sector minimap</string>
     <string name="region">Region:</string>
     <string name="show_grid">Show grid</string>
     <string name="show_mass">Show mass</string>
@@ -294,8 +294,8 @@
     <string name="edit">Edit</string>
     <string name="bet_value">Bet value:</string>
     <string name="create">Create</string>
-    <string name="custom_server">Custom server</string>
-    <string name="custom_server_created">Custom server created</string>
+    <string name="custom_server">Private server</string>
+    <string name="custom_server_created">Private server created</string>
     <string name="highlight_friends">Highlight friends</string>
     <string name="custom_colors">Custom theme</string>
     <string name="background_title">Background</string>
@@ -333,6 +333,7 @@
 
     <string name="try_for_free">Try for FREE!</string>
     <string name="account">Account</string>
+    <string name="dialog_vip_desc_title2">Tired from ADS? TRY</string>
     <string name="no_ads">no ads</string>
     <string name="dialog_vip_desc_free_hours">hour &amp; in-game <b>coins</b></string>
     <string name="dialog_vip_desc_ingame_coins">in-game <b>coins</b></string>
@@ -365,6 +366,10 @@
     <string name="guide_text2"><![CDATA[Press <b>SPLIT</b> to divide and eat other players!]]></string>
     <string name="guide_text3"><![CDATA[Press <b>THROW</b> to shoot in viruses and blow up other players!]]></string>
     <string name="guide_text4">Stay away from viruses!</string>
+    <string name="guide_text5">
+        <![CDATA[This game needs <b>strong internet</b>! Sit closer to your Wi-Fi,
+        mobile internet is not recommended! Use <b><i><font color="#1A0DAB">Blob Server</font></i></b> to play offline!]]>
+    </string>
     <string name="guide_select_region">Select nearest region!</string>
 
     <string name="skins_yt_desc">
@@ -372,8 +377,12 @@
         Your skin will be added to this list, so people will user it!
         Read actual requirements for YT tag in discord.
     </string>
+    <string name="servers_list_desc">Here you can choose empty server to practice alone or with friends and test (UNOFFICIAL) game modes</string>
+    <string name="custom_server_desc">Here you can create private server with custom params, add bots/minions and play with friends!</string>
+    <string name="ts2v2_desc">Here you can play in 2 vs 2 team battles. You can bet coins and/or create battle with a key so only your friends will participate in it!</string>
     <string name="skins_prem_desc">Unlike FREE/YT skins you can use PREM/LVL  skins with any nickname!</string>
     <string name="skins_free_desc">To use these skins you should set their name as nickname</string>
+
     <string name="revenge">Revenge!</string>
     <string name="kill_streak">Kill streak!</string>
     <string name="killed_you">%s killed you</string>

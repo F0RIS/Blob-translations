@@ -267,6 +267,7 @@
 
     <string name="try_for_free">Prueba gratuita!</string>
     <string name="account">Cuenta</string>
+    <string name="dialog_vip_desc_title2">Tired from ADS? TRY</string>
     <string name="no_ads">deshabilitar anuncios</string>
     <string name="dialog_vip_desc_free_hours"><b>Horas gratis en</b>monedas</string>
     <string name="dialog_vip_desc_ingame_coins"><b>En juego de</b>monedas</string>
@@ -294,6 +295,10 @@
     <string name="guide_text2"><![CDATA[Clic <b>SPLIT<b> para dividir y tragar a otros jugadores!]]></string>
     <string name="guide_text3"><![CDATA[Clic <b>THROW</b> para disparar virus, alimentar o detonar a otros jugadores!]]></string>
     <string name="guide_text4">Quédate lejos de los virus!</string>
+    <string name="guide_text5">
+        <![CDATA[This game needs <b>strong internet</b>! Sit closer to your Wi-Fi,
+        mobile internet is not recommended! Use <b><i><font color="#1A0DAB">Blob Server</font></i></b> to play offline!]]>
+    </string>
     <string name="guide_select_region">Seleccione la región más cercana</string>
 
     <string name="skins_yt_desc">
@@ -306,6 +311,9 @@
     <string name="revenge">Venganza!</string>
     <string name="kill_streak">Mata la tira!</string>
     <string name="killed_you">%s te mato</string>
+    <string name="servers_list_desc">Here you can choose empty server to practice alone or with friends and test (UNOFFICIAL) game modes</string>
+    <string name="custom_server_desc">Here you can create private server with custom params, add bots/minions and play with friends!</string>
+    <string name="ts2v2_desc">Here you can play in teams battle 2 vs 2. You can make coins bet and/or create battle with a key so only your friends will participate in it</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

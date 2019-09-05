@@ -267,6 +267,7 @@
 
     <string name="try_for_free">Mach es kostenlos!</string>
     <string name="account">Konto</string>
+    <string name="dialog_vip_desc_title2">Tired from ADS? TRY</string>
     <string name="no_ads">keine Werbung</string>
     <string name="dialog_vip_desc_free_hours">x2 gratis <b>Geld</b></string>
     <string name="dialog_vip_desc_ingame_coins">in-game <b>Geld</b></string>
@@ -294,6 +295,10 @@
     <string name="guide_text2"><![CDATA[Drücken Sie <b>TEILT<b> andere Spieler zu teilen und zu essen!]]></string>
     <string name="guide_text3"><![CDATA[Drücken Sie <b>WERFEN</b> Viren einschleudern und andere Spieler in die Luft jagen!]]></string>
     <string name="guide_text4">Finger weg von Viren!</string>
+    <string name="guide_text5">
+        <![CDATA[This game needs <b>strong internet</b>! Sit closer to your Wi-Fi,
+        mobile internet is not recommended! Use <b><i><font color="#1A0DAB">Blob Server</font></i></b> to play offline!]]>
+    </string>
     <string name="guide_select_region">Wählen Sie die nächstgelegene Region</string>
 
     <string name="skins_yt_desc">You can record and upload your gameplay on YouTube to become popular and get YT in-game ROLE. Your skin will be added to this list, so people will user it! Read actual requirements for YT tag in discord</string>
@@ -302,6 +307,9 @@
     <string name="revenge">Revenge!</string>
     <string name="kill_streak">Kill streak!</string>
     <string name="killed_you">%s killed you</string>
+    <string name="servers_list_desc">Here you can choose empty server to practice alone or with friends and test (UNOFFICIAL) game modes</string>
+    <string name="custom_server_desc">Here you can create private server with custom params, add bots/minions and play with friends!</string>
+    <string name="ts2v2_desc">Here you can play in teams battle 2 vs 2. You can make coins bet and/or create battle with a key so only your friends will participate in it</string>
 
     <string-array name="hints">
         <item>Buy VIP and get rid from ADS!</item>

@@ -19,7 +19,7 @@
     <string name="show_mass">Показывать массу</string>
     <string name="show_minimap">Показывать миникарту</string>
     <string name="show_chat">Показывать чат</string>
-    <string name="show_advanced_minimap">Продвинутая миникарта</string>
+    <string name="show_advanced_minimap">Секторная миникарта</string>
     <string name="show_names">Показывать имена</string>
     <string name="show_skins">Показывать скины</string>
     <string name="show_DirectionPointer">Указатель направления</string>
@@ -266,6 +266,7 @@
 
     <string name="try_for_free">Попробовать бесплатно!</string>
     <string name="account">Аккаунт</string>
+    <string name="dialog_vip_desc_title2">Устал от рекламы? Попробуй</string>
     <string name="no_ads">нет рекламы</string>
     <string name="dialog_vip_desc_free_hours">часовые &amp; собранные <b>монеты</b></string>
     <string name="dialog_vip_desc_ingame_coins">собранные в игре <b>монеты</b></string>
@@ -297,6 +298,10 @@
     <string name="guide_text2"><![CDATA[Жми <b>SPLIT</b> чтобы делиться и есть других игроков!]]></string>
     <string name="guide_text3"><![CDATA[Жми <b>THROW</b> чтобы стрелять в вирусы и взрывать игроков!]]></string>
     <string name="guide_text4">Остерегайся вирусов!</string>
+    <string name="guide_text5">
+        <![CDATA[Этой игре нужен <b>хороший интернет</b>! Сядь ближе к Wi-Fi,
+        мобильный интернет не рекомендуется! Используй <b><i><font color="#1A0DAB">Blob Server</font></i></b> для игры оффлайн!]]>
+    </string>
     <string name="guide_select_region">Выбери ближайший регион!</string>
 
     <string name="skins_yt_desc">
@@ -304,6 +309,10 @@
         Твой скин буде добавлен в этот список и люди будут пользоваться им!
         Читай актуальные требования для получения роли YT в нашем дискорде.
     </string>
+    <string name="servers_list_desc">Тут ты можешь выбрать пустой сервер и играть в одиночку или с друзьями, а так же тестировать UNOFFICIAL режимы!</string>
+    <string name="custom_server_desc">Тут ты можешь создать приватный сервер со своими настройками, добавить ботов/миньонов и играть с друзьями!</string>
+    <string name="ts2v2_desc">Тут можно играть в команде 2 на 2. Можно делать ставки монетами и/или создать бой с ключом что бы в него могли попасть только твои друзья!</string>
+
     <string name="skins_prem_desc">В отличии от FREE/YT скинов ты можешь использовать PREM/LVL скины с любым ником!</string>
     <string name="skins_free_desc">Что бы использовать эти скины ты должен установить их имя как ник</string>
     <string name="revenge">Месть!</string>
