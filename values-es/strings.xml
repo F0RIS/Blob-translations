@@ -267,7 +267,7 @@
 
     <string name="try_for_free">Prueba gratuita!</string>
     <string name="account">Cuenta</string>
-    <string name="dialog_vip_desc_title2">Tired from ADS? TRY</string>
+    <string name="dialog_vip_desc_title2">Cansado de los anuncios? Pruébalo</string>
     <string name="no_ads">deshabilitar anuncios</string>
     <string name="dialog_vip_desc_free_hours"><b>Horas gratis en</b>monedas</string>
     <string name="dialog_vip_desc_ingame_coins"><b>En juego de</b>monedas</string>
@@ -296,8 +296,8 @@
     <string name="guide_text3"><![CDATA[Clic <b>THROW</b> para disparar virus, alimentar o detonar a otros jugadores!]]></string>
     <string name="guide_text4">Quédate lejos de los virus!</string>
     <string name="guide_text5">
-        <![CDATA[This game needs <b>strong internet</b>! Sit closer to your Wi-Fi,
-        mobile internet is not recommended! Use <b><i><font color="#1A0DAB">Blob Server</font></i></b> to play offline!]]>
+        <![CDATA[Este juego necesita un <b>internet fuerte</b>! Juega cerca de tu Wifi,
+        datos móviles que no recomendamos! Usar <b><i><font color="#1A0DAB">Blob Server</font></i></b> para jugar sin conexión!]]>
     </string>
     <string name="guide_select_region">Seleccione la región más cercana</string>
 
@@ -311,9 +311,9 @@
     <string name="revenge">Venganza!</string>
     <string name="kill_streak">Mata la tira!</string>
     <string name="killed_you">%s te mato</string>
-    <string name="servers_list_desc">Here you can choose empty server to practice alone or with friends and test (UNOFFICIAL) game modes</string>
-    <string name="custom_server_desc">Here you can create private server with custom params, add bots/minions and play with friends!</string>
-    <string name="ts2v2_desc">Here you can play in teams battle 2 vs 2. You can make coins bet and/or create battle with a key so only your friends will participate in it</string>
+    <string name="servers_list_desc">Aquí puedes elegir un servidor vacío para entrenar solo o con amigos y probar los modos de juego (NO OFICIAL)</string>
+    <string name="custom_server_desc">Aquí puedes crear un servidor privado con configuraciones personalizadas, agregar bots/minions y jugar con amigos!</string>
+    <string name="ts2v2_desc">Aquí puedes jugar como un equipo 2 contra 2. Puedes hacer una apuesta con monedas y/o crear una batalla de contraseñas para que solo tus amigos participen</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
