@@ -323,6 +323,7 @@
     <string name="servers_list_desc">Here you can choose empty server to practice alone or with friends and test (UNOFFICIAL) game modes</string>
     <string name="custom_server_desc">Here you can create private server with custom params, add bots/minions and play with friends!</string>
     <string name="ts2v2_desc">Here you can play in teams battle 2 vs 2. You can make coins bet and/or create battle with a key so only your friends will participate in it</string>
+    <string name="direction_lines">Direction lines</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

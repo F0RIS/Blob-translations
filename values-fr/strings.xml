@@ -297,7 +297,7 @@
     <string name="guide_text1"><![CDATA[Tu doit mangée de la <b>masse</b> pour grandir]]></string>
     <string name="guide_text2"><![CDATA[Appuie sur <b>SPLIT<b> pour te diviser et manger les autre joueurs !]]></string>
     <string name="guide_text3"><![CDATA[Appuie sur <b>THROW</b> pour tirer des virus et nourrir les autre joueurs !]]></string>
-    <string name="guide_text4">Reste loing des virus!</string>
+    <string name="guide_text4"><![CDATA[Reste loing des <b>virus</b>!]]></string>
     <string name="guide_text5">
         <![CDATA[This game needs <b>strong internet</b>! Sit closer to your Wi-Fi,
         mobile internet is not recommended! Use <b><i><font color="#1A0DAB">Blob Server</font></i></b> to play offline!]]>
@@ -317,6 +317,7 @@
     <string name="servers_list_desc">Here you can choose empty server to practice alone or with friends and test (UNOFFICIAL) game modes</string>
     <string name="custom_server_desc">Here you can create private server with custom params, add bots/minions and play with friends!</string>
     <string name="ts2v2_desc">Here you can play in teams battle 2 vs 2. You can make coins bet and/or create battle with a key so only your friends will participate in it</string>
+    <string name="direction_lines">Direction lines</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -343,10 +344,10 @@
         <item>Amenez vos vrais amis à Blob pour s\'amuser ensemble!</item>
         <item>Chaque joueur a un identifiant unique, vous pouvez le partager pour que les gens puissent vous trouver dans Blob!</item>
         <item>Vous pouvez jouer sur un serveur vide comme pratique!</item>
-        <item>Tu peut cliquer sur l ip de l'étiquette et la change ou ouvrir la liste des serveurs!</item>
+        <item>Tu peut cliquer sur l ip de l\'étiquette et la change ou ouvrir la liste des serveurs!</item>
         <item>Sois sure de rejoindre nos reseaux sociaux pour être à jour,trouver des amis et ameliorer tes compétence!</item>
         <item>Nous testons toujour les nouveaux modes.Tu peut les trouver dans la liste des serveurs (la catégorie unoficielle)!</item>
-        <item>Nous avons d'impressionnant modes à essayé en unoficielle!)</item>
+        <item>Nous avons d\'impressionnant modes à essayé en unoficielle!)</item>
     </string-array>
 
 </resources>

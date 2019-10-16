@@ -294,7 +294,7 @@
     <string name="guide_text1"><![CDATA[Recoger <b>comida</b> para crecer!]]></string>
     <string name="guide_text2"><![CDATA[Clic <b>SPLIT<b> para dividir y tragar a otros jugadores!]]></string>
     <string name="guide_text3"><![CDATA[Clic <b>THROW</b> para disparar virus, alimentar o detonar a otros jugadores!]]></string>
-    <string name="guide_text4">Quédate lejos de los virus!</string>
+    <string name="guide_text4"><![CDATA[Quédate lejos de los <b>virus</b>!]]></string>
     <string name="guide_text5">
         <![CDATA[Este juego necesita un <b>internet fuerte</b>! Juega cerca de tu Wifi,
         datos móviles que no recomendamos! Usar <b><i><font color="#1A0DAB">Blob Server</font></i></b> para jugar sin conexión!]]>

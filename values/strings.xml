@@ -365,7 +365,7 @@
     <string name="guide_text1"><![CDATA[Eat <b>food</b> to grow!]]></string>
     <string name="guide_text2"><![CDATA[Press <b>SPLIT</b> to divide and eat other players!]]></string>
     <string name="guide_text3"><![CDATA[Press <b>THROW</b> to shoot in viruses and blow up other players!]]></string>
-    <string name="guide_text4">Stay away from viruses!</string>
+    <string name="guide_text4"><![CDATA[Stay away from <b>viruses</b>!]]></string>
     <string name="guide_text5">
         <![CDATA[This game needs <b>strong internet</b>! Sit closer to your Wi-Fi,
         mobile internet is not recommended! Use <b><i><font color="#1A0DAB">Blob Server</font></i></b> to play offline!]]>
@@ -386,6 +386,7 @@
     <string name="revenge">Revenge!</string>
     <string name="kill_streak">Kill streak!</string>
     <string name="killed_you">%s killed you</string>
+    <string name="direction_lines">Direction lines</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

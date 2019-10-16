@@ -297,7 +297,7 @@
     <string name="guide_text1"><![CDATA[Ешь <b>еду</b> и расти!]]></string>
     <string name="guide_text2"><![CDATA[Жми <b>SPLIT</b> чтобы делиться и есть других игроков!]]></string>
     <string name="guide_text3"><![CDATA[Жми <b>THROW</b> чтобы стрелять в вирусы и взрывать игроков!]]></string>
-    <string name="guide_text4">Остерегайся вирусов!</string>
+    <string name="guide_text4"><![CDATA[Остерегайся <b>вирусов</b>!]]></string>
     <string name="guide_text5">
         <![CDATA[Этой игре нужен <b>хороший интернет</b>! Сядь ближе к Wi-Fi,
         мобильный интернет не рекомендуется! Используй <b><i><font color="#1A0DAB">Blob Server</font></i></b> для игры оффлайн!]]>
@@ -318,6 +318,7 @@
     <string name="revenge">Месть!</string>
     <string name="kill_streak">Череда убийств!</string>
     <string name="killed_you">%s убил тебя</string>
+    <string name="direction_lines">Направляющие линии</string>
 
     <string-array name="hints">
         <item>Купи ВИП чтобы избавиться от рекламы!</item>
