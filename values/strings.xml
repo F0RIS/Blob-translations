@@ -333,7 +333,7 @@
 
     <string name="try_for_free">Try for FREE!</string>
     <string name="account">Account</string>
-    <string name="dialog_vip_desc_title2">Tired from ADS? TRY</string>
+    <string name="dialog_vip_desc_title2">Sick of ADS? TRY</string>
     <string name="no_ads">no ads</string>
     <string name="dialog_vip_desc_free_hours">hour &amp; in-game <b>coins</b></string>
     <string name="dialog_vip_desc_ingame_coins">in-game <b>coins</b></string>
@@ -374,48 +374,50 @@
 
     <string name="skins_yt_desc">
         You can record and upload your gameplay on YouTube to become popular and get YT in-game ROLE.
-        Your skin will be added to this list, so people will user it!
+        Your skin will be added to this list, so players can use it!
         Read actual requirements for YT tag in discord.
     </string>
-    <string name="servers_list_desc">Here you can choose empty server to practice alone or with friends and test (UNOFFICIAL) game modes</string>
-    <string name="custom_server_desc">Here you can create private server with custom params, add bots/minions and play with friends!</string>
-    <string name="ts2v2_desc">Here you can play in 2 vs 2 team battles. You can bet coins and/or create battle with a key so only your friends will participate in it!</string>
+    <string name="servers_list_desc">Here you can choose an empty server to practice alone or with friends and test (UNOFFICIAL) game modes</string>
+    <string name="custom_server_desc">Here you can create a private server with custom params, add bots/minions and play with friends!</string>
+    <string name="ts2v2_desc">Here you can play in 2 vs 2 team battles. You can bet coins and/or create battles with a key so only your friends will participate in it!</string>
     <string name="skins_prem_desc">Unlike FREE/YT skins you can use PREM/LVL  skins with any nickname!</string>
-    <string name="skins_free_desc">To use these skins you should set their name as nickname</string>
+    <string name="skins_free_desc">To use these skins you should set their name as your nickname</string>
 
     <string name="revenge">Revenge!</string>
     <string name="kill_streak">Kill streak!</string>
     <string name="killed_you">%s killed you</string>
+    <string name="you_won">YOU won the game!</string>
+    <string name="someone_won">%s won the game!</string>
     <string name="direction_lines">Direction lines</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
-        <item>Buy VIP and get rid from ADS!</item>
+        <item>Buy VIP and be free from ADS!</item>
         <item>Cooperate with friends and take over any server!</item>
-        <item>Create own server with custom settings and play with your friends!</item>
-        <item>Grow own YouTube channel with gameplay vids, achieve YT rank and be popuplar!</item>
-        <item>Do not forget to collect free coins every 1 hour!</item>
+        <item>Create your own server with custom settings and play with your friends!</item>
+        <item>Grow your own YouTube channel with gameplay vids, achieve YT rank and gain popularity!</item>
+        <item>Remember to collect FREE coins every 1 Hour!</item>
         <item>Get more EXP during one week than anybody else and win 55000 coins!</item>
         <item>You can battle 2 vs 2 for coins!</item>
         <item>You can make team scrimmage up to 5 vs 5!</item>
-        <item>You can open big map by clicking on a minimap in the game!</item>
-        <item>You can connect mouse to your phone and play with it like on PC!</item>
-        <item>Use Blob Server app to create own server offline!</item>
-        <item>Click on a triangle near chat and invite friends to your server!</item>
-        <item>Log in to lvl up and start game with bigger masss!</item>
+        <item>You can open a big map by clicking on the minimap in the game!</item>
+        <item>You can connect a mouse to your phone and play with it like on PC!</item>
+        <item>Use the Blob Server app to create your very own server offline!</item>
+        <item>Click on the triangle next to the chat and invite friends to your server!</item>
+        <item>Log in to lvl up and start the game with more mass!</item>
         <item>Use mass/exp boosters to win more and lvl up faster!</item>
-        <item>If you ran out of coins, just buy them! :)</item>
+        <item>If you run out of coins, just buy them! :)</item>
         <item>Use rare skins and make everybody jealous!</item>
-        <item>Customize game colors/params to your needs to play more comfortable!</item>
+        <item>Customize game colors/params to your needs to make playing more comfortable!</item>
         <item>You can see your friends on the minimap!</item>
         <item>Have a chat with people and find new friends!</item>
         <item>Join our discord server to vote/chat and be up to date!</item>
         <item>Bring your real life friends in Blob to have fun together!</item>
         <item>Every player has a unique ID, you can share it so people can find you in Blob!</item>
-        <item>You can play on an empty server as a practice!</item>
-        <item>You can click on IP label and change it or open servers list!</item>
-        <item>Make sure to join our socials to be up to date, find friends and improve your skills!</item>
-        <item>We always experiment with new game modes. You can find them in servers list (unofficial category)!</item>
+        <item>You can play on an empty server to practice!</item>
+        <item>You can click on the IP label to change it or open the servers list!</item>
+        <item>Make sure you join our socials to be up to date, find friends and improve your skills!</item>
+        <item>We always experiment with new game modes. You can find them in the servers list (unofficial category)!</item>
         <item>We have awesome test game modes in unofficial!)</item>
     </string-array>
 </resources>

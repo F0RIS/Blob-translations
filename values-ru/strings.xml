@@ -318,6 +318,8 @@
     <string name="revenge">Месть!</string>
     <string name="kill_streak">Череда убийств!</string>
     <string name="killed_you">%s убил тебя</string>
+    <string name="you_won">ТЫ победил!</string>
+    <string name="someone_won">%s победил!</string>
     <string name="direction_lines">Направляющие линии</string>
 
     <string-array name="hints">
