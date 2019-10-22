@@ -315,9 +315,9 @@
     <string name="servers_list_desc">Aqui você pode escolher um servidor vazio para treinar sozinho ou com amigos e testar os modos de jogo (NÃO OFICIAIS)</string>
     <string name="custom_server_desc">Aqui você pode criar um servidor privado com configurações personalizadas, adicionar bots/minions e jogar com os amigos!</string>
     <string name="ts2v2_desc">Aqui você pode jogar em equipe 2vs2. Você pode fazer uma aposta de moedas e/ou criar uma batalha com senha para que apenas seus amigos participem dela</string>
-    <string name="you_won">YOU won the game!</string>
-    <string name="someone_won">%s won the game!</string>
-    <string name="direction_lines">Direction lines</string>
+    <string name="you_won">VOCÊ ganhou o jogo!</string>
+    <string name="someone_won">%s ganhou o jogo !</string>
+    <string name="direction_lines">Linhas direcionais</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
