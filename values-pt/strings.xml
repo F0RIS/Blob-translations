@@ -207,7 +207,7 @@
     <string name="key">Com senha</string>
     <string name="left_label">(%s saiu)</string>
     <string name="coins_battle">"Batalha de moedas: "</string>
-    <string name="Spectate">Espectar</string>
+    <string name="spectate_title">Espectar</string>
     <string name="game_isnt_started_yet">A partida ainda não começou. Você pode perder suas moedas!</string>
     <string name="show_cell_border">Mostrar borda</string>
     <string name="cur_week_exp">Cur. Week Exp</string>
@@ -348,6 +348,7 @@
         <item>Certifique-se de juntar-se as nossas redes sociais para estar atualizado, encontrar amigos e melhorar suas habilidades!</item>
         <item>Nós sempre experimentamos novos modos de jogo. Você pode encontrá-los na lista de servidores (servidores não oficiais)!</item>
         <item>Temos incríveis modos de jogo de teste em não oficiais!)</item>
+        <item>If you are new to this game, check out on YouTube how other people rocks in Blob! Its amazing!</item>
     </string-array>
 
 </resources>

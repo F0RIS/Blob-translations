@@ -215,7 +215,7 @@
     <string name="key">مفتاح</string>
     <string name="left_label">(%s left)</string>
     <string name="coins_battle">"عملات معركة "</string>
-    <string name="Spectate">Spectate</string>
+    <string name="spectate_title">Spectate</string>
     <string name="game_isnt_started_yet">لم تبدأ اللعبة بعد. قد تفقد القطع النقدية الخاصة بك!</string>
     <string name="show_cell_border">إظهار حدود الخلية</string>
     <string name="cur_week_exp">لئيم. أسبوع إكس</string>
@@ -356,5 +356,6 @@
         <item>تأكد من الانضمام إلى مواقع التواصل الاجتماعي لدينا حتى تكون محدّثًا والعثور على أصدقاء وتحسين مهاراتك!</item>
         <item>نحن دائما تجربة مع لعبة وسائط جديدة. يمكنك العثور عليها في قائمة الخوادم (فئة غير رسمية)!</item>
         <item>لدينا لعبة وسائط اختبار رهيبة في غير رسمي!)</item>
+        <item>If you are new to this game, check out on YouTube how other people rocks in Blob! Its amazing!</item>
     </string-array>
 </resources>

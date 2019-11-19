@@ -205,7 +205,7 @@
     <string name="key">Ключ</string>
     <string name="left_label">(осталось %s)</string>
     <string name="coins_battle">"Битва за монеты: "</string>
-    <string name="Spectate">Наблюдать</string>
+    <string name="spectate_title">Наблюдать</string>
     <string name="game_isnt_started_yet">Игра еще не стартовала. Вы можете потерять свои монеты!</string>
     <string name="show_cell_border">Показывать обводку</string>
     <string name="cur_week_exp">Текущ. нед. Exp</string>
@@ -350,6 +350,7 @@
         <item>Вступай в наши социалки, будь в курсе событий/обновлений и находий друзей!</item>
         <item>Мы постоянно экспериментируем с новыми режимами игры, ты можешь найти их в списке серверов (unofficial)!</item>
         <item>Не забывай проверять экспериментальные сервера в unofficial!)</item>
+        <item>Если ты новичок, посмотри на YouTube как другие нагибают в Блоб! Это божественно!</item>
     </string-array>
 
 </resources>

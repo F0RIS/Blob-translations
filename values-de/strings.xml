@@ -205,7 +205,7 @@
     <string name="key">Schlüssel</string>
     <string name="left_label">(%s left)</string>
     <string name="coins_battle">Münzen kämpfen: </string>
-    <string name="Spectate">Zuschauen</string>
+    <string name="spectate_title">Zuschauen</string>
     <string name="game_isnt_started_yet">Das Spiel wurde noch nicht gestartet. Sie können Ihre Münzen verlieren!</string>
     <string name="show_cell_border">Zellenrand anzeigen</string>
     <string name="cur_week_exp">Kur. Woche Exp</string>
@@ -342,5 +342,6 @@
         <item>Make sure to join our socials to be up to date, find friends and improve your skills!</item>
         <item>We always experiment with new game modes. You can find them in servers list (unofficial category)!</item>
         <item>We have awesome test game modes in unofficial!)</item>
+        <item>If you are new to this game, check out on YouTube how other people rocks in Blob! Its amazing!</item>
     </string-array>
 </resources>

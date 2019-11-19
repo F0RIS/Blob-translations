@@ -208,7 +208,7 @@
     <string name="key">Clé</string>
     <string name="left_label">(%s left)</string>
     <string name="coins_battle">"Bataille de pièces::"</string>
-    <string name="Spectate">Regarder</string>
+    <string name="spectate_title">Regarder</string>
     <string name="game_isnt_started_yet">Le jeu n\'a pas encore commencé. Vous risquez de perdre vos pièces de monnaie!</string>
     <string name="show_cell_border">Afficher la bordure de la cellule</string>
     <string name="cur_week_exp">XP hebdomadaire</string>
@@ -350,6 +350,7 @@
         <item>Sois sure de rejoindre nos reseaux sociaux pour être à jour,trouver des amis et ameliorer tes compétence!</item>
         <item>Nous testons toujour les nouveaux modes.Tu peut les trouver dans la liste des serveurs (la catégorie unoficielle)!</item>
         <item>Nous avons d\'impressionnant modes à essayé en unoficielle!)</item>
+        <item>If you are new to this game, check out on YouTube how other people rocks in Blob! Its amazing!</item>
     </string-array>
 
 </resources>
