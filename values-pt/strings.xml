@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="locale">pt</string>
     <string name="cancel">Cancelar</string>
     <string name="error">Erro</string>
     <string name="no_internet">Para jogar você precisa ter uma conexão com a Internet.</string>
@@ -297,7 +298,7 @@
     <string name="guide_text3"><![CDATA[Pressione <b>THROW</b> para atirar vírus, explodir ou alimentar outros jogadores!]]></string>
     <string name="guide_text4"><![CDATA[Fique longe dos <b>vírus</b>!]]></string>
     <string name="guide_text5">
-        <![CDATA[Este jogo necessita de <b>uma internet forte</b>! Jogue próximo do seu Wi-Fi,
+        <![CDATA[Este jogo necessita de <b>uma internet forte</b>! Jogue próximo do seu Wi-Fi, desabilitar <b>BLUETOOTH</b>,
         dados móveis nós não recomendamos! Use <b><i><font color="#1A0DAB">Blob Server</font></i></b> para jogar offline!]]>
     </string>
     <string name="guide_select_region">Selecione a região mais próxima</string>
@@ -318,6 +319,16 @@
     <string name="you_won">VOCÊ ganhou o jogo!</string>
     <string name="someone_won">%s ganhou o jogo !</string>
     <string name="direction_lines">Linhas direcionais</string>
+    <string name="score_result_best">Melhor pontuação</string>
+    <string name="daily_quests">Daily quests</string>
+    <string name="reset_in">(reset in %s)</string>
+    <string name="q_replace_desc">Once a day you can replace any quest to another random one!</string>
+    <string name="replace">Replace</string>
+    <string name="q_choose_replace">Choose a quest that you want to replace</string>
+    <string name="q_replace_x">Replace quest %s ?</string>
+    <string name="q_replaced">Quest replaced!</string>
+    <string name="Completed">Completed</string>
+    <string name="get_reward">Get Reward</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -349,6 +360,9 @@
         <item>Nós sempre experimentamos novos modos de jogo. Você pode encontrá-los na lista de servidores (servidores não oficiais)!</item>
         <item>Temos incríveis modos de jogo de teste em não oficiais!)</item>
         <item>If you are new to this game, check out on YouTube how other people rocks in Blob! Its amazing!</item>
+        <item>Jogue próximo do seu Wi-Fi, dados móveis nós não recomendamos!!</item>
+        <item>Disable BLUETOOTH to reduce network lags!</item>
+        <item>Disable BLUETOOTH to reduce network lags!</item>
     </string-array>
 
 </resources>

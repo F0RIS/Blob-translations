@@ -1,0 +1,29 @@
+const QUESTS_NAMES = {
+    en: {
+        1: strData("Collect food", "Coolect food"),
+        2: strData("Collect coins"),
+        3: strData("Eat viruses"),
+        4: strData("Eat boosters"),
+        5: strData("Do kills"),
+        6: strData("Earn exp"),
+        7: strData("Play 15 min"),
+        8: strData("Shoot somebody", "Shoot different players with a virus"),
+    },
+    ru: {
+        1: strData("Собирай еду"),
+        2: strData("Собирай монетки"),
+        3: strData("Ешь вирусы"),
+        4: strData("Ешь бустеры"),
+        5: strData("Ешь игроков", "Ешь игроков полностью!"),
+        6: strData("Набей опыт"),
+        7: strData("Играй 15 мин"),
+        8: strData("Подстрели игроков", "Подстрели разных игроков вирусом"),
+    },
+
+
+    // ar:{},
+    // de:{},
+    // es:{},
+    // fr:{},
+    // pt:{},
+}

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="locale">ru</string>
     <string name="default_name">Не ешь меня!</string>
     <string name="cancel">Отмена</string>
     <string name="error">Ошибка</string>
@@ -299,7 +300,7 @@
     <string name="guide_text3"><![CDATA[Жми <b>THROW</b> чтобы стрелять в вирусы и взрывать игроков!]]></string>
     <string name="guide_text4"><![CDATA[Остерегайся <b>вирусов</b>!]]></string>
     <string name="guide_text5">
-        <![CDATA[Этой игре нужен <b>хороший интернет</b>! Сядь ближе к Wi-Fi,
+        <![CDATA[Этой игре нужен <b>хороший интернет</b>! Сядь ближе к Wi-Fi, отключи <b>BLUETOOTH</b>,
         мобильный интернет не рекомендуется! Используй <b><i><font color="#1A0DAB">Blob Server</font></i></b> для игры оффлайн!]]>
     </string>
     <string name="guide_select_region">Выбери ближайший регион!</string>
@@ -321,6 +322,17 @@
     <string name="you_won">ТЫ победил!</string>
     <string name="someone_won">%s победил!</string>
     <string name="direction_lines">Направляющие линии</string>
+    <string name="score_result_best">Лучший счет</string>
+    <string name="daily_quests">Дневные задания</string>
+    <string name="reset_in">(сброс через %s)</string>
+    <string name="q_replace_desc">Раз в день можно поменять любое задание на другое случайное!</string>
+    <string name="replace">Поменять</string>
+    <string name="q_choose_replace">Выбери задание для замены</string>
+    <string name="q_replace_x">Поменять задание %s ?</string>
+    <string name="q_replaced">Задание поменяно!</string>
+    <string name="Completed">Выполнено</string>
+<!--    <string name="get_reward">Get Reward</string>-->
+    <string name="get_reward">Взять награду</string>
 
     <string-array name="hints">
         <item>Купи ВИП чтобы избавиться от рекламы!</item>
@@ -351,6 +363,9 @@
         <item>Мы постоянно экспериментируем с новыми режимами игры, ты можешь найти их в списке серверов (unofficial)!</item>
         <item>Не забывай проверять экспериментальные сервера в unofficial!)</item>
         <item>Если ты новичок, посмотри на YouTube как другие нагибают в Блоб! Это божественно!</item>
+        <item>Чтобы игралось гладко - садись ближе к Wi-Fi. Мобильный интернет вообще не рекомендуется!</item>
+        <item>Отключай BLUETOOTH чтобы уменьшить подвисания!</item>
+        <item>Выключай Блютуз чтобы уменьшить лаги интернета!</item>
     </string-array>
 
 </resources>

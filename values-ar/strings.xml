@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <string name="locale">ar</string>
     <string name="cancel">إلغاء الأمر</string>
     <string name="error">خطأ</string>
     <string name="no_internet">هذه اللعبة تحتاج إلى اتصالإنترنت</string>
@@ -326,6 +326,16 @@
     <string name="you_won">YOU won the game!</string>
     <string name="someone_won">%s won the game!</string>
     <string name="direction_lines">Direction lines</string>
+    <string name="score_result_best">أفضل نتيجة</string>
+    <string name="daily_quests">Daily quests</string>
+    <string name="reset_in">(reset in %s)</string>
+    <string name="q_replace_desc">Once a day you can replace any quest to another random one!</string>
+    <string name="replace">Replace</string>
+    <string name="q_choose_replace">Choose a quest that you want to replace</string>
+    <string name="q_replace_x">Replace quest %s ?</string>
+    <string name="q_replaced">Quest replaced!</string>
+    <string name="Completed">Completed</string>
+    <string name="get_reward">Get Reward</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -357,5 +367,8 @@
         <item>نحن دائما تجربة مع لعبة وسائط جديدة. يمكنك العثور عليها في قائمة الخوادم (فئة غير رسمية)!</item>
         <item>لدينا لعبة وسائط اختبار رهيبة في غير رسمي!)</item>
         <item>If you are new to this game, check out on YouTube how other people rocks in Blob! Its amazing!</item>
+        <item>Sit closer to your Wi-Fi, mobile internet is not recommended!</item>
+        <item>Disable BLUETOOTH to reduce network lags!</item>
+        <item>Disable BLUETOOTH to reduce network lags!</item>
     </string-array>
 </resources>
