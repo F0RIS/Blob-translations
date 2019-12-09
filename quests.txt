@@ -4,7 +4,7 @@ const QUESTS_NAMES = {
         2: strData("Collect coins"),
         3: strData("Eat viruses"),
         4: strData("Eat boosters"),
-        5: strData("Do kills"),
+        5: strData("Get kills"),
         6: strData("Earn exp"),
         7: strData("Play 15 min"),
         8: strData("Shoot somebody", "Shoot different players with a virus"),
@@ -19,9 +19,18 @@ const QUESTS_NAMES = {
         7: strData("Играй 15 мин"),
         8: strData("Подстрели игроков", "Подстрели разных игроков вирусом"),
     },
-
-
-    // ar:{},
+    ar: {     
+        1: strData("جمع الطعام"),
+        2: strData("جمع القطع النقدية"),
+        3: strData("أكل الفيروسات"),
+        4: strData("أكل شكا من السلطة"),
+        5: strData("قتل الناس"),
+        6: strData("كسب الخبرة"),
+        7: strData("العب لمدة 15 دقيقة"),
+        8: strData("اطلاق النار على شخص ما", "اطلاق النار على لاعبين مختلفين مع فيروس"),
+     },
+     
+     
     // de:{},
     // es:{},
     // fr:{},
