@@ -126,7 +126,7 @@
     <string name="my_new_friends">طلبات</string>
     <string name="followers">ورفض</string>
     <string name="blocked">حظر</string>
-    <string name="playing">Playing:&#160;</string>
+    <string name="playing">تلعب:&#160;</string>
     <string name="offline">غير متصل</string>
     <string name="relations">العلاقات</string>
     <string name="you_must_log_in">يجب عليك تسجيل الدخول</string>
@@ -275,7 +275,7 @@
 
     <string name="try_for_free">حاول مجانا</string>
     <string name="account">حساب</string>
-    <string name="dialog_vip_desc_title2">Tired from ADS? TRY</string>
+    <string name="dialog_vip_desc_title2">تعبت من الإعلانات؟ شراء VIP TRY</string>
     <string name="no_ads"> تعطيل الإعلانات</string>
     <string name="dialog_vip_desc_free_hours">العملات المجانيه ساعة</string>
     <string name="dialog_vip_desc_ingame_coins"> العملات في اللعبة</string>
@@ -283,8 +283,8 @@
     <string name="dialog_vip_desc_start_mass"> بدايه للكتلة</string>
     <string name="dialog_vip_desc_discount">خصم على الدعاءم</string>
     <string name="dialog_vip_desc_chat_label">علامة في الشات</string>
-    <string name="dialog_vip_desc_border">Rainbow border</string>
-    <string name="dialog_vip_desc_lock_name">Gold lowered name</string>
+    <string name="dialog_vip_desc_border">قوس قزح الحدود</string>
+    <string name="dialog_vip_desc_lock_name">الاسم الذهبي</string>
     <string name="side">جانب:</string>
     <string name="bottom">الأسفل:</string>
     <string name="chat_m_hide_show">إخفاء / عرض</string>
@@ -317,26 +317,25 @@
     </string>
     <string name="skins_prem_desc">على عكس جلود FREE / YT ، يمكنك استخدام جلود PREM / LVL مع أي لقب!</string>
     <string name="skins_free_desc">لاستخدام هذه الجلود ، يجب عليك تعيين اسمك كاسم الجلد.</string>
-    <string name="revenge">Revenge!</string>
-    <string name="kill_streak">Kill streak!</string>
-    <string name="killed_you">%s killed you</string>
-    <string name="servers_list_desc">Here you can choose empty server to practice alone or with friends and test (UNOFFICIAL) game modes</string>
-    <string name="custom_server_desc">Here you can create private server with custom params, add bots/minions and play with friends!</string>
-    <string name="ts2v2_desc">Here you can play in teams battle 2 vs 2. You can make coins bet and/or create battle with a key so only your friends will participate in it</string>
-    <string name="you_won">YOU won the game!</string>
-    <string name="someone_won">%s won the game!</string>
-    <string name="direction_lines">Direction lines</string>
+    <string name="revenge">انتقام!</string>
+    <string name="kill_streak">قتل متتالية!</string>
+    <string name="killed_you">%s أقتلك</string>
+    <string name="servers_list_desc">هنا يمكنك اختيار خادم فارغ للتدرب بمفرده أو مع الأصدقاء واختبار أوضاع الألعاب (غير الرسمية).</string>
+    <string name="custom_server_desc">هنا يمكنك إنشاء خادم خاص مع المعلمات المخصصة ، إضافة الروبوتات / التوابع واللعب مع الأصدقاء!</string>
+    <string name="ts2v2_desc">هنا يمكنك اللعب في فرق المعركة 2 ضد 2. يمكنك المراهنة على العملات المعدنية و / أو إنشاء معركة باستخدام مفتاح يشارك فيه فقط أصدقائك</string>
+    <string name="you_won">لقد فزت باللعبة!!</string>
+    <string name="someone_won">%s ربح اللعبة!</string>
+    <string name="direction_lines">خطوط الاتجاه</string>
     <string name="score_result_best">أفضل نتيجة</string>
-    <string name="daily_quests">Daily quests</string>
+    <string name="daily_quests">أسئلة يومية</string>
     <string name="reset_in">(reset in %s)</string>
-    <string name="q_replace_desc">Once a day you can replace any quest to another random one!</string>
-    <string name="replace">Replace</string>
-    <string name="q_choose_replace">Choose a quest that you want to replace</string>
-    <string name="q_replace_x">Replace quest %s ?</string>
-    <string name="q_replaced">Quest replaced!</string>
-    <string name="Completed">Completed</string>
-    <string name="get_reward">Get Reward</string>
-
+    <string name="q_replace_desc">مرة واحدة في اليوم يمكنك استبدال أي السعي إلى عشوائي آخر!</string>
+    <string name="replace">بطريقة عشوائية</string>
+    <string name="q_choose_replace">اختيار السعي الذي تريد استبداله</string>
+    <string name="q_replace_x">استبدال السعي %s ?</string>
+    <string name="q_replaced">السعي استبدال!</string>
+    <string name="Completed">منجز</string>
+    <string name="get_reward">تحصل على مكافأة</string>
     <!-- In-game tips/hints -->
     <string-array name="hints">
         <item>شراء VIP والتخلص من الإعلانات!</item>
@@ -366,9 +365,10 @@
         <item>تأكد من الانضمام إلى مواقع التواصل الاجتماعي لدينا حتى تكون محدّثًا والعثور على أصدقاء وتحسين مهاراتك!</item>
         <item>نحن دائما تجربة مع لعبة وسائط جديدة. يمكنك العثور عليها في قائمة الخوادم (فئة غير رسمية)!</item>
         <item>لدينا لعبة وسائط اختبار رهيبة في غير رسمي!)</item>
-        <item>If you are new to this game, check out on YouTube how other people rocks in Blob! Its amazing!</item>
-        <item>Sit closer to your Wi-Fi, mobile internet is not recommended!</item>
-        <item>Disable BLUETOOTH to reduce network lags!</item>
-        <item>Disable BLUETOOTH to reduce network lags!</item>
+        <item>إذا كنت جديدًا في هذه اللعبة ، فراجع على موقع يوتيوب كيف يهز الأشخاص الآخرون في Blob! شيء مذهل!</item>
+        <item>الجلوس أقرب إلى واي فاي الخاص بك ، لا ينصح الإنترنت عبر الهاتف المحمول!</item>
+        <item>تعطيل BLUETOOTH لتقليل تأخر الشبكة!</item>
+        <item>تعطيل BLUETOOTH لتقليل تأخر الشبكة!</item>
+        <item>إذا كنت تستمتع بلعب blobio ، يمكنك أيضًا الاستمتاع بلعب لعبة Hexa io الجديدة! في متجر التطبيقات</item>
     </string-array>
 </resources>
