@@ -71,7 +71,7 @@
     <string name="first_start_dialog_title">Spielmechanik</string>
     <string name="update_title">Update verfügbar</string>
     <string name="update_message">Willst du es jetzt bekommen?</string>
-    <string name="players">Players:&#160;</string>
+    <string name="players">Spieler:&#160;</string>
     <string name="totals">Summen</string>
 
 
@@ -301,28 +301,28 @@
     </string>
     <string name="guide_select_region">Wählen Sie die nächstgelegene Region</string>
 
-    <string name="skins_yt_desc">You can record and upload your gameplay on YouTube to become popular and get YT in-game ROLE. Your skin will be added to this list, so people will user it! Read actual requirements for YT tag in discord</string>
-    <string name="skins_prem_desc">Unlike FREE/YT skins you can use PREM/LVL  skins with any nickname!</string>
-    <string name="skins_free_desc">To use these skins you should set their name as nickname</string>
-    <string name="revenge">Revenge!</string>
-    <string name="kill_streak">Kill streak!</string>
-    <string name="killed_you">%s killed you</string>
-    <string name="servers_list_desc">Here you can choose empty server to practice alone or with friends and test (UNOFFICIAL) game modes</string>
-    <string name="custom_server_desc">Here you can create private server with custom params, add bots/minions and play with friends!</string>
-    <string name="ts2v2_desc">Here you can play in teams battle 2 vs 2. You can make coins bet and/or create battle with a key so only your friends will participate in it</string>
-    <string name="you_won">YOU won the game!</string>
-    <string name="someone_won">%s won the game!</string>
-    <string name="direction_lines">Direction lines</string>
+    <string name="skins_yt_desc">Du kannst dein Gameplay für YouTube Aufnehmen und dort hochladen, um populär zu werden, und den sogenannten "YT-Rank" im Spiel zu erhalten. Dein Skin wird zu dieser Liste hinzugefügt, sodass alle Spieler ihn benutzen können! Lese die aktuellen Anforderungen für den YT-Rank auf unserem Discord Server.</string>
+    <string name="skins_prem_desc">Im Gegensatz zu KOSTENLOSEN / YT-Skins kannst du PREM / LVL-Skins mit jedem beliebigen Spielernamen verwenden!</string>
+    <string name="skins_free_desc">Um diese Skins zu verwenden, musst du den Namen des Skins als Spielername festlegen</string>
+    <string name="revenge">Rache!</string> 
+    <string name="kill_streak">Killstreak!</string>
+    <string name="killed_you">%s hat dich getötet</string>
+    <string name="servers_list_desc">Hier kannst du einen leeren Server auswählen, um alleine oder mit Freunden zu üben und um den Spielmodus (INOFFIZIELL) zu testen</string>
+    <string name="custom_server_desc">Hier kannst du einen privaten Server mit benutzerdefinierten Optionen erstellen, Bots / Minions hinzufügen und mit Freunden spielen!</string> 
+    <string name="ts2v2_desc">Im Team Kampf spielen 2 Spieler gegen 2 andere Spieler. Du kannst Münzen einsetzen und / oder einen Kampf mit einem Kennwort erstellen, sodass nur deine Freunde daran teilnehmen können</string>
+    <string name="you_won">DU hast das Spiel gewonnen!</string>
+    <string name="someone_won">%s gewann das Spiel!</string>
+    <string name="direction_lines">Richtungslinien</string>
     <string name="score_result_best">Bestes Ergebnis</string>
-    <string name="daily_quests">Daily quests</string>
-    <string name="reset_in">(reset in %s)</string>
-    <string name="q_replace_desc">Once a day you can replace any quest to another random one!</string>
-    <string name="replace">Replace</string>
-    <string name="q_choose_replace">Choose a quest that you want to replace</string>
-    <string name="q_replace_x">Replace quest %s ?</string>
-    <string name="q_replaced">Quest replaced!</string>
-    <string name="Completed">Completed</string>
-    <string name="get_reward">Get Reward</string>
+    <string name="daily_quests">Tägliche Mission</string>
+    <string name="reset_in">(Wird in %s zurückgesetzt)</string>        
+    <string name="q_replace_desc">Einmal am Tag kannst du jede Mission durch eine andere zufällige ersetzen!</string> 
+    <string name="replace">Ersetzen</string>
+    <string name="q_choose_replace">Wähle eine Mission aus die du Ersetzen möchtest</string>
+    <string name="q_replace_x">Mission %s Ersetzen?</string>
+    <string name="q_replaced">Mission ersetzt!</string>
+    <string name="Completed">Abgeschlossen</string>
+    <string name="get_reward">Belohnung erhalten</string>
 
     <string-array name="hints">
         <item>Buy VIP and get rid from ADS!</item>
