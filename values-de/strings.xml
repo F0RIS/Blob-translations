@@ -15,7 +15,7 @@
     <string name="name">Name</string>
     <string name="play">abspielen</string>
     <string name="nick_name">Spitzname:</string>
-    <string name="exit_dialog">Was willst du?</string>
+    <string name="exit_dialog">Was möchtest du?</string>
     <string name="exit">Ausgang</string>
     <string name="restart">Neustart</string>
     <string name="show_leaders">Zeigen Sie Anführer</string>
@@ -136,7 +136,7 @@
 
     <string name="better_skins_quality">Bessere Hautqualität</string>
     <string name="better_skins_warning">Dies kann zu Verzögerungen führen. Verwenden Sie dies, wenn Sie Pixel auf den Skins sehen</string>
-    <string name="stop_on_release">Bei Freigabe stoppen</string>
+    <string name="stop_on_release">Beim loslassen stoppen</string>
     <string name="type_user_id">Geben Sie die Benutzer-ID ein</string>
     <string name="copy_user_id">ID kopieren</string>
     <string name="send_friend_request">Einladen</string>
@@ -167,7 +167,7 @@
     <string name="bought_succeed">Du kauftest %s erfolgreich!</string>
 
     <!-- API ERROR MESSAGES -->
-    <string name="user_not_found">Benutzer mit einer solchen ID wurde nicht gefunden</string>
+    <string name="user_not_found">Benutzer mit dieser ID wurde nicht gefunden</string>
     <string name="request_already_sent_error">Freundschaftsanfrage bereits gesendet</string>
     <string name="already_friend_error">Dieser Benutzer ist schon dein Freund</string>
     <string name="not_enough_coins">Du hast nicht genug Münzen</string>
@@ -178,7 +178,7 @@
     <string name="free_coins_toast">Du hast %d Münzen kostenlos!</string>
     <string name="free_coins">Kostenlose Münzen</string>
     <string name="watch_video">Schau Video</string>
-    <string name="lvl_coins_reward">Herzliche Glückwünsche! Du hast Level erreicht %1$d und gewonnen %2$d Münzen!</string>
+    <string name="lvl_coins_reward">Herzlichen Glückwünsch! Du hast Level erreicht %1$d und gewonnen %2$d Münzen!</string>
 
     <!-- Items description localization -->
     <string name="mass_booster_x1_5_desc">Spiel starten mit x1.5 größere Masse für die nächste Stunde</string>
@@ -243,17 +243,17 @@
     <string name="custom_server_created">Benutzerdefinierter Server erstellt</string>
     <string name="highlight_friends">Freunde hervorheben</string>
     <string name="custom_colors">Benutzerdefiniertes Theme</string>
-    <string name="background_title">Hintergrund</string>
+    <string name="background_title">Hintergrund festlegen</string>
     <string name="grid_title">Gitter</string>
     <string name="food_title">Essen</string>
     <string name="virus_title">Virus</string>
     <string name="mother_cell_title">Mutterzelle</string>
     <string name="eject_title">Auswerfen</string>
     <string name="friend_name_title">Name des Freundes</string>
-    <string name="invitation_sent">Vous inviter à rejoindre ce serveur!</string>
-    <string name="choose_friend">Choisis ton ami</string>
+    <string name="invitation_sent">In den Server joinen!</string>
+    <string name="choose_friend">Freund Einladen</string>
     <string name="notifications">meldingen</string>
-    <string name="join_server">Rejoindre le serveur</string>
+    <string name="join_server">server beitreten</string>
     <string name="friend_request">Demande d\'ami</string>
     <string name="friend_accepted">Ami accepter</string>
     <string name="only_friends_skins">Alleen de vellen van vrienden</string>
@@ -262,8 +262,8 @@
     <string name="gold">Gold</string>
     <string name="silver">Silber</string>
     <string name="bronze">Bronze</string>
-    <string name="medal_description">%1$s medal for placing in the top %2$s in global rankings!</string>
-    <string name="medal_description_first_place">Medaille voor het plaatsen van EERSTE plaats in wereldwijde ranglijst!</string>
+    <string name="medal_description">%1$s medalie für die Plazierung als top %2$s in den globalen rankings!</string>
+    <string name="medal_description_first_place">Medaille vor het plaatsen van EERSTE plaats in wereldwijde ranglijst!</string>
 
     <string name="try_for_free">Mach es kostenlos!</string>
     <string name="account">Konto</string>
@@ -281,8 +281,8 @@
     <string name="bottom">Unterseite:</string>
     <string name="chat_m_hide_show">verbergen/anzeigen</string>
     <string name="chat_m_expand_collapse">Erweitern/Zusammenbruch</string>
-    <string name="chat_m_invite_friend">Einen Freund einladen</string>
-    <string name="chat_m_big_map">Sehr große Karte</string>
+    <string name="chat_m_invite_friend">Freund einladen</string>
+    <string name="chat_m_big_map">große Karte</string>
     <string name="chat_m_suicide">Selbstmord</string>
     <string name="chat_m_select_message">Wählen Sie eine Nachricht im Chat aus!</string>
     <string name="help">Hilfe</string>
@@ -325,11 +325,11 @@
     <string name="get_reward">Belohnung erhalten</string>
 
     <string-array name="hints">
-        <item>Buy VIP and get rid from ADS!</item>
+        <item>Kauf VIP und bekomme keine ads mehr!</item>
         <item>Cooperate with friends and take over any server!</item>
-        <item>Create own server with custom settings and play with your friends!</item>
+        <item>erschaaffe deien eigenen server und spiele mit freunden!</item>
         <item>Grow own YouTube channel with gameplay vids, achieve YT rank and be popuplar!</item>
-        <item>Do not forget to collect free coins every 1 hour!</item>
+        <item>vergiss nicht die stündigen Münzen!</item>
         <item>Get more EXP during one week than anybody else and win 55000 coins!</item>
         <item>You can battle 2 vs 2 for coins!</item>
         <item>You can make team scrimmage up to 5 vs 5!</item>
