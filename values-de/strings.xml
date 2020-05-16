@@ -311,15 +311,15 @@
     <string name="servers_list_desc">Hier kannst du einen leeren Server auswählen, um alleine oder mit Freunden zu üben und um den Spielmodus (INOFFIZIELL) zu testen</string>
     <string name="custom_server_desc">Hier kannst du einen privaten Server mit benutzerdefinierten Optionen erstellen, Bots / Minions hinzufügen und mit Freunden spielen!</string> 
     <string name="ts2v2_desc">Im Team Kampf spielen 2 Spieler gegen 2 andere Spieler. Du kannst Münzen einsetzen und / oder einen Kampf mit einem Kennwort erstellen, sodass nur deine Freunde daran teilnehmen können</string>
-    <string name="you_won">DU hast das Spiel gewonnen!</string>
+    <string name="you_won">Du hast das Spiel gewonnen!</string>
     <string name="someone_won">%s gewann das Spiel!</string>
     <string name="direction_lines">Richtungslinien</string>
     <string name="score_result_best">Bestes Ergebnis</string>
-    <string name="daily_quests">Tägliche Mission</string>
+    <string name="daily_quests">Tägliche Missionen</string>
     <string name="reset_in">(Wird in %s zurückgesetzt)</string>        
     <string name="q_replace_desc">Einmal am Tag kannst du jede Mission durch eine andere zufällige ersetzen!</string> 
     <string name="replace">Ersetzen</string>
-    <string name="q_choose_replace">Wähle eine Mission aus die du Ersetzen möchtest</string>
+    <string name="q_choose_replace">Wähle eine Mission aus die du Ersetzen willst</string>
     <string name="q_replace_x">Mission %s Ersetzen?</string>
     <string name="q_replaced">Mission ersetzt!</string>
     <string name="Completed">Abgeschlossen</string>
@@ -328,18 +328,18 @@
     <string-array name="hints">
         <item>Kauf VIP und bekomme keine ads mehr!</item>
         <item>Cooperate with friends and take over any server!</item>
-        <item>erschaaffe deien eigenen server und spiele mit freunden!</item>
+        <item>erschaffe deien eigenen server und spiele mit freunden!</item>
         <item>Grow own YouTube channel with gameplay vids, achieve YT rank and be popuplar!</item>
         <item>vergiss nicht die stündigen Münzen!</item>
         <item>Get more EXP during one week than anybody else and win 55000 coins!</item>
-        <item>You can battle 2 vs 2 for coins!</item>
+        <item>du kannst 2 vs 2 für Münzen!</item>
         <item>You can make team scrimmage up to 5 vs 5!</item>
         <item>You can open big map by clicking on a minimap in the game!</item>
-        <item>You can connect mouse to your phone and play with it like on PC!</item>
-        <item>Use Blob Server app to create own server offline!</item>
+        <item>du kannst deine maus connecten an deinem handy und spiel wie am PC!</item>
+        </item> benutze blob server um deine eigenen offline server zu erschaffen!</item>
         <item>Click on a triangle near chat and invite friends to your server!</item>
-        <item>Log in to lvl up and start game with bigger masss!</item>
-        <item>Use mass/exp boosters to win more and lvl up faster!</item>
+        <item>Loge dich ein um zu lvln und mit größerer startmasse zu starten!</item>
+        <item>benutze mass/exp boosters um mehr zugewinnen und schneller zu lvln!</item>
         <item>If you ran out of coins, just buy them! :)</item>
         <item>Use rare skins and make everybody jealous!</item>
         <item>Customize game colors/params to your needs to play more comfortable!</item>
@@ -347,15 +347,15 @@
         <item>Have a chat with people and find new friends!</item>
         <item>Join our discord server to vote/chat and be up to date!</item>
         <item>Bring your real life friends in Blob to have fun together!</item>
-        <item>Every player has a unique ID, you can share it so people can find you in Blob!</item>
+        <item>jeder spieler hat eine eigene ID, du kannst sie teilen damit deine freunde dich in Blob finden!</item>
         <item>You can play on an empty server as a practice!</item>
         <item>You can click on IP label and change it or open servers list!</item>
         <item>Make sure to join our socials to be up to date, find friends and improve your skills!</item>
         <item>We always experiment with new game modes. You can find them in servers list (unofficial category)!</item>
         <item>We have awesome test game modes in unofficial!)</item>
         <item>If you are new to this game, check out on YouTube how other people rocks in Blob! Its amazing!</item>
-        <item>Sit closer to your Wi-Fi, mobile internet is not recommended!</item>
-        <item>Disable BLUETOOTH to reduce network lags!</item>
-        <item>Disable BLUETOOTH to reduce network lags!</item>
+        <item>sitze näher an deinem wifi, um besseres wlan zu krigen !</item>
+        <item>schalte dein BLUETOOTH aus um internet lags/verzögerungen zu reduzieren!</item>
+        <item>schalte dein BLUETOOTH aus um internet lags/verzögerungen zu reduzieren!</item>
     </string-array>
 </resources>
