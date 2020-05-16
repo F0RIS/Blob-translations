@@ -185,7 +185,7 @@
     <string name="mass_booster_x2_desc">Beginnen Sie das Spiel mit der doppelten Masse für die nächste Stunde</string>
     <string name="exp_booster_x1_5_desc">Alle verdienten exp Multiplikationen nach 1.5 für die nächste 1 Stunde</string>
     <string name="exp_booster_x2_desc">All earned exp multipliziert mit 2 für die nächste Stunde</string>
-    <string name="watch_video_desc">Video ansehen und bekommen %d Münzen!</string>
+    <string name="watch_video_desc">Video ansehen und bekommen sie %d Münzen!</string>
     <string name="free_coins_desc">Bekommen %1$s Münzen kostenlos %2$d Stunde</string>
     <string name="m">m</string>
     <string name="h">h</string>
@@ -195,7 +195,7 @@
 
     <string name="chat_suffix_desc">Zu Nick hinzufügen%s Suffix</string>
     <string name="user_role_desc">Dieser Benutzer ist %s</string>
-    <string name="size_animation_speed">Größe der Animationsgeschwindigkeit:</string>
+    <string name="size_animation_speed">Schnelle der Animationsgeschwindigkeit:</string>
     <string name="search">Suche</string>
     <string name="type_skin_name">Geben Sie den Namen der Haut ein</string>
     <string name="waiting_for_players">Warten auf Spieler</string>
@@ -227,7 +227,7 @@
     <string name="chat_enable_warning">With this option enabled app rating becomes higher!</string>
     <string name="score_title">Punktzahl:</string>
 
-    <string name="saved">Gerettet</string>
+    <string name="saved">gespeichert</string>
     <string name="delete_server">Server löschen?</string>
     <string name="deleted">Gelöscht</string>
     <string name="added">Hinzugefügt</string>
@@ -252,20 +252,21 @@
     <string name="friend_name_title">Name des Freundes</string>
     <string name="invitation_sent">In den Server joinen!</string>
     <string name="choose_friend">Freund Einladen</string>
-    <string name="notifications">meldingen</string>
+    <string name="notifications">Benarichtigung</string>
     <string name="join_server">server beitreten</string>
     <string name="friend_request">Demande d\'ami</string>
     <string name="friend_accepted">Ami accepter</string>
     <string name="only_friends_skins">Alleen de vellen van vrienden</string>
-    <string name="in_game_zoom">Zoom in de game</string>
-    <string name="copy_nick">Kopieer gebruikersnaam</string>
+    <string name="in_game_zoom">Zoomen im spiel</sting>
+    <string name="copy_nick">Kopie Profielnamen</sting>   
     <string name="gold">Gold</string>
     <string name="silver">Silber</string>
     <string name="bronze">Bronze</string>
     <string name="medal_description">%1$s medalie für die Plazierung als top %2$s in den globalen rankings!</string>
     <string name="medal_description_first_place">Medaille vor het plaatsen van EERSTE plaats in wereldwijde ranglijst!</string>
 
-    <string name="try_for_free">Mach es kostenlos!</string>
+    <string name="try_for_free">versuch es kostenlos</sting>
+    <string name="account">Konto</string>ing>
     <string name="account">Konto</string>
     <string name="dialog_vip_desc_title2">Tired from ADS? TRY</string>
     <string name="no_ads">keine Werbung</string>
