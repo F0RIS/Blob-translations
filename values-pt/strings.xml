@@ -291,7 +291,7 @@
     <string name="web_ver_desc">Nós temos uma versão de internet para jogadores de PC!</string>
     <string name="share_request">Compartilhe o jogo para conseguir este item!</string>
     <string name="share_lvl_text">Eu acabei de desbloquear o LVL $1%s no Blob.io! Você consegue me ultrapassar!?</string>
-    <string name="share_double_coins">Compattilhe o seu resultado e ganhará o DOBRO de moedas!</string>
+    <string name="share_double_coins">Compartilhe o seu resultado e ganhará o DOBRO de moedas!</string>
 
     <string name="guide_text1"><![CDATA[Recolha <b>comida</b> para crescer!]]></string>
     <string name="guide_text2"><![CDATA[Pressione <b>SPLIT<b> para se dividir e engolir outros jogadores!]]></string>
@@ -320,15 +320,15 @@
     <string name="someone_won">%s ganhou o jogo !</string>
     <string name="direction_lines">Linhas direcionais</string>
     <string name="score_result_best">Melhor pontuação</string>
-    <string name="daily_quests">Daily quests</string>
-    <string name="reset_in">(reset in %s)</string>
-    <string name="q_replace_desc">Once a day you can replace any quest to another random one!</string>
-    <string name="replace">Replace</string>
-    <string name="q_choose_replace">Choose a quest that you want to replace</string>
-    <string name="q_replace_x">Replace quest %s ?</string>
-    <string name="q_replaced">Quest replaced!</string>
-    <string name="Completed">Completed</string>
-    <string name="get_reward">Get Reward</string>
+    <string name="daily_quests">Missões diária</string>
+    <string name="reset_in">(reinicia em %s)</string>
+    <string name="q_replace_desc">Só é possível substituir a missão 1 vez por dia!</string>
+    <string name="replace">Substituir</string>
+    <string name="q_choose_replace">Escolha a missão que você quer substituir</string>
+    <string name="q_replace_x">Substituir missão %s ?</string>
+    <string name="q_replaced">Missão substituída!</string>
+    <string name="Completed">Completado</string>
+    <string name="get_reward">Obter Recompensa</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -361,8 +361,8 @@
         <item>Temos incríveis modos de jogo de teste em não oficiais!)</item>
         <item>If you are new to this game, check out on YouTube how other people rocks in Blob! Its amazing!</item>
         <item>Jogue próximo do seu Wi-Fi, dados móveis nós não recomendamos!!</item>
-        <item>Disable BLUETOOTH to reduce network lags!</item>
-        <item>Disable BLUETOOTH to reduce network lags!</item>
+        <item>Desative o BLUETOOTH para diminuir os atrasos!</item>
+        <item>Desative o BLUETOOTH para diminuir os atrasos!</item>
     </string-array>
 
 </resources>
