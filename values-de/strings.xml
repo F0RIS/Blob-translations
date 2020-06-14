@@ -227,7 +227,7 @@
     <string name="chat_enable_warning">With this option enabled app rating becomes higher!</string>
     <string name="score_title">Punktzahl:</string>
 
-    <string name="saved">gespeichert</string>
+    <string name="saved">Gespeichert</string>
     <string name="delete_server">Server löschen?</string>
     <string name="deleted">Gelöscht</string>
     <string name="added">Hinzugefügt</string>
@@ -257,16 +257,15 @@
     <string name="friend_request">Demande d\'ami</string>
     <string name="friend_accepted">Ami accepter</string>
     <string name="only_friends_skins">Alleen de vellen van vrienden</string>
-    <string name="in_game_zoom">Zoomen im spiel</sting>
-    <string name="copy_nick">Kopie Profielnamen</sting>   
+    <string name="in_game_zoom">Zoomen im spiel</string>
+    <string name="copy_nick">Kopie Profielnamen</string>
     <string name="gold">Gold</string>
     <string name="silver">Silber</string>
     <string name="bronze">Bronze</string>
     <string name="medal_description">%1$s medalie für die Plazierung als top %2$s in den globalen rankings!</string>
     <string name="medal_description_first_place">Medaille vor het plaatsen van EERSTE plaats in wereldwijde ranglijst!</string>
 
-    <string name="try_for_free">versuch es kostenlos</sting>
-    <string name="account">Konto</string>ing>
+    <string name="try_for_free">versuch es kostenlos</string>
     <string name="account">Konto</string>
     <string name="dialog_vip_desc_title2">Tired from ADS? TRY</string>
     <string name="no_ads">keine Werbung</string>
@@ -324,6 +323,15 @@
     <string name="q_replaced">Mission ersetzt!</string>
     <string name="Completed">Abgeschlossen</string>
     <string name="get_reward">Belohnung erhalten</string>
+    <string name="daily_reward">Daily reward</string>
+    <string name="gain_exp_and_get_reward_every_day">Gain exp and get reward every day</string>
+    <string name="day">Day %d</string>
+    <string name="up_to">Up to %d</string>
+    <string name="login_to_avoid_captcha">Melden Sie sich an, um diese Überprüfung zu vermeiden</string>
+    <string name="replays">Replays</string>
+    <string name="you_have_no_replays">You have no replays</string>
+    <string name="save_replay">Save replay</string>
+    <string name="replay_saved">Replay saved!</string>
 
     <string-array name="hints">
         <item>Kauf VIP und bekomme keine ads mehr!</item>
@@ -336,7 +344,7 @@
         <item>You can make team scrimmage up to 5 vs 5!</item>
         <item>You can open big map by clicking on a minimap in the game!</item>
         <item>du kannst deine maus connecten an deinem handy und spiel wie am PC!</item>
-        </item> benutze blob server um deine eigenen offline server zu erschaffen!</item>
+        <item> benutze blob server um deine eigenen offline server zu erschaffen!</item>
         <item>Click on a triangle near chat and invite friends to your server!</item>
         <item>Loge dich ein um zu lvln und mit größerer startmasse zu starten!</item>
         <item>benutze mass/exp boosters um mehr zugewinnen und schneller zu lvln!</item>
@@ -357,5 +365,8 @@
         <item>sitze näher an deinem wifi, um besseres wlan zu krigen !</item>
         <item>schalte dein BLUETOOTH aus um internet lags/verzögerungen zu reduzieren!</item>
         <item>schalte dein BLUETOOTH aus um internet lags/verzögerungen zu reduzieren!</item>
+        <item>You can set up any image as background in the game!</item>
+        <item>You can record nice gameplay moments and watch them later in replays!</item>
+        <item>You can share your replays with other people to show them how you win!</item>
     </string-array>
 </resources>

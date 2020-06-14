@@ -1,13 +1,16 @@
 const QUESTS_NAMES = {
     en: {
-        1: strData("Collect food", "Coolect food"),
+        1: strData("Collect food", "Collect food"),
         2: strData("Collect coins"),
         3: strData("Eat viruses"),
         4: strData("Eat boosters"),
-        5: strData("Get kills"),
+        5: strData("Kills"),
         6: strData("Earn exp"),
         7: strData("Play 15 min"),
         8: strData("Shoot somebody", "Shoot different players with a virus"),
+        9: strData("Kill youtuber", "Kill youtuber (a player with red nickname)"),
+        10: strData("Popsplits", "Do popsplits"),
+        11: strData("Tricksplits", "Do tricksplits"),
     },
     ru: {
         1: strData("Собирай еду"),
@@ -18,8 +21,11 @@ const QUESTS_NAMES = {
         6: strData("Набей опыт"),
         7: strData("Играй 15 мин"),
         8: strData("Подстрели игроков", "Подстрели разных игроков вирусом"),
+        9: strData("Убей ютубера", "Убей ютубера (игрок с красным ником)"),
+        10: strData("Попсплиты", "Сделать попсплиты"),
+        11: strData("Триксплиты", "Сделать триксплиты"),
     },
-    ar: {     
+    ar: {
         1: strData("جمع الطعام"),
         2: strData("جمع القطع النقدية"),
         3: strData("أكل الفيروسات"),
@@ -28,11 +34,36 @@ const QUESTS_NAMES = {
         6: strData("كسب الخبرة"),
         7: strData("العب لمدة 15 دقيقة"),
         8: strData("اطلاق النار على شخص ما", "اطلاق النار على لاعبين مختلفين مع فيروس"),
-     },
-     
-     
+        9: strData("Kill youtuber", "Kill youtuber (player with red nickname)"),
+        10: strData("Popsplits", "Do popsplits"),
+        11: strData("Tricksplits", "Do tricksplits"),
+    },
+    es: {
+        1: strData("Recoger comida", "Recoger comida"),
+        2: strData("Recoger monedas"),
+        3: strData("Come virus"),
+        4: strData("Come refuerzos"),
+        5: strData("Mata"),
+        6: strData("Gane exp"),
+        7: strData("Jugar 15 min"),
+        8: strData("Dispara a alguien", "Dispara a diferentes jugadores con un virus"),
+        9: strData("Matar a youtuber", "Matar a youtuber (un jugador con apodo rojo)"),
+        10: strData("Popsplits", "Do popsplits"),
+        11: strData("Tricksplits", "Do tricksplits"),
+    },
+    fr: {
+        1: strData("Ramasser des point multicolores"),
+        2: strData("Ramasser de l'argent"),
+        3: strData("Manger des virus"),
+        4: strData("Manger des booster"),
+        5: strData("Tuer des personnes"),
+        6: strData("Gagner de l'exp"),
+        7: strData("Jouez 15 minutes"),
+        8: strData("Balancez des virus sur des personne"),
+        9: strData("Tuez des youtubeurs", "Tuez des youtubeurs (des joueur avec des noms en rouge)"),
+        10: strData("Popsplits", "Do popsplits"),
+        11: strData("Tricksplits", "Do tricksplits"),
+    }
     // de:{},
-    // es:{},
-    // fr:{},
     // pt:{},
 }

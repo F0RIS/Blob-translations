@@ -333,6 +333,15 @@
     <string name="Completed">Выполнено</string>
 <!--    <string name="get_reward">Get Reward</string>-->
     <string name="get_reward">Взять награду</string>
+    <string name="daily_reward">Ежедневная награда</string>
+    <string name="gain_exp_and_get_reward_every_day">Зарабатывай опыт и получай приз каждый день!</string>
+    <string name="day">День %d</string>
+    <string name="up_to">До %d</string>
+    <string name="login_to_avoid_captcha">Авторизуйся что бы убрать эту проверку</string>
+    <string name="replays">Реплеи</string>
+    <string name="you_have_no_replays">У тебя нет реплеев</string>
+    <string name="save_replay">Сохранить реплей</string>
+    <string name="replay_saved">Реплей сохранен!</string>
 
     <string-array name="hints">
         <item>Купи ВИП чтобы избавиться от рекламы!</item>
@@ -366,6 +375,9 @@
         <item>Чтобы игралось гладко - садись ближе к Wi-Fi. Мобильный интернет вообще не рекомендуется!</item>
         <item>Отключай BLUETOOTH чтобы уменьшить подвисания!</item>
         <item>Выключай Блютуз чтобы уменьшить лаги интернета!</item>
+        <item>Ты можешь поставить любую картинку как фон в игре!</item>
+        <item>Ты можешь записать крутые моменты игры и посмотреть их позже в реплеях!</item>
+        <item>Ты можешь делиться реплеями с другими людми что бы показать как ты побеждаешь!</item>
     </string-array>
 
 </resources>

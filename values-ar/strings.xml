@@ -336,6 +336,15 @@
     <string name="q_replaced">السعي استبدال!</string>
     <string name="Completed">منجز</string>
     <string name="get_reward">تحصل على مكافأة</string>
+    <string name="daily_reward">Daily reward</string>
+    <string name="gain_exp_and_get_reward_every_day">Gain exp and get reward every day</string>
+    <string name="day">Day %d</string>
+    <string name="up_to">Up to %d</string>
+    <string name="login_to_avoid_captcha">تسجيل الدخول لتجنب هذا الاختيار</string>
+    <string name="replays">Replays</string>
+    <string name="you_have_no_replays">You have no replays</string>
+    <string name="save_replay">Save replay</string>
+    <string name="replay_saved">Replay saved!</string>
     <!-- In-game tips/hints -->
     <string-array name="hints">
         <item>شراء VIP والتخلص من الإعلانات!</item>
@@ -369,5 +378,8 @@
         <item>الجلوس أقرب إلى واي فاي الخاص بك ، لا ينصح الإنترنت عبر الهاتف المحمول!</item>
         <item>تعطيل BLUETOOTH لتقليل تأخر الشبكة!</item>
         <item>تعطيل BLUETOOTH لتقليل تأخر الشبكة!</item>
+        <item>You can set up any image as background in the game!</item>
+        <item>You can record nice gameplay moments and watch them later in replays!</item>
+        <item>You can share your replays with other people to show them how you win!</item>
     </string-array>
 </resources>

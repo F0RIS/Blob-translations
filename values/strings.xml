@@ -401,6 +401,15 @@
     <string name="q_replaced">Quest replaced!</string>
     <string name="Completed">Completed</string>
     <string name="get_reward">Get Reward</string>
+    <string name="daily_reward">Daily reward</string>
+    <string name="gain_exp_and_get_reward_every_day">Gain exp and get reward every day</string>
+    <string name="day">Day %d</string>
+    <string name="up_to">Up to %d</string>
+    <string name="login_to_avoid_captcha">LOG IN to avoid this check</string>
+    <string name="replays">Replays</string>
+    <string name="you_have_no_replays">You have no replays</string>
+    <string name="save_replay">Save replay</string>
+    <string name="replay_saved">Replay saved!</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -435,5 +444,8 @@
         <item>Sit closer to your Wi-Fi, mobile internet is not recommended!</item>
         <item>Disable BLUETOOTH to reduce network lags!</item>
         <item>Disable BLUETOOTH to reduce network lags!</item>
+        <item>You can set up any image as background in the game!</item>
+        <item>You can record nice gameplay moments and watch them later in replays!</item>
+        <item>You can share your replays with other people to show them how you win!</item>
     </string-array>
 </resources>
