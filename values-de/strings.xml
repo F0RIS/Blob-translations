@@ -15,7 +15,7 @@
     <string name="name">Name</string>
     <string name="play">abspielen</string>
     <string name="nick_name">Spitzname:</string>
-    <string name="exit_dialog">Was willst du?</string>
+    <string name="exit_dialog">Was möchtest du?</string>
     <string name="exit">Ausgang</string>
     <string name="restart">Neustart</string>
     <string name="show_leaders">Zeigen Sie Anführer</string>
@@ -136,7 +136,7 @@
 
     <string name="better_skins_quality">Bessere Hautqualität</string>
     <string name="better_skins_warning">Dies kann zu Verzögerungen führen. Verwenden Sie dies, wenn Sie Pixel auf den Skins sehen</string>
-    <string name="stop_on_release">Bei Freigabe stoppen</string>
+    <string name="stop_on_release">Beim loslassen stoppen</string>
     <string name="type_user_id">Geben Sie die Benutzer-ID ein</string>
     <string name="copy_user_id">ID kopieren</string>
     <string name="send_friend_request">Einladen</string>
@@ -167,7 +167,7 @@
     <string name="bought_succeed">Du kauftest %s erfolgreich!</string>
 
     <!-- API ERROR MESSAGES -->
-    <string name="user_not_found">Benutzer mit einer solchen ID wurde nicht gefunden</string>
+    <string name="user_not_found">Benutzer mit dieser ID wurde nicht gefunden</string>
     <string name="request_already_sent_error">Freundschaftsanfrage bereits gesendet</string>
     <string name="already_friend_error">Dieser Benutzer ist schon dein Freund</string>
     <string name="not_enough_coins">Du hast nicht genug Münzen</string>
@@ -178,14 +178,14 @@
     <string name="free_coins_toast">Du hast %d Münzen kostenlos!</string>
     <string name="free_coins">Kostenlose Münzen</string>
     <string name="watch_video">Schau Video</string>
-    <string name="lvl_coins_reward">Herzliche Glückwünsche! Du hast Level erreicht %1$d und gewonnen %2$d Münzen!</string>
+    <string name="lvl_coins_reward">Herzlichen Glückwünsch! Du hast Level erreicht %1$d und gewonnen %2$d Münzen!</string>
 
     <!-- Items description localization -->
     <string name="mass_booster_x1_5_desc">Spiel starten mit x1.5 größere Masse für die nächste Stunde</string>
     <string name="mass_booster_x2_desc">Beginnen Sie das Spiel mit der doppelten Masse für die nächste Stunde</string>
     <string name="exp_booster_x1_5_desc">Alle verdienten exp Multiplikationen nach 1.5 für die nächste 1 Stunde</string>
     <string name="exp_booster_x2_desc">All earned exp multipliziert mit 2 für die nächste Stunde</string>
-    <string name="watch_video_desc">Video ansehen und bekommen %d Münzen!</string>
+    <string name="watch_video_desc">Video ansehen und bekommen sie %d Münzen!</string>
     <string name="free_coins_desc">Bekommen %1$s Münzen kostenlos %2$d Stunde</string>
     <string name="m">m</string>
     <string name="h">h</string>
@@ -195,7 +195,7 @@
 
     <string name="chat_suffix_desc">Zu Nick hinzufügen%s Suffix</string>
     <string name="user_role_desc">Dieser Benutzer ist %s</string>
-    <string name="size_animation_speed">Größe der Animationsgeschwindigkeit:</string>
+    <string name="size_animation_speed">Schnelle der Animationsgeschwindigkeit:</string>
     <string name="search">Suche</string>
     <string name="type_skin_name">Geben Sie den Namen der Haut ein</string>
     <string name="waiting_for_players">Warten auf Spieler</string>
@@ -227,7 +227,7 @@
     <string name="chat_enable_warning">With this option enabled app rating becomes higher!</string>
     <string name="score_title">Punktzahl:</string>
 
-    <string name="saved">Gerettet</string>
+    <string name="saved">gespeichert</string>
     <string name="delete_server">Server löschen?</string>
     <string name="deleted">Gelöscht</string>
     <string name="added">Hinzugefügt</string>
@@ -243,29 +243,30 @@
     <string name="custom_server_created">Benutzerdefinierter Server erstellt</string>
     <string name="highlight_friends">Freunde hervorheben</string>
     <string name="custom_colors">Benutzerdefiniertes Theme</string>
-    <string name="background_title">Hintergrund</string>
+    <string name="background_title">Hintergrund festlegen</string>
     <string name="grid_title">Gitter</string>
     <string name="food_title">Essen</string>
     <string name="virus_title">Virus</string>
     <string name="mother_cell_title">Mutterzelle</string>
     <string name="eject_title">Auswerfen</string>
     <string name="friend_name_title">Name des Freundes</string>
-    <string name="invitation_sent">Vous inviter à rejoindre ce serveur!</string>
-    <string name="choose_friend">Choisis ton ami</string>
-    <string name="notifications">meldingen</string>
-    <string name="join_server">Rejoindre le serveur</string>
+    <string name="invitation_sent">In den Server joinen!</string>
+    <string name="choose_friend">Freund Einladen</string>
+    <string name="notifications">Benarichtigung</string>
+    <string name="join_server">server beitreten</string>
     <string name="friend_request">Demande d\'ami</string>
     <string name="friend_accepted">Ami accepter</string>
     <string name="only_friends_skins">Alleen de vellen van vrienden</string>
-    <string name="in_game_zoom">Zoom in de game</string>
-    <string name="copy_nick">Kopieer gebruikersnaam</string>
+    <string name="in_game_zoom">Zoomen im spiel</sting>
+    <string name="copy_nick">Kopie Profielnamen</sting>   
     <string name="gold">Gold</string>
     <string name="silver">Silber</string>
     <string name="bronze">Bronze</string>
-    <string name="medal_description">%1$s medal for placing in the top %2$s in global rankings!</string>
-    <string name="medal_description_first_place">Medaille voor het plaatsen van EERSTE plaats in wereldwijde ranglijst!</string>
+    <string name="medal_description">%1$s medalie für die Plazierung als top %2$s in den globalen rankings!</string>
+    <string name="medal_description_first_place">Medaille vor het plaatsen van EERSTE plaats in wereldwijde ranglijst!</string>
 
-    <string name="try_for_free">Mach es kostenlos!</string>
+    <string name="try_for_free">versuch es kostenlos</sting>
+    <string name="account">Konto</string>ing>
     <string name="account">Konto</string>
     <string name="dialog_vip_desc_title2">Tired from ADS? TRY</string>
     <string name="no_ads">keine Werbung</string>
@@ -281,8 +282,8 @@
     <string name="bottom">Unterseite:</string>
     <string name="chat_m_hide_show">verbergen/anzeigen</string>
     <string name="chat_m_expand_collapse">Erweitern/Zusammenbruch</string>
-    <string name="chat_m_invite_friend">Einen Freund einladen</string>
-    <string name="chat_m_big_map">Sehr große Karte</string>
+    <string name="chat_m_invite_friend">Freund einladen</string>
+    <string name="chat_m_big_map">große Karte</string>
     <string name="chat_m_suicide">Selbstmord</string>
     <string name="chat_m_select_message">Wählen Sie eine Nachricht im Chat aus!</string>
     <string name="help">Hilfe</string>
@@ -310,35 +311,35 @@
     <string name="servers_list_desc">Hier kannst du einen leeren Server auswählen, um alleine oder mit Freunden zu üben und um den Spielmodus (INOFFIZIELL) zu testen</string>
     <string name="custom_server_desc">Hier kannst du einen privaten Server mit benutzerdefinierten Optionen erstellen, Bots / Minions hinzufügen und mit Freunden spielen!</string> 
     <string name="ts2v2_desc">Im Team Kampf spielen 2 Spieler gegen 2 andere Spieler. Du kannst Münzen einsetzen und / oder einen Kampf mit einem Kennwort erstellen, sodass nur deine Freunde daran teilnehmen können</string>
-    <string name="you_won">DU hast das Spiel gewonnen!</string>
+    <string name="you_won">Du hast das Spiel gewonnen!</string>
     <string name="someone_won">%s gewann das Spiel!</string>
     <string name="direction_lines">Richtungslinien</string>
     <string name="score_result_best">Bestes Ergebnis</string>
-    <string name="daily_quests">Tägliche Mission</string>
+    <string name="daily_quests">Tägliche Missionen</string>
     <string name="reset_in">(Wird in %s zurückgesetzt)</string>        
     <string name="q_replace_desc">Einmal am Tag kannst du jede Mission durch eine andere zufällige ersetzen!</string> 
     <string name="replace">Ersetzen</string>
-    <string name="q_choose_replace">Wähle eine Mission aus die du Ersetzen möchtest</string>
+    <string name="q_choose_replace">Wähle eine Mission aus die du Ersetzen willst</string>
     <string name="q_replace_x">Mission %s Ersetzen?</string>
     <string name="q_replaced">Mission ersetzt!</string>
     <string name="Completed">Abgeschlossen</string>
     <string name="get_reward">Belohnung erhalten</string>
 
     <string-array name="hints">
-        <item>Buy VIP and get rid from ADS!</item>
+        <item>Kauf VIP und bekomme keine ads mehr!</item>
         <item>Cooperate with friends and take over any server!</item>
-        <item>Create own server with custom settings and play with your friends!</item>
+        <item>erschaffe deien eigenen server und spiele mit freunden!</item>
         <item>Grow own YouTube channel with gameplay vids, achieve YT rank and be popuplar!</item>
-        <item>Do not forget to collect free coins every 1 hour!</item>
+        <item>vergiss nicht die stündigen Münzen!</item>
         <item>Get more EXP during one week than anybody else and win 55000 coins!</item>
-        <item>You can battle 2 vs 2 for coins!</item>
+        <item>du kannst 2 vs 2 für Münzen!</item>
         <item>You can make team scrimmage up to 5 vs 5!</item>
         <item>You can open big map by clicking on a minimap in the game!</item>
-        <item>You can connect mouse to your phone and play with it like on PC!</item>
-        <item>Use Blob Server app to create own server offline!</item>
+        <item>du kannst deine maus connecten an deinem handy und spiel wie am PC!</item>
+        </item> benutze blob server um deine eigenen offline server zu erschaffen!</item>
         <item>Click on a triangle near chat and invite friends to your server!</item>
-        <item>Log in to lvl up and start game with bigger masss!</item>
-        <item>Use mass/exp boosters to win more and lvl up faster!</item>
+        <item>Loge dich ein um zu lvln und mit größerer startmasse zu starten!</item>
+        <item>benutze mass/exp boosters um mehr zugewinnen und schneller zu lvln!</item>
         <item>If you ran out of coins, just buy them! :)</item>
         <item>Use rare skins and make everybody jealous!</item>
         <item>Customize game colors/params to your needs to play more comfortable!</item>
@@ -346,15 +347,15 @@
         <item>Have a chat with people and find new friends!</item>
         <item>Join our discord server to vote/chat and be up to date!</item>
         <item>Bring your real life friends in Blob to have fun together!</item>
-        <item>Every player has a unique ID, you can share it so people can find you in Blob!</item>
+        <item>jeder spieler hat eine eigene ID, du kannst sie teilen damit deine freunde dich in Blob finden!</item>
         <item>You can play on an empty server as a practice!</item>
         <item>You can click on IP label and change it or open servers list!</item>
         <item>Make sure to join our socials to be up to date, find friends and improve your skills!</item>
         <item>We always experiment with new game modes. You can find them in servers list (unofficial category)!</item>
         <item>We have awesome test game modes in unofficial!)</item>
         <item>If you are new to this game, check out on YouTube how other people rocks in Blob! Its amazing!</item>
-        <item>Sit closer to your Wi-Fi, mobile internet is not recommended!</item>
-        <item>Disable BLUETOOTH to reduce network lags!</item>
-        <item>Disable BLUETOOTH to reduce network lags!</item>
+        <item>sitze näher an deinem wifi, um besseres wlan zu krigen !</item>
+        <item>schalte dein BLUETOOTH aus um internet lags/verzögerungen zu reduzieren!</item>
+        <item>schalte dein BLUETOOTH aus um internet lags/verzögerungen zu reduzieren!</item>
     </string-array>
 </resources>
