@@ -303,9 +303,9 @@
     <string name="guide_select_region">Seleccione la región más cercana</string>
 
     <string name="skins_yt_desc">
-        Puedes grabar y subir tus videos a YouTube para ser popular y obtener la etiqueta YT en el juego!
+        <![CDATA[Puedes grabar y subir tus videos a YouTube para ser popular y obtener la etiqueta <font color="#FF0000"><b><big>[YT]</big></b></font> en el juego!
         Su skin se agregará a esta lista, para que las personas puedan usarla!
-        Lea los requisitos para tener la etiqueta YT en Discord!
+        Lea los requisitos para tener la etiqueta <font color="#FF0000"><b><big>[YT]</big></b></font> en Discord!]]>
     </string>
     <string name="skins_prem_desc">Con diferencia de skins FREE/YT, puedes usar skins PREM/LVL con cualquier apodo!</string>
     <string name="skins_free_desc">Para usar estas skins, debes ponerte su nombre como apodo</string>
@@ -337,6 +337,14 @@
     <string name="you_have_no_replays">You have no replays</string>
     <string name="save_replay">Save replay</string>
     <string name="replay_saved">Replay saved!</string>
+    <string name="old_replay_warning">Replays from older version of the game might not work correctly!</string>
+    <string name="too_new_replay_error">You should update the game to open this replay!</string>
+    <string name="mute">Mute</string>
+    <string name="buttons_position">Joystick position</string>
+    <string name="setup_controls">Setup controls</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="follow">Follow</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

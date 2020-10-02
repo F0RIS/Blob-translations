@@ -306,9 +306,9 @@
     <string name="guide_select_region">Выбери ближайший регион!</string>
 
     <string name="skins_yt_desc">
-        Ты можешь записывать и загружать на YouTube свой геймплей чтобы стать популярным и получить YT роль в игре.
+        <![CDATA[Ты можешь записывать и загружать на YouTube свой геймплей чтобы стать популярным и получить <font color="#FF0000"><b><big>[YT]</big></b></font> роль в игре.
         Твой скин буде добавлен в этот список и люди будут пользоваться им!
-        Читай актуальные требования для получения роли YT в нашем дискорде.
+        Читай актуальные требования для получения роли <font color="#FF0000"><b><big>[YT]</big></b></font> в нашем дискорде.]]>
     </string>
     <string name="servers_list_desc">Тут ты можешь выбрать пустой сервер и играть в одиночку или с друзьями, а так же тестировать UNOFFICIAL режимы!</string>
     <string name="custom_server_desc">Тут ты можешь создать приватный сервер со своими настройками, добавить ботов/миньонов и играть с друзьями!</string>
@@ -342,6 +342,14 @@
     <string name="you_have_no_replays">У тебя нет реплеев</string>
     <string name="save_replay">Сохранить реплей</string>
     <string name="replay_saved">Реплей сохранен!</string>
+    <string name="old_replay_warning">Реплеи из старой версии игры могут работать неправильно!</string>
+    <string name="too_new_replay_error">Обнови игру что бы открыть этот реплей!</string>
+    <string name="mute">Мьют</string>
+    <string name="buttons_position">Позиция кнопок</string>
+    <string name="setup_controls">Выбери управление</string>
+    <string name="left">Слева</string>
+    <string name="right">Справа</string>
+    <string name="follow">Следовать</string>
 
     <string-array name="hints">
         <item>Купи ВИП чтобы избавиться от рекламы!</item>

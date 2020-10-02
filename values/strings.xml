@@ -179,6 +179,11 @@
         <item>PlayerList</item>
     </string-array>
 
+    <string-array name="user_actions" translatable="false">
+        <item>@string/mute</item>
+    </string-array>
+
+
     <string-array name="servers_list_actions" translatable="false">
         <item>@string/copy</item>
         <item>@string/share</item>
@@ -375,9 +380,9 @@
     <string name="guide_select_region">Select nearest region!</string>
 
     <string name="skins_yt_desc">
-        You can record and upload your gameplay on YouTube to become popular and get YT in-game ROLE.
+        <![CDATA[You can record and upload your gameplay on YouTube to become <b><i>popular</i></b> and get <font color="#FF0000"><b><big>[YT]</big></b></font> in-game ROLE.
         Your skin will be added to this list, so players can use it!
-        Read actual requirements for YT tag in discord.
+        Read actual requirements for <font color="#FF0000"><b><big>[YT]</big></b></font> tag in <b>discord</b>.]]>
     </string>
     <string name="servers_list_desc">Here you can choose an empty server to practice alone or with friends and test (UNOFFICIAL) game modes</string>
     <string name="custom_server_desc">Here you can create a private server with custom params, add bots/minions and play with friends!</string>
@@ -410,6 +415,16 @@
     <string name="you_have_no_replays">You have no replays</string>
     <string name="save_replay">Save replay</string>
     <string name="replay_saved">Replay saved!</string>
+    <string name="old_replay_warning">Replays from older version of the game might not work correctly!</string>
+    <string name="too_new_replay_error">You should update the game to open this replay!</string>
+    <string name="mute">Mute</string>
+
+    <!--    Setting up controls -->
+    <string name="buttons_position">Buttons position</string>
+    <string name="setup_controls">Setup controls</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="follow">Follow</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

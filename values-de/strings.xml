@@ -301,7 +301,7 @@
     </string>
     <string name="guide_select_region">Wählen Sie die nächstgelegene Region</string>
 
-    <string name="skins_yt_desc">Du kannst dein Gameplay für YouTube Aufnehmen und dort hochladen, um populär zu werden, und den sogenannten "YT-Rank" im Spiel zu erhalten. Dein Skin wird zu dieser Liste hinzugefügt, sodass alle Spieler ihn benutzen können! Lese die aktuellen Anforderungen für den YT-Rank auf unserem Discord Server.</string>
+    <string name="skins_yt_desc"><![CDATA[Du kannst dein Gameplay für YouTube Aufnehmen und dort hochladen, um populär zu werden, und den sogenannten <font color="#FF0000"><b><big>[YT]</big></b></font> rank im Spiel zu erhalten. Dein Skin wird zu dieser Liste hinzugefügt, sodass alle Spieler ihn benutzen können! Lese die aktuellen Anforderungen für den <font color="#FF0000"><b><big>[YT]</big></b></font> rank auf unserem Discord Server.]]></string>
     <string name="skins_prem_desc">Im Gegensatz zu KOSTENLOSEN / YT-Skins kannst du PREM / LVL-Skins mit jedem beliebigen Spielernamen verwenden!</string>
     <string name="skins_free_desc">Um diese Skins zu verwenden, musst du den Namen des Skins als Spielername festlegen</string>
     <string name="revenge">Rache!</string> 
@@ -332,6 +332,14 @@
     <string name="you_have_no_replays">You have no replays</string>
     <string name="save_replay">Save replay</string>
     <string name="replay_saved">Replay saved!</string>
+    <string name="old_replay_warning">Replays from older version of the game might not work correctly!</string>
+    <string name="too_new_replay_error">You should update the game to open this replay!</string>
+    <string name="mute">Mute</string>
+    <string name="buttons_position">Joystick position</string>
+    <string name="setup_controls">Setup controls</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="follow">Follow</string>
 
     <string-array name="hints">
         <item>Kauf VIP und bekomme keine ads mehr!</item>

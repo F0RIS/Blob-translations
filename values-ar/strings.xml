@@ -345,6 +345,14 @@
     <string name="you_have_no_replays">You have no replays</string>
     <string name="save_replay">Save replay</string>
     <string name="replay_saved">Replay saved!</string>
+    <string name="old_replay_warning">Replays from older version of the game might not work correctly!</string>
+    <string name="too_new_replay_error">You should update the game to open this replay!</string>
+    <string name="mute">Mute</string>
+    <string name="buttons_position">Joystick position</string>
+    <string name="setup_controls">Setup controls</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="follow">Follow</string>
     <!-- In-game tips/hints -->
     <string-array name="hints">
         <item>شراء VIP والتخلص من الإعلانات!</item>

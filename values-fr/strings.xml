@@ -306,9 +306,9 @@
     <string name="guide_select_region">Sélectionner la région la plus proche</string>
 
     <string name="skins_yt_desc">
-        Vous pouvez enregistrer et télécharger votre ameplay sur YouTube pour devenir populaire et obtenir un rôle dans le jeu YT.
+        <![CDATA[Vous pouvez enregistrer et télécharger votre ameplay sur YouTube pour devenir populaire et obtenir un rôle dans le jeu <font color="#FF0000"><b><big>[YT]</big></b></font>.
         Votre skin sera ajouté à cette liste, afin que les gens l\'utilisent!
-        Lire les exigences réelles pour la balise YT en discorde
+        Lire les exigences réelles pour la balise <font color="#FF0000"><b><big>[YT]</big></b></font> en discorde]]>
     </string>
     <string name="skins_prem_desc">Contrairement aux skins Free / YT, vous pouvez utiliser les skins PREM / LVL avec n\'importe quel pseudo!</string>
     <string name="skins_free_desc">Pour utiliser ces skins, vous devez définir votre nom comme nom de la peau.</string>
@@ -340,6 +340,14 @@
     <string name="you_have_no_replays">You have no replays</string>
     <string name="save_replay">Save replay</string>
     <string name="replay_saved">Replay saved!</string>
+    <string name="old_replay_warning">Replays from older version of the game might not work correctly!</string>
+    <string name="too_new_replay_error">You should update the game to open this replay!</string>
+    <string name="mute">Mute</string>
+    <string name="buttons_position">Joystick position</string>
+    <string name="setup_controls">Setup controls</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="follow">Follow</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
