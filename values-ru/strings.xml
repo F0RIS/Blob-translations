@@ -350,6 +350,11 @@
     <string name="left">Слева</string>
     <string name="right">Справа</string>
     <string name="follow">Следовать</string>
+    <string name="private_servers_list">Список приватных серверов</string>
+    <string name="bots">Боты</string>
+    <string name="minions">Миньоны</string>
+    <string name="public_title">Публичный</string>
+    <string name="server_name">Имя сервера</string>
 
     <string-array name="hints">
         <item>Купи ВИП чтобы избавиться от рекламы!</item>

@@ -426,6 +426,13 @@
     <string name="right">Right</string>
     <string name="follow">Follow</string>
 
+    <!--    PRIVATE servers -->
+    <string name="private_servers_list">Private servers list</string>
+    <string name="bots">Bots</string>
+    <string name="minions">Minions</string>
+    <string name="public_title">Public</string>
+    <string name="server_name">Server name</string>
+
     <!-- In-game tips/hints -->
     <string-array name="hints">
         <item>Buy VIP and be free from ADS!</item>
