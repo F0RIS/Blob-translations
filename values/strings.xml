@@ -10,7 +10,7 @@
 
     <string name="cancel">Cancel</string>
     <string name="error">Error</string>
-    <string name="no_internet">For this game you need an internet connection</string>
+    <string name="no_internet">You need an internet connection for this game</string>
     <string name="show_minimap">Show minimap</string>
     <string name="show_chat">Show chat</string>
     <string name="show_advanced_minimap">Sector minimap</string>
@@ -46,7 +46,7 @@
     </string>
     <string name="check_update">Check for Updates</string>
     <string name="score_result">You scored %1$s points</string>
-    <string name="you_set_new_record">You set a new record in this game mode!</string>
+    <string name="you_set_new_record">You just set a new record in this game mode!</string>
     <string name="share">Share</string>
     <string name="share_text">You think you can defeat me in Blob? Hah, try it :) #blob_game %1$s</string>
     <string name="share_score_text">I got %1$d score in the Blob game! Come play with me! #blob_game %2$s</string>
@@ -55,20 +55,20 @@
     <string name="darkTheme">Dark theme</string>
     <string name="left_hand_control">Left hand control</string>
 
-    <string name="party_created">Give this link to your friends:</string>
+    <string name="party_created">Share this link with your friends:</string>
     <string name="joining">Joining...</string>
     <string name="creating_party">Creating party...</string>
-    <string name="vibration">Vibrate</string>
+    <string name="vibration">Vibration</string>
     <string name="game_mechanic_description">
         &#160;&#160;- The bigger you are, the slower you move.\n
-        &#160;- Tap on the relevant button to divide into two smaller blobs. One half of you shoots forward quickly - use this trick to strike other players and eat them.\n
-        &#160;- If you are divided into separate peaces you can recombine into one blob after a certain period of time has passed. The bigger your blobs are, the longer you have to wait before you can form into one blob again.\n
-        &#160;- If you are smaller than the spikeballs (virus) then you can hide inside of them for protection, but beware, if you are larger than a virus then touching it makes you burst into many tiny blobs.\n
-        &#160;- You can make viruses (spiky blobs) split and hit another blobs by throwing some of your mass into it.\n
+        &#160;- Tap on the relevant button to divide into two smaller blobs. Split to shoot your half forward quickly - use this trick to eat other players.\n
+        &#160;- If you are divided into separate pieces you can recombine into one blob after a certain period of time has passed. The bigger your blobs are, the longer you have to wait before you recombine.\n
+        &#160;- If you are smaller than the virus, then you can hide inside of them for protection, but beware, if you are larger than a virus it will burst you into many tiny blobs.\n
+        &#160;- You can make viruses split and hit another blobs by throwing some of your mass into it.\n
         &#160;- You can\'t eat or be eaten by players the exact same size as you.\n
         Controls:\n
-        &#160;- Tap anywhere on the screen to move your cell or just use the joystick.\n
-        &#160;- Tap on the corresponding button to split or eject some mass.\n
+        &#160;- Tap anywhere on the screen to move your cell or use the joystick.\n
+        &#160;- Tap on the corresponding button to split or eject mass.\n
         &#160; You can read this info again by clicking on the question mark icon in the main menu.\n
         &#160; If something went wrong, restart the application and clear RAM.\n
     </string>
@@ -81,7 +81,7 @@
 
     <string name="fb_info_title">Information</string>
     <string name="fb_info_message">Log in and achieve bigger starting mass!\n
-        Level up to get even more starting mass and unlock new LVLs skins!</string>
+        Level up to get even more starting mass and unlock new LVL skins!</string>
     <string name="how_to_install">How to install</string>
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
     <string name="prem_skin_message">Setup this skin?</string>
@@ -93,28 +93,29 @@
     <string name="receiving">Receiving...</string>
     <string name="get_it">Get it!</string>
 
-    <string name="keep_ip">Keep IP for this session</string>
+    <string name="keep_ip">Keep IP for this party</string>
     <string name="keep_ip_description">IP will not be updated automatically</string>
 
     <!-- Rate this app-->
     <string name="rta_dialog_title">Rate this game</string>
-    <string name="rta_dialog_message">If you enjoy using this app, would you mind taking a moment to rate it? It won\'t take more than a minute. Thank you for your support!</string>
+    <string name="rta_dialog_message">If you enjoy using this app, please take a moment to rate it? It won\'t take more than a minute. Thank you for your support!</string>
     <string name="rta_dialog_ok">Rate now</string>
     <string name="rta_dialog_cancel">Later</string>
     <string name="rta_dialog_no">No, thanks</string>
 
     <!-- Share this app-->
     <string name="rta_dialog_title2">Share this app</string>
-    <string name="rta_dialog_message2">If you like this game, show it to your friends! They might like it too!</string>
+    <string name="rta_dialog_message2">If you like this game, share it with your friends! They might like it too!</string>
     <string name="rta_dialog_ok2">Share now!</string>
 
-    <string name="low_lvl_message">Your lvl is lower than required</string>
+    <string name="low_lvl_message">Your
+        lvl is lower than required</string>
     <string name="login_for_skins_message">You must log in to use these skins</string>
-    <string name="skin_unlocked">You unlocked skin %1$s!</string>
+    <string name="skin_unlocked">You unlocked a skin %1$s!</string>
     <string name="optimize_names">Optimize names</string>
     <string name="low_graphic">Low graphics</string>
     <string name="macros">Macros</string>
-    <string name="hello_fake">You can use this nickname only from lvl 30 :)</string>
+    <string name="hello_fake">You can only use this nickname above lvl 30 :)</string>
     <string name="get_more">Get more!</string>
 
 
@@ -197,13 +198,13 @@
 
 
     <string name="better_skins_quality">Better skins quality</string>
-    <string name="better_skins_warning">This may cause lags. Use this if you see pixels on the skins</string>
+    <string name="better_skins_warning">This may cause lag. Only use if you see pixels on skins</string>
     <string name="stop_on_release">Stop on release</string>
     <string name="type_user_id">Type user ID</string>
     <string name="copy_user_id">Copy ID</string>
     <string name="send_friend_request">Invite</string>
     <string name="friend_request_successful">Friend request sent successfully!</string>
-    <string name="added_new_friend">Added new friend</string>
+    <string name="added_new_friend">New friend added</string>
     <string name="moved_to_declined">Moved to declined</string>
     <string name="show_friends">Show friends</string>
     <string name="watch">Watch</string>
@@ -225,7 +226,7 @@
     <string name="coins">Coins</string>
 
     <string name="empty">Empty</string>
-    <string name="you_dont_have_friends">You don\'t have any friends yet :(</string>
+    <string name="you_dont_have_friends">You don\'t have any friends at the moment :(</string>
     <string name="bought_succeed">You bought %s successfully!</string>
 
     <!-- API ERROR MESSAGES -->
@@ -233,7 +234,7 @@
     <string name="request_already_sent_error">Friend request already sent</string>
     <string name="already_friend_error">This user is already your friend</string>
     <string name="not_enough_coins">You don\'t have enough coins</string>
-    <string name="already_own_item">You already own this item</string>
+    <string name="already_own_item">Item already owned</string>
 
     <string name="searching_ad_video">Searching for a video, please wait</string>
     <string name="processing">Processing...</string>
@@ -267,7 +268,7 @@
     <string name="random">Random</string>
     <string name="key">Key</string>
     <string name="left_label">(%s left)</string>
-    <string name="coins_battle">Coins battle: </string>
+    <string name="coins_battle">Battle coins: </string>
     <string name="spectate_title">Spectate</string>
     <string name="game_isnt_started_yet">Game hasn\'t started yet. You may lose your coins!</string>
     <string name="show_cell_border">Show cell border</string>
