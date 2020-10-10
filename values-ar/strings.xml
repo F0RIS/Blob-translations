@@ -4,9 +4,9 @@
     <string name="cancel">إلغاء </string>
     <string name="error">خطأ</string>
     <string name="no_internet">لا يوجد أنترنت</string>
-    <string name="show_minimap">إظهار خريطة مصغرة</string>
+    <string name="show_minimap">إظهار الخريطة المصغرة</string>
     <string name="show_chat">إظهار الدردشة</string>
-    <string name="show_advanced_minimap">إضهار الخريطة المصغرة المتطورة</string>
+    <string name="show_advanced_minimap">إظهار الخريطة المصغرة المتطورة</string>
     <string name="region">المنطقة</string>
     <string name="show_grid">إظهار الشبكة</string>
     <string name="show_mass">إظهار الأطعمة</string>
@@ -27,7 +27,7 @@
     <string name="settings">الإعدادات</string>
     <string name="skins_list">المظاهر</string>
     <string name="skin_message">سيؤدي هذا إلى تغيير الإسم الخاص بك</string>
-    <string name="skin_title">تعيين اسم لهذا المظهر</string>
+    <string name="skin_title">تحذير!</string>
     <string name="connect_to">الإتصال</string>
     <string name="connecting">جاري الإتصال</string>
     <string name="enter_ip">IPأدخل ال</string>
@@ -36,12 +36,8 @@
     <string name="connection_lost">فقد الإتصال</string>
     <string name="cant_connect">لا يمكن الإتصال</string>
     <string name="about_title">بشأن</string>
-    <string name="about_text">&#032;&#032;النقطة الروبوتالعميل %1$s \n\n
-
-        &#032;هذا التطبيق أجاريو مثل ساخرة.\n
-
-        &#032;إذا كان هذا العميل إيقاف العمل، التحقق من وجود تحديثات.\n
-
+    <string name="about_text">&#032;&#032;Blob Android Client %1$s \n\n
+        &#032; يمكنك أن تبعث لنا اقتراحاتك هنا:
     </string>
 
     <string name="check_update">تحقق من وجود تحديث</string>
@@ -72,14 +68,14 @@
         التحكم: \n
         &#160;- انقر في أي مكان على الشاشة للتحرك، أو استعمل عصا التحكم.\n
         &#160;- اضغط على الأزرار المحددة لكل عملية للقيام بها.\n
-        &#160;- RAMإذا حدث خلل ما، قم بإعادة فتح اللعبة و إخلاء ال.\n
+        &#160;- .RAMإذا حدث خلل ما، قم بإعادة فتح اللعبة و إخلاء ال\n
         &#160;- يمكنك إعادة قراءة هذه المعلومات عن طريقة الضغط على علامة الإستفهام الموجودة في القائمة الرئيسية.\n
 
     </string>
     <string name="first_start_dialog_title">ميكانيك اللعبة</string>
-    <string name="update_title">يوجد تحديث جديد</string>
+    <string name="update_title">يوجد إصدار جديد</string>
     <string name="update_message">هل تريد التحديث الآن؟</string>
-    <string name="players">اللاعبين:&#160;</string>
+    <string name="players">اللاعبين &#160;</string>
     <string name="totals">الإجماليات</string>
 
 
@@ -96,12 +92,12 @@
     <string name="receiving">جاري التلقي...</string>
     <string name="get_it">اشتراء!</string>
 
-    <string name="keep_ip">لهذه الغرفة IPالاحتفاظ بال</string>
-    <string name="keep_ip_description">لهذه الغرفة IPلن يتم تحديث ال </string>
+    <string name="keep_ip">IPالاحتفاظ بال</string>
+    <string name="keep_ip_description">IPلن يتم تحديث ال</string>
 
     <!-- Rate this app-->
     <string name="rta_dialog_title">قم بتقييم اللعبة</string>
-    <string name="rta_dialog_message">!إذا كنت تستمتع باللعبة المرجو ترك تقييم، لن تأخذ العملية أكثر من دقيقة. نشكركم على الدعم المستمر</string>
+    <string name="rta_dialog_message">إذا كنت تستمتع باللعبة المرجو ترك تقييم، لن تأخذ العملية أكثر من دقيقة. نشكركم على الدعم المستمر!</string>
     <string name="rta_dialog_ok">تقييم اللعبة الآن</string>
     <string name="rta_dialog_cancel">مرة أخرى</string>
     <string name="rta_dialog_no">نوع اللعبة</string>
@@ -122,7 +118,7 @@
 
     <string name="my_friends">أصدقائي</string>
     <string name="my_new_friends">طلبات الصداقة</string>
-    <string name="followers">المتابعين</string>
+    <string name="followers">المرفوضين</string>
     <string name="blocked">المحظورين</string>
     <string name="playing">&#160;في اللعبة:</string>
     <string name="offline">غير متصل</string>
@@ -220,14 +216,14 @@
     <string name="prev_week_exp">إكس بي الأسبوع الماضي</string>
     <string name="rules_title">القواعد</string>
     <string name="rules_description">
-            1.) لا تقم بإهانة اللاعبين الآخرين.\n
-            2.) لا تدعي على أنك مشرف في اللعبة.\n
-            3.) لا تتبادل معلومات حسابات بلوب داخل أو خارج اللعبة.\n
-            4.) لا تغش للوصول إلى أعلى تصنيف في اللعبة.\n
-            5.) لا تستخدم أسماء غير لائقة في اللعبة.\n
-            6.) لا تستفيد من خطأ أو عطب في اللعبة.\n
-            7.) لا تلعب مع شخص في فريق من غير فريقك.\n
-        </string>
+        1.) لا تقم بإهانة اللاعبين الآخرين.\n
+        2.) لا تدعي على أنك مشرف في اللعبة.\n
+        3.) لا تتبادل معلومات حسابات بلوب داخل أو خارج اللعبة.\n
+        4.) لا تغش للوصول إلى أعلى تصنيف في اللعبة.\n
+        5.) لا تستخدم أسماء غير لائقة في اللعبة.\n
+        6.) لا تستفيد من خطأ أو عطب في اللعبة.\n
+        7.) لا تلعب مع شخص في فريق من غير فريقك.\n
+    </string>
     <string name="top_week_exp_desc">أحصل على أكبر قدر من الإكس بي في الأسبوع و اربح مكافأة نقدية.</string>
     <string name="server_app_description">مع بلوب، يمكن لك إنشاء خادم خاص بك و اللعب لوحدك أو مع أصدقائك!</string>
     <string name="show_fps">FPSعرض ال</string>
@@ -250,13 +246,13 @@
     <string name="highlight_friends">إبراز الأصدقاء</string>
     <string name="custom_colors">ألوان مخصصة</string>
     <string name="background_title">الخلفية</string>
-    <string name="grid_title">الشبكه</string>
+    <string name="grid_title">الشبكة</string>
     <string name="food_title">الأطعمة</string>
     <string name="virus_title">الفيروسات</string>
     <string name="mother_cell_title">الفيروس الأم</string>
-    <string name="eject_title">يطعم</string>
+    <string name="eject_title">إطعام</string>
     <string name="friend_name_title">اسم الصديق</string>
-    <string name="invitation_sent">!تم إرسال الدعوة بنجاح</string>
+    <string name="invitation_sent">تم إرسال الدعوة بنجاح!</string>
     <string name="choose_friend">اختر صديق</string>
     <string name="notifications">إشعارات</string>
     <string name="join_server">انضم للسرفر</string>
@@ -273,14 +269,14 @@
 
     <string name="try_for_free">جرب بالمجان</string>
     <string name="account">الحساب</string>
-    <string name="dialog_vip_desc_title2">!VIPتعبت من الإعلانات؟ اشتري ال</string>
+    <string name="dialog_vip_desc_title2">VIPتعبت من الإعلانات؟ اشتري ال!</string>
     <string name="no_ads">لا توجد إعلانات</string>
     <string name="dialog_vip_desc_free_hours">نقود مجانية كل ساعة</string>
     <string name="dialog_vip_desc_ingame_coins">نقود في اللعبة</string>
-    <string name="dialog_vip_desc_additional_exp">زيادة إضافية</string>
+    <string name="dialog_vip_desc_additional_exp">إكس بي زائد في البداية</string>
     <string name="dialog_vip_desc_start_mass">حجم البداية</string>
     <string name="dialog_vip_desc_discount">خصم على المشتريات</string>
-    <string name="dialog_vip_desc_chat_label">في الدردشة VIP علامة</string>
+    <string name="dialog_vip_desc_chat_label">VIP علامة</string>
     <string name="dialog_vip_desc_border">قوس قزح في حدود الخلية</string>
     <string name="dialog_vip_desc_lock_name">اسم ذهبي</string>
     <string name="side">الجانب:</string>
@@ -298,35 +294,35 @@
     <string name="share_lvl_text">لقد ازددت بمستوى في بلوب !لا يمكنك هزيمتي يا فتى.</string>
     <string name="share_double_coins">شارك نتائجك و اربح نقود مزدوجة!</string>
 
-    <string name="guide_text1"><![CDATA[أكل <b>طعام</b> اكبر!]]></string>
+    <string name="guide_text1"><![CDATA[كل <b>الطعام</b> لكي تكبر!]]></string>
     <string name="guide_text2"><![CDATA[اضغط <b>فرقع و انقسم<b> و كل لاعبين آخرين!]]></string>
-    <string name="guide_text3"><![CDATA[اضغط <b>أطعم</b> لفرقعة اللاعبين بالفيروسات و التمكن من أكلهم!]]></string>
-    <string name="guide_text4">!ابتعد عن الفيروسات</string>
+    <string name="guide_text3"><![CDATA[أطعم <b>الفيروسات</b> لفرقعة اللاعبين بالفيروسات و التمكن من أكلهم!]]></string>
+    <string name="guide_text4">احذر من الفيروسات!</string>
     <string name="guide_text5">
-            <![CDATA[تحتاج هذه اللعبة <b>لأنترنت قوية.</b>اجلس بالقرب من الانترنت، الداتا غير جيدة مع هذه اللعبة!<b><i><font color="#1A0DAB">سرفر بلوب</font></i></b>!للعب بدون أنترنت]]>
-        </string>
+        <![CDATA[تحتاج هذه اللعبة <b>لأنترنت قوية.</b>اجلس بالقرب من الانترنت، و تأكد من أن البلوتوث غير شغال.<b><i><font color="#1A0DAB">سرفر بلوب</font></i></b>!للعب بدون أنترنت]]>
+    </string>
     <string name="guide_select_region">اختر أقرب منطقة</string>
 
-    <string name="skins_yt_desc">!يمكنك تسجيل لعبك و مشاركته في يوتيوب لكي تصبح مشهورا، و لكي تحصل على مظهر خاص بك داخل اللعبة يمكن ادلأي لاعب أن يستعمله</string>
-    <string name="skins_prem_desc">.يمكنك استعمال أي اسم مع مظاهر المستويات و الحصرية على عكس المظاهر المجانية</string>
-    <string name="skins_free_desc">.لا يمكن لك استخدام اسمك مع هذا المظهر</string>
-    <string name="revenge">!انتقام</string>
-    <string name="kill_streak">قتل متتالي</string>
-    <string name="killed_you">!%s قتلك</string>
+    <string name="skins_yt_desc">يمكنك تسجيل لعبك و مشاركته في يوتيوب لكي تصبح مشهورا، و لكي تحصل على مظهر خاص بك داخل اللعبة يمكن ادلأي لاعب أن يستعمله!</string>
+    <string name="skins_prem_desc">يمكنك استعمال أي اسم مع مظاهر المستويات و الحصرية على عكس المظاهر المجانية!</string>
+    <string name="skins_free_desc">لا يمكن لك استخدام اسمك مع هذا المظهر!</string>
+    <string name="revenge">انتقام!</string>
+    <string name="kill_streak">قتل متتالي!</string>
+    <string name="killed_you">%s قتلك!</string>
     <string name="servers_list_desc">(يمكنك اختيار سرفر فارغ للعب بمفردك أو مع أصدقائك للتدرب، أو اختيار أنواع لعب مختلفة)</string>
-    <string name="custom_server_desc">.هنا يمكنك إنشاء سرفر خاص بك مع إعداداتك الخاصة و اللعب مع أصدقائك</string>
-    <string name="ts2v2_desc">.هنا يمكنك اللعب في فرق المعركة 2 ضد 2. يمكنك المراهنة بالنقود و / أو إنشاء معركة باستخدام مفتاح يشارك فيه فقط أصدقائك</string>
-    <string name="you_won">!لقد فزت باللعبة</string>
+    <string name="custom_server_desc">هنا يمكنك إنشاء سرفر خاص بك مع إعداداتك الخاصة و اللعب مع أصدقائك.</string>
+    <string name="ts2v2_desc">هنا يمكنك اللعب في فرق المعركة 2 ضد 2. يمكنك المراهنة بالنقود و / أو إنشاء معركة باستخدام مفتاح يشارك فيه فقط أصدقائك</string>
+    <string name="you_won">لقد فزت باللعبة!</string>
     <string name="someone_won">!فاز باللعبة %s</string>
     <string name="direction_lines">خطوط الاتجاه</string>
     <string name="score_result_best">أفضل نتيجة</string>
     <string name="daily_quests">مهام يومية</string>
     <string name="reset_in">(%s إعادة في)</string>
-    <string name="q_replace_desc">.يمكنك استبدال مهمة كل مرة في اليوم</string>
+    <string name="q_replace_desc">يمكنك استبدال مهمة كل مرة في اليوم.</string>
     <string name="replace">استبدال</string>
     <string name="q_choose_replace">.اختيار المهام التي تريد استبدالها</string>
     <string name="q_replace_x">؟ $s استبدال المهمة </string>
-    <string name="q_replaced">!تم استبدال المهمة</string>
+    <string name="q_replaced">تم استبدال المهمة!</string>
     <string name="Completed">منجز</string>
     <string name="get_reward">الحصول على مكافأة</string>
     <string name="daily_reward">مكافآت يومية</string>
@@ -337,9 +333,9 @@
     <string name="replays">الإعادات</string>
     <string name="you_have_no_replays">ليس لديك إعادات</string>
     <string name="save_replay">حفظ الإعادة</string>
-    <string name="replay_saved">!تم حفظ الإعادة</string>
-    <string name="old_replay_warning">!يمكن لإعادات من إصدارات قديمة للعبة عدم العمل بطريقة جيدة</string>
-    <string name="too_new_replay_error">!يجب عليك تحميل الإصدار الجديد لفتح هذه الإعادة</string>
+    <string name="replay_saved">تم حفظ الإعادة!</string>
+    <string name="old_replay_warning">يمكن لإعادات من إصدارات قديمة للعبة عدم العمل بطريقة جيدة.</string>
+    <string name="too_new_replay_error">يجب عليك تحميل الإصدار الجديد لفتح هذه الإعادة!</string>
     <string name="mute">كتم الصوت</string>
     <string name="buttons_position">مكان الأزرار</string>
     <string name="setup_controls">إعدادات التحكم</string>
