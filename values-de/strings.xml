@@ -176,6 +176,7 @@
     <string name="searching_ad_video">Suchen Sie nach einem Video, bitte warten Sie</string>
     <string name="processing">Wird bearbeitet...</string>
     <string name="free_coins_toast">Du hast %d Münzen kostenlos!</string>
+    <string name="quest_coins_toast">You got %d coins!</string>
     <string name="free_coins">Kostenlose Münzen</string>
     <string name="watch_video">Schau Video</string>
     <string name="lvl_coins_reward">Herzlichen Glückwünsch! Du hast Level erreicht %1$d und gewonnen %2$d Münzen!</string>

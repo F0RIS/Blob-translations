@@ -180,6 +180,7 @@
     <string name="searching_ad_video">À la recherche d\'une vidéo</string>
     <string name="processing">Traitement...</string>
     <string name="free_coins_toast">Vous avez gagné %d pièces de grâce!</string>
+    <string name="quest_coins_toast">You got %d coins!</string>
     <string name="free_coins">Pièces gratuites</string>
     <string name="watch_video">Regardez la vidéo</string>
     <string name="lvl_coins_reward">Félicitations! Vous avez atteint le %1$d et a gagné %2$d pièces de monnaie!</string>

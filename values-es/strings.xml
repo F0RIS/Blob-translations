@@ -178,6 +178,7 @@
     <string name="searching_ad_video">Buscando un vídeo, espere</string>
     <string name="processing">Procesando...</string>
     <string name="free_coins_toast">Ganaste %d monedas de gracia!</string>
+    <string name="quest_coins_toast">You got %d coins!</string>
     <string name="free_coins">Monedas gratis!</string>
     <string name="watch_video">Mirar</string>
     <string name="lvl_coins_reward">¡Enhorabuena! Usted ha llegado al nivel %1$d y ganó %2$d monedas!</string>

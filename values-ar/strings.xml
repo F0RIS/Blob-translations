@@ -68,7 +68,7 @@
         التحكم: \n
         &#160;- انقر في أي مكان على الشاشة للتحرك، أو استعمل عصا التحكم.\n
         &#160;- اضغط على الأزرار المحددة لكل عملية للقيام بها.\n
-        &#160;- .RAMإذا حدث خلل ما، قم بإعادة فتح اللعبة و إخلاء ال\n
+        &#160;- إذا حدث خلل ما، قم بإعادة فتح اللعبة و إخلاء الرام.\n
         &#160;- يمكنك إعادة قراءة هذه المعلومات عن طريقة الضغط على علامة الإستفهام الموجودة في القائمة الرئيسية.\n
 
     </string>
@@ -169,7 +169,7 @@
 
     <string name="empty">فارغة</string>
     <string name="you_dont_have_friends">:( ليس لديك أي صديق</string>
-    <string name="bought_succeed">%s بنجاح تم اشتراء!</string>
+    <string name="bought_succeed">%s تم اشتراء!</string>
 
     <!-- API ERROR MESSAGES -->
     <string name="user_not_found">لم يتم العثور على اللاعب</string>
@@ -181,6 +181,7 @@
     <string name="searching_ad_video">جاري البحث عن فيديو، المرجو الانتظار</string>
     <string name="processing">جاري المعالجة...</string>
     <string name="free_coins_toast">!مجانية %d لقد حصلت على</string>
+    <string name="quest_coins_toast">You got %d coins!</string>
     <string name="free_coins">نقود مجانية</string>
     <string name="watch_video">مشاهدة الفيديو</string>
     <string name="lvl_coins_reward">تهانينا! لقد ربحت %2$s نقود و وصلت المستوى %1$s</string>
@@ -264,7 +265,7 @@
     <string name="gold">ذهب</string>
     <string name="silver">فضة</string>
     <string name="bronze">برونز</string>
-    <string name="medal_description">تهانينا، لقد ربحت %1$s و وصلت المستوى %2$s</string>
+    <string name="medal_description">لقد وصلت للمرتبة العالمية %2$s، حصلت على %1$s</string>
     <string name="medal_description_first_place">!ميدالية لوضع المركز الأول في التصنيف العالمي</string>
 
     <string name="try_for_free">جرب بالمجان</string>
@@ -344,11 +345,11 @@
     <string name="follow">المتابعة</string>
 
     <!--    PRIVATE servers -->
-    <string name="private_servers_list">Private servers list</string>
-    <string name="bots">Bots</string>
-    <string name="minions">Minions</string>
-    <string name="public_title">Public</string>
-    <string name="server_name">Server name</string>
+    <string name="private_servers_list">قائمة السيرفرات الخاصة</string>
+    <string name="bots">بوت</string>
+    <string name="minions">مينيونز</string>
+    <string name="public_title">عام</string>
+    <string name="server_name">اسم السرفر</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

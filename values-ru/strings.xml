@@ -175,6 +175,7 @@
     <string name="searching_ad_video">Ищем видео, подождите</string>
     <string name="processing">Обработка...</string>
     <string name="free_coins_toast">Вы бесплатно получили %d монет!</string>
+    <string name="quest_coins_toast">Вы заработали %d монет!</string>
     <string name="free_coins">Бесплатные монеты</string>
     <string name="watch_video">Смотреть видео</string>
     <string name="lvl_coins_reward">Поздравляем! Вы достигли %1$d уровня и получили %2$d монет!</string>
