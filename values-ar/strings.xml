@@ -88,9 +88,9 @@
     <string name="game_mode">نوع اللعبة</string>
     <string name="unavailable">غير متوفر</string>
     <string name="top_lvl">المستويات العليا</string>
-    <string name="top">القمة &#160;</string>
+    <string name="top">الترتيب &#160;</string>
     <string name="receiving">جاري التلقي...</string>
-    <string name="get_it">اشتراء!</string>
+    <string name="get_it">أحصل عليه!</string>
 
     <string name="keep_ip">IPالاحتفاظ بال</string>
     <string name="keep_ip_description">IPلن يتم تحديث ال</string>
@@ -181,7 +181,7 @@
     <string name="searching_ad_video">جاري البحث عن فيديو، المرجو الانتظار</string>
     <string name="processing">جاري المعالجة...</string>
     <string name="free_coins_toast">!مجانية %d لقد حصلت على</string>
-    <string name="quest_coins_toast">You got %d coins!</string>
+    <string name="quest_coins_toast">%d لقد حصلت على</string>
     <string name="free_coins">نقود مجانية</string>
     <string name="watch_video">مشاهدة الفيديو</string>
     <string name="lvl_coins_reward">تهانينا! لقد ربحت %2$s نقود و وصلت المستوى %1$s</string>
@@ -297,14 +297,14 @@
 
     <string name="guide_text1"><![CDATA[كل <b>الطعام</b> لكي تكبر!]]></string>
     <string name="guide_text2"><![CDATA[اضغط <b>فرقع و انقسم<b> و كل لاعبين آخرين!]]></string>
-    <string name="guide_text3"><![CDATA[أطعم <b>الفيروسات</b> لفرقعة اللاعبين بالفيروسات و التمكن من أكلهم!]]></string>
+    <string name="guide_text3"><![CDATA[أطعم <b>الفيروسات</b> لفرقعة اللاعبين و التمكن من أكلهم!]]></string>
     <string name="guide_text4">احذر من الفيروسات!</string>
     <string name="guide_text5">
-        <![CDATA[تحتاج هذه اللعبة <b>لأنترنت قوية.</b>اجلس بالقرب من الانترنت، و تأكد من أن البلوتوث غير شغال.<b><i><font color="#1A0DAB">سرفر بلوب</font></i></b>!للعب بدون أنترنت]]>
+        <![CDATA[تحتاج هذه اللعبة <b>لأنترنت قوية.</b>اجلس بالقرب من الانترنت، و تأكد من أن البلوتوث غير شغال.</b>استعمب تطبيق<b><i><font color="#1A0DAB">بلوب سرفر</font></i></b>!للعب بدون أنترنت]]>
     </string>
     <string name="guide_select_region">اختر أقرب منطقة</string>
 
-    <string name="skins_yt_desc">يمكنك تسجيل لعبك و مشاركته في يوتيوب لكي تصبح مشهورا، و لكي تحصل على مظهر خاص بك داخل اللعبة يمكن ادلأي لاعب أن يستعمله!</string>
+    <string name="skins_yt_desc">يمكنك تسجيل لعبك و مشاركته في يوتيوب لكي تصبح مشهورا، و لكي تحصل على مظهر خاص بك داخل اللعبة يمكن لأي لاعب أن يستعمله!</string>
     <string name="skins_prem_desc">يمكنك استعمال أي اسم مع مظاهر المستويات و الحصرية على عكس المظاهر المجانية!</string>
     <string name="skins_free_desc">لا يمكن لك استخدام اسمك مع هذا المظهر!</string>
     <string name="revenge">انتقام!</string>
@@ -322,7 +322,7 @@
     <string name="q_replace_desc">يمكنك استبدال مهمة كل مرة في اليوم.</string>
     <string name="replace">استبدال</string>
     <string name="q_choose_replace">.اختيار المهام التي تريد استبدالها</string>
-    <string name="q_replace_x">؟ $s استبدال المهمة </string>
+    <string name="q_replace_x">$s استبدال المهمة</string>
     <string name="q_replaced">تم استبدال المهمة!</string>
     <string name="Completed">منجز</string>
     <string name="get_reward">الحصول على مكافأة</string>
