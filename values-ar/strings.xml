@@ -351,24 +351,24 @@
     <string name="public_title">عام</string>
     <string name="server_name">اسم السرفر</string>
 
-    <string name="background_image">Background image</string>
+    <string name="background_image">الصورة الخلفية</string>
 
     <!--    Rate this app dialog -->
-    <string name="smile_rating_terrible">Terrible</string>
-    <string name="smile_rating_bad">Bad</string>
-    <string name="smile_rating_okay">Okay</string>
-    <string name="smile_rating_good">Good</string>
-    <string name="smile_rating_great">Great</string>
+    <string name="smile_rating_terrible">سيئ جدا</string>
+    <string name="smile_rating_bad">سيئ</string>
+    <string name="smile_rating_okay">مستحسن</string>
+    <string name="smile_rating_good">حسن</string>
+    <string name="smile_rating_great">حسن جدا</string>
 
-    <string name="repeat_mode">Repeat mode</string>
-    <string name="high_quality">High quality</string>
-    <string name="set_title">Set</string>
-    <string name="link_title">Link</string>
-    <string name="file_title">File</string>
-    <string name="you_title">You</string>
+    <string name="repeat_mode">وضع التكرير</string>
+    <string name="high_quality">جودة جيدة</string>
+    <string name="set_title">إعداد</string>
+    <string name="link_title">رابط</string>
+    <string name="file_title">ملف</string>
+    <string name="you_title">أنت</string>
 
-    <string name="kill">Kill</string>
-    <string name="death">Death</string>
+    <string name="kill">قتل</string>
+    <string name="death">موت</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
