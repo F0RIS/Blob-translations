@@ -305,7 +305,7 @@
     <string name="custom_server_created">Private server created</string>
     <string name="highlight_friends">Highlight friends</string>
     <string name="custom_colors">Custom theme</string>
-    <string name="background_title">Background color</string>
+    <string name="background_color">Background color</string>
     <string name="grid_title">Grid</string>
     <string name="food_title">Food</string>
     <string name="virus_title">Virus</string>

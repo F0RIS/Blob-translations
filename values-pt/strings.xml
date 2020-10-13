@@ -246,7 +246,7 @@
     <string name="custom_server_created">Servidor personalizado criado!</string>
     <string name="highlight_friends">Amigos destacados</string>
     <string name="custom_colors">Customizar cores</string>
-    <string name="background_title">Fundo</string>
+    <string name="background_color">Fundo</string>
     <string name="grid_title">Grades</string>
     <string name="food_title">Alimentação</string>
     <string name="virus_title">Vírus</string>

@@ -244,7 +244,7 @@
     <string name="custom_server_created">Benutzerdefinierter Server erstellt</string>
     <string name="highlight_friends">Freunde hervorheben</string>
     <string name="custom_colors">Benutzerdefiniertes Theme</string>
-    <string name="background_title">Hintergrund festlegen</string>
+    <string name="background_color">Hintergrund festlegen</string>
     <string name="grid_title">Gitter</string>
     <string name="food_title">Essen</string>
     <string name="virus_title">Virus</string>

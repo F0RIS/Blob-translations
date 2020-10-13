@@ -244,7 +244,7 @@
     <string name="custom_server_created">Личный сервер создан</string>
     <string name="highlight_friends">Подсвечивать друзей</string>
     <string name="custom_colors">Кастомная тема</string>
-    <string name="background_title">Фон цвет</string>
+    <string name="background_color">Фон цвет</string>
     <string name="grid_title">Сетка</string>
     <string name="food_title">Еда</string>
     <string name="virus_title">Вирус</string>
