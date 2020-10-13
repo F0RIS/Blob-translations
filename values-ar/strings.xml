@@ -239,8 +239,8 @@
     <string name="time_left">الوقت المتبقي:</string>
     <string name="edit">تغيير</string>
     <string name="chat_enable_warning">مع هذا الخيار ، يصبح تقييم التطبيق مرتفعا!</string>
-    <string name="score_title">النقاط:</string>
-    <string name="bet_value">قيمة الرهان:</string>
+    <string name="score_title">النقاط</string>
+    <string name="bet_value">قيمة الرهان</string>
     <string name="create">خلق</string>
     <string name="custom_server">سيرفر مخصص</string>
     <string name="custom_server_created">تم صنع السيرفر المخصص</string>
@@ -270,7 +270,7 @@
 
     <string name="try_for_free">جرب بالمجان</string>
     <string name="account">الحساب</string>
-    <string name="dialog_vip_desc_title2">VIPتعبت من الإعلانات؟ اشتري ال!</string>
+    <string name="dialog_vip_desc_title2">VIP هل تعبت من الإعلانات؟ اشتري</string>
     <string name="no_ads">لا توجد إعلانات</string>
     <string name="dialog_vip_desc_free_hours">نقود مجانية كل ساعة</string>
     <string name="dialog_vip_desc_ingame_coins">نقود في اللعبة</string>
@@ -296,11 +296,11 @@
     <string name="share_double_coins">شارك نتائجك و اربح نقود مزدوجة!</string>
 
     <string name="guide_text1"><![CDATA[كل <b>الطعام</b> لكي تكبر!]]></string>
-    <string name="guide_text2"><![CDATA[اضغط <b>فرقع و انقسم<b> و كل لاعبين آخرين!]]></string>
+    <string name="guide_text2"><![CDATA[اضغط <b>فرقع و انقسم</b> و كل لاعبين آخرين!]]></string>
     <string name="guide_text3"><![CDATA[أطعم <b>الفيروسات</b> لفرقعة اللاعبين و التمكن من أكلهم!]]></string>
     <string name="guide_text4">احذر من الفيروسات!</string>
     <string name="guide_text5">
-        <![CDATA[تحتاج هذه اللعبة <b>لأنترنت قوية.</b>اجلس بالقرب من الانترنت، و تأكد من أن البلوتوث غير شغال.</b>استعمب تطبيق<b><i><font color="#1A0DAB">بلوب سرفر</font></i></b>!للعب بدون أنترنت]]>
+        <![CDATA[تحتاج هذه اللعبة <b>لأنترنت قوية. </b>اجلس بالقرب من الانترنت، و تأكد من أن البلوتوث غير شغال. </b>استعمل تطبيق <b><i><font color="#1A0DAB">بلوب سرفر </font></i></b>للعب بدون أنترنت! ]]>
     </string>
     <string name="guide_select_region">اختر أقرب منطقة</string>
 
@@ -322,7 +322,7 @@
     <string name="q_replace_desc">يمكنك استبدال مهمة كل مرة في اليوم.</string>
     <string name="replace">استبدال</string>
     <string name="q_choose_replace">.اختيار المهام التي تريد استبدالها</string>
-    <string name="q_replace_x">$s استبدال المهمة</string>
+    <string name="q_replace_x">%s استبدال المهمة</string>
     <string name="q_replaced">تم استبدال المهمة!</string>
     <string name="Completed">منجز</string>
     <string name="get_reward">الحصول على مكافأة</string>
@@ -350,6 +350,25 @@
     <string name="minions">مينيونز</string>
     <string name="public_title">عام</string>
     <string name="server_name">اسم السرفر</string>
+
+    <string name="background_image">Background image</string>
+
+    <!--    Rate this app dialog -->
+    <string name="smile_rating_terrible">Terrible</string>
+    <string name="smile_rating_bad">Bad</string>
+    <string name="smile_rating_okay">Okay</string>
+    <string name="smile_rating_good">Good</string>
+    <string name="smile_rating_great">Great</string>
+
+    <string name="repeat_mode">Repeat mode</string>
+    <string name="high_quality">High quality</string>
+    <string name="set_title">Set</string>
+    <string name="link_title">Link</string>
+    <string name="file_title">File</string>
+    <string name="you_title">You</string>
+
+    <string name="kill">Kill</string>
+    <string name="death">Death</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

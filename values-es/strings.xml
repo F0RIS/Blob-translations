@@ -351,6 +351,24 @@
     <string name="minions">Minions</string>
     <string name="public_title">Public</string>
     <string name="server_name">Server name</string>
+    <string name="background_image">Background image</string>
+
+    <!--    Rate this app dialog -->
+    <string name="smile_rating_terrible">Terrible</string>
+    <string name="smile_rating_bad">Malo</string>
+    <string name="smile_rating_okay">Okay</string>
+    <string name="smile_rating_good">Bueno</string>
+    <string name="smile_rating_great">Genial</string>
+
+    <string name="repeat_mode">Repeat mode</string>
+    <string name="high_quality">High quality</string>
+    <string name="set_title">Set</string>
+    <string name="link_title">Link</string>
+    <string name="file_title">File</string>
+    <string name="you_title">You</string>
+
+    <string name="kill">Kill</string>
+    <string name="death">Death</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

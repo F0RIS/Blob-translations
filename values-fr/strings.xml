@@ -13,7 +13,7 @@
     <string name="show_names">Afficher les noms</string>
     <string name="name">Nom</string>
 
-    <string name="default_name">Bonjour</string>
+    <string name="default_name">Me mange pas</string>
     <string name="play">Jouer</string>
     <string name="nick_name">Votre nom:</string>
     <string name="exit_dialog">Que voulez-vous faire?</string>
@@ -297,7 +297,7 @@
     <string name="share_double_coins">Partagez votre résultat et obtenez des pièces DOUBLÉS!</string>
 
     <string name="guide_text1"><![CDATA[Tu doit mangée de la <b>masse</b> pour grandir!]]></string>
-    <string name="guide_text2"><![CDATA[Appuie sur <b>DIVISER<b> pour se diviser et manger les autre joueurs!]]></string>
+    <string name="guide_text2"><![CDATA[Appuie sur <b>DIVISER</b> pour se diviser et manger les autre joueurs!]]></string>
     <string name="guide_text3"><![CDATA[Appuie sur <b>JETER</b> pour tirer des virus ou nourrir les autre joueurs!]]></string>
     <string name="guide_text4"><![CDATA[Reste loing des <b>virus</b>!]]></string>
     <string name="guide_text5">
@@ -349,11 +349,32 @@
     <string name="left">Gauche</string>
     <string name="right">Droit</string>
     <string name="follow">Suivre</string>
+
+    <!--    PRIVATE servers -->
     <string name="private_servers_list">liste des serveurs privés</string>
     <string name="bots">Bots</string>
     <string name="minions">Minions</string>
     <string name="public_title">Public</string>
     <string name="server_name">Nom de serveur</string>
+
+    <string name="background_image">Background image</string>
+
+    <!--    Rate this app dialog -->
+    <string name="smile_rating_terrible">Terrible</string>
+    <string name="smile_rating_bad">Bad</string>
+    <string name="smile_rating_okay">Okay</string>
+    <string name="smile_rating_good">Good</string>
+    <string name="smile_rating_great">Great</string>
+
+    <string name="repeat_mode">Repeat mode</string>
+    <string name="high_quality">High quality</string>
+    <string name="set_title">Set</string>
+    <string name="link_title">Link</string>
+    <string name="file_title">File</string>
+    <string name="you_title">You</string>
+
+    <string name="kill">Kill</string>
+    <string name="death">Death</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
