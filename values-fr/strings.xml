@@ -357,24 +357,24 @@
     <string name="public_title">Public</string>
     <string name="server_name">Nom de serveur</string>
 
-    <string name="background_image">Background image</string>
+    <string name="background_image">Image de fond</string>
 
     <!--    Rate this app dialog -->
-    <string name="smile_rating_terrible">Terrible</string>
-    <string name="smile_rating_bad">Bad</string>
+    <string name="smile_rating_terrible">Très mauvais</string>
+    <string name="smile_rating_bad">Mauvais</string>
     <string name="smile_rating_okay">Okay</string>
-    <string name="smile_rating_good">Good</string>
-    <string name="smile_rating_great">Great</string>
+    <string name="smile_rating_good">Bien</string>
+    <string name="smile_rating_great">Génial</string>
 
-    <string name="repeat_mode">Repeat mode</string>
-    <string name="high_quality">High quality</string>
-    <string name="set_title">Set</string>
-    <string name="link_title">Link</string>
-    <string name="file_title">File</string>
-    <string name="you_title">You</string>
+    <string name="repeat_mode">Mode répétition</string>
+    <string name="high_quality">Haute qualité</string>
+    <string name="set_title">Définir</string>
+    <string name="link_title">Lien</string>
+    <string name="file_title">Fichier</string>
+    <string name="you_title">Toi</string>
 
-    <string name="kill">Kill</string>
-    <string name="death">Death</string>
+    <string name="kill">Tuer</string>
+    <string name="death">Mort</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
