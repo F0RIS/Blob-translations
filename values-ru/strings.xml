@@ -340,7 +340,7 @@
     <string name="up_to">До %d</string>
     <string name="login_to_avoid_captcha">Авторизуйся что бы убрать эту проверку</string>
     <string name="replays">Реплеи</string>
-    <string name="you_have_no_replays">У тебя нет реплеев</string>
+    <string name="you_have_no_replays">С реплеями ты можешь пересмотреть моменты, когда сделал что-то крутое.\n\nУ тебя еще нет реплеев. Чтобы сохранить реплеи жми тут:</string>
     <string name="save_replay">Сохранить реплей</string>
     <string name="replay_saved">Реплей сохранен!</string>
     <string name="old_replay_warning">Реплеи из старой версии игры могут работать неправильно!</string>

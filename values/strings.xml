@@ -411,7 +411,7 @@
     <string name="up_to">Up to %d</string>
     <string name="login_to_avoid_captcha">LOG IN to avoid this check</string>
     <string name="replays">Replays</string>
-    <string name="you_have_no_replays">You have no replays</string>
+    <string name="you_have_no_replays">With replays you can rewatch nice moments when you did something cool.\n\nYou have no replays yet. To save replay click here:</string>
     <string name="save_replay">Save replay</string>
     <string name="replay_saved">Replay saved!</string>
     <string name="old_replay_warning">Replays from older version of the game might not work correctly!</string>
