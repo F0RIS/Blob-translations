@@ -369,6 +369,7 @@
 
     <string name="kill">Kill</string>
     <string name="death">Death</string>
+    <string name="locally_muted">Locally muted %s</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

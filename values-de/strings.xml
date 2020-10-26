@@ -364,6 +364,7 @@
 
     <string name="kill">Kill</string>
     <string name="death">Death</string>
+    <string name="locally_muted">Locally muted %s</string>
 
     <string-array name="hints">
         <item>Kauf VIP und bekomme keine ads mehr!</item>

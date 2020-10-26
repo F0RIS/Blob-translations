@@ -368,7 +368,7 @@
     <string name="share_lvl_text">I have just achieved level %s in Blob.io! Can you do better boy!?</string>
     <string name="share_double_coins">Share your result and get DOUBLE the coins!</string>
 
-    <string name="guide_text1"><![CDATA[Eat <b>food</b> to grow!]]></string>
+    <string name="guide_text1"><![CDATA[Move your cell and eat <b>food</b>(small dots) to grow!]]></string>
     <string name="guide_text2"><![CDATA[Press <b>SPLIT</b> to divide and eat other players!]]></string>
     <string name="guide_text3"><![CDATA[Press <b>THROW</b> to shoot in viruses and blow up other players!]]></string>
     <string name="guide_text4"><![CDATA[Stay away from <b>viruses</b>!]]></string>
@@ -376,7 +376,7 @@
         <![CDATA[This game needs <b>strong internet</b>! Sit closer to your Wi-Fi, disable <b>BLUETOOTH</b>,
         mobile internet (data) is not recommended! Use <b><i><font color="#1A0DAB">Blob Server</font></i></b> to play offline!]]>
     </string>
-    <string name="guide_select_region">Select nearest region!</string>
+    <string name="guide_select_region">Select nearest region! (with lower number/ping)</string>
 
     <string name="skins_yt_desc">
         <![CDATA[You can record and upload your gameplay on YouTube to become <b><i>popular</i></b> and get <font color="#FF0000"><b><big>[YT]</big></b></font> in-game ROLE.
@@ -450,6 +450,7 @@
 
     <string name="kill">Kill</string>
     <string name="death">Death</string>
+    <string name="locally_muted">Locally muted %s</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
