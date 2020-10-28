@@ -1,421 +1,421 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="locale">tr</string>
-   
-    <string name="default_name">Don\'t eat me!</string>
 
-    <string name="cancel">Cancel</string>
-    <string name="error">Error</string>
-    <string name="no_internet">You need an internet connection for this game!</string>
-    <string name="show_minimap">Show minimap</string>
-    <string name="show_chat">Show chat</string>
-    <string name="show_advanced_minimap">Sector minimap</string>
-    <string name="region">Region:</string>
-    <string name="show_grid">Show grid</string>
-    <string name="show_mass">Show mass</string>
-    <string name="show_names">Show names</string>
-    <string name="name">Name</string>
-    <string name="play">Play</string>
-    <string name="nick_name">Nickname:</string>
-    <string name="exit_dialog">What do you want?</string>
-    <string name="exit">Exit</string>
-    <string name="restart">Restart</string>
-    <string name="show_leaders">Show leaders</string>
-    <string name="show_skins">Show skins</string>
-    <string name="show_DirectionPointer">Direction pointer</string>
-    <string name="show_joystick">Joystick</string>
-    <string name="save_button">Save</string>
-    <string name="settings">Settings</string>
-    <string name="skins_list">Skins</string>
-    <string name="skin_message">This will change your nickname</string>
-    <string name="skin_title">Set name for this skin?</string>
-    <string name="connect_to">Connect to</string>
-    <string name="connecting">Connecting to special IP</string>
-    <string name="enter_ip">Type server\'s IP</string>
-    <string name="copied">Copied</string>
-    <string name="connection_closed">Connection closed by server</string>
-    <string name="connection_lost">Connection lost</string>
-    <string name="cant_connect">Can\'t connect to server. Please try again</string>
-    <string name="about_title">About</string>
-    <string name="about_text">&#032;&#032;Blob Android client %1$s \n\n
-        &#032;You can send your suggestions here:
+    <string name="default_name">Beni yeme!</string>
+
+    <string name="cancel">İptal</string>
+    <string name="error">Hata</string>
+    <string name="no_internet">Bu oyun için internet bağlantısına ihtiyacın var!</string>
+    <string name="show_minimap">Küçük haritayı göster</string>
+    <string name="show_chat">Sohbeti göster</string>
+    <string name="show_advanced_minimap">Sektör küçük haritasını göster</string>
+    <string name="region">Bölge:</string>
+    <string name="show_grid">Izgarayı göster</string>
+    <string name="show_mass">Kütleyi göster</string>
+    <string name="show_names">İsimleri göster</string>
+    <string name="name">İsim</string>
+    <string name="play">Oyna</string>
+    <string name="nick_name">Takma ad:</string>
+    <string name="exit_dialog">Ne istiyorsun</string>
+    <string name="exit">Çıkış</string>
+    <string name="restart">Yeniden Başlat</string>
+    <string name="show_leaders">Liderleri göster</string>
+    <string name="show_skins">Ciltleri göster</string>
+    <string name="show_DirectionPointer">Yön işaretçisi</string>
+    <string name="show_joystick">Oyun kolu</string>
+    <string name="save_button">Kaydet</string>
+    <string name="settings">Ayarlar</string>
+    <string name="skins_list">Ciltler</string>
+    <string name="skin_message">Bu, takma adınızı değiştirecek</string>
+    <string name="skin_title">Bu cilt için isim belirlensin mi?</string>
+    <string name="connect_to">Bağlan</string>
+    <string name="connecting">Özel IP\'ye bağlan</string>
+    <string name="enter_ip">Sunucunun IP\'sini yazın</string>
+    <string name="copied">Kopyalandı</string>
+    <string name="connection_closed">Bağlantı sunucu tarafından kapatıldı</string>
+    <string name="connection_lost">Bağlantı kesildi</string>
+    <string name="cant_connect">Sunucuya bağlanılamıyor. Lütfen tekrar deneyiniz</string>
+    <string name="about_title">Hakkında</string>
+    <string name="about_text">&#032;&#032;Blob Android istemcisi %1$s \n\n
+        &#032;Önerilerinizi buraya gönderebilirsiniz:
     </string>
-    <string name="check_update">Check for Updates!</string>
-    <string name="score_result">You scored %1$s points</string>
-    <string name="you_set_new_record">You just set a new record in this game mode!</string>
-    <string name="share">Share</string>
-    <string name="share_text">You think you can defeat me in Blob.io? Hah, try your luck! :) #blob_game %1$s</string>
-    <string name="share_score_text">I got %1$d score in Blob.io! Come play with me! #blob_game %2$s</string>
-    <string name="records">Records</string>
-    <string name="spec_mode_after_death">Spectate after death</string>
-    <string name="darkTheme">Dark theme</string>
-    <string name="left_hand_control">Left hand control</string>
+    <string name="check_update">Güncellemeleri Kontrol Et!</string>
+    <string name="score_result">%1$s puan kazandınız</string>
+    <string name="you_set_new_record">Bu oyun modunda yeni bir rekor kırdın!</string>
+    <string name="share">Paylaş</string>
+    <string name="share_text">Beni Blob.io\'da yenebileceğini mi düşünüyorsun? Hah, şansını dene! :) #blob_game %1$s</string>
+    <string name="share_score_text">Blob.io\'da %1$d puan aldım! Gel benimle oyna! #blob_game %2$s</string>
+    <string name="records">Kayıtlar</string>
+    <string name="spec_mode_after_death">Ölümden sonra izle</string>
+    <string name="darkTheme">Koyu tema</string>
+    <string name="left_hand_control">Sol el kontrolü</string>
 
-    <string name="party_created">Share this link with your friends:</string>
-    <string name="joining">Joining...</string>
-    <string name="creating_party">Creating party...</string>
-    <string name="vibration">Vibration</string>
+    <string name="party_created">Bu bağlantıyı arkadaşlarınızla paylaşın:</string>
+    <string name="joining">Katılıyor...</string>
+    <string name="creating_party">Parti oluşturuluyor...</string>
+    <string name="vibration">Titreşim</string>
     <string name="game_mechanic_description">
-        &#160;&#160;- The bigger you are, the slower you move.\n
-        &#160;- Tap on the relevant button to divide into two smaller blobs. Split to shoot your half forward quickly - use this trick to eat other players.\n
-        &#160;- If you are divided into separate pieces you can recombine into one blob after a certain period of time has passed. The bigger your blobs are, the longer you have to wait before you recombine.\n
-        &#160;- If you are smaller than the virus, then you can hide inside of them for protection, but beware, if you are larger than a virus it will burst you into many tiny blobs.\n
-        &#160;- You can make viruses split and hit another blobs by throwing some of your mass into it.\n
-        &#160;- You can\'t eat or be eaten by players the exact same size as you.\n
-        Controls:\n
-        &#160;- Tap anywhere on the screen to move your cell or use the joystick.\n
-        &#160;- Tap on the corresponding button to split or eject mass.\n
-        &#160; You can read this info again by clicking on the question mark icon in the main menu.\n
-        &#160; If something went wrong, restart the application and clear RAM.\n
+        &#160;&#160;- Ne kadar büyük olursanız, o kadar yavaş hareket edersiniz.\n
+        &#160;- İki küçük parçaya bölünmek için ilgili düğmeye dokunun. Yarınızı hızlıca ileri atmak için bölünün-diğer oyuncuları yemek için bu numarayı kullanın.\n
+        &#160;- Ayrı parçalara ayrılırsanız, belirli bir süre geçtikten sonra tek bir parça halinde yeniden birleşebilirsiniz. Parçalarınız ne kadar büyükse, yeniden birleştirmeden önce o kadar uzun süre beklemeniz gerekir.\n
+        &#160;- Dikenden daha küçükseniz, o zaman korumak için içinde saklanabilirsin, ancak dikkatli ol, eğer bir virüsten daha büyükseniz, seni birçok küçük parçaya dönüştürecektir.\n
+        &#160;- Kütlenizin bir kısmını içine atarak dikenleri ayırabilir ve başka parçalara çarpabilirsiniz.\n
+        &#160;- Sizinle aynı boydaki oyuncular tarafından yenemez veya yiyemezsiniz.\n
+        Kontroller:\n
+        &#160;- Hücrenizi hareket ettirmek veya oyun kolunu kullanmak için ekranda herhangi bir yere dokunun.\n
+        &#160;- Kütleyi bölmek veya çıkarmak için ilgili düğmeye dokunun.\n
+        &#160; Ana menüdeki soru işareti simgesine tıklayarak bu bilgiyi tekrar okuyabilirsiniz.\n
+        &#160; Bir şeyler ters giderse, uygulamayı yeniden başlatın ve RAM\'i temizleyin.\n
     </string>
-    <string name="first_start_dialog_title">Game mechanics</string>
-    <string name="update_title">Update available!</string>
-    <string name="update_message">Do you want to get it now?</string>
-    <string name="players">Players:&#160;</string>
-    <string name="totals">Totals</string>
+    <string name="first_start_dialog_title">Oyun mekaniği</string>
+    <string name="update_title">Güncelleme mevcut!</string>
+    <string name="update_message">Şimdi yapmak ister misiniz?</string>
+    <string name="players">Oyuncular:&#160;</string>
+    <string name="totals">Toplam</string>
 
 
-    <string name="fb_info_title">Information</string>
-    <string name="fb_info_message">Log in and start with bigger mass!\n
-        Level up to get even more starting mass and unlock new LVL skins!</string>
-    <string name="how_to_install">How to install?</string>
+    <string name="fb_info_title">Bilgi</string>
+    <string name="fb_info_message">Giriş yapın ve daha büyük bir kütle ile başlayın!\n
+         Daha da fazla başlangıç ​​kütlesi elde etmek ve yeni LVL görünümlerinin kilidini açmak için seviye atlayın!</string>
+    <string name="how_to_install">Nasıl kurulur?</string>
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
-    <string name="prem_skin_message">Setup this skin?</string>
-    <string name="game_mode">Game mode:</string>
+    <string name="prem_skin_message">Bu cilt kullanılsın mı?</string>
+    <string name="game_mode">Oyun modu:</string>
 
-    <string name="unavailable">Unavailable</string>
-    <string name="top_lvl">Top LVLs</string>
-    <string name="top">Top&#160;</string>
-    <string name="receiving">Receiving...</string>
-    <string name="get_it">Get it!</string>
+    <string name="unavailable">Kullanım dışı</string>
+    <string name="top_lvl">En iyi LVL\'ler</string>
+    <string name="top">En İyi &#160;</string>
+    <string name="receiving">Alınıyor...</string>
+    <string name="get_it">Edinin!</string>
 
-    <string name="keep_ip">Keep IP for this party</string>
-    <string name="keep_ip_description">IP will not be updated</string>
+    <string name="keep_ip">IP\'yi koru</string>
+    <string name="keep_ip_description">IP güncellenmeyecek</string>
 
     <!-- Rate this app-->
-    <string name="rta_dialog_title">Rate this game</string>
-    <string name="rta_dialog_message">If you enjoy using this app, please take a moment to rate it, it won\'t take more than a minute. Thank you for your support!</string>
-    <string name="rta_dialog_ok">Rate now</string>
-    <string name="rta_dialog_cancel">Later</string>
-    <string name="rta_dialog_no">No, thanks</string>
+    <string name="rta_dialog_title">Bu oyunu oyla</string>
+    <string name="rta_dialog_message">Bu uygulamayı kullanmaktan hoşlanıyorsanız, lütfen derecelendirmek için bir dakikanızı ayırın, bir dakikadan fazla sürmez. Desteğiniz için teşekkür ederiz!</string>
+    <string name="rta_dialog_ok">Şimdi oyla</string>
+    <string name="rta_dialog_cancel">Daha sonra</string>
+    <string name="rta_dialog_no">Hayır,teşekkürler</string>
 
     <!-- Share this app-->
-    <string name="rta_dialog_title2">Share this app</string>
-    <string name="rta_dialog_message2">If you like this game, share it with your friends! They might like it too!</string>
-    <string name="rta_dialog_ok2">Share now!</string>
+    <string name="rta_dialog_title2">Bu uygulamayı paylaşın</string>
+    <string name="rta_dialog_message2">Bu oyunu beğendiyseniz arkadaşlarınızla paylaşın! Onların da hoşuna gidebilir!</string>
+    <string name="rta_dialog_ok2">Şimdi paylaşın!</string>
 
-    <string name="low_lvl_message">Your level is lower than required</string>
-    <string name="login_for_skins_message">You must log in to use these skins</string>
-    <string name="skin_unlocked">You unlocked a skin %1$s!</string>
-    <string name="optimize_names">Optimize names</string>
-    <string name="low_graphic">Low graphics</string>
-    <string name="macros">Macros</string>
-    <string name="hello_fake">Level 30 required to use this nickname :)</string>
-    <string name="get_more">Get more!</string>
-
-
-    <string name="my_friends">Friends</string>
-    <string name="my_new_friends">Requests</string>
-    <string name="followers">Declined</string>
-    <string name="blocked">Blocked</string>
-    <string name="playing">Playing:&#160;</string>
-    <string name="offline">Offline</string>
-    <string name="relations">Relations</string>
-    <string name="you_must_log_in">You must log in</string>
-    <string name="last_seen">Last seen</string>
-    <string name="registered">Registered</string>
-    <string name="game_time">Game time</string>
-    <string name="user_info_records">Records:</string>
-
-    <string name="view_profile">View profile</string>
-    <string name="delete">Delete</string>
-    <string name="join_game">Join game</string>
-    <string name="accept">Accept</string>
-    <string name="decline">Decline</string>
-    <string name="copy">Copy</string>
+    <string name="low_lvl_message">Seviyeniz gerekenden düşük</string>
+    <string name="login_for_skins_message">Bu ciltleri kullanmak için giriş yapmalısınız</string>
+    <string name="skin_unlocked">Bir %1$s cildin kilidini açtınız!</string>
+    <string name="optimize_names">İsminizi optimize edin</string>
+    <string name="low_graphic">Düşük grafikler</string>
+    <string name="macros">Makro</string>
+    <string name="hello_fake">Bu takma adı kullanmak için Seviye 30 gereklidir :)</string>
+    <string name="get_more">Daha fazla alın!</string>
 
 
-    <string name="better_skins_quality">Better skins quality</string>
-    <string name="better_skins_warning">This may cause you to lag. Only use if you see pixels on skins!</string>
-    <string name="stop_on_release">Stop on release</string>
-    <string name="type_user_id">Type user ID</string>
-    <string name="copy_user_id">Copy ID</string>
-    <string name="send_friend_request">Invite</string>
-    <string name="friend_request_successful">Friend request sent successfully!</string>
-    <string name="added_new_friend">Added new friend!</string>
-    <string name="moved_to_declined">Moved to declined</string>
-    <string name="show_friends">Show friends</string>
-    <string name="watch">Watch</string>
-    <string name="unknown_user">Unknown user</string>
-    <string name="reset">Reset</string>
+    <string name="my_friends">Arkadaşlar</string>
+    <string name="my_new_friends">İstekler</string>
+    <string name="followers">Reddedildi</string>
+    <string name="blocked">Engellendi</string>
+    <string name="playing">Oynuyor:&#160;</string>
+    <string name="offline">Çevrimdışı</string>
+    <string name="relations">İlişkiler</string>
+    <string name="you_must_log_in">Giriş yapmalısınız</string>
+    <string name="last_seen">Son görülme</string>
+    <string name="registered">Kayıtlı</string>
+    <string name="game_time">Oyun süresi</string>
+    <string name="user_info_records">Kayıtlar:</string>
+
+    <string name="view_profile">Profili görüntüle</string>
+    <string name="delete">Sil</string>
+    <string name="join_game">Oyuna katıl</string>
+    <string name="accept">Kabul et</string>
+    <string name="decline">Reddet</string>
+    <string name="copy">Kopyala</string>
+
+
+    <string name="better_skins_quality">Daha iyi cilt kalitesi</string>
+    <string name="better_skins_warning">Bu, gecikmenize neden olabilir. Yalnızca ciltlerde piksel görürseniz kullanın!</string>
+    <string name="stop_on_release">Serbest bırakıldığında durdur</string>
+    <string name="type_user_id">Kullanıcı kimliğini yazın</string>
+    <string name="copy_user_id">Kimliği kopyala</string>
+    <string name="send_friend_request">Davet et</string>
+    <string name="friend_request_successful">Arkadaşlık isteği başarıyla gönderildi!</string>
+    <string name="added_new_friend">Yeni arkadaş eklendi!</string>
+    <string name="moved_to_declined">Reddedildi</string>
+    <string name="show_friends">Arkadaşları göster</string>
+    <string name="watch">İzle</string>
+    <string name="unknown_user">Bilinmeyen kullanıcı</string>
+    <string name="reset">Sıfırla</string>
 
     <!-- More settings -->
-    <string name="more">More</string>
-    <string name="controls_opacity">Controls opacity:</string>
-    <string name="chat_text_size">Chat text size:</string>
-    <string name="camera_zoom">Camera zoom out:</string>
-    <string name="live_score">Live score</string>
+    <string name="more">Daha fazla</string>
+    <string name="controls_opacity">Opaklığı kontrol eder:</string>
+    <string name="chat_text_size">Sohbet metni boyutu:</string>
+    <string name="camera_zoom">Kamerayı uzaklaştırma:</string>
+    <string name="live_score">Canlı skor</string>
 
     <!-- Joystick settings-->
-    <string name="margins">Margins:</string>
-    <string name="size">Size:</string>
-    <string name="old_type">Old type</string>
+    <string name="margins">Kenar Boşlukları:</string>
+    <string name="size">Boyut:</string>
+    <string name="old_type">Eski tür</string>
 
-    <string name="coins">Coins</string>
+    <string name="coins">Madeni paralar</string>
 
-    <string name="empty">Empty</string>
-    <string name="you_dont_have_friends">You don\'t have any friends at the moment :(</string>
-    <string name="bought_succeed">You bought %s successfully!</string>
+    <string name="empty">Boş</string>
+    <string name="you_dont_have_friends">Şuanda hiç arkadaşın yok :(</string>
+    <string name="bought_succeed">%s başarıyla satın aldınız!</string>
 
     <!-- API ERROR MESSAGES -->
-    <string name="user_not_found">User with such ID not found</string>
-    <string name="request_already_sent_error">Friend request already sent</string>
-    <string name="already_friend_error">This user is already your friend</string>
-    <string name="not_enough_coins">You don\'t have enough coins</string>
-    <string name="already_own_item">Item already owned</string>
+    <string name="user_not_found">Böyle bir kimliğe sahip kullanıcı bulunamadı</string>
+    <string name="request_already_sent_error">Arkadaşlık isteği zaten gönderildi</string>
+    <string name="already_friend_error">Bu kullanıcı zaten arkadaşınız</string>
+    <string name="not_enough_coins">Yeterli paranız yok</string>
+    <string name="already_own_item">Zaten bu ögeye sahipsiniz</string>
 
-    <string name="searching_ad_video">Searching for a video, please wait</string>
-    <string name="processing">Processing...</string>
-    <string name="free_coins_toast">You got %d coins for free!</string>
-    <string name="quest_coins_toast">You got %d coins!</string>
-    <string name="free_coins">Free coins</string>
-    <string name="watch_video">Watch video</string>
-    <string name="lvl_coins_reward">Congratulations! You achieved level %1$d and gained %2$d coins!</string>
+    <string name="searching_ad_video">Video aranıyor, lütfen bekleyin</string>
+    <string name="processing">İşleniyor...</string>
+    <string name="free_coins_toast">Ücretsiz %d madeni para kazandınız!</string>
+    <string name="quest_coins_toast">%d madeni para aldınız!</string>
+    <string name="free_coins">Ücretsiz madeni para</string>
+    <string name="watch_video">Videoyu izleyin</string>
+    <string name="lvl_coins_reward">Tebrikler! %1$d seviyesine ulaştınız ve %2$d madeni para kazandınız!</string>
 
     <!-- Items description localization -->
-    <string name="mass_booster_x1_5_desc">Start the game with x1.5 bigger mass for the next 1 hour!</string>
-    <string name="mass_booster_x2_desc">Start the game with double mass for the next 1 hour!</string>
-    <string name="exp_booster_x1_5_desc">All earned XP multiplies by 1.5 for the next 1 hour!</string>
-    <string name="exp_booster_x2_desc">All earned XP multiplies by 2 for the next 1 hour!</string>
-    <string name="watch_video_desc">Watch video and get %d coins!</string>
-    <string name="free_coins_desc">Get %1$s coins for free every %2$d hour!</string>
+    <string name="mass_booster_x1_5_desc">Oyuna önümüzdeki 1 saat boyunca x1,5 daha büyük kütle ile başlayın!</string>
+    <string name="mass_booster_x2_desc">Oyuna önümüzdeki 1 saat boyunca çift kütle ile başlayın!</string>
+    <string name="exp_booster_x1_5_desc">Kazanılan tüm XP, sonraki 1 saat boyunca 1,5 ile çarpılır!</string>
+    <string name="exp_booster_x2_desc">Kazanılan tüm XP\'ler sonraki 1 saat boyunca 2 ile çarpılır!</string>
+    <string name="watch_video_desc">Videoyu izleyin ve %d madeni para kazanın!</string>
+    <string name="free_coins_desc">%2$d saatte bir ücretsiz %1$s madeni para kazanın!</string>
     <string name="m">m</string>
     <string name="h">h</string>
     <string name="d">d</string>
-    <string name="mass_booster_has_expired">Mass booster has expired</string>
-    <string name="exp_booster_has_expired">XP booster has expired</string>
+    <string name="mass_booster_has_expired">Kütle güçlendiricisinin süresi doldu</string>
+    <string name="exp_booster_has_expired">XP güçlendiricisinin süresi doldu</string>
 
-    <string name="chat_suffix_desc">Add to nick%s suffix</string>
-    <string name="user_role_desc">This user is %s</string>
-    <string name="size_animation_speed">Size animation speed:</string>
-    <string name="search">Search</string>
-    <string name="type_skin_name">Type skin name</string>
-    <string name="waiting_for_players">Waiting for players</string>
-    <string name="type_room_key">Type room key</string>
+    <string name="chat_suffix_desc">%s son ekine ekle</string>
+    <string name="user_role_desc">Bu kullanıcı %s</string>
+    <string name="size_animation_speed">Animasyon boyut hızı:</string>
+    <string name="search">Ara</string>
+    <string name="type_skin_name">Cildin adını yazın</string>
+    <string name="waiting_for_players">Oyuncular bekleniyor</string>
+    <string name="type_room_key">Oda anahtarını yazın</string>
 
-    <string name="random">Random</string>
-    <string name="key">Key</string>
-    <string name="left_label">(%s left)</string>
-    <string name="coins_battle">Battle coins: </string>
-    <string name="spectate_title">Spectate</string>
-    <string name="game_isnt_started_yet">Game hasn\'t started yet. You may lose your coins!</string>
-    <string name="show_cell_border">Show cell border</string>
-    <string name="cur_week_exp">Cur. Week XP</string>
-    <string name="prev_week_exp">Prev. Week XP</string>
-    <string name="rules_title">Rules</string>
+    <string name="random">Rastgele</string>
+    <string name="key">Anahtar</string>
+    <string name="left_label">(%s kaldı)</string>
+    <string name="coins_battle">Savaş paraları: </string>
+    <string name="spectate_title">İzle</string>
+    <string name="game_isnt_started_yet">Oyun henüz başlamadı. Paralarınızı kaybedebilirsiniz!</string>
+    <string name="show_cell_border">Hücre kenarlarını göster</string>
+    <string name="cur_week_exp">Bu. Hafta XP</string>
+    <string name="prev_week_exp">Önceki. Hafta XP</string>
+    <string name="rules_title">Kurallar</string>
     <string name="rules_description">
         \n
-        1.) Do not insult other players.\n
-        2.) Do not pretend to be a MODERATOR.\n
-        3.) Do not exchange Blob.io accounts inside or outside the game.\n
-        4.) Do not cheat to reach top Ranking of the game.\n
-        5.) Do not use inappropriate names in the game.\n
-        6.) Do not take advantage of bugs/glitchs in the game.\n
-        7.) Do not team with someone on an opposite team in TEAM mode or TS2v2. (CROSS TEAMING)\n
+        1.) Diğer oyunculara hakaret etmeyin.\n
+        2.) MODERATÖR gibi davranmayın.\n
+        3.) Blob.io hesaplarını oyun içinde veya dışında değiştirmeyin.\n
+        4.) Oyunun en üst Sıralamasına ulaşmak için hile yapmayın.\n
+        5.) Oyunda uygunsuz isimler kullanmayın.\n
+        6.) Oyundaki hatalardan/açıklardan yararlanmayın.\n
+        7.) TAKIM modunda veya TS2v2\'de karşı takımdan biriyle takım yapmayın. (ÇAPRAZ TAKIM)\n
     </string>
-    <string name="top_week_exp_desc">Get as much XP as you can during the week and win coins as a reward!</string>
-    <string name="server_app_description">With this app you can create your own server and play offline or with friends!</string>
-    <string name="show_fps">Show FPS/PING</string>
-    <string name="score_title">Score:</string>
-    <string name="chat_enable_warning">With this option enabled, app rating becomes higher!</string>
-    <string name="saved">Saved</string>
-    <string name="delete_server">Delete server?</string>
-    <string name="deleted">Deleted</string>
-    <string name="added">Added</string>
-    <string name="add_new">Add new</string>
-    <string name="cant_be_empty">%s can\'t be empty!</string>
-    <string name="list">List</string>
-    <string name="info_title">Info</string>
-    <string name="time_left">Time left:</string>
-    <string name="edit">Edit</string>
-    <string name="bet_value">Bet value:</string>
-    <string name="create">Create</string>
-    <string name="custom_server">Private server</string>
-    <string name="custom_server_created">Private server created</string>
-    <string name="highlight_friends">Highlight friends</string>
-    <string name="custom_colors">Custom theme</string>
-    <string name="background_color">Background color</string>
-    <string name="grid_title">Grid</string>
-    <string name="food_title">Food</string>
-    <string name="virus_title">Virus</string>
-    <string name="mother_cell_title">Mother cell</string>
-    <string name="eject_title">Eject</string>
-    <string name="friend_name_title">Friend name</string>
-    <string name="invitation_sent">Invitation sent successfully!</string>
-    <string name="choose_friend">Choose friend</string>
-    <string name="notifications">Notifications</string>
-    <string name="join_server">Join server</string>
-    <string name="friend_request">Friend request</string>
-    <string name="friend_accepted">Friend accepted</string>
-    <string name="only_friends_skins">Only friends\' skins</string>
-    <string name="in_game_zoom">In-game zoom</string>
-    <string name="copy_nick">Copy nick</string>
-    <string name="gold">Gold</string>
-    <string name="silver">Silver</string>
-    <string name="bronze">Bronze</string>
-    <string name="medal_description">%1$s medal for placing in the top %2$s in global rankings!</string>
-    <string name="medal_description_first_place">Medal for placing FIRST in global rankings!</string>
+    <string name="top_week_exp_desc">Hafta boyunca olabildiğince çok XP alın ve ödül olarak madeni para kazanın!</string>
+    <string name="server_app_description">Bu uygulama ile kendi sunucunuzu oluşturabilir ve çevrimdışı veya arkadaşlarınızla oynayabilirsiniz!</string>
+    <string name="show_fps">FPS/PING\'i göster</string>
+    <string name="score_title">Puan:</string>
+    <string name="chat_enable_warning">Bu seçenek etkinleştirildiğinde, uygulama derecelendirmesi yükselir!</string>
+    <string name="saved">Kaydedildi</string>
+    <string name="delete_server">Sunucu silinsin mi?</string>
+    <string name="deleted">Silindi</string>
+    <string name="added">Eklendi</string>
+    <string name="add_new">Yeni ekle</string>
+    <string name="cant_be_empty">%s boş olamaz!</string>
+    <string name="list">Liste</string>
+    <string name="info_title">Bilgi</string>
+    <string name="time_left">Kalan süre:</string>
+    <string name="edit">Düzenle</string>
+    <string name="bet_value">Bahis değeri:</string>
+    <string name="create">Oluştur</string>
+    <string name="custom_server">Özel sunucu</string>
+    <string name="custom_server_created">Özel sunucu oluşturuldu</string>
+    <string name="highlight_friends">Arkadaşları vurgula</string>
+    <string name="custom_colors">Özel tema</string>
+    <string name="background_color">Arkaplan rengi</string>
+    <string name="grid_title">Kafes</string>
+    <string name="food_title">Yiyecek</string>
+    <string name="virus_title">Diken</string>
+    <string name="mother_cell_title">Ana hücre</string>
+    <string name="eject_title">Çıkar</string>
+    <string name="friend_name_title">Arkadaş adı</string>
+    <string name="invitation_sent">Davet başarıyla gönderildi!</string>
+    <string name="choose_friend">Arkadaş seçim</string>
+    <string name="notifications">Bildirimler</string>
+    <string name="join_server">Sunucuya katıl</string>
+    <string name="friend_request">Arkadaşlık isteği</string>
+    <string name="friend_accepted">Arkadaş kabul edildi</string>
+    <string name="only_friends_skins">Yalnızca arkadaş ciltleri</string>
+    <string name="in_game_zoom">Oyun-içi yakınlaştırma</string>
+    <string name="copy_nick">İsmi kopyala</string>
+    <string name="gold">Altın</string>
+    <string name="silver">Gümüş</string>
+    <string name="bronze">Bronz</string>
+    <string name="medal_description">Küresel sıralamada ilk %2$s arasına girdiğiniz için %1$s madalya!</string>
+    <string name="medal_description_first_place">Dünya sıralamasında İLK sırada yer alma madalyası!</string>
 
 
-    <string name="try_for_free">Try for FREE!</string>
-    <string name="account">Account</string>
-    <string name="dialog_vip_desc_title2">Sick of ADS? TRY</string>
-    <string name="no_ads">no ads</string>
-    <string name="dialog_vip_desc_free_hours">hour &amp; in-game <b>coins</b></string>
-    <string name="dialog_vip_desc_ingame_coins">in-game <b>coins</b></string>
-    <string name="dialog_vip_desc_additional_exp">additional <b>XP</b></string>
-    <string name="dialog_vip_desc_start_mass">starting mass</string>
-    <string name="dialog_vip_desc_discount">discount on boosters</string>
-    <string name="dialog_vip_desc_chat_label">chat and profile label</string>
-    <string name="dialog_vip_desc_border">Rainbow border</string>
-    <string name="dialog_vip_desc_lock_name">lowered GOLD name</string>
+    <string name="try_for_free">ÜCRETSİZ deneyin!</string>
+    <string name="account">Hesap</string>
+    <string name="dialog_vip_desc_title2">ADS\'den bıktınız mı? DENE</string>
+    <string name="no_ads">Reklam yok</string>
+    <string name="dialog_vip_desc_free_hours">saat &amp; oyun içi <b>madeni paralar</b></string>
+    <string name="dialog_vip_desc_ingame_coins">oyun içi<b>madeni paralar</b></string>
+    <string name="dialog_vip_desc_additional_exp">Ek <b>XP</b></string>
+    <string name="dialog_vip_desc_start_mass">başlangıç kütlesi</string>
+    <string name="dialog_vip_desc_discount">güçlendiricilerde indirim</string>
+    <string name="dialog_vip_desc_chat_label">sohbet ve profil etiketi</string>
+    <string name="dialog_vip_desc_border">Gökkuşağı kenarlar</string>
+    <string name="dialog_vip_desc_lock_name">İndirilmiş ALTIN adı</string>
 
-    <string name="side">Side:</string>
-    <string name="bottom">Bottom:</string>
+    <string name="side">Kenar:</string>
+    <string name="bottom">Alt:</string>
 
     <!-- chat menu -->
-    <string name="chat_m_hide_show">Hide/Show</string>
-    <string name="chat_m_expand_collapse">Expand/Collapse</string>
-    <string name="chat_m_invite_friend">Invite friend</string>
-    <string name="chat_m_big_map">Big Map</string>
-    <string name="chat_m_suicide">Suicide</string>
-    <string name="chat_m_select_message">Select message in the chat!</string>
+    <string name="chat_m_hide_show">Gizle/Göster</string>
+    <string name="chat_m_expand_collapse">Genişlet/Daralt</string>
+    <string name="chat_m_invite_friend">Arkadaşlarını davet et</string>
+    <string name="chat_m_big_map">Büyük harita</string>
+    <string name="chat_m_suicide">İntihar</string>
+    <string name="chat_m_select_message">Mesajı seçin!</string>
 
     <string name="help">Help</string>
-    <string name="web_ver_desc">We have a WEB version for PC players!</string>
-    <string name="share_request">Share the game to unlock this item!</string>
-    <string name="share_lvl_text">I have just achieved level %s in Blob.io! Can you do better boy!?</string>
-    <string name="share_double_coins">Share your result and get DOUBLE the coins!</string>
+    <string name="web_ver_desc">PC oyuncuları için bir WEB sürümümüz var!</string>
+    <string name="share_request">Bu öğenin kilidini açmak için oyunu paylaşın!</string>
+    <string name="share_lvl_text">Blob.io\'da %s seviyesine ulaştım! Daha iyisini yapabilir misin!?</string>
+    <string name="share_double_coins">Sonucunuzu paylaşın ve madeni paraları ÇİFT kazanın!</string>
 
-    <string name="guide_text1"><![CDATA[Move your cell and eat <b>food</b>(small dots) to grow!]]></string>
-    <string name="guide_text2"><![CDATA[Press <b>SPLIT</b> to divide and eat other players!]]></string>
-    <string name="guide_text3"><![CDATA[Press <b>THROW</b> to shoot in viruses and blow up other players!]]></string>
-    <string name="guide_text4"><![CDATA[Stay away from <b>viruses</b>!]]></string>
+    <string name="guide_text1"><![CDATA[hareket ettirin ve büyümek için <b>yiyecek</b> (küçük noktalar)\'leri yiyin!]]> </string>
+    <string name="guide_text2"><![CDATA[Diğer oyuncuları bölmek ve yemek için <b>SPLIT</b>\'e basın!]]> </string>
+    <string name="guide_text3"><![CDATA[Dikenlere ateş etmek ve diğer oyuncuları patlatmak için <b>THROW</b> düğmesine basın!]]> </string>
+    <string name="guide_text4"><![CDATA[<b>dikenlerden</b>uzak durun!]]> </string>
     <string name="guide_text5">
-        <![CDATA[This game needs <b>strong internet</b>! Sit closer to your Wi-Fi, disable <b>BLUETOOTH</b>,
-        mobile internet (data) is not recommended! Use <b><i><font color="#1A0DAB">Blob Server</font></i></b> to play offline!]]>
+          <![CDATA[Bu oyunun <b>güçlü internete </b> ihtiyacı var! Wi-Fi\'nize daha yakın oturun, <b> BLUETOOTH </b> \'u devre dışı bırakın,
+        mobil internet (veri) tavsiye edilmez! Çevrimdışı oynamak için <b><i><font color="#1A0DAB">Blob Sunucusunu</font></i></b> kullanın!]]>
     </string>
-    <string name="guide_select_region">Select nearest region! (with lower number/ping)</string>
+    <string name="guide_select_region">En yakın bölgeyi seçin!(daha düşük numara/ping ile)</string>
 
     <string name="skins_yt_desc">
-        <![CDATA[You can record and upload your gameplay on YouTube to become <b><i>popular</i></b> and get <font color="#FF0000"><b><big>[YT]</big></b></font> in-game ROLE.
-        Your skin will be added to this list, so players can use it!
-        Read actual requirements for <font color="#FF0000"><b><big>[YT]</big></b></font> tag in <b>discord</b>.]]>
+        <![CDATA[ <b><i>Popüler</i></b> olmak ve <font color="#FF0000"><b><big>[YT]</big></b></font> oyun içi role sahip olmak için oyununuzu YouTube\'a kaydedebilir ve yülleyebilirsiniz.
+        Cildiniz bu listeye eklenecek, böylece oyuncular onu kullanabilir!
+        <Font color="#FF0000"><b><big>[YT]</big></b></font> etiketi için <b>Discord</b>\'ta gerçek gereksinimleri okuyun.]]>
     </string>
-    <string name="servers_list_desc">Here you can choose an empty server to practice alone or with friends and test (UNOFFICIAL) game modes!</string>
-    <string name="custom_server_desc">Here you can create a private server with custom params, add bots/minions and play with friends!</string>
-    <string name="ts2v2_desc">Here you can play in 2 vs 2 team battles. You can bet coins and/or create battles with a key so only your friends will participate in it!</string>
-    <string name="skins_prem_desc">Unlike FREE/YT skins you can use PREM/LVL  skins with any nickname!</string>
-    <string name="skins_free_desc">To use these skins you should set their name as your nickname</string>
+    <string name="servers_list_desc">Burada tek başınıza veya arkadaşlarınızla pratik yapmak ve (RESMİ OLMAYAN) oyun modlarını test etmek için boş bir sunucu seçebilirsiniz!</string>
+    <string name="custom_server_desc">Burada özel parametrelerle özel bir sunucu oluşturabilir, botlar/minyonlar ekleyebilir ve arkadaşlarınızla oynayabilirsiniz!</string>
+    <string name="ts2v2_desc">Burada 2\'ye2 takım savaşlarında oynayabilirsiniz. Yalnızca arkadaşlarınızım katılacağı madeni para veya bir anahtar ile savaşları oluşturabilirsiniz!</string>
+    <string name="skins_prem_desc">FREE/YT görünümlerinin aksine, herhangi bir takma adla PREM/LVL görünümlerini kullanabilirsiniz!</string>
+    <string name="skins_free_desc">Bu ciltleri kullanmak için adınızı takma adınız olarak ayarlamalısınız</string>
 
-    <string name="revenge">Revenge!</string>
-    <string name="kill_streak">Kill streak!</string>
-    <string name="killed_you">%s killed you</string>
-    <string name="you_won">YOU won the game!</string>
-    <string name="someone_won">%s won the game!</string>
-    <string name="direction_lines">Direction lines</string>
-    <string name="score_result_best">Best score</string>
-    <string name="daily_quests">Daily quests</string>
-    <string name="reset_in">(reset in %s)</string>
-    <string name="q_replace_desc">Once a day you can replace any quest to another random one!</string>
-    <string name="replace">Replace</string>
-    <string name="q_choose_replace">Choose a quest that you want to replace</string>
-    <string name="q_replace_x">Replace quest %s ?</string>
-    <string name="q_replaced">Quest replaced!</string>
-    <string name="Completed">Completed</string>
-    <string name="get_reward">Get Reward</string>
-    <string name="daily_reward">Daily reward</string>
-    <string name="gain_exp_and_get_reward_every_day">Gain XP and get reward every day</string>
-    <string name="day">Day %d</string>
-    <string name="up_to">Up to %d</string>
-    <string name="login_to_avoid_captcha">LOG IN to avoid this check</string>
-    <string name="replays">Replays</string>
-    <string name="you_have_no_replays">With replays you can rewatch nice moments when you did something cool.\n\nYou have no replays yet. To save replay click here:</string>
-    <string name="save_replay">Save replay</string>
-    <string name="replay_saved">Replay saved!</string>
-    <string name="old_replay_warning">Replays from older version of the game might not work correctly!</string>
-    <string name="too_new_replay_error">You should update the game to open this replay!</string>
-    <string name="mute">Mute</string>
+    <string name="revenge">İntikam!</string>
+    <string name="kill_streak">Galibiyet serisi!</string>
+    <string name="killed_you">%s sizi öldürdü</string>
+    <string name="you_won">Oyunu kazandınız!</string>
+    <string name="someone_won">%s oyunu kazandı!</string>
+    <string name="direction_lines">Yön çizgileri</string>
+    <string name="score_result_best">En iyi puan</string>
+    <string name="daily_quests">Günlük görevler</string>
+    <string name="reset_in">(%s içinde sıfırla)</string>
+    <string name="q_replace_desc">Günde bir kez herhangi bir görevi rastgele başka bir görevle değiştirebilirsiniz!</string>
+    <string name="replace">Değiştir</string>
+    <string name="q_choose_replace">Değiştirmek istediğiniz bir görevi seçin</string>
+    <string name="q_replace_x">Görev %s değiştirilsin mi?</string>
+    <string name="q_replaced">Görev değiştirildi!</string>
+    <string name="Completed">Tamamlandı</string>
+    <string name="get_reward">Ödül alındı</string>
+    <string name="daily_reward">Günlük ödül</string>
+    <string name="gain_exp_and_get_reward_every_day">XP kazanın ve her gün ödül kazanın</string>
+    <string name="day">Gün %d</string>
+    <string name="up_to">En çok %d</string>
+    <string name="login_to_avoid_captcha">Bu kontrolden kaçınmak için GİRİŞ YAPIN</string>
+    <string name="replays">Tekrarlar</string>
+    <string name="you_have_no_replays">Tekrarlarla, havalı bir şey yaptığınızda güzel anları yeniden izleyebilirsiniz. \n\nHenüz tekrar oynamadınız. Tekrar kaydetmek için burayı tıklayın:</string>
+    <string name="save_replay">Tekrarı kaydet</string>
+    <string name="replay_saved">Yeniden oynatma kaydedildi!</string>
+    <string name="old_replay_warning">Oyunun eski sürümünde tekrarlar düzgün çalışmayabilir!</string>
+    <string name="too_new_replay_error">Bu takrarı açmak için oyunu güncellemelisin!</string>
+    <string name="mute">Sustur</string>
 
     <!--    Setting up controls -->
-    <string name="buttons_position">Buttons position</string>
-    <string name="setup_controls">Setup controls</string>
-    <string name="left">Left</string>
-    <string name="right">Right</string>
-    <string name="follow">Follow</string>
+    <string name="buttons_position">Düğmelerin konumu</string>
+    <string name="setup_controls">Kurulum kontrolleri</string>
+    <string name="left">Sol</string>
+    <string name="right">Sağ</string>
+    <string name="follow">Takip</string>
 
     <!--    PRIVATE servers -->
-    <string name="private_servers_list">Private servers list</string>
-    <string name="bots">Bots</string>
-    <string name="minions">Minions</string>
-    <string name="public_title">Public</string>
-    <string name="server_name">Server name</string>
+    <string name="private_servers_list">Özel sunucularının listesi</string>
+    <string name="bots">Botlar</string>
+    <string name="minions">Minyonlar</string>
+    <string name="public_title">Genel</string>
+    <string name="server_name">Sunucu adı</string>
 
-    <string name="background_image">Background image</string>
+    <string name="background_image">Arka plan resmi</string>
 
     <!--    Rate this app dialog -->
-    <string name="smile_rating_terrible">Terrible</string>
-    <string name="smile_rating_bad">Bad</string>
-    <string name="smile_rating_okay">Okay</string>
-    <string name="smile_rating_good">Good</string>
-    <string name="smile_rating_great">Great</string>
+    <string name="smile_rating_terrible">Korkunç</string>
+    <string name="smile_rating_bad">Kötü</string>
+    <string name="smile_rating_okay">Tamam</string>
+    <string name="smile_rating_good">İyı</string>
+    <string name="smile_rating_great">Harika</string>
 
-    <string name="repeat_mode">Repeat mode</string>
-    <string name="high_quality">High quality</string>
-    <string name="set_title">Set</string>
-    <string name="link_title">Link</string>
-    <string name="file_title">File</string>
-    <string name="you_title">You</string>
+    <string name="repeat_mode">Tekrar modu</string>
+    <string name="high_quality">Yüksek kalite</string>
+    <string name="set_title">Ayarla</string>
+    <string name="link_title">Bağlantı</string>
+    <string name="file_title">Dosya</string>
+    <string name="you_title">Siz</string>
 
-    <string name="kill">Kill</string>
-    <string name="death">Death</string>
-    <string name="locally_muted">Locally muted %s</string>
+    <string name="kill">Öldür</string>
+    <string name="death">Ölüm</string>
+    <string name="locally_muted">yerel olarak sessize alınmış %s</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
-        <item>Buy VIP and play without ADS!</item>
-        <item>Cooperate with friends and take over any server!</item>
-        <item>Create your own server with custom settings and play with your friends!</item>
-        <item>Grow your own YouTube channel with gameplay vids, get YT rank and gain popularity!</item>
-        <item>Remember to collect FREE coins every 1 Hour!</item>
-        <item>Get more XP during one week than anybody else and win 55000 coins!</item>
-        <item>You can battle 2 vs 2 for coins!</item>
-        <item>You can make team scrimmage up to 5 vs 5!</item>
-        <item>You can open a big map by clicking on the minimap in the game!</item>
-        <item>You can connect a mouse to your phone and play with it like on PC!</item>
-        <item>Use the Blob Server app to create your very own server offline!</item>
-        <item>Click on the triangle next to the chat and invite friends to your server!</item>
-        <item>Log in to level up and start the game with more mass!</item>
-        <item>Use MASS/XP boosters to win more and level up faster!</item>
-        <item>If you run out of coins, you can buy them! :)</item>
-        <item>Use rare skins and make everybody jealous!</item>
-        <item>Customize game colors/params to your needs to make playing more comfortable!</item>
-        <item>You can see your friends on the minimap!</item>
-        <item>Have a chat with people and find new friends!</item>
-        <item>Join our discord server to vote/chat and be up to date!</item>
-        <item>Bring your real life friends to Blob.io and have fun together!</item>
-        <item>Every player has a unique ID, you can share it so people can find you in Blob!</item>
-        <item>You can play on an empty server to practice!</item>
-        <item>You can click on the IP label to change it or open the servers list!</item>
-        <item>Make sure you join our social medias to stay up to date, find friends and improve your skills!</item>
-        <item>We always experiment with new game modes. You can find them in the servers list (unofficial category)!</item>
-        <item>We have awesome test game modes in unofficial!)</item>
-        <item>If you are new to this game, check out on YouTube how other people rocks in Blob! Its amazing!</item>
-        <item>Sit closer to your Wi-Fi, mobile internet is not recommended!</item>
-        <item>Disable BLUETOOTH to reduce network lags!</item>
-        <item>Disable BLUETOOTH to reduce network lags!</item>
-        <item>You can set up any image you want as a background in the game!</item>
-        <item>You can record nice gameplay moments and watch them later in replays!</item>
-        <item>You can share your replays with other people to show them your skills!</item>
+        <item>VIP satın alın ve ADS\'siz oynayın!</item>
+        <item>Arkadaşlarınızla işbirliği yapın ve herhangi bir sunucuyu ele geçirin!</item>
+        <item>Özel ayarlarla kendi sunucunuzu oluşturun ve arkadaşlarınızla oynayın!</item>
+        <item>Oynanış videoları ile kendi YouTube kanalınızı büyütün, YT sıralaması alın ve popülerlik kazanın!</item>
+        <item>Her 1 Saatte bir ÜCRETSİZ madeni paraları toplamayı unutmayın!</item>
+        <item>Bir hafta boyunca herkesten daha fazla XP alın ve 55000 madeni para kazanın!</item>
+        <item>Paralar için 2\'ye2 savaşabilirsiniz!</item>
+        <item>5\'e 5\'e kadar takım hücumu yapabilirsiniz!</item>
+        <item>Oyunda küçük haritaya tıklayarak büyük bir harita açabilirsiniz!</item>
+        <item>Telefonunuza bir fare bağlayabilir ve onunla PC\'deki gibi oynayabilirsiniz!</item>
+        <item>Kendi sunucunuzu çevrimdışı oluşturmak için Blob Sunucusu uygulamasını kullanın!</item>
+        <item>Sohbetin yanındaki üçgene tıklayın ve arkadaşlarınızı sunucunuza davet edin!</item>
+        <item>Seviye atlamak ve oyuna daha fazla kütle ile başlamak için giriş yapın!</item>
+        <item>Daha fazla kazanmak ve daha hızlı seviye atlamak için MASS/XP güçlendiricilerini kullanın!</item>
+        <item>Paranız biterse, satın alabilirsiniz! :)</item>
+        <item>Nadir ciltler kullanın ve herkesi kıskandırın!</item>
+        <item>Oynamayı daha rahat hale getirmek için oyun renklerini/parametrelerini ihtiyaçlarınıza göre özelleştirin!</item>
+        <item>Arkadaşlarınızı küçük haritada görebilirsiniz!</item>
+        <item>İnsanlarla sohbet edin ve yeni arkadaşlar bulun!</item>
+        <item>Oy vermek/sohbet etmek ve güncel kalmak için discord sunucumuza katılın!</item>
+        <item>Gerçek hayattaki arkadaşlarınızı Blob.io\'ya getirin ve birlikte eğlenin!</item>
+        <item>Her oyuncunun benzersiz bir kimliği vardır, bunu paylaşabilirsiniz, böylece insanlar sizi Blob\'da bulabilir!</item>
+        <item>Pratik yapmak için boş bir sunucuda oynayabilirsiniz!</item>
+        <item>Değiştirmek veya sunucu listesini açmak için IP etiketine tıklayabilirsiniz!</item>
+        <item>Güncel kalmak, arkadaşlar bulmak ve becerilerinizi geliştirmek için sosyal medya hesaplarımıza katıldığınızdan emin olun!</item>
+        <item>Her zaman yeni oyun modlarını deneriz. Bunları sunucular listesinde (resmi olmayan kategori)\'de bulabilirsiniz!</item>
+        <item>Resmi olmayan harika test oyun modlarımız var!)</item>
+        <item>Bu oyunda yeniyseniz, YouTube\'da diğer insanların Blob\'da nasıl oynadığına bakın! Harika</item>
+        <item>Wi-Fi\'nize daha yakın oturun, mobil internet önerilmez!</item>
+        <item>Ağ gecikmelerini azaltmak için BLUETOOTH\'u devre dışı bırakın!</item>
+        <item>Ağ gecikmelerini azaltmak için BLUETOOTH\'u devre dışı bırakın!</item>
+        <item>Oyunda arka plan olarak istediğiniz herhangi bir resmi kurabilirsiniz!</item>
+        <item>Güzel oyun anlarını kaydedebilir ve daha sonra tekrarlarda izleyebilirsiniz!</item>
+        <item>Yeteneklerinizi göstermek için tekrarlarınızı başkalarıyla paylaşabilirsiniz!</item>
     </string-array>
 </resources>
