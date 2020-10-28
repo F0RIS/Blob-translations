@@ -17,13 +17,13 @@
     <string name="name">İsim</string>
     <string name="play">Oyna</string>
     <string name="nick_name">Takma ad:</string>
-    <string name="exit_dialog">Ne istiyorsun</string>
+    <string name="exit_dialog">Ne Yapmak İstiyorsun?</string>
     <string name="exit">Çıkış</string>
     <string name="restart">Yeniden Başlat</string>
     <string name="show_leaders">Liderleri göster</string>
     <string name="show_skins">Ciltleri göster</string>
     <string name="show_DirectionPointer">Yön işaretçisi</string>
-    <string name="show_joystick">Oyun kolu</string>
+    <string name="show_joystick">Oyun Kolu</string>
     <string name="save_button">Kaydet</string>
     <string name="settings">Ayarlar</string>
     <string name="skins_list">Ciltler</string>
@@ -273,7 +273,7 @@
     <string name="no_ads">Reklam yok</string>
     <string name="dialog_vip_desc_free_hours">saat &amp; oyun içi <b>madeni paralar</b></string>
     <string name="dialog_vip_desc_ingame_coins">oyun içi<b>madeni paralar</b></string>
-    <string name="dialog_vip_desc_additional_exp">Ek <b>XP</b></string>
+    <string name="dialog_vip_desc_additional_exp">ek <b>XP</b></string>
     <string name="dialog_vip_desc_start_mass">başlangıç kütlesi</string>
     <string name="dialog_vip_desc_discount">güçlendiricilerde indirim</string>
     <string name="dialog_vip_desc_chat_label">sohbet ve profil etiketi</string>
@@ -297,10 +297,10 @@
     <string name="share_lvl_text">Blob.io\'da %s seviyesine ulaştım! Daha iyisini yapabilir misin!?</string>
     <string name="share_double_coins">Sonucunuzu paylaşın ve madeni paraları ÇİFT kazanın!</string>
 
-    <string name="guide_text1"><![CDATA[hareket ettirin ve büyümek için <b>yiyecek</b> (küçük noktalar)\'leri yiyin!]]> </string>
+    <string name="guide_text1"><![CDATA[Hareket ettirin ve büyümek için <b>yiyecek</b> (küçük noktalar)\'leri yiyin!]]> </string>
     <string name="guide_text2"><![CDATA[Diğer oyuncuları bölmek ve yemek için <b>SPLIT</b>\'e basın!]]> </string>
     <string name="guide_text3"><![CDATA[Dikenlere ateş etmek ve diğer oyuncuları patlatmak için <b>THROW</b> düğmesine basın!]]> </string>
-    <string name="guide_text4"><![CDATA[<b>dikenlerden</b>uzak durun!]]> </string>
+    <string name="guide_text4"><![CDATA[<b>Dikenlerden</b> uzak durun!]]> </string>
     <string name="guide_text5">
           <![CDATA[Bu oyunun <b>güçlü internete </b> ihtiyacı var! Wi-Fi\'nize daha yakın oturun, <b> BLUETOOTH </b> \'u devre dışı bırakın,
         mobil internet (veri) tavsiye edilmez! Çevrimdışı oynamak için <b><i><font color="#1A0DAB">Blob Sunucusunu</font></i></b> kullanın!]]>
