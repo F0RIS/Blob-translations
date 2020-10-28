@@ -308,7 +308,7 @@
     <string name="guide_select_region">En yakın bölgeyi seçin!(daha düşük numara/ping ile)</string>
 
     <string name="skins_yt_desc">
-        <![CDATA[ <b><i>Popüler</i></b> olmak ve <font color="#FF0000"><b><big>[YT]</big></b></font> oyun içi role sahip olmak için oyununuzu YouTube\'a kaydedebilir ve yülleyebilirsiniz.
+        <![CDATA[ <b><i>Popüler</i></b> olmak ve <font color="#FF0000"><b><big>[YT]</big></b></font> oyun içi role sahip olmak için oyununuzu YouTube\'a kaydedebilir ve yükleyebilirsiniz.
         Cildiniz bu listeye eklenecek, böylece oyuncular onu kullanabilir!
         <Font color="#FF0000"><b><big>[YT]</big></b></font> etiketi için <b>Discord</b>\'ta gerçek gereksinimleri okuyun.]]>
     </string>
