@@ -17,13 +17,13 @@
     <string name="name">İsim</string>
     <string name="play">Oyna</string>
     <string name="nick_name">Takma ad:</string>
-    <string name="exit_dialog">Ne istiyorsun</string>
+    <string name="exit_dialog">Ne İstiyorsun?</string>
     <string name="exit">Çıkış</string>
     <string name="restart">Yeniden Başlat</string>
     <string name="show_leaders">Liderleri göster</string>
     <string name="show_skins">Ciltleri göster</string>
     <string name="show_DirectionPointer">Yön işaretçisi</string>
-    <string name="show_joystick">Oyun kolu</string>
+    <string name="show_joystick">Oyun Kolu</string>
     <string name="save_button">Kaydet</string>
     <string name="settings">Ayarlar</string>
     <string name="skins_list">Ciltler</string>
@@ -291,16 +291,16 @@
     <string name="chat_m_suicide">İntihar</string>
     <string name="chat_m_select_message">Mesajı seçin!</string>
 
-    <string name="help">Help</string>
+    <string name="help">Yardım</string>
     <string name="web_ver_desc">PC oyuncuları için bir WEB sürümümüz var!</string>
     <string name="share_request">Bu öğenin kilidini açmak için oyunu paylaşın!</string>
     <string name="share_lvl_text">Blob.io\'da %s seviyesine ulaştım! Daha iyisini yapabilir misin!?</string>
     <string name="share_double_coins">Sonucunuzu paylaşın ve madeni paraları ÇİFT kazanın!</string>
 
-    <string name="guide_text1"><![CDATA[hareket ettirin ve büyümek için <b>yiyecek</b> (küçük noktalar)\'leri yiyin!]]> </string>
+    <string name="guide_text1"><![CDATA[Hareket ettirin ve büyümek için <b>yiyecek</b> (küçük noktalar)\'leri yiyin!]]> </string>
     <string name="guide_text2"><![CDATA[Diğer oyuncuları bölmek ve yemek için <b>SPLIT</b>\'e basın!]]> </string>
     <string name="guide_text3"><![CDATA[Dikenlere ateş etmek ve diğer oyuncuları patlatmak için <b>THROW</b> düğmesine basın!]]> </string>
-    <string name="guide_text4"><![CDATA[<b>dikenlerden</b>uzak durun!]]> </string>
+    <string name="guide_text4"><![CDATA[<b>Dikenlerden</b> uzak durun!]]> </string>
     <string name="guide_text5">
           <![CDATA[Bu oyunun <b>güçlü internete </b> ihtiyacı var! Wi-Fi\'nize daha yakın oturun, <b> BLUETOOTH </b> \'u devre dışı bırakın,
         mobil internet (veri) tavsiye edilmez! Çevrimdışı oynamak için <b><i><font color="#1A0DAB">Blob Sunucusunu</font></i></b> kullanın!]]>
