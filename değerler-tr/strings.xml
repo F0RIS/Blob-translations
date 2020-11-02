@@ -291,7 +291,7 @@
     <string name="chat_m_suicide">İntihar</string>
     <string name="chat_m_select_message">Mesajı seçin!</string>
 
-    <string name="help">Help</string>
+    <string name="help">Yardım</string>
     <string name="web_ver_desc">PC oyuncuları için bir WEB sürümümüz var!</string>
     <string name="share_request">Bu öğenin kilidini açmak için oyunu paylaşın!</string>
     <string name="share_lvl_text">Blob.io\'da %s seviyesine ulaştım! Daha iyisini yapabilir misin!?</string>
