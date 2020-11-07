@@ -101,7 +101,7 @@
     <string name="cant_connect">Не удалось подключиться к серверу. Попробуйте еще раз</string>
     <string name="top">Топ&#160;</string>
     <string name="top_lvl">Топ LVL</string>
-    <string name="login_for_skins_message">Вы должи авторизоваться, чтобы использовать эти скины</string>
+    <string name="login_for_skins_message">Вы должны авторизоваться, чтобы использовать эти скины</string>
     <string name="low_lvl_message">Ваш уровень ниже необходимого</string>
     <string name="skin_unlocked">Вы открыли скин %1$s!</string>
     <string name="optimize_names">Оптимизировать имена</string>
@@ -133,7 +133,7 @@
     <string name="game_time">Время в игре</string>
     <string name="user_info_records">"Рекорды: "</string>
     <string name="better_skins_quality">Улучшенные скины</string>
-    <string name="better_skins_warning">Это может вызвать лаги. Используте этот параметр если видите на скинах пиксели</string>
+    <string name="better_skins_warning">Это может вызвать лаги. Используйте этот параметр если видите на скинах пиксели</string>
     <string name="stop_on_release">Остановка при отпускании</string>
     <string name="share_text">Думаешь сможешь уделать меня в Blob? Ха, а ты попробуй :) #blob_game %1$s</string>
     <string name="type_user_id">Введите ID пользователя</string>
