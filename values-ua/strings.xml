@@ -1,369 +1,416 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="locale">"ua"</string>
-    <string name="default_name">"Не їж мене!"</string>
-    <string name="cancel">"Скасувати"</string>
-    <string name="error">"Помилка"</string>
-    <string name="exit">"Вихід"</string>
-    <string name="exit_dialog">"Що бажаете?"</string>
-    <string name="name">"Імя"</string>
-    <string name="nick_name">"Нік:"</string>
-    <string name="no_internet">"Для цієї гри вам необхіден інтернет."</string>
-    <string name="play">"Грати"</string>
-    <string name="region">"Регіон:"</string>
-    <string name="restart">"Рестарт"</string>
-    <string name="save_button">"Зберегти"</string>
-    <string name="settings">"Параметри"</string>
-    <string name="show_grid">"Показувати сітку"</string>
-    <string name="show_joystick">"Джойстик"</string>
-    <string name="show_leaders">"Показувати лідерів"</string>
-    <string name="show_mass">"Показувати масу"</string>
-    <string name="show_minimap">"Показувати мінікарту"</string>
-    <string name="show_chat">"Показувати чат"</string>
-    <string name="show_advanced_minimap">"Секторна мінікарта"</string>
-    <string name="show_names">"Показувати імена"</string>
-    <string name="show_skins">"Показувати скіни"</string>
-    <string name="show_DirectionPointer">"Указатель направления / вказівник напрямку / покажчик напрямку / хер знает"</string>
-    <string name="skins_list">"Cкіни"</string>
-    <string name="skin_message">"Це змінить ваш нік"</string>
-    <string name="skin_title">"Встановити ім'я цього скіна?"</string>
-    <string name="connect_to">"Підключитися до"</string>
-    <string name="connecting">"Підключення до певного IP"</string>
-    <string name="enter_ip">"Введіть ip-адреса сервера"</string>
-    <string name="copied">"Скопійовано"</string>
-    <string name="connection_closed">"З'єднання закрите сервером"</string>
-    <string name="connection_lost">"З'єднання втрачено"</string>
-    <string name="about_title">"Про гру"</string>
-    <string name="about_text">"Blob Android клієнт %1$s Якщо гра перестала працювати, перевірте оновлення."</string>
-    <string name="check_update">"Перевірити оновлення"</string>
-    <string name="score_result">"Ви набрали %1$s очок"</string>
-    <string name="you_set_new_record">"Ви встановили новий рекорд в цьому режимі гри!"</string>
-    <string name="share">"Поділитися"</string>
-    <string name="share_score_text">"Я набрав %1$d очок в грі Blob! Грайте зі мною! #blob_game %2$s"</string>
-    <string name="records">"Рекорди"</string>
-    <string name="spec_mode_after_death">"Спостерігати після смерті"</string>
-    <string name="darkTheme">"Темна тема"</string>
-    <string name="left_hand_control">"Управління лівої"</string>
+    <string name="locale">ua</string>
+    <string name="default_name">Не їж мене!</string>
+    <string name="cancel">Скасувати</string>
+    <string name="error">Помилка</string>
+    <string name="exit">Вихід</string>
+    <string name="exit_dialog">Что вы хотите?</string>
+    <string name="name">Имя</string>
+    <string name="nick_name">Ник:</string>
+    <string name="no_internet">Для этой игры вам нужно интернет соединение.</string>
+    <string name="play">Играть</string>
+    <string name="region">Регион:</string>
+    <string name="restart">Рестарт</string>
+    <string name="save_button">Сохранить</string>
+    <string name="settings">Настройки</string>
+    <string name="show_grid">Показывать сетку</string>
+    <string name="show_joystick">Джойстик</string>
+    <string name="show_leaders">Показывать лидеров</string>
+    <string name="show_mass">Показывать массу</string>
+    <string name="show_minimap">Показывать миникарту</string>
+    <string name="show_chat">Показывать чат</string>
+    <string name="show_advanced_minimap">Секторная миникарта</string>
+    <string name="show_names">Показывать имена</string>
+    <string name="show_skins">Показывать скины</string>
+    <string name="show_DirectionPointer">Указатель направления</string>
+    <string name="skins_list">Cкины</string>
+    <string name="skin_message">Это изменит ваш ник</string>
+    <string name="skin_title">Установить имя этого скина?</string>
+    <string name="connect_to">Подключиться к</string>
+    <string name="connecting">Подключение к определенному IP</string>
+    <string name="enter_ip">Введите ip-адрес сервера</string>
+    <string name="copied">Скопировано</string>
+    <string name="connection_closed">Соединение закрыто сервером</string>
+    <string name="connection_lost">Соединение утеряно</string>
+    <string name="about_title">О программе</string>
+    <string name="about_text">&#032;&#032;Blob Android клиент %1$s \n\n
+          &#032;&#032;Если приложение перестало работать, проверьте обновления.\n</string>
 
-    <!-- <string name="party_btn">Группа</string>
-<string name="create_party">Создать</string>
-<string name="wrong_token">Неправильный код</string>
-<string name="token_not_found">Группа не найдена</string>
-<string name="enter_token">Введите код группы</string> -->
-    <string name="joining">"Вхід..."</string>
-    <string name="creating_party">"Створення групи..."</string>
-    <string name="party_created">"Дайте це посилання вашим друзями"</string>
-    <string name="vibration">"Вібрація"</string>
-    <string name="game_mechanic_description">"
-          - Чим ви більше тим ви повільніше рухаєтесь.
-
-         - При натисканні кнопки split ви розділитесь на 2 частини, розмір яких буде дорівнює половині колишнього. При поділі одна частина швидко полетить вперед, використовуйте це, щоб їсти інших гравців.
-
-         - Якщо ви розділилися, ви автоматично об'єднаєтеся після певного часу. Чим ви більше, тим довше вам доведеться чекати.
-
-         - Якщо ви менше вірусу, то ви можете ховатися в ньому, але якщо ви більше за нього, то при наїзді на нього, ви розділитесь на безліч маленьких частинок.
-         - Ви можете змусити вірус розділитися і підірвати таким чином будь-якого гравця, для цього стріляйте своєю масою в вірус
-
-         - Ви не можете з'їсти або бути з'їденим гравцем, який такого ж розміру як і ви.
-
-        
-
-          Ви можете прочитати цю інформацію ще раз, натиснувши в головному меню на іконку зі знаком питання.
-
-          Перезапустіть програму і очистіть ОЗУ, якщо щось пішло не так."</string>
-    <string name="first_start_dialog_title">"Механіка гри"</string>
-    <string name="update_title">"Доступно оновлення"</string>
-    <string name="update_message">"Хочете отримати його зараз?"</string>
-    <string name="players">"Гравці:"</string>
-    <string name="totals">"Всьего"</string>
-    <string name="fb_info_message">"Авторизуйтесь і починайте гру з більшою масою!
-
-        Піднімайте рівень для отримання ще більшої стартової маси і розблокування нових скінів!"</string>
-    <string name="fb_info_title">"Інформація"</string>
-    <string name="how_to_install">"Як встановити"</string>
-    <string name="how_to_instal_link">"
+    <string name="check_update">Проверить обновления</string>
+    <string name="score_result">Вы набрали %1$s очков</string>
+    <string name="you_set_new_record">Вы установили новый рекорд в этом режиме игры!</string>
+    <string name="share">Поделиться</string>
+    <string name="share_score_text">Я набрал %1$d очков в игре Blob! Играйте со мной! #blob_game %2$s</string>
+    <string name="records">Рекорды</string>
+    <string name="spec_mode_after_death">Наблюдать после смерти</string>
+    <string name="darkTheme">Темная тема</string>
+    <string name="left_hand_control">Управление левой</string>
+    <!--<string name="party_btn">Группа</string>-->
+    <!--<string name="create_party">Создать</string>-->
+    <!--<string name="wrong_token">Неправильный код</string>-->
+    <!--<string name="token_not_found">Группа не найдена</string>-->
+    <!--<string name="enter_token">Введите код группы</string>-->
+    <string name="joining">Вход...</string>
+    <string name="creating_party">Создание группы...</string>
+    <string name="party_created">Дайте эту ссылку вашим друзьями</string>
+    <string name="vibration">Вибрация</string>
+    <string name="game_mechanic_description">
+        &#160;&#160;- Чем вы больше тем вы медленней двигаетесь.\n
+        &#160;- При нажатии кнопки split вы разделитесь на 2 части, размер которых будет равен половине прежнего. При разделении одна часть быстро полетит вперед, используйте это, чтобы есть других игроков.\n
+        &#160;- Если вы разделились, вы автоматически объединитесь по прошествии определенного времени. Чем вы больше, тем дольше вам придется ждать.\n
+        &#160;- Если вы меньше "вируса", то вы можете прятаться в нем, но если вы больше него, то при наезде на него, вы разделитесь на множество маленьких частиц.\n
+        &#160;- Вы можете заставить вирус разделиться и взорвать таким образом какого-либо игрока, для этого стреляйте своей массой в "вирус"\n
+        &#160;- Вы не можете съесть или быть съеденным игроком, который такого же размера как и вы.\n
+        \n
+        &#160;&#160;Вы можете прочитать эту информацию еще раз, нажав в главном меню на иконку с вопросительным знаком.\n
+        &#160;&#160;Перезапустите приложение и очистите ОЗУ, если что-то пошло не так.\n
+    </string>
+    <string name="first_start_dialog_title">Механика игры</string>
+    <string name="update_title">Доступно обновление</string>
+    <string name="update_message">Хотите получить его сейчас?</string>
+    <string name="players">Игроки:&#160;</string>
+    <string name="totals">Всего</string>
+    <string name="fb_info_message">Авторизуйтесь и начинайте игру с большей массой!\n
+        Подымайте уровень для получения еще большей стартовой массы и разблокировки новых скинов!</string>
+    <string name="fb_info_title">Информация</string>
+    <string name="how_to_install">Как установить</string>
+    <string name="how_to_instal_link">
         http://5app.ru/android/guides/61-kak-ustanovit-igru-ili-prilozhenie-na-android.html
-    "</string>
-    <string name="prem_skin_message">"Встановити цей скін?"</string>
-    <string name="game_mode">"Режим гри:"</string>
-    <string name="unavailable">"Недоступно"</string>
-    <string name="receiving">"Отримання даних..."</string>
-    <string name="get_it">"Отримати"</string>
-    <string name="keep_ip">"Зберегти IP"</string>
-    <string name="keep_ip_description">"Гра не буде автоматично отримувати новий IP для даної ігрової сесії"</string>
+    </string>
+    <string name="prem_skin_message">Установить этот скин?</string>
+    <string name="game_mode">Режим игры:</string>
+    <string name="unavailable">Недоступно</string>
+    <string name="receiving">Получение данных...</string>
+    <string name="get_it">Получить</string>
+    <string name="keep_ip">Сохранить IP</string>
+    <string name="keep_ip_description">Игра не будет автоматически получать новый IP для данной игровой сесси</string>
 
-    <!-- Rate this app -->
-    <string name="rta_dialog_title">"Оцініть цю гру!"</string>
-    <string name="rta_dialog_message">"Якщо вам сподобалась ця гра, Витратіть кілька секунд і оціните його будь ласка. Дякую за підтримку!"</string>
-    <string name="rta_dialog_ok">"Оцінити"</string>
-    <string name="rta_dialog_cancel">"Нагадати пізніше"</string>
-    <string name="rta_dialog_no">"Ні, дякую"</string>
+    <!-- Rate this app-->
+    <string name="rta_dialog_title">Оцените эту игру!</string>
+    <string name="rta_dialog_message">Если вам понравилось это приложение, потратьте несколько секунд и оцените его пожалуйста. Спасибо за поддержку!</string>
+    <string name="rta_dialog_ok">Оценить</string>
+    <string name="rta_dialog_cancel">Напомнить позже</string>
+    <string name="rta_dialog_no">Нет, спасибо</string>
 
-    <!-- Share this app -->
-    <string name="rta_dialog_title2">"Поділіться грою!"</string>
-    <string name="rta_dialog_message2">"Якщо вам подобається ця гра, покажіть її своїм друзям! Їм вона теж може сподобатися!"</string>
+    <!-- Share this app-->
+    <string name="rta_dialog_title2">Поделитесь игрой!</string>
+    <string name="rta_dialog_message2">Если вам нравится эта игра, покажите ее свои друзьям! Им она тоже может понравиться!</string>
     <string name="rta_dialog_ok2">@string/share</string>
-    <string name="cant_connect">"Не вдалося підключитися до сервера. Спробуйте ще раз"</string>
-    <string name="top">"Топ "</string>
-    <string name="top_lvl">"Топ LVL"</string>
-    <string name="login_for_skins_message">"Ви повинні авторизуватися, щоб використовувати ці скіни"</string>
-    <string name="low_lvl_message">"Ваш рівень нижче необхідного"</string>
-    <string name="skin_unlocked">"Ви відкрили скін %1$s!"</string>
-    <string name="optimize_names">"Оптимізувати імена"</string>
-    <string name="hello_fake">"Ти можеш використовувати цей скін тільки з 30-го рівня :) / Ти можеш грати тут тільки з 30-го рівня :)"</string>
-    <string name="low_graphic">"Знижена графіка"</string>
-    <string name="macros">"Макроси"</string>
-    <string name="get_more">"Отримати більше!"</string>
-    <string name="my_friends">"Друзі"</string>
-    <string name="blocked">"Заблоковані"</string>
-    <string name="followers">"Відхилені"</string>
-    <string name="my_new_friends">"Заявки"</string>
-    <string name="playing">"Грає: "</string>
-    <string name="offline">"Офлайн"</string>
-    <string name="relations">"Зв'язки"</string>
-    <string name="view_profile">"Профіль"</string>
-    <string name="delete">"Видалити"</string>
-    <string name="join_game">"Увійти"</string>
-    <string name="accept">"Прийняти"</string>
-    <string name="decline">"Відмовити"</string>
-    <string name="copy">"Копіювати"</string>
-    <string name="you_must_log_in">"Ви повинні авторизуватися"</string>
-    <string name="registered">"Зареєстрований"</string>
-    <string name="last_seen">"Був у грі"</string>
-    <string name="game_time">"Час у грі"</string>
-    <string name="user_info_records">"Рекорди: "</string>
-    <string name="better_skins_quality">"Покращені скіни"</string>
-    <string name="better_skins_warning">"Це може викликати лаги. Використовуйте цей параметр якщо бачите на скінів пікселі"</string>
-    <string name="stop_on_release">"Зупинка при відпуску"</string>
-    <string name="share_text">"Думаєш зможеш обігнати мене в Blob? Ха, а ти спробуй :) #blob_game %1$s"</string>
-    <string name="type_user_id">"Введіть ID користувача"</string>
-    <string name="added_new_friend">"Доданий новий друг"</string>
-    <string name="send_friend_request">"Подружитися"</string>
-    <string name="moved_to_declined">"Поміщений в \"Відхилені\""</string>
-    <string name="friend_request_successful">"Запрошення в друзі відправлено"</string>
-    <string name="copy_user_id">"Копіюв. ID"</string>
-    <string name="show_friends">"Показувати друзів"</string>
-    <string name="watch">"Дивитися / Переглянути"</string>
-    <string name="unknown_user">"Невідомий користувач"</string>
-    <string name="reset">"Скинути"</string>
 
-    <!-- More settings -->
-    <string name="more">"Більше"</string>
-    <string name="controls_opacity">"Прозорість управління:"</string>
-    <string name="chat_text_size">"Розмір тексту чату:"</string>
-    <string name="camera_zoom">"Віддалення камери:"</string>
-    <string name="live_score">"Точний"</string>
+    <string name="cant_connect">Не удалось подключиться к серверу. Попробуйте еще раз</string>
+    <string name="top">Топ&#160;</string>
+    <string name="top_lvl">Топ LVL</string>
+    <string name="login_for_skins_message">Вы должны авторизоваться, чтобы использовать эти скины</string>
+    <string name="low_lvl_message">Ваш уровень ниже необходимого</string>
+    <string name="skin_unlocked">Вы открыли скин %1$s!</string>
+    <string name="optimize_names">Оптимизировать имена</string>
+    <string name="hello_fake">Ты можешь использовать этот скин только с 30-го уровня :)</string>
+    <string name="low_graphic">Слабая графика</string>
+    <string name="macros">Макросы</string>
+    <string name="get_more">Получить больше!</string>
 
-    <!-- Joystick settings -->
-    <string name="margins">"Отступы:"</string>
-    <string name="size">"Размер:"</string>
-    <string name="old_type">"Старый тип"</string>
-    <string name="coins">"Монет"</string>
-    <string name="empty">"Пусто"</string>
-    <string name="you_dont_have_friends">"У вас еще нет друзей :("</string>
-    <string name="bought_succeed">"Вы успешно купили %s"</string>
+
+    <string name="my_friends">Друзья</string>
+    <string name="blocked">Заблокированы</string>
+    <string name="followers">Отклонены</string>
+    <string name="my_new_friends">Заявки</string>
+    <string name="playing">Играет:&#160;</string>
+    <string name="offline">Офлайн</string>
+    <string name="relations">Связи</string>
+
+
+    <string name="view_profile">Профиль</string>
+    <string name="delete">Удалить</string>
+    <string name="join_game">Войти</string>
+    <string name="accept">Принять</string>
+    <string name="decline">Отказать</string>
+    <string name="copy">Копир.</string>
+
+    <string name="you_must_log_in">Вы должны авторизоваться</string>
+    <string name="registered">Зарегистрирован</string>
+    <string name="last_seen">Был в игре</string>
+    <string name="game_time">Время в игре</string>
+    <string name="user_info_records">"Рекорды: "</string>
+    <string name="better_skins_quality">Улучшенные скины</string>
+    <string name="better_skins_warning">Это может вызвать лаги. Используйте этот параметр если видите на скинах пиксели</string>
+    <string name="stop_on_release">Остановка при отпускании</string>
+    <string name="share_text">Думаешь сможешь уделать меня в Blob? Ха, а ты попробуй :) #blob_game %1$s</string>
+    <string name="type_user_id">Введите ID пользователя</string>
+    <string name="added_new_friend">Добавлен новый друг</string>
+    <string name="send_friend_request">Подружиться</string>
+    <string name="moved_to_declined">Помещен в \"Отклонены\"</string>
+    <string name="friend_request_successful">Приглашение в друзья отправлено</string>
+    <string name="copy_user_id">Копир. ID</string>
+    <string name="show_friends">Показывать друзей</string>
+    <string name="watch">Смотреть</string>
+    <string name="unknown_user">Неизвестный пользователь</string>
+    <string name="reset">Сброс</string>
+
+    <!-- More settings-->
+    <string name="more">Еще</string>
+    <string name="controls_opacity">Прозрачность контролов:</string>
+    <string name="chat_text_size">Размер текста чата:</string>
+    <string name="camera_zoom">Отдаление камеры:</string>
+    <string name="live_score">Текущий счет</string>
+
+    <!-- Joystick settings-->
+    <string name="margins">Отступы:</string>
+    <string name="size">Размер:</string>
+    <string name="old_type">Старый тип</string>
+
+    <string name="coins">Монет</string>
+
+    <string name="empty">Пусто</string>
+    <string name="you_dont_have_friends">У вас еще нет друзей :(</string>
+    <string name="bought_succeed">Вы успешно купили %s</string>
 
     <!-- API ERROR MESSAGES -->
-    <string name="user_not_found">"Пользователь с таким ID не найден"</string>
-    <string name="request_already_sent_error">"Запрос уже отправлен"</string>
-    <string name="already_friend_error">"Вы уже друзья"</string>
-    <string name="not_enough_coins">"У вас недостаточно монет"</string>
-    <string name="already_own_item">"У вас уже есть этот предмет"</string>
-    <string name="searching_ad_video">"Ищем видео, подождите"</string>
-    <string name="processing">"Обработка..."</string>
-    <string name="free_coins_toast">"Вы бесплатно получили %d монет!"</string>
-    <string name="quest_coins_toast">"Вы заработали %d монет!"</string>
-    <string name="free_coins">"Бесплатные монеты"</string>
-    <string name="watch_video">"Смотреть видео"</string>
-    <string name="lvl_coins_reward">"Поздравляем! Вы достигли %1$d уровня и получили %2$d монет!"</string>
+    <string name="user_not_found">Пользователь с таким ID не найден</string>
+    <string name="request_already_sent_error">Запрос уже отправлен</string>
+    <string name="already_friend_error">Вы уже друзья</string>
+    <string name="not_enough_coins">У вас недостаточно монет</string>
+    <string name="already_own_item">У вас уже есть этот предмет</string>
+
+    <string name="searching_ad_video">Ищем видео, подождите</string>
+    <string name="processing">Обработка...</string>
+    <string name="free_coins_toast">Вы бесплатно получили %d монет!</string>
+    <string name="quest_coins_toast">Вы заработали %d монет!</string>
+    <string name="free_coins">Бесплатные монеты</string>
+    <string name="watch_video">Смотреть видео</string>
+    <string name="lvl_coins_reward">Поздравляем! Вы достигли %1$d уровня и получили %2$d монет!</string>
 
     <!-- Items description -->
-    <string name="mass_booster_x1_5_desc">"Начинай игру с х1.5 массов в течении 1 часа"</string>
-    <string name="mass_booster_x2_desc">"Начинай игру с х2 массов в течении 1 часа"</string>
-    <string name="exp_booster_x1_5_desc">"Весь получаемый опыт умножается на 1.5 в течении часа"</string>
-    <string name="exp_booster_x2_desc">"Весь получаемый опыт умножается на 2 в течении часа"</string>
-    <string name="watch_video_desc">"Посмотри видео и получи %d монет!"</string>
-    <string name="free_coins_desc">"Получай бесплатно %1$s монет каждый %2$d час"</string>
-    <string name="m">"м"</string>
-    <string name="h">"ч"</string>
-    <string name="d">"д"</string>
-    <string name="mass_booster_has_expired">"Бустер массы закончился"</string>
-    <string name="exp_booster_has_expired">"Бустер опыта закончился"</string>
-    <string name="chat_suffix_desc">"Добавлять к нику%s"</string>
-    <string name="user_role_desc">"Этот пользователь %s"</string>
-    <string name="size_animation_speed">"Скорость анимации размера:"</string>
-    <string name="search">"Поиск"</string>
-    <string name="type_skin_name">"Введите название скина"</string>
-    <string name="waiting_for_players">"Ожидание игроков"</string>
-    <string name="type_room_key">"Введите ключ комнаты"</string>
-    <string name="random">"Случайно"</string>
-    <string name="key">"Ключ"</string>
-    <string name="left_label">"(осталось %s)"</string>
+    <string name="mass_booster_x1_5_desc">Начинай игру с х1.5 массов в течении 1 часа</string>
+    <string name="mass_booster_x2_desc">Начинай игру с х2 массов в течении 1 часа</string>
+    <string name="exp_booster_x1_5_desc">Весь получаемый опыт умножается на 1.5 в течении часа</string>
+    <string name="exp_booster_x2_desc">Весь получаемый опыт умножается на 2 в течении часа</string>
+    <string name="watch_video_desc">Посмотри видео и получи %d монет!</string>
+    <string name="free_coins_desc">Получай бесплатно %1$s монет каждый %2$d час</string>
+    <string name="m">м</string>
+    <string name="h">ч</string>
+    <string name="d">д</string>
+
+    <string name="mass_booster_has_expired">Бустер массы закончился</string>
+    <string name="exp_booster_has_expired">Бустер опыта закончился</string>
+
+    <string name="chat_suffix_desc">Добавлять к нику%s</string>
+    <string name="user_role_desc">Этот пользователь %s</string>
+    <string name="size_animation_speed">Скорость анимации размера:</string>
+    <string name="search">Поиск</string>
+    <string name="type_skin_name">Введите название скина</string>
+
+    <string name="waiting_for_players">Ожидание игроков</string>
+    <string name="type_room_key">Введите ключ комнаты</string>
+
+    <string name="random">Случайно</string>
+    <string name="key">Ключ</string>
+    <string name="left_label">(осталось %s)</string>
     <string name="coins_battle">"Битва за монеты: "</string>
-    <string name="spectate_title">"Наблюдать"</string>
-    <string name="game_isnt_started_yet">"Игра еще не стартовала. Вы можете потерять свои монеты!"</string>
-    <string name="show_cell_border">"Показывать обводку"</string>
-    <string name="cur_week_exp">"Текущ. нед. Exp"</string>
-    <string name="prev_week_exp">"Пред. нед. Exp"</string>
-    <string name="rules_title">"Правила"</string>
-    <string name="rules_description">"
+    <string name="spectate_title">Наблюдать</string>
+    <string name="game_isnt_started_yet">Игра еще не стартовала. Вы можете потерять свои монеты!</string>
+    <string name="show_cell_border">Показывать обводку</string>
+    <string name="cur_week_exp">Текущ. нед. Exp</string>
+    <string name="prev_week_exp">Пред. нед. Exp</string>
+    <string name="rules_title">Правила</string>
+    <string name="rules_description">\n
+        1.) Не оскорбляйте других игроков\n
+        2.) Не просите статус Модератора\n
+        3.) Не обменивайте/продавайте аккаунты\n
+        4.) Не используйте читы чтобы достигнуть топов\n
+        5.) Не используйте нецензурные слова в нике\n
+        6.) Не используйте баги игры ради преимущества над другими\n
+        7.) Не играйте совместно с людьми из другой команды, например в режиме TEAMS,TS2v2\n
+    </string>
+    <string name="top_week_exp_desc">Набери как можно больше опыта в течении недели и получи награду монетами!</string>
+    <string name="server_app_description">С этим приложением ты можешь создать свой сервер и играть оффлайн с друзьями!</string>
+    <string name="show_fps">Показывать FPS/PING</string>
+    <string name="chat_enable_warning">С этой опцией рейтинг приложения становится выше!</string>
+    <string name="score_title">Счет:</string>
 
-        1.) Не оскорбляйте других игроков
+    <string name="saved">Сохранено</string>
+    <string name="delete_server">Удалить сервер?</string>
+    <string name="deleted">Удалено</string>
+    <string name="added">Добавлено</string>
+    <string name="add_new">Добавить новый</string>
+    <string name="cant_be_empty">%s не может быть пустым!</string>
+    <string name="list">Список</string>
+    <string name="info_title">Инфо</string>
+    <string name="time_left">Осталось времени:</string>
+    <string name="edit">Изменить</string>
+    <string name="bet_value">Ставка:</string>
+    <string name="create">Создать</string>
+    <string name="custom_server">Личный сервер</string>
+    <string name="custom_server_created">Личный сервер создан</string>
+    <string name="highlight_friends">Подсвечивать друзей</string>
+    <string name="custom_colors">Кастомная тема</string>
+    <string name="background_color">Фон цвет</string>
+    <string name="grid_title">Сетка</string>
+    <string name="food_title">Еда</string>
+    <string name="virus_title">Вирус</string>
+    <string name="mother_cell_title">Фидер</string>
+    <string name="eject_title">Эджект</string>
+    <string name="friend_name_title">Ник друга</string>
+    <string name="invitation_sent">Приглашение отправлено успешно!</string>
+    <string name="choose_friend">Выберите друга</string>
+    <string name="notifications">Уведомления</string>
+    <string name="join_server">Приглашение на сервер</string>
+    <string name="friend_request">Запрос в друзья</string>
+    <string name="friend_accepted">Принятие дружбы</string>
+    <string name="only_friends_skins">Только скины друзей</string>
+    <string name="in_game_zoom">Зум в игре</string>
+    <string name="copy_nick">Копир. ник</string>
+    <string name="gold">Золотая</string>
+    <string name="silver">Серебряная</string>
+    <string name="bronze">Медная</string>
+    <string name="medal_description">%1$s медаль за попадание в топ %2$s в глобальном топе!</string>
+    <string name="medal_description_first_place">Медаль за ПЕРВУЮ позицию в глобальном топе!</string>
 
-        2.) Не просите статус Модератора
+    <string name="try_for_free">Попробовать бесплатно!</string>
+    <string name="account">Аккаунт</string>
+    <string name="dialog_vip_desc_title2">Устал от рекламы? Попробуй</string>
+    <string name="no_ads">нет рекламы</string>
+    <string name="dialog_vip_desc_free_hours">часовые &amp; собранные <b>монеты</b></string>
+    <string name="dialog_vip_desc_ingame_coins">собранные в игре <b>монеты</b></string>
+    <string name="dialog_vip_desc_additional_exp">дополнительный <b>опыт</b></string>
+    <string name="dialog_vip_desc_start_mass">стартовая масса</string>
+    <string name="dialog_vip_desc_discount">скидка на бустеры</string>
+    <string name="dialog_vip_desc_chat_label">метка в чате и профиле</string>
+    <string name="dialog_vip_desc_border">радужная обводка</string>
+    <string name="dialog_vip_desc_lock_name">золотой низкий ник</string>
 
-        3.) Не обменивайте/продавайте аккаунты
-
-        4.) Не используйте читы чтобы достигнуть топов
-
-        5.) Не используйте нецензурные слова в нике
-
-        6.) Не используйте баги игры ради преимущества над другими
-
-        7.) Не играйте совместно с людьми из другой команды, например в режиме TEAMS,TS2v2
-
-    "</string>
-    <string name="top_week_exp_desc">"Набери как можно больше опыта в течении недели и получи награду монетами!"</string>
-    <string name="server_app_description">"С этим приложением ты можешь создать свой сервер и играть оффлайн с друзьями!"</string>
-    <string name="show_fps">"Показывать FPS/PING"</string>
-    <string name="chat_enable_warning">"С этой опцией рейтинг приложения становится выше!"</string>
-    <string name="score_title">"Счет:"</string>
-    <string name="saved">"Сохранено"</string>
-    <string name="delete_server">"Удалить сервер?"</string>
-    <string name="deleted">"Удалено"</string>
-    <string name="added">"Добавлено"</string>
-    <string name="add_new">"Добавить новый"</string>
-    <string name="cant_be_empty">"%s не может быть пустым!"</string>
-    <string name="list">"Список"</string>
-    <string name="info_title">"Инфо"</string>
-    <string name="time_left">"Осталось времени:"</string>
-    <string name="edit">"Изменить"</string>
-    <string name="bet_value">"Ставка:"</string>
-    <string name="create">"Создать"</string>
-    <string name="custom_server">"Личный сервер"</string>
-    <string name="custom_server_created">"Личный сервер создан"</string>
-    <string name="highlight_friends">"Подсвечивать друзей"</string>
-    <string name="custom_colors">"Кастомная тема"</string>
-    <string name="background_color">"Фон цвет"</string>
-    <string name="grid_title">"Сетка"</string>
-    <string name="food_title">"Еда"</string>
-    <string name="virus_title">"Вирус"</string>
-    <string name="mother_cell_title">"Фидер"</string>
-    <string name="eject_title">"Эджект"</string>
-    <string name="friend_name_title">"Ник друга"</string>
-    <string name="invitation_sent">"Приглашение отправлено успешно!"</string>
-    <string name="choose_friend">"Выберите друга"</string>
-    <string name="notifications">"Уведомления"</string>
-    <string name="join_server">"Приглашение на сервер"</string>
-    <string name="friend_request">"Запрос в друзья"</string>
-    <string name="friend_accepted">"Принятие дружбы"</string>
-    <string name="only_friends_skins">"Только скины друзей"</string>
-    <string name="in_game_zoom">"Зум в игре"</string>
-    <string name="copy_nick">"Копир. ник"</string>
-    <string name="gold">"Золотая"</string>
-    <string name="silver">"Серебряная"</string>
-    <string name="bronze">"Медная"</string>
-    <string name="medal_description">"%1$s медаль за попадание в топ %2$s в глобальном топе!"</string>
-    <string name="medal_description_first_place">"Медаль за ПЕРВУЮ позицию в глобальном топе!"</string>
-    <string name="try_for_free">"Попробовать бесплатно!"</string>
-    <string name="account">"Аккаунт"</string>
-    <string name="dialog_vip_desc_title2">"Устал от рекламы? Попробуй"</string>
-    <string name="no_ads">"нет рекламы"</string>
-    <string name="dialog_vip_desc_free_hours">"часовые &amp; собранные &lt;b&gt;монеты&lt;/b&gt;"</string>
-    <string name="dialog_vip_desc_ingame_coins">"собранные в игре &lt;b&gt;монеты&lt;/b&gt;"</string>
-    <string name="dialog_vip_desc_additional_exp">"дополнительный &lt;b&gt;опыт&lt;/b&gt;"</string>
-    <string name="dialog_vip_desc_start_mass">"стартовая масса"</string>
-    <string name="dialog_vip_desc_discount">"скидка на бустеры"</string>
-    <string name="dialog_vip_desc_chat_label">"метка в чате и профиле"</string>
-    <string name="dialog_vip_desc_border">"радужная обводка"</string>
-    <string name="dialog_vip_desc_lock_name">"золотой низкий ник"</string>
-    <string name="side">"Сторона:"</string>
-    <string name="bottom">"Низ:"</string>
+    <string name="side">Сторона:</string>
+    <string name="bottom">Низ:</string>
 
     <!-- chat menu -->
-    <string name="chat_m_hide_show">"Скрыть/Показать"</string>
-    <string name="chat_m_expand_collapse">"Развернуть/Свернуть"</string>
-    <string name="chat_m_invite_friend">"Пригласить друга"</string>
-    <string name="chat_m_big_map">"Большая карта"</string>
-    <string name="chat_m_suicide">"Умереть"</string>
-    <string name="chat_m_select_message">"Выберите сообщение в чате!"</string>
-    <string name="help">"Помощь"</string>
-    <string name="web_ver_desc">"У нас есть веб версия для PC игроков!"</string>
-    <string name="share_request">"Поделись игрой, чтобы получить этот предмет!"</string>
-    <string name="share_lvl_text">"Я только что получил $1%s уровень в Blob.io! Сможешь меня теперь победить!?"</string>
-    <string name="share_double_coins">"Поделись своим результатом и получи в ДВА РАЗА больше монет!"</string>
+    <string name="chat_m_hide_show">Скрыть/Показать</string>
+    <string name="chat_m_expand_collapse">Развернуть/Свернуть</string>
+    <string name="chat_m_invite_friend">Пригласить друга</string>
+    <string name="chat_m_big_map">Большая карта</string>
+    <string name="chat_m_suicide">Умереть</string>
+    <string name="chat_m_select_message">Выберите сообщение в чате!</string>
+
+    <string name="help">Помощь</string>
+    <string name="web_ver_desc">У нас есть веб версия для PC игроков!</string>
+    <string name="share_request">Поделись игрой, чтобы получить этот предмет!</string>
+    <string name="share_lvl_text">Я только что получил $1%s уровень в Blob.io! Сможешь меня теперь победить!?</string>
+    <string name="share_double_coins">Поделись своим результатом и получи в ДВА РАЗА больше монет!</string>
+
     <string name="guide_text1"><![CDATA[Управляй своей клеткой и ешь <b>еду</b>(точки) чтобы расти!]]></string>
     <string name="guide_text2"><![CDATA[Жми <b>SPLIT</b> чтобы делиться и есть других игроков!]]></string>
     <string name="guide_text3"><![CDATA[Жми <b>THROW</b> чтобы стрелять в вирусы и взрывать игроков!]]></string>
     <string name="guide_text4"><![CDATA[Остерегайся <b>вирусов</b>!]]></string>
-    <string name="guide_text5"><![CDATA[Этой игре нужен <b>хороший интернет</b>! Сядь ближе к Wi-Fi, отключи <b>BLUETOOTH</b>,
-        мобильный интернет не рекомендуется! Используй <b><i><font color="#1A0DAB">Blob Server</font></i></b> для игры оффлайн!]]></string>
-    <string name="guide_select_region">"Выбери ближайший регион! (c меньшей цифрой/пингом)"</string>
-    <string name="skins_yt_desc"><![CDATA[Ты можешь записывать и загружать на YouTube свой геймплей чтобы стать популярным и получить <font color="#FF0000"><b><big>[YT]</big></b></font> роль в игре.
+    <string name="guide_text5">
+        <![CDATA[Этой игре нужен <b>хороший интернет</b>! Сядь ближе к Wi-Fi, отключи <b>BLUETOOTH</b>,
+        мобильный интернет не рекомендуется! Используй <b><i><font color="#1A0DAB">Blob Server</font></i></b> для игры оффлайн!]]>
+    </string>
+    <string name="guide_select_region">Выбери ближайший регион! (c меньшей цифрой/пингом)</string>
+
+    <string name="skins_yt_desc">
+        <![CDATA[Ты можешь записывать и загружать на YouTube свой геймплей чтобы стать популярным и получить <font color="#FF0000"><b><big>[YT]</big></b></font> роль в игре.
         Твой скин буде добавлен в этот список и люди будут пользоваться им!
-        Читай актуальные требования для получения роли <font color="#FF0000"><b><big>[YT]</big></b></font> в нашем дискорде.]]></string>
-    <string name="servers_list_desc">"Тут ты можешь выбрать пустой сервер и играть в одиночку или с друзьями, а так же тестировать UNOFFICIAL режимы!"</string>
-    <string name="custom_server_desc">"Тут ты можешь создать приватный сервер со своими настройками, добавить ботов/миньонов и играть с друзьями!"</string>
-    <string name="ts2v2_desc">"Тут можно играть в команде 2 на 2. Можно делать ставки монетами и/или создать бой с ключом чтобы в него могли попасть только твои друзья!"</string>
-    <string name="skins_prem_desc">"В отличии от FREE/YT скинов ты можешь использовать PREM/LVL скины с любым ником!"</string>
-    <string name="skins_free_desc">"Чтобы использовать эти скины ты должен установить их имя как ник"</string>
-    <string name="revenge">"Месть!"</string>
-    <string name="kill_streak">"Череда убийств!"</string>
-    <string name="killed_you">"%s убил тебя"</string>
-    <string name="you_won">"ТЫ победил!"</string>
-    <string name="someone_won">"%s победил!"</string>
-    <string name="direction_lines">"Направляющие линии"</string>
-    <string name="score_result_best">"Лучший счет"</string>
-    <string name="daily_quests">"Дневные задания"</string>
-    <string name="reset_in">"(сброс через %s)"</string>
-    <string name="q_replace_desc">"Раз в день можно поменять любое задание на другое случайное!"</string>
-    <string name="replace">"Поменять"</string>
-    <string name="q_choose_replace">"Выбери задание для замены"</string>
-    <string name="q_replace_x">"Поменять задание %s ?"</string>
-    <string name="q_replaced">"Задание поменяно!"</string>
-    <string name="Completed">"Выполнено"</string>
+        Читай актуальные требования для получения роли <font color="#FF0000"><b><big>[YT]</big></b></font> в нашем дискорде.]]>
+    </string>
+    <string name="servers_list_desc">Тут ты можешь выбрать пустой сервер и играть в одиночку или с друзьями, а так же тестировать UNOFFICIAL режимы!</string>
+    <string name="custom_server_desc">Тут ты можешь создать приватный сервер со своими настройками, добавить ботов/миньонов и играть с друзьями!</string>
+    <string name="ts2v2_desc">Тут можно играть в команде 2 на 2. Можно делать ставки монетами и/или создать бой с ключом чтобы в него могли попасть только твои друзья!</string>
 
-    <!-- <string name="get_reward">Get Reward</string> -->
-    <string name="get_reward">"Взять награду"</string>
-    <string name="daily_reward">"Ежедневная награда"</string>
-    <string name="gain_exp_and_get_reward_every_day">"Зарабатывай опыт и получай приз каждый день!"</string>
-    <string name="day">"День %d"</string>
-    <string name="up_to">"До %d"</string>
-    <string name="login_to_avoid_captcha">"Авторизуйся чтобы убрать эту проверку"</string>
-    <string name="replays">"Реплеи"</string>
-    <string name="you_have_no_replays">"С реплеями ты можешь пересмотреть моменты, когда сделал что-то крутое.
+    <string name="skins_prem_desc">В отличии от FREE/YT скинов ты можешь использовать PREM/LVL скины с любым ником!</string>
+    <string name="skins_free_desc">Чтобы использовать эти скины ты должен установить их имя как ник</string>
+    <string name="revenge">Месть!</string>
+    <string name="kill_streak">Череда убийств!</string>
+    <string name="killed_you">%s убил тебя</string>
+    <string name="you_won">ТЫ победил!</string>
+    <string name="someone_won">%s победил!</string>
+    <string name="direction_lines">Направляющие линии</string>
+    <string name="score_result_best">Лучший счет</string>
+    <string name="daily_quests">Дневные задания</string>
+    <string name="reset_in">(сброс через %s)</string>
+    <string name="q_replace_desc">Раз в день можно поменять любое задание на другое случайное!</string>
+    <string name="replace">Поменять</string>
+    <string name="q_choose_replace">Выбери задание для замены</string>
+    <string name="q_replace_x">Поменять задание %s ?</string>
+    <string name="q_replaced">Задание поменяно!</string>
+    <string name="Completed">Выполнено</string>
+<!--    <string name="get_reward">Get Reward</string>-->
+    <string name="get_reward">Взять награду</string>
+    <string name="daily_reward">Ежедневная награда</string>
+    <string name="gain_exp_and_get_reward_every_day">Зарабатывай опыт и получай приз каждый день!</string>
+    <string name="day">День %d</string>
+    <string name="up_to">До %d</string>
+    <string name="login_to_avoid_captcha">Авторизуйся чтобы убрать эту проверку</string>
+    <string name="replays">Реплеи</string>
+    <string name="you_have_no_replays">С реплеями ты можешь пересмотреть моменты, когда сделал что-то крутое.\n\nУ тебя еще нет реплеев. Чтобы сохранить реплеи жми тут:</string>
+    <string name="save_replay">Сохранить реплей</string>
+    <string name="replay_saved">Реплей сохранен!</string>
+    <string name="old_replay_warning">Реплеи из старой версии игры могут работать неправильно!</string>
+    <string name="too_new_replay_error">Обнови игру чтобы открыть этот реплей!</string>
+    <string name="mute">Мьют</string>
+    <string name="buttons_position">Позиция кнопок</string>
+    <string name="setup_controls">Выбери управление</string>
+    <string name="left">Слева</string>
+    <string name="right">Справа</string>
+    <string name="follow">Следовать</string>
+    <string name="private_servers_list">Список приватных серверов</string>
+    <string name="bots">Боты</string>
+    <string name="minions">Миньоны</string>
+    <string name="public_title">Публичный</string>
+    <string name="server_name">Имя сервера</string>
+    <string name="background_image">Фон картинка</string>
 
-У тебя еще нет реплеев. Чтобы сохранить реплеи жми тут:"</string>
-    <string name="save_replay">"Сохранить реплей"</string>
-    <string name="replay_saved">"Реплей сохранен!"</string>
-    <string name="old_replay_warning">"Реплеи из старой версии игры могут работать неправильно!"</string>
-    <string name="too_new_replay_error">"Обнови игру чтобы открыть этот реплей!"</string>
-    <string name="mute">"Мьют"</string>
-    <string name="buttons_position">"Позиция кнопок"</string>
-    <string name="setup_controls">"Выбери управление"</string>
-    <string name="left">"Слева"</string>
-    <string name="right">"Справа"</string>
-    <string name="follow">"Следовать"</string>
-    <string name="private_servers_list">"Список приватных серверов"</string>
-    <string name="bots">"Боты"</string>
-    <string name="minions">"Миньоны"</string>
-    <string name="public_title">"Публичный"</string>
-    <string name="server_name">"Имя сервера"</string>
-    <string name="background_image">"Фон картинка"</string>
+    <!--    Rate this app dialog -->
+    <string name="smile_rating_terrible">Ужасно</string>
+    <string name="smile_rating_bad">Плохо</string>
+    <string name="smile_rating_okay">Пойдет</string>
+    <string name="smile_rating_good">Хорошо</string>
+    <string name="smile_rating_great">Огонь</string>
 
-    <!-- Rate this app dialog -->
-    <string name="smile_rating_terrible">"Ужасно"</string>
-    <string name="smile_rating_bad">"Плохо"</string>
-    <string name="smile_rating_okay">"Пойдет"</string>
-    <string name="smile_rating_good">"Хорошо"</string>
-    <string name="smile_rating_great">"Огонь"</string>
-    <string name="repeat_mode">"Режим повтора"</string>
-    <string name="high_quality">"Высокое качество"</string>
-    <string name="set_title">"Задать"</string>
-    <string name="link_title">"Ссылка"</string>
-    <string name="file_title">"Файл"</string>
-    <string name="you_title">"Ты"</string>
-    <string name="kill">"Убийство"</string>
-    <string name="death">"Смерть"</string>
-    <string name="locally_muted">"Локально замьючен %s"</string>
+    <string name="repeat_mode">Режим повтора</string>
+    <string name="high_quality">Высокое качество</string>
+    <string name="set_title">Задать</string>
+    <string name="link_title">Ссылка</string>
+    <string name="file_title">Файл</string>
+    <string name="you_title">Ты</string>
+
+    <string name="kill">Убийство</string>
+    <string name="death">Смерть</string>
+    <string name="locally_muted">Локально замьючен %s</string>
+
+    <string-array name="hints">
+        <item>Купи ВИП чтобы избавиться от рекламы!</item>
+        <item>Играй совместно с друзьями и захвати весь сервер!</item>
+        <item>Создавай личный сервер с кастомными параметрами и играй с друзьями!</item>
+        <item>Развивай свой YouTube канал с геймплеем, получи звание YT и стань популярным!</item>
+        <item>Не забывай собирать бесплатные монетки каждый час!</item>
+        <item>Получи больше всех опыта в течении недели и выиграй 55000 монет!</item>
+        <item>Ты можешь сражаться командами 2 на 2 со ставкой монетами!</item>
+        <item>Ты можешь делать сражения командами вплоть до 5 на 5!</item>
+        <item>Ты можешь открыть большую карту нажав на миникарту в игре!</item>
+        <item>Ты можешь подключить мышку к девайсу и играть с ней как на ПК!</item>
+        <item>Используй приложение Blob Server и создавай свой сервер оффлайн!</item>
+        <item>Нажми на треугольник возле чата и пригласи друзей на текущий сервер!</item>
+        <item>Авторизуйся чтобы получать лвл и начинать игру с большей массой!</item>
+        <item>Используй mass/exp бустеры чтобы выигрывать чаще и прокачивать лвл быстрее!</item>
+        <item>Если закончились монетки, можешь просто купить их! :)</item>
+        <item>Используй редкие скины и пусть все завидуют!</item>
+        <item>Кастомизируй цвета и параметры игры чтобы игралось комфортнее!</item>
+        <item>Ты можешь видеть друзей на миникарте!</item>
+        <item>Общайся в чате и находи новых друзей!</item>
+        <item>Вступай в наш дискорд сервер и голосуй/общайся и будь в курсе событий!</item>
+        <item>Зови своих друзей играть в Blob и отрывайтесь вместе!</item>
+        <item>У каждого игрока есть уникальный ID, давай его людям чтобы они нашли тебя в игре!</item>
+        <item>Ты можешь играть/тренироваться на пустом сервере!</item>
+        <item>Ты можешь нажать на IP в меню и изменить его или открыть список серверов!</item>
+        <item>Вступай в наши социалки, будь в курсе событий/обновлений и находий друзей!</item>
+        <item>Мы постоянно экспериментируем с новыми режимами игры, ты можешь найти их в списке серверов (unofficial)!</item>
+        <item>Не забывай проверять экспериментальные сервера в unofficial!)</item>
+        <item>Если ты новичок, посмотри на YouTube как другие нагибают в Блоб! Это божественно!</item>
+        <item>Чтобы игралось гладко - садись ближе к Wi-Fi. Мобильный интернет вообще не рекомендуется!</item>
+        <item>Отключай BLUETOOTH чтобы уменьшить подвисания!</item>
+        <item>Выключай Блютуз чтобы уменьшить лаги интернета!</item>
+        <item>Ты можешь поставить любую картинку как фон в игре!</item>
+        <item>Ты можешь записать крутые моменты игры и посмотреть их позже в реплеях!</item>
+        <item>Ты можешь делиться реплеями с другими людми чтобы показать как ты побеждаешь!</item>
+    </string-array>
+
 </resources>
