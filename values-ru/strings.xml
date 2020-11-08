@@ -101,7 +101,7 @@
     <string name="cant_connect">Не удалось подключиться к серверу. Попробуйте еще раз</string>
     <string name="top">Топ&#160;</string>
     <string name="top_lvl">Топ LVL</string>
-    <string name="login_for_skins_message">Вы должи авторизоваться, чтобы использовать эти скины</string>
+    <string name="login_for_skins_message">Вы должны авторизоваться, чтобы использовать эти скины</string>
     <string name="low_lvl_message">Ваш уровень ниже необходимого</string>
     <string name="skin_unlocked">Вы открыли скин %1$s!</string>
     <string name="optimize_names">Оптимизировать имена</string>
@@ -133,7 +133,7 @@
     <string name="game_time">Время в игре</string>
     <string name="user_info_records">"Рекорды: "</string>
     <string name="better_skins_quality">Улучшенные скины</string>
-    <string name="better_skins_warning">Это может вызвать лаги. Используте этот параметр если видите на скинах пиксели</string>
+    <string name="better_skins_warning">Это может вызвать лаги. Используйте этот параметр если видите на скинах пиксели</string>
     <string name="stop_on_release">Остановка при отпускании</string>
     <string name="share_text">Думаешь сможешь уделать меня в Blob? Ха, а ты попробуй :) #blob_game %1$s</string>
     <string name="type_user_id">Введите ID пользователя</string>
@@ -181,8 +181,8 @@
     <string name="lvl_coins_reward">Поздравляем! Вы достигли %1$d уровня и получили %2$d монет!</string>
 
     <!-- Items description -->
-    <string name="mass_booster_x1_5_desc">Начинай игру с х1.5 массов в течении 1 часа</string>
-    <string name="mass_booster_x2_desc">Начинай игру с х2 массов в течении 1 часа</string>
+    <string name="mass_booster_x1_5_desc">Начинай игру с х1.5 дополнительной массой в течении 1 часа</string>
+    <string name="mass_booster_x2_desc">Начинай игру с х2 дополнительной массой в течении 1 часа</string>
     <string name="exp_booster_x1_5_desc">Весь получаемый опыт умножается на 1.5 в течении часа</string>
     <string name="exp_booster_x2_desc">Весь получаемый опыт умножается на 2 в течении часа</string>
     <string name="watch_video_desc">Посмотри видео и получи %d монет!</string>
@@ -244,7 +244,7 @@
     <string name="custom_server_created">Личный сервер создан</string>
     <string name="highlight_friends">Подсвечивать друзей</string>
     <string name="custom_colors">Кастомная тема</string>
-    <string name="background_color">Фон цвет</string>
+    <string name="background_color">Цвет фона</string>
     <string name="grid_title">Сетка</string>
     <string name="food_title">Еда</string>
     <string name="virus_title">Вирус</string>
@@ -398,10 +398,10 @@
         <item>Общайся в чате и находи новых друзей!</item>
         <item>Вступай в наш дискорд сервер и голосуй/общайся и будь в курсе событий!</item>
         <item>Зови своих друзей играть в Blob и отрывайтесь вместе!</item>
-        <item>У каждого игрока есть уникальный ID, давай его людям чтобы они нашли тебя в игре!</item>
+        <item>У каждого игрока есть уникальный ID, давай его другим игрокам чтобы они нашли тебя в игре!</item>
         <item>Ты можешь играть/тренироваться на пустом сервере!</item>
         <item>Ты можешь нажать на IP в меню и изменить его или открыть список серверов!</item>
-        <item>Вступай в наши социалки, будь в курсе событий/обновлений и находий друзей!</item>
+        <item>Вступай в наши социалки, будь в курсе событий/обновлений и находи друзей!</item>
         <item>Мы постоянно экспериментируем с новыми режимами игры, ты можешь найти их в списке серверов (unofficial)!</item>
         <item>Не забывай проверять экспериментальные сервера в unofficial!)</item>
         <item>Если ты новичок, посмотри на YouTube как другие нагибают в Блоб! Это божественно!</item>
@@ -410,7 +410,7 @@
         <item>Выключай Блютуз чтобы уменьшить лаги интернета!</item>
         <item>Ты можешь поставить любую картинку как фон в игре!</item>
         <item>Ты можешь записать крутые моменты игры и посмотреть их позже в реплеях!</item>
-        <item>Ты можешь делиться реплеями с другими людми чтобы показать как ты побеждаешь!</item>
+        <item>Ты можешь делиться реплеями с другими игроками чтобы показать как ты побеждаешь!</item>
     </string-array>
 
 </resources>
