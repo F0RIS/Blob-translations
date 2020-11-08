@@ -6,7 +6,7 @@
     <string name="error">Помилка</string>
     <string name="exit">Вихід</string>
     <string name="exit_dialog">Що бажаете?</string>
-    <string name="name">Імя</string>
+    <string name="name">Ім\'я</string>
     <string name="nick_name">Нік:</string>
     <string name="no_internet">Для цієї гри вам необхіден інтернет.</string>
     <string name="play">Грати</string>
@@ -177,7 +177,7 @@
     <string name="exp_booster_x1_5_desc">Весь одержуваний XP множиться на 1.5 протягом години</string>
     <string name="exp_booster_x2_desc">Весь одержуваний XP множиться на 2 протягом години</string>
     <string name="watch_video_desc">Переглянь відео і отримай %d монет!</string>
-    <string name="free_coins_desc">Отримуй безкоштовно %1$s монет кожні %2$d годин</string>
+    <string name="free_coins_desc">Отримуй безкоштовно %1$s монет кожну %2$d годину</string>
     <string name="m">х</string>
     <string name="h">г</string>
     <string name="d">д</string>
@@ -231,7 +231,7 @@
     <string name="custom_server_created">Особистий сервер створений</string>
     <string name="highlight_friends">Підсвічувати друзів</string>
     <string name="custom_colors">Кастомна тема</string>
-    <string name="background_color">Колір фону</string>
+    <string name="background_color">Фоновий колір</string>
     <string name="grid_title">Сітка</string>
     <string name="food_title">Їжа</string>
     <string name="virus_title">Вірус</string>
@@ -327,7 +327,7 @@
     <string name="up_to">До %d</string>
     <string name="login_to_avoid_captcha">Авторизуйтесь щоб прибрати цю перевірку</string>
     <string name="replays">Реплєї</string>
-    <string name="you_have_no_replays">Завдяки реплєям ти можеш переглянути моменти, коли зробив щось круте.\n\nУ тебе ще немає реплєєв. Щоб зберегти реплєї тисни тут:</string>
+    <string name="you_have_no_replays">Завдяки реплєям ти можеш переглянути моменти, коли зробив щось круте.\n\nУ тебе ще немає реплєїв. Щоб зберегти реплєй тисни тут:</string>
     <string name="save_replay">Зберегти реплєй</string>
     <string name="replay_saved">Реплєй збережений!</string>
     <string name="old_replay_warning">Реплєї зі старої версії гри можуть працювати неправильно!</string>
