@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="locale">ua</string>
+    <string name="locale">uk</string>
     <string name="default_name">Не їж мене!</string>
     <string name="cancel">Скасувати</string>
     <string name="error">Помилка</string>
@@ -23,16 +23,16 @@
     <string name="show_advanced_minimap">Секторна мінікарта</string>
     <string name="show_names">Показувати імена</string>
     <string name="show_skins">Показувати скіни</string>
-    <string name="show_DirectionPointer">Указатель направления / вказівник напрямку / покажчик напрямку / хер знает</string>
+    <string name="show_DirectionPointer">Вказівник напрямку</string>
     <string name="skins_list">Cкіни</string>
     <string name="skin_message">Це змінить ваш нік</string>
-    <string name="skin_title">Встановити ім'я цього скіна?</string>
+    <string name="skin_title">Встановити ім\'я цього скіна?</string>
     <string name="connect_to">Підключитися до</string>
     <string name="connecting">Підключення до певного IP</string>
-    <string name="enter_ip">Введіть ip-адреса сервера</string>
+    <string name="enter_ip">Введіть ip-адресу сервера</string>
     <string name="copied">Скопійовано</string>
-    <string name="connection_closed">З'єднання закрите сервером</string>
-    <string name="connection_lost">З'єднання втрачено</string>
+    <string name="connection_closed">З\'єднання закрите сервером</string>
+    <string name="connection_lost">З\'єднання втрачено</string>
     <string name="about_title">Про гру</string>
     <string name="about_text">&#032;&#032;Blob Android клієнт %1$s \n\n
           &#032;&#032;Якщо гра перестала працювати, перевірте оновлення.\n</string>
@@ -44,7 +44,7 @@
     <string name="records">Рекорди</string>
     <string name="spec_mode_after_death">Спостерігати після смерті</string>
     <string name="darkTheme">Темна тема</string>
-    <string name="left_hand_control">Управління лівої</string>
+    <string name="left_hand_control">Управління лівою</string>
 
     <!-- <string name="party_btn">Группа</string>
 <string name="create_party">Создать</string>
@@ -57,11 +57,11 @@
     <string name="vibration">Вібрація</string>
     <string name="game_mechanic_description">
         &#160;&#160;- Чим ви більше тим ви повільніше рухаєтесь.\n
-        &#160;- При натисканні кнопки split ви розділитесь на 2 частини, розмір яких буде дорівнює половині колишнього. При поділі одна частина швидко полетить вперед, використовуйте це, щоб їсти інших гравців.\n
-        &#160;- Якщо ви розділилися, ви автоматично об'єднаєтеся після певного часу. Чим ви більше, тим довше вам доведеться чекати.\n
+        &#160;- При натисканні кнопки split ви розділитесь на 2 частини, розмір яких буде дорівнювати половині колишнього. При поділі одна частина швидко полетить вперед, використовуйте це, щоб їсти інших гравців.\n
+        &#160;- Якщо ви розділилися, ви автоматично об\'єднаєтеся після певного часу. Чим ви більше, тим довше вам доведеться чекати.\n
         &#160;- Якщо ви менше "вірусу", то ви можете ховатися в ньому, але якщо ви більше за нього, то при наїзді на нього, ви розділитесь на безліч маленьких частинок.\n
         &#160;- Ви можете змусити вірус розділитися і підірвати таким чином будь-якого гравця, для цього стріляйте своєю масою в "вірус"\n
-        &#160;- Ви не можете з'їсти або бути з'їденим гравцем, який такого ж розміру як і ви.\n
+        &#160;- Ви не можете з\'їсти або бути з\'їденим гравцем, який такого ж розміру як і ви.\n
         \n
         &#160;&#160;Ви можете прочитати цю інформацію ще раз, натиснувши в головному меню на іконку зі знаком питання.\n
         &#160;&#160;Перезапустіть програму і очистіть ОЗУ, якщо щось пішло не так.\n
@@ -71,8 +71,7 @@
     <string name="update_message">Хочете отримати його зараз?</string>
     <string name="players">Гравці:</string>
     <string name="totals">Всього</string>
-    <string name="fb_info_message">Авторизуйтесь і починайте гру з більшою масою!
-
+    <string name="fb_info_message">Авторизуйтесь і починайте гру з більшою масою!\n
         Піднімайте рівень для отримання ще більшої стартової маси і розблокування нових скінів!</string>
     <string name="fb_info_title">Інформація</string>
     <string name="how_to_install">Як встановити</string>
@@ -89,7 +88,7 @@
 
     <!-- Rate this app -->
     <string name="rta_dialog_title">Оцініть цю гру!</string>
-    <string name="rta_dialog_message">Якщо вам сподобалась ця гра, Витратіть кілька секунд і оціните його будь ласка. Дякую за підтримку!</string>
+    <string name="rta_dialog_message">Якщо вам сподобалась ця гра, Витратіть декілька секунд і оціните її будь ласка. Дякую за підтримку!</string>
     <string name="rta_dialog_ok">Оцінити</string>
     <string name="rta_dialog_cancel">Нагадати пізніше</string>
     <string name="rta_dialog_no">Ні, дякую</string>
@@ -113,9 +112,9 @@
     <string name="blocked">Заблоковані</string>
     <string name="followers">Відхилені</string>
     <string name="my_new_friends">Заявки</string>
-    <string name="playing">Грає: </string>
+    <string name="playing">Грає: </string>
     <string name="offline">Офлайн</string>
-    <string name="relations">Зв'язки</string>
+    <string name="relations">Зв\'язки</string>
     <string name="view_profile">Профіль</string>
     <string name="delete">Видалити</string>
     <string name="join_game">Увійти</string>
@@ -129,16 +128,16 @@
     <string name="user_info_records">Рекорди: </string>
     <string name="better_skins_quality">Покращені скіни</string>
     <string name="better_skins_warning">Це може викликати лаги. Використовуйте цей параметр якщо бачите на скінів пікселі</string>
-    <string name="stop_on_release">Зупинка при відпуску</string>
+    <string name="stop_on_release">Зупинка при відпусканні</string>
     <string name="share_text">Думаєш зможеш обігнати мене в Blob? Ха, а ти спробуй :) #blob_game %1$s</string>
     <string name="type_user_id">Введіть ID користувача</string>
-    <string name="added_new_friend">Доданий новий друг</string>
+    <string name="added_new_friend">Додано нового друга</string>
     <string name="send_friend_request">Подружитися</string>
-    <string name="moved_to_declined">Поміщений в \"Відхилені\"</string>
+    <string name="moved_to_declined">Поміщено в \"Відхилені\"</string>
     <string name="friend_request_successful">Запрошення в друзі відправлено</string>
     <string name="copy_user_id">Копіюв. ID</string>
     <string name="show_friends">Показувати друзів</string>
-    <string name="watch">Дивитися / Переглянути</string>
+    <string name="watch">Переглянути</string>
     <string name="unknown_user">Невідомий користувач</string>
     <string name="reset">Скинути</string>
 
@@ -147,14 +146,14 @@
     <string name="controls_opacity">Прозорість управління:</string>
     <string name="chat_text_size">Розмір тексту чату:</string>
     <string name="camera_zoom">Віддалення камери:</string>
-    <string name="live_score">Точний рахунок</string>
+    <string name="live_score">Поточний рахунок</string>
 
     <!-- Joystick settings -->
     <string name="margins">Відступи:</string>
     <string name="size">Розмір:</string>
     <string name="old_type">Старий тип</string>
     <string name="coins">Монет</string>
-    <string name="empty">Пусто</string>
+    <string name="empty">Порожньо</string>
     <string name="you_dont_have_friends">У вас ще немає друзів :(</string>
     <string name="bought_succeed">Ви успішно купили %s</string>
 
@@ -175,42 +174,42 @@
     <!-- Items description -->
     <string name="mass_booster_x1_5_desc">Починай гру з х1.5 додаткової масою протягом 1 години</string>
     <string name="mass_booster_x2_desc">Починай гру з х2 додаткової масою протягом 1 години</string>
-    <string name="exp_booster_x1_5_desc">Весь одержуваний ХП множиться на 1.5 протягом години</string>
-    <string name="exp_booster_x2_desc">Весь одержуваний ХП множиться на 2 протягом години</string>
+    <string name="exp_booster_x1_5_desc">Весь одержуваний XP множиться на 1.5 протягом години</string>
+    <string name="exp_booster_x2_desc">Весь одержуваний XP множиться на 2 протягом години</string>
     <string name="watch_video_desc">Переглянь відео і отримай %d монет!</string>
     <string name="free_coins_desc">Отримуй безкоштовно %1$s монет кожні %2$d годин</string>
     <string name="m">х</string>
     <string name="h">г</string>
     <string name="d">д</string>
     <string name="mass_booster_has_expired">Бустер маси закінчився</string>
-    <string name="exp_booster_has_expired">Бустер ХП закінчився</string>
-    <string name="chat_suffix_desc">Додавати до нику%s</string>
+    <string name="exp_booster_has_expired">Бустер XP закінчився</string>
+    <string name="chat_suffix_desc">Додавати до нику %s</string>
     <string name="user_role_desc">Цей користувач %s</string>
     <string name="size_animation_speed">Швидкість анімації розміру:</string>
     <string name="search">Пошук</string>
     <string name="type_skin_name">Введіть назву скіна</string>
     <string name="waiting_for_players">Очікування гравців</string>
     <string name="type_room_key">Введіть ключ кімнати</string>
-    <string name="random">Рандомно</string>
+    <string name="random">Випадково</string>
     <string name="key">Ключ</string>
     <string name="left_label">(залишилось %s)</string>
     <string name="coins_battle">Битва за монети: </string>
     <string name="spectate_title">Спостерігати</string>
     <string name="game_isnt_started_yet">Гра ще не стартувала. Ви можете втратити свої монети!</string>
     <string name="show_cell_border">Показувати обведення</string>
-    <string name="cur_week_exp">Поточ. нед. Exp</string>
-    <string name="prev_week_exp">Попер. нед. Exp</string>
+    <string name="cur_week_exp">Поточ. нед. XP</string>
+    <string name="prev_week_exp">Попер. нед. XP</string>
     <string name="rules_title">Правила</string>
     <string name="rules_description">\n
         1.) Не ображайте інших гравців\n
         2.) Не просіть статус Модератора\n
-        3.) Не обмінюйте / продавайте акаунти\n
+        3.) Не обмінюйте/продавайте акаунти\n
         4.) Не використовуйте сторонне ПО щоб досягти топу\n
         5.) Не використовуйте нецензурні слова в ніку\n
         6.) Не використовуйте баги гри заради переваги над іншими\n
         7.) Не грайте спільно з людьми з іншої команди, наприклад в режимі TEAMS,TS2v2\n
     </string>
-    <string name="top_week_exp_desc">Набери якомога більше ХП в впродовж тижня і отримай нагороду монетами!</string>
+    <string name="top_week_exp_desc">Набери якомога більше XP в впродовж тижня і отримай нагороду монетами!</string>
     <string name="server_app_description">З цим додатком ти можеш створити свій сервер і грати оффлайн з друзями!</string>
     <string name="show_fps">Показувати FPS/PING</string>
     <string name="chat_enable_warning">З цією опцією рейтинг гри стає вище!</string>
@@ -284,27 +283,27 @@
     <string name="share_lvl_text">Я тільки що отримав $1%s рівень в Blob.io! Чи зможеш мене тепер перемогти!?</string>
     <string name="share_double_coins">Поділися своїм результатом і отримай в ДВА РАЗИ більше монет!</string>
 
-    <string name="guide_text1"><![CDATA[Керуй своєю клітиною і їж <b>їжу</b>(точки) щоб рости!]]></string>
-    <string name="guide_text2"><![CDATA[Натисни <b>SPLIT</b> щоб ділитися і є інших гравців!]]></string>
+    <string name="guide_text1"><![CDATA[Керуй своєю клітиною і їж <b>їжу</b>(крапки) щоб рости!]]></string>
+    <string name="guide_text2"><![CDATA[Натисни <b>SPLIT</b> щоб ділитися і їсти інших гравців!]]></string>
     <string name="guide_text3"><![CDATA[Натисни <b>THROW</b> щоб стріляти в віруси і підривати гравців!]]></string>
     <string name="guide_text4"><![CDATA[Стережися <b>вірусів</b>!]]></string>
     <string name="guide_text5">
         <![CDATA[Цій грі потрібен <b>хороший інтернет</b>! Сідай ближче до Wi-Fi, відключи <b>BLUETOOTH</b>,
         мобільний інтернет не рекомендується! використовуй <b><i><font color="#1A0DAB">Blob Server</font></i></b> для гри оффлайн!]]>
     </string>
-    <string name="guide_select_region">Вибери найближчий регіон! (з меншою цифрою / пінгом)</string>
+    <string name="guide_select_region">Вибери найближчий регіон! (з меншою цифрою/пінгом)</string>
 
     <string name="skins_yt_desc">
         <![CDATA[Ти можеш записувати і завантажувати на YouTube свій геймплей щоб стати популярним і отримати <font color="#FF0000"><b><big>[YT]</big></b></font> роль в грі.
         Твій скін буде доданий в цей список і люди будуть користуватися ним!
-        Читай актуальні вимоги для отримання ролі <font color="#FF0000"><b><big>[YT]</big></b></font> в нашому дискорде.]]>
+        Читай актуальні вимоги для отримання ролі <font color="#FF0000"><b><big>[YT]</big></b></font> в нашому дискорд сервері.]]>
     </string>
     <string name="servers_list_desc">Тут ти можеш вибрати порожній сервер і грати самотужки або з друзями, а також тестувати UNOFFICIAL режими!</string>
-    <string name="custom_server_desc">Тут ти можеш створити приватний сервер зі своїми настройками, додати ботів / міньйонів і грати з друзями!</string>
-    <string name="ts2v2_desc">Тут можна грати в команді 2 на 2. Можна робити ставки монетами і / або створити бій з ключем щоб в нього могли потрапити тільки твої друзі!</string>
+    <string name="custom_server_desc">Тут ти можеш створити приватний сервер зі своїми налаштуваннями, додати ботів/міньйонів і грати з друзями!</string>
+    <string name="ts2v2_desc">Тут можна грати в команді 2 на 2. Можна робити ставки монетами і/або створити бій з ключем щоб в нього могли потрапити тільки твої друзі!</string>
 
-    <string name="skins_prem_desc">На відміну від FREE / YT скінів ти можеш використовувати PREM / LVL скіни з будь-яким ніком!</string>
-    <string name="skins_free_desc">Щоб використовувати ці скіни ти повинен встановити їх ім'я як нік</string>
+    <string name="skins_prem_desc">На відміну від FREE/YT скінів ти можеш використовувати PREM/LVL скіни з будь-яким ніком!</string>
+    <string name="skins_free_desc">Щоб використовувати ці скіни ти повинен встановити їх ім\'я як нік</string>
     <string name="revenge">Помста!</string>
     <string name="kill_streak">Череда вбивств!</string>
     <string name="killed_you">%s вбив тебе</string>
@@ -314,13 +313,13 @@
     <string name="score_result_best">Кращий рахунок</string>
     <string name="daily_quests">Денні завдання</string>
     <string name="reset_in">(сброс через %s)</string>
-    <string name="q_replace_desc">Раз в день можна поміняти будь-яке завдання на інше випадкове!</string>
+    <string name="q_replace_desc">Раз на день можна поміняти будь-яке завдання на інше випадкове!</string>
     <string name="replace">Поміняти</string>
     <string name="q_choose_replace">Вибери завдання для заміни</string>
     <string name="q_replace_x">Змінити завдання %s ?</string>
     <string name="q_replaced">Завдання змінено!</string>
     <string name="Completed">Виконано</string>
-<!--    <string name="get_reward">Get Reward</string>-->
+    <!--    <string name="get_reward">Get Reward</string>-->
     <string name="get_reward">Взяти нагораду</string>
     <string name="daily_reward">Щоденна нагорода</string>
     <string name="gain_exp_and_get_reward_every_day">Заробляй ХР і отримуй приз кожен день!</string>
@@ -329,7 +328,7 @@
     <string name="login_to_avoid_captcha">Авторизуйтесь щоб прибрати цю перевірку</string>
     <string name="replays">Реплєї</string>
     <string name="you_have_no_replays">Завдяки реплєям ти можеш переглянути моменти, коли зробив щось круте.\n\nУ тебе ще немає реплєєв. Щоб зберегти реплєї тисни тут:</string>
-    <string name="save_replay">зберегти реплєй</string>
+    <string name="save_replay">Зберегти реплєй</string>
     <string name="replay_saved">Реплєй збережений!</string>
     <string name="old_replay_warning">Реплєї зі старої версії гри можуть працювати неправильно!</string>
     <string name="too_new_replay_error">Обнови гру щоб відкрити цей реплєї!</string>
@@ -365,40 +364,40 @@
     <string name="locally_muted">Локально замьючен %s</string>
 
     <string-array name="hints">
-        <item>Купи ВІП щоб позбутися реклами!</item>
+        <item>Купи VIP щоб позбутися реклами!</item>
         <item>Грай спільно з друзями і захопи весь сервер!</item>
         <item>Створюй особистий сервер з кастомними параметрами і грай з друзями!</item>
-        <item>Розвивай свій YouTube канал з геймплеєм, отримай звання YT і стань популярним!</item>
+        <item>Розвивай свій YouTube канал з геймплеєм, отримай звання YT і стань відомим!</item>
         <item>Не забувай збирати безкоштовні монетки кожну годину!</item>
         <item>Отримай більше всіх ХР протягом тижня і виграй 55000 монет!</item>
         <item>Ти можеш змагатися командами 2 на 2 зі ставкою монетами!</item>
         <item>Ти можеш робити битви командами аж до 5 на 5!</item>
-        <item>Ти можеш відкрити велику карту натиснувши на мінікарту в грі!</item>
+        <item>Ти можеш відкрити велику карту натиснувши на мінмапу в грі!</item>
         <item>Ти можеш підключити мишку до девайсу і грати з нею як на ПК!</item>
         <item>Використовуй додаток Blob Server і створюй свій сервер оффлайн!</item>
         <item>Натисни на трикутник біля чату і запроси друзів на поточний сервер!</item>
         <item>Авторизуйтесь щоб отримувати лвл і починати гру з більшою масою!</item>
-        <item>Використовуй mass / exp бустери щоб вигравати частіше і прокачувати лвл швидше!</item>
+        <item>Використовуй mass/exp бустери щоб вигравати частіше і прокачувати лвл швидше!</item>
         <item>Якщо закінчилися монетки, можеш просто купити їх! :)</item>
         <item>Використовуй рідкі скіни і нехай всі заздрять!</item>
-        <item>Кастомізіруй кольори і параметри гри щоб гралося комфортніше!</item>
-        <item>Ти можеш бачити друзів на мінікарті!</item>
+        <item>Кастомізуй кольори і параметри гри щоб гралося комфортніше!</item>
+        <item>Ти можеш бачити друзів на мінімапі!</item>
         <item>Спілкуйся у чаті і знаходь нових друзів!</item>
-        <item>Вступай в наш дискорді сервер і голосуй / спілкуйся і будь в курсі подій!</item>
+        <item>Вступай в наш дискорді сервер і голосуй/спілкуйся і будь в курсі подій!</item>
         <item>Клич своїх друзів грати в Blob і відривайтеся разом!</item>
         <item>У кожного гравця є унікальний ID, давай його іншим гравцям щоб вони знайшли тебе в грі!</item>
-        <item>Ти можеш грати / тренуватися на порожньому сервері!</item>
+        <item>Ти можеш грати/тренуватися на порожньому сервері!</item>
         <item>Ти можеш натиснути на IP в меню і змінити його або відкрити список серверів!</item>
-        <item>Вступай в наші соціалки, будь в курсі подій / оновлень і знаходити друзів!</item>
+        <item>Вступай в наші соціалки, будь в курсі подій/оновлень і знаходити друзів!</item>
         <item>Ми постійно експериментуємо з новими режимами гри, ти можеш знайти їх в списку серверів (unofficial)!</item>
         <item>Не забувай перевіряти експериментальні сервера в unofficial!)</item>
-        <item>Якщо ти новачок, подивися на YouTube як інші бавляться в Блоб! Це божественно!</item>
+        <item>Якщо ти новачок, подивися на YouTube як інші перемагають в Блоб! Це божественно!</item>
         <item>Щоб гралося плавно - сідай ближче до Wi-Fi. Мобільний інтернет взагалі не рекомендується!</item>
         <item>Відключи BLUETOOTH щоб зменшити підвисання!</item>
         <item>Вимикай Блютуз щоб зменшити лаги інтернету!</item>
         <item>Ти можеш поставити будь-яку картинку як фон в грі!</item>
         <item>Ти можеш записати круті моменти гри і подивитися їх пізніше у реплєях!</item>
-        <item>Ти можеш ділитися реплєєв з іншими гравцями щоб показати як ти перемагаєш!</item>
+        <item>Ти можеш ділитися реплєями з іншими гравцями щоб показати як ти перемагаєш!</item>
     </string-array>
 
 </resources>
