@@ -376,6 +376,7 @@
     <string name="kill">Tuer</string>
     <string name="death">Mort</string>
     <string name="locally_muted">Locally muted %s</string>
+    <string name="this_game_supports">This game supports</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -413,6 +414,7 @@
         <item>Vous pouvez configurer quelle que soit l\'image comme arrière-plan dans le jeu!</item>
         <item>Vous pouvez enregistrer de jolis moments de jeu et les regarder plus tard dans les rediffusions!</item>
         <item>Vous pouvez partager vos rediffusions avec d\'autres personnes pour leur montrer votre compétences!</item>
+        <item>This game supports has full gamepad support!</item>
     </string-array>
 
 </resources>

@@ -380,6 +380,7 @@
     <string name="kill">Öldür</string>
     <string name="death">Ölüm</string>
     <string name="locally_muted">yerel olarak sessize alınmış %s</string>
+    <string name="this_game_supports">This game supports</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -417,5 +418,6 @@
         <item>Oyunda arka plan olarak istediğiniz herhangi bir resmi kurabilirsiniz!</item>
         <item>Güzel oyun anlarını kaydedebilir ve daha sonra tekrarlarda izleyebilirsiniz!</item>
         <item>Yeteneklerinizi göstermek için tekrarlarınızı başkalarıyla paylaşabilirsiniz!</item>
+        <item>This game supports has full gamepad support!</item>
     </string-array>
 </resources>

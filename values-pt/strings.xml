@@ -371,6 +371,7 @@
     <string name="kill">Kill</string>
     <string name="death">Death</string>
     <string name="locally_muted">Locally muted %s</string>
+    <string name="this_game_supports">This game supports</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -408,6 +409,7 @@
         <item>You can set up any image as background in the game!</item>
         <item>You can record nice gameplay moments and watch them later in replays!</item>
         <item>You can share your replays with other people to show them how you win!</item>
+        <item>This game supports has full gamepad support!</item>
     </string-array>
 
 </resources>

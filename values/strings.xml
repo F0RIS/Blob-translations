@@ -335,6 +335,7 @@
         Maroo (Translations, Game Design)\n
         WunZero (Marketing, Videos, Support)\n
         Mike B. (Ideas, Translations, Skins, Support)\n
+        Hack4Boss (Translation)
     </string>
 
     <string name="try_for_free">Try for FREE!</string>
@@ -451,6 +452,7 @@
     <string name="kill">Kill</string>
     <string name="death">Death</string>
     <string name="locally_muted">Locally muted %s</string>
+    <string name="this_game_supports">This game supports</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -488,5 +490,6 @@
         <item>You can set up any image you want as a background in the game!</item>
         <item>You can record nice gameplay moments and watch them later in replays!</item>
         <item>You can share your replays with other people to show them your skills!</item>
+        <item>This game supports has full gamepad support!</item>
     </string-array>
 </resources>

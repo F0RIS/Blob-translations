@@ -370,6 +370,7 @@
     <string name="kill">قتل</string>
     <string name="death">موت</string>
     <string name="locally_muted">Locally muted %s</string>
+    <string name="this_game_supports">This game supports</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -407,5 +408,6 @@
         <item>يمكنك تعيين أي صورة كخلفية في اللعبة!</item>
         <item>يمكنك تسجيل لقطات ومشاهدتهم من بعد في الإعادات!</item>
         <item>يمكنك مشاركة إعاداتك مع أصدقائك لكي تريهم مهاراتك!</item>
+        <item>This game supports has full gamepad support!</item>
     </string-array>
 </resources>
