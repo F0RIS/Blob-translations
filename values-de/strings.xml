@@ -94,10 +94,10 @@
 
     <!-- Rate this app-->
     <string name="rta_dialog_title">Bewerte diese App</string>
-    <string name="rta_dialog_message">Wenn Sie diese App gerne nutzen möchten, nehmen Sie sich einen Moment Zeit, um sie zu bewerten? Es dauert nicht länger als eine Minute. Danke für Ihre Unterstützung!</string>
+    <string name="rta_dialog_message">Wenn dir diese App gefällt, nimm dir doch einen Moment Zeit und bewerte sie. Danke für deine Unterstützung!</string>
     <string name="rta_dialog_ok">Jetzt bewerten</string>
     <string name="rta_dialog_cancel">Später</string>
-    <string name="rta_dialog_no">Nein Danke</string>
+    <string name="rta_dialog_no">Nein, Danke</string>
 
     <!-- Share this app-->
     <string name="rta_dialog_title2">Teile diese App</string>
@@ -289,7 +289,7 @@
     <string name="help">Hilfe</string>
     <string name="web_ver_desc">Wir haben eine Webversion des Spiels für PC-Spieler!</string>
     <string name="share_request">Teile das Spiel, um diesen Gegenstand freizuschalten!</string>
-    <string name="share_lvl_text">Ich habe gerade das Level erreicht $1%s in Blob.io! Kannst du mich jetzt schlagen, Junge??</string>
+    <string name="share_lvl_text">Ich habe gerade das Level erreicht %s in Blob.io! Kannst du mich jetzt schlagen, Junge??</string>
     <string name="share_double_coins">Teile dein Ergebnis und erhalte doppelte Münzen!</string>
 
     <string name="guide_text1"><![CDATA[Essen <b>Lebensmittel</b> wachsen!]]></string>
@@ -322,7 +322,7 @@
     <string name="q_choose_replace">Wähle eine Mission aus die du Ersetzen willst</string>
     <string name="q_replace_x">Mission %s Ersetzen?</string>
     <string name="q_replaced">Mission ersetzt!</string>
-    <string name="Completed">Abgeschlossen</string>
+    <string name="completed">Abgeschlossen</string>
     <string name="get_reward">Belohnung erhalten</string>
     <string name="daily_reward">Daily reward</string>
     <string name="gain_exp_and_get_reward_every_day">Gain exp and get reward every day</string>
@@ -366,6 +366,11 @@
     <string name="death">Death</string>
     <string name="locally_muted">Locally muted %s</string>
     <string name="this_game_supports">This game supports</string>
+    <string name="vibration_desc">Set it so you can feel only a gentle touch</string>
+    <string name="buttons_size">Buttons size:</string>
+    <string name="here_is_your_theme_code">Here is your theme code:</string>
+    <string name="import_title">Import</string>
+    <string name="export_title">Export</string>
 
     <string-array name="hints">
         <item>Kauf VIP und bekomme keine ads mehr!</item>
@@ -402,6 +407,6 @@
         <item>You can set up any image as background in the game!</item>
         <item>You can record nice gameplay moments and watch them later in replays!</item>
         <item>You can share your replays with other people to show them how you win!</item>
-        <item>This game supports has full gamepad support!</item>
+        <item>This game has full gamepads/controllers support!</item>
     </string-array>
 </resources>

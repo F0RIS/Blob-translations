@@ -184,7 +184,7 @@
     <string name="quest_coins_toast">%d لقد حصلت على</string>
     <string name="free_coins">نقود مجانية</string>
     <string name="watch_video">مشاهدة الفيديو</string>
-    <string name="lvl_coins_reward">تهانينا! لقد ربحت %2$s نقود و وصلت المستوى %1$s</string>
+    <string name="lvl_coins_reward">تهانينا! لقد ربحت %2$d نقود و وصلت المستوى %1$d</string>
 
     <!-- Items description localization -->
     <string name="mass_booster_x1_5_desc">لمدة الساعة القادمة ستبدأ اللعبة بحجم أكبر ب1.5 مرة!</string>
@@ -324,7 +324,7 @@
     <string name="q_choose_replace">.اختيار المهام التي تريد استبدالها</string>
     <string name="q_replace_x">%s استبدال المهمة</string>
     <string name="q_replaced">تم استبدال المهمة!</string>
-    <string name="Completed">منجز</string>
+    <string name="completed">منجز</string>
     <string name="get_reward">الحصول على مكافأة</string>
     <string name="daily_reward">مكافآت يومية</string>
     <string name="gain_exp_and_get_reward_every_day">اربح إكس بي لربح مكافآت يومية</string>
@@ -371,6 +371,11 @@
     <string name="death">موت</string>
     <string name="locally_muted">Locally muted %s</string>
     <string name="this_game_supports">This game supports</string>
+    <string name="vibration_desc">Set it so you can feel only a gentle touch</string>
+    <string name="buttons_size">Buttons size:</string>
+    <string name="here_is_your_theme_code">Here is your theme code:</string>
+    <string name="import_title">Import</string>
+    <string name="export_title">Export</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -408,6 +413,6 @@
         <item>يمكنك تعيين أي صورة كخلفية في اللعبة!</item>
         <item>يمكنك تسجيل لقطات ومشاهدتهم من بعد في الإعادات!</item>
         <item>يمكنك مشاركة إعاداتك مع أصدقائك لكي تريهم مهاراتك!</item>
-        <item>This game supports has full gamepad support!</item>
+        <item>This game has full gamepads/controllers support!</item>
     </string-array>
 </resources>

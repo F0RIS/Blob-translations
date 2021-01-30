@@ -94,10 +94,13 @@
     <string name="keep_ip_description">O jogo manterá o servidor durante a partida!</string>
 
     <!-- Rate this app-->
-    <string name="rta_dialog_title">Avalie esse aplicativo</string>
-    <string name="rta_dialog_message">Você gostou do jogo? Avalie-nós, não vai demorar muito, só um minuto do seu tempo!</string>
-    <string name="rta_dialog_ok">Avaliar agora</string>
-    <string name="rta_dialog_cancel">Cancelar</string>
+    <string name="rta_dialog_title">Qualifique esse Aplicativo</string>
+    <string name="rta_dialog_message">
+      Se você gosta de usar esse aplicativo, se importaria de qualificá-lo? Não irá tomar mais de um minuto.
+      Obrigado pelo o seu apoio.
+    </string>
+    <string name="rta_dialog_ok">Qualificar</string>
+    <string name="rta_dialog_cancel">Depois</string>
     <string name="rta_dialog_no">Não, obrigado</string>
 
     <!-- Share this app-->
@@ -291,7 +294,7 @@
     <string name="help">Ajuda</string>
     <string name="web_ver_desc">Nós temos uma versão de internet para jogadores de PC!</string>
     <string name="share_request">Compartilhe o jogo para conseguir este item!</string>
-    <string name="share_lvl_text">Eu acabei de desbloquear o LVL $1%s no Blob.io! Você consegue me ultrapassar!?</string>
+    <string name="share_lvl_text">Eu acabei de desbloquear o LVL %s no Blob.io! Você consegue me ultrapassar!?</string>
     <string name="share_double_coins">Compartilhe o seu resultado e ganhará o DOBRO de moedas!</string>
 
     <string name="guide_text1"><![CDATA[Recolha <b>comida</b> para crescer!]]></string>
@@ -328,7 +331,7 @@
     <string name="q_choose_replace">Escolha a missão que você quer substituir</string>
     <string name="q_replace_x">Substituir missão %s ?</string>
     <string name="q_replaced">Missão substituída!</string>
-    <string name="Completed">Completado</string>
+    <string name="completed">Completado</string>
     <string name="get_reward">Obter Recompensa</string>
     <string name="daily_reward">Daily reward</string>
     <string name="gain_exp_and_get_reward_every_day">Gain exp and get reward every day</string>
@@ -372,6 +375,11 @@
     <string name="death">Death</string>
     <string name="locally_muted">Locally muted %s</string>
     <string name="this_game_supports">This game supports</string>
+    <string name="vibration_desc">Set it so you can feel only a gentle touch</string>
+    <string name="buttons_size">Buttons size:</string>
+    <string name="here_is_your_theme_code">Here is your theme code:</string>
+    <string name="import_title">Import</string>
+    <string name="export_title">Export</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -409,7 +417,7 @@
         <item>You can set up any image as background in the game!</item>
         <item>You can record nice gameplay moments and watch them later in replays!</item>
         <item>You can share your replays with other people to show them how you win!</item>
-        <item>This game supports has full gamepad support!</item>
+        <item>This game has full gamepads/controllers support!</item>
     </string-array>
 
 </resources>

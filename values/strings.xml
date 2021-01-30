@@ -98,13 +98,13 @@
 
     <!-- Rate this app-->
     <string name="rta_dialog_title">Rate this game</string>
-    <string name="rta_dialog_message">If you enjoy using this app, please take a moment to rate it, it won\'t take more than a minute. Thank you for your support!</string>
+    <string name="rta_dialog_message">If you enjoy playing this game, please rate it, it won\'t take more than a minute. Thank you for your support!</string>
     <string name="rta_dialog_ok">Rate now</string>
     <string name="rta_dialog_cancel">Later</string>
     <string name="rta_dialog_no">No, thanks</string>
 
     <!-- Share this app-->
-    <string name="rta_dialog_title2">Share this app</string>
+    <string name="rta_dialog_title2">Share this game</string>
     <string name="rta_dialog_message2">If you like this game, share it with your friends! They might like it too!</string>
     <string name="rta_dialog_ok2">Share now!</string>
 
@@ -335,7 +335,8 @@
         Maroo (Translations, Game Design)\n
         WunZero (Marketing, Videos, Support)\n
         Mike B. (Ideas, Translations, Skins, Support)\n
-        Hack4Boss (Translation)
+        Hack4Boss (Translation)\n
+        Blue (Support)
     </string>
 
     <string name="try_for_free">Try for FREE!</string>
@@ -404,7 +405,7 @@
     <string name="q_choose_replace">Choose a quest that you want to replace</string>
     <string name="q_replace_x">Replace quest %s ?</string>
     <string name="q_replaced">Quest replaced!</string>
-    <string name="Completed">Completed</string>
+    <string name="completed">Completed</string>
     <string name="get_reward">Get Reward</string>
     <string name="daily_reward">Daily reward</string>
     <string name="gain_exp_and_get_reward_every_day">Gain XP and get reward every day</string>
@@ -453,6 +454,11 @@
     <string name="death">Death</string>
     <string name="locally_muted">Locally muted %s</string>
     <string name="this_game_supports">This game supports</string>
+    <string name="vibration_desc">Set it so you can feel only a gentle touch</string>
+    <string name="buttons_size">Buttons size:</string>
+    <string name="here_is_your_theme_code">Here is your theme code:</string>
+    <string name="import_title">Import</string>
+    <string name="export_title">Export</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -465,7 +471,7 @@
         <item>You can battle 2 vs 2 for coins!</item>
         <item>You can make team scrimmage up to 5 vs 5!</item>
         <item>You can open a big map by clicking on the minimap in the game!</item>
-        <item>You can connect a mouse to your phone and play with it like on PC!</item>
+        <item>You can connect a mouse/keyboard to your phone and play with it like on PC!</item>
         <item>Use the Blob Server app to create your very own server offline!</item>
         <item>Click on the triangle next to the chat and invite friends to your server!</item>
         <item>Log in to level up and start the game with more mass!</item>
@@ -490,6 +496,6 @@
         <item>You can set up any image you want as a background in the game!</item>
         <item>You can record nice gameplay moments and watch them later in replays!</item>
         <item>You can share your replays with other people to show them your skills!</item>
-        <item>This game supports has full gamepad support!</item>
+        <item>This game has full gamepads/controllers support!</item>
     </string-array>
 </resources>

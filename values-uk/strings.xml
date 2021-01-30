@@ -88,7 +88,7 @@
 
     <!-- Rate this app -->
     <string name="rta_dialog_title">Оцініть цю гру!</string>
-    <string name="rta_dialog_message">Якщо вам сподобалась ця гра, Витратіть декілька секунд і оціните її будь ласка. Дякую за підтримку!</string>
+    <string name="rta_dialog_message">Якщо вам сподобалась ця гра, Витратіть декілька секунд і оціните її будь ласка. Дякую за Вашу підтримку!</string>
     <string name="rta_dialog_ok">Оцінити</string>
     <string name="rta_dialog_cancel">Нагадати пізніше</string>
     <string name="rta_dialog_no">Ні, дякую</string>
@@ -318,7 +318,7 @@
     <string name="q_choose_replace">Вибери завдання для заміни</string>
     <string name="q_replace_x">Змінити завдання %s ?</string>
     <string name="q_replaced">Завдання змінено!</string>
-    <string name="Completed">Виконано</string>
+    <string name="completed">Виконано</string>
     <!--    <string name="get_reward">Get Reward</string>-->
     <string name="get_reward">Взяти нагораду</string>
     <string name="daily_reward">Щоденна нагорода</string>
@@ -363,6 +363,11 @@
     <string name="death">Смерть</string>
     <string name="locally_muted">Локально замьючен %s</string>
     <string name="this_game_supports">Ця гра підтримує</string>
+    <string name="vibration_desc">Set it so you can feel only a gentle touch</string>
+    <string name="buttons_size">Розмір кнопок:</string>
+    <string name="here_is_your_theme_code">Ось ваш код теми:</string>
+    <string name="import_title">Імпорт</string>
+    <string name="export_title">Експорт</string>
 
     <string-array name="hints">
         <item>Купи VIP щоб позбутися реклами!</item>
@@ -374,7 +379,7 @@
         <item>Ти можеш змагатися командами 2 на 2 зі ставкою монетами!</item>
         <item>Ти можеш робити битви командами аж до 5 на 5!</item>
         <item>Ти можеш відкрити велику карту натиснувши на мінмапу в грі!</item>
-        <item>Ти можеш підключити мишку до девайсу і грати з нею як на ПК!</item>
+        <item>Ти можеш підключити мишку/клавіатуру до девайсу і грати з нею як на ПК!</item>
         <item>Використовуй додаток Blob Server і створюй свій сервер оффлайн!</item>
         <item>Натисни на трикутник біля чату і запроси друзів на поточний сервер!</item>
         <item>Авторизуйтесь щоб отримувати лвл і починати гру з більшою масою!</item>

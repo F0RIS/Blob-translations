@@ -93,11 +93,11 @@
     <string name="keep_ip_description">IP güncellenmeyecek</string>
 
     <!-- Rate this app-->
-    <string name="rta_dialog_title">Bu oyunu oyla</string>
-    <string name="rta_dialog_message">Bu uygulamayı kullanmaktan hoşlanıyorsanız, lütfen derecelendirmek için bir dakikanızı ayırın, bir dakikadan fazla sürmez. Desteğiniz için teşekkür ederiz!</string>
-    <string name="rta_dialog_ok">Şimdi oyla</string>
-    <string name="rta_dialog_cancel">Daha sonra</string>
-    <string name="rta_dialog_no">Hayır,teşekkürler</string>
+    <string name="rta_dialog_title">Bu uygulamaya puan verin</string>
+    <string name="rta_dialog_message">Eğer uygulamamızdan memnun kaldıysanız, lütfen birkaç saniyenizi ayırarak bize puan verin. Desteğiniz için teşekkürler!</string>
+    <string name="rta_dialog_ok">Puan ver</string>
+    <string name="rta_dialog_cancel">Hatırlat</string>
+    <string name="rta_dialog_no">Hayır, teşekkürler</string>
 
     <!-- Share this app-->
     <string name="rta_dialog_title2">Bu uygulamayı paylaşın</string>
@@ -332,7 +332,7 @@
     <string name="q_choose_replace">Değiştirmek istediğiniz bir görevi seçin</string>
     <string name="q_replace_x">Görev %s değiştirilsin mi?</string>
     <string name="q_replaced">Görev değiştirildi!</string>
-    <string name="Completed">Tamamlandı</string>
+    <string name="completed">Tamamlandı</string>
     <string name="get_reward">Ödül alındı</string>
     <string name="daily_reward">Günlük ödül</string>
     <string name="gain_exp_and_get_reward_every_day">XP kazanın ve her gün ödül kazanın</string>
@@ -381,6 +381,11 @@
     <string name="death">Ölüm</string>
     <string name="locally_muted">yerel olarak sessize alınmış %s</string>
     <string name="this_game_supports">This game supports</string>
+    <string name="vibration_desc">Set it so you can feel only a gentle touch</string>
+    <string name="buttons_size">Buttons size:</string>
+    <string name="here_is_your_theme_code">Here is your theme code:</string>
+    <string name="import_title">Import</string>
+    <string name="export_title">Export</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -418,6 +423,6 @@
         <item>Oyunda arka plan olarak istediğiniz herhangi bir resmi kurabilirsiniz!</item>
         <item>Güzel oyun anlarını kaydedebilir ve daha sonra tekrarlarda izleyebilirsiniz!</item>
         <item>Yeteneklerinizi göstermek için tekrarlarınızı başkalarıyla paylaşabilirsiniz!</item>
-        <item>This game supports has full gamepad support!</item>
+        <item>This game has full gamepads/controllers support!</item>
     </string-array>
 </resources>

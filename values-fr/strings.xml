@@ -293,7 +293,7 @@
     <string name="help">Aide</string>
     <string name="web_ver_desc">Nous avons une version web pour les joueurs PC!</string>
     <string name="share_request">Vous devez partager le jeu pour déverrouiller cet article!</string>
-    <string name="share_lvl_text">Je viens d\'atteindre le niveau $1%s dans Blob.io! Est-ce que tu peux me battre maintenant?!</string>
+    <string name="share_lvl_text">Je viens d\'atteindre le niveau %s dans Blob.io! Est-ce que tu peux me battre maintenant?!</string>
     <string name="share_double_coins">Partagez votre résultat et obtenez des pièces DOUBLÉS!</string>
 
     <string name="guide_text1"><![CDATA[Tu doit mangée de la <b>masse</b> pour grandir!]]></string>
@@ -330,7 +330,7 @@
     <string name="q_choose_replace">Choisissez une quête que vous souhaitez remplacer</string>
     <string name="q_replace_x">Remplacer quête %s ?</string>
     <string name="q_replaced">Quête remplacée</string>
-    <string name="Completed">Terminé</string>
+    <string name="completed">Terminé</string>
     <string name="get_reward">obtenir récompense</string>
     <string name="daily_reward">Récompense quotidienne</string>
     <string name="gain_exp_and_get_reward_every_day">Gagnez de l\'XP et obtenez des récompenses tous les jours</string>
@@ -377,6 +377,11 @@
     <string name="death">Mort</string>
     <string name="locally_muted">Locally muted %s</string>
     <string name="this_game_supports">This game supports</string>
+    <string name="vibration_desc">Set it so you can feel only a gentle touch</string>
+    <string name="buttons_size">Buttons size:</string>
+    <string name="here_is_your_theme_code">Here is your theme code:</string>
+    <string name="import_title">Import</string>
+    <string name="export_title">Export</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -414,7 +419,7 @@
         <item>Vous pouvez configurer quelle que soit l\'image comme arrière-plan dans le jeu!</item>
         <item>Vous pouvez enregistrer de jolis moments de jeu et les regarder plus tard dans les rediffusions!</item>
         <item>Vous pouvez partager vos rediffusions avec d\'autres personnes pour leur montrer votre compétences!</item>
-        <item>This game supports has full gamepad support!</item>
+        <item>This game has full gamepads/controllers support!</item>
     </string-array>
 
 </resources>
