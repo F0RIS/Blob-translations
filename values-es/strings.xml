@@ -122,9 +122,9 @@
     <string name="offline">Desconectado</string>
     <string name="relations">Relaciones</string>
     <string name="you_must_log_in">Usted necesita entrar</string>
-    <string name="last_seen">Última visita</string>
-    <string name="registered">Registrado en</string>
-    <string name="game_time">Tiempo jugado</string>
+    <string name="last_seen">Última visita:</string>
+    <string name="registered">Registrado en:</string>
+    <string name="game_time">Tiempo jugado:</string>
     <string name="user_info_records">Récords:</string>
 
     <string name="view_profile">Abrir perfil</string>
@@ -319,39 +319,39 @@
     <string name="you_won">TU has ganado el juego!</string>
     <string name="someone_won">%s ganó el juego!</string>
     <string name="direction_lines">Lineas direccionales</string>
-    <string name="score_result_best">Mejor puntuación</string>
-    <string name="daily_quests">Daily quests</string>
-    <string name="reset_in">(reset in %s)</string>
-    <string name="q_replace_desc">Once a day you can replace any quest to another random one!</string>
-    <string name="replace">Replace</string>
-    <string name="q_choose_replace">Choose a quest that you want to replace</string>
-    <string name="q_replace_x">Replace quest %s ?</string>
-    <string name="q_replaced">Quest replaced!</string>
-    <string name="completed">Completed</string>
-    <string name="get_reward">Get Reward</string>
-    <string name="daily_reward">Daily reward</string>
-    <string name="gain_exp_and_get_reward_every_day">Gain exp and get reward every day</string>
-    <string name="day">Day %d</string>
-    <string name="up_to">Up to %d</string>
+    <string name="score_result_best">Mejor puntuación:</string>
+    <string name="daily_quests">Recompensa diaria</string>
+    <string name="reset_in">(reinicia em %s)</string>
+    <string name="q_replace_desc"> Una vez al día, puedes reemplazar cualquier misión por otra aleatoria!</string>
+    <string name="replace">Cambiar</string>
+    <string name="q_choose_replace"> Elija la misión que desea intercambiar</string>
+    <string name="q_replace_x">Cambiar misión %s ?</string>
+    <string name="q_replaced">Misión cambiada!</string>
+    <string name="completed">Terminado</string>
+    <string name="get_reward">Canjear recompensa</string>
+    <string name="daily_reward">Recompensa diaria</string>
+    <string name="gain_exp_and_get_reward_every_day"> Gana exp y obtén recompensas todos los días</string>
+    <string name="day">Día %d</string>
+    <string name="up_to">Hasta %d</string>
     <string name="login_to_avoid_captcha">Inicie sesión para evitar esta verificación</string>
-    <string name="replays">Replays</string>
-    <string name="you_have_no_replays">You have no replays</string>
-    <string name="save_replay">Save replay</string>
-    <string name="replay_saved">Replay saved!</string>
-    <string name="old_replay_warning">Replays from older version of the game might not work correctly!</string>
-    <string name="too_new_replay_error">You should update the game to open this replay!</string>
+    <string name="replays">Repetición</string>
+    <string name="you_have_no_replays">Tu no tienes repeticiones</string>
+    <string name="save_replay">Guardar repetición</string>
+    <string name="replay_saved">Repetición guardada!</string>
+    <string name="old_replay_warning"> Es posible que las repeticiones de versiones anteriores del juego no funcionen correctamente!</string>
+    <string name="too_new_replay_error">Tienes que actualizar el juego para ver las repeticiones!</string>
     <string name="mute">Mute</string>
-    <string name="buttons_position">Joystick position</string>
-    <string name="setup_controls">Setup controls</string>
-    <string name="left">Left</string>
-    <string name="right">Right</string>
-    <string name="follow">Follow</string>
-    <string name="private_servers_list">Private servers list</string>
+    <string name="buttons_position"> Posición del Joystick</string>
+    <string name="setup_controls">Configurar controles</string>
+    <string name="left">Derecha</string>
+    <string name="right">Izquierda</string>
+    <string name="follow">Seguir</string>
+    <string name="private_servers_list"> Lista de servidores privados</string>
     <string name="bots">Bots</string>
     <string name="minions">Minions</string>
-    <string name="public_title">Public</string>
-    <string name="server_name">Server name</string>
-    <string name="background_image">Background image</string>
+    <string name="public_title">Publico</string>
+    <string name="server_name">Nombre del servidor</string>
+    <string name="background_image">Imagen de fondo</string>
 
     <!--    Rate this app dialog -->
     <string name="smile_rating_terrible">Terrible</string>
@@ -360,22 +360,22 @@
     <string name="smile_rating_good">Bueno</string>
     <string name="smile_rating_great">Genial</string>
 
-    <string name="repeat_mode">Repeat mode</string>
-    <string name="high_quality">High quality</string>
-    <string name="set_title">Set</string>
+    <string name="repeat_mode">Repetir modo</string>
+    <string name="high_quality">Máxima calidad</string>
+    <string name="set_title">Seleccione</string>
     <string name="link_title">Link</string>
-    <string name="file_title">File</string>
-    <string name="you_title">You</string>
+    <string name="file_title">Archivo</string>
+    <string name="you_title">Tu</string>
 
-    <string name="kill">Kill</string>
-    <string name="death">Death</string>
-    <string name="locally_muted">Locally muted %s</string>
-    <string name="this_game_supports">This game supports</string>
-    <string name="vibration_desc">Set it so you can feel only a gentle touch</string>
-    <string name="buttons_size">Buttons size:</string>
-    <string name="here_is_your_theme_code">Here is your theme code:</string>
-    <string name="import_title">Import</string>
-    <string name="export_title">Export</string>
+    <string name="kill">Matar</string>
+    <string name="death">Muerte</string>
+    <string name="locally_muted">Mutado localmente %s</string>
+    <string name="this_game_supports">Este juego admite</string>
+    <string name="vibration_desc"> Configúrelo para que pueda sentir solo un toque suave</string>
+    <string name="buttons_size">Tamaño botón:</string>
+    <string name="here_is_your_theme_code">Aquí está el código de su tema:</string>
+    <string name="import_title">Importar</string>
+    <string name="export_title">Exportar</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -406,13 +406,12 @@
         <item>Asegúrate de unirte a nuestras redes sociales para estar al día, encontrar amigos y mejorar tus habilidades!</item>
         <item>Siempre experimentamos con nuevos modos de juego. Puede encontrarlos en la lista de servidores (no oficial)!</item>
         <item>Tenemos increíbles modos de juego de prueba en no oficial!)</item>
-        <item>If you are new to this game, check out on YouTube how other people rocks in Blob! Its amazing!</item>
+        <item>Si eres nuevo en este juego, mira en YouTube cómo otras personas se mueven en Blob! Es asombroso!</item>
         <item>Juega cerca de tu Wifi, datos móviles que no recomendamos!</item>
-        <item>Disable BLUETOOTH to reduce network lags!</item>
-        <item>Disable BLUETOOTH to reduce network lags!</item>
-        <item>You can set up any image as background in the game!</item>
-        <item>You can record nice gameplay moments and watch them later in replays!</item>
-        <item>You can share your replays with other people to show them how you win!</item>
-        <item>This game has full gamepads/controllers support!</item>
+        <item>Desactive BLUETOOTH para reducir los retrasos!</item>
+        <item>Puedes configurar cualquier imagen como fondo!</item>
+        <item>Puedes grabar buenos momentos de juego y verlos más tarde en repeticiones!</item>
+        <item>Puedes compartir tus repeticiones con otras personas para mostrarles cómo ganas!</item>
+        <item>Este juego tiene soporte completo para gamepads/controladores!</item>
     </string-array>
 </resources>
