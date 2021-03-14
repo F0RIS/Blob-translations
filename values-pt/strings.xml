@@ -13,7 +13,7 @@
     <string name="show_names">Ativar nomes</string>
     <string name="name">Nome</string>
 
-    <string name="default_name">Não me coma!</string>
+    <string name="default_name">Não me mate!</string>
     <string name="play">Jogar</string>
     <string name="nick_name">Apelido:</string>
     <string name="exit_dialog">O quê você quer?</string>
@@ -94,12 +94,12 @@
     <string name="keep_ip_description">O jogo manterá o servidor durante a partida!</string>
 
     <!-- Rate this app-->
-    <string name="rta_dialog_title">Qualifique esse Aplicativo</string>
+    <string name="rta_dialog_title">Avalie esse aplicativo</string>
     <string name="rta_dialog_message">
-      Se você gosta de usar esse aplicativo, se importaria de qualificá-lo? Não irá tomar mais de um minuto.
+      Se você gosta de usar esse aplicativo, se importaria em avaliá-lo? Não irá tomar mais de um minuto.
       Obrigado pelo o seu apoio.
     </string>
-    <string name="rta_dialog_ok">Qualificar</string>
+    <string name="rta_dialog_ok">Avaliar</string>
     <string name="rta_dialog_cancel">Depois</string>
     <string name="rta_dialog_no">Não, obrigado</string>
 
@@ -126,9 +126,9 @@
     <string name="offline">Desconectado</string>
     <string name="relations">Relações</string>
     <string name="you_must_log_in">Você precisa conectar-se!</string>
-    <string name="last_seen">Última conexão em</string>
-    <string name="registered">Registrado em</string>
-    <string name="game_time">Tempo jogado</string>
+    <string name="last_seen">Última conexão em:</string>
+    <string name="registered">Registrado em:</string>
+    <string name="game_time">Tempo jogado:</string>
     <string name="user_info_records">Recordes:</string>
 
     <string name="view_profile">Abrir perfil</string>
@@ -309,7 +309,7 @@
 
     <string name="skins_yt_desc">
         <![CDATA[Você pode gravar e enviar seus vídeos para o YouTube para se tornar popular e obter a Tag <font color="#FF0000"><b><big>[YT]</big></b></font> no jogo.
-        Sua skin será adicionada nesta lista, para que as pessoas usarem!
+        Sua skin será adicionada nesta lista, para as pessoas usarem!
         Leia os requisitos para ter a tag <font color="#FF0000"><b><big>[YT]</big></b></font> no Discord.]]>
     </string>
     <string name="skins_prem_desc">Ao contrário das skins FREE/YT, você pode usar skins PREM/LVL com qualquer apelido!</string>
@@ -333,29 +333,29 @@
     <string name="q_replaced">Missão substituída!</string>
     <string name="completed">Completado</string>
     <string name="get_reward">Obter Recompensa</string>
-    <string name="daily_reward">Daily reward</string>
+    <string name="daily_reward">Recompensa diária</string>
     <string name="gain_exp_and_get_reward_every_day">Gain exp and get reward every day</string>
-    <string name="day">Day %d</string>
-    <string name="up_to">Up to %d</string>
+    <string name="day">Dia %d</string>
+    <string name="up_to">Até %d</string>
     <string name="login_to_avoid_captcha">Faça login para evitar esta verificação</string>
     <string name="replays">Replays</string>
-    <string name="you_have_no_replays">You have no replays</string>
-    <string name="save_replay">Save replay</string>
-    <string name="replay_saved">Replay saved!</string>
-    <string name="old_replay_warning">Replays from older version of the game might not work correctly!</string>
-    <string name="too_new_replay_error">You should update the game to open this replay!</string>
-    <string name="mute">Mute</string>
-    <string name="buttons_position">Joystick position</string>
-    <string name="setup_controls">Setup controls</string>
-    <string name="left">Left</string>
-    <string name="right">Right</string>
-    <string name="follow">Follow</string>
-    <string name="private_servers_list">Private servers list</string>
+    <string name="you_have_no_replays">Você não tem replays</string>
+    <string name="save_replay">Salvar replay</string>
+    <string name="replay_saved">Replay salvo!</string>
+    <string name="old_replay_warning">Replays de versões anteriores do jogo podem não funcionar corretamente!</string>
+    <string name="too_new_replay_error">Você deve atualizar o jogo para ver este replay!</string>
+    <string name="mute">Mudo</string>
+    <string name="buttons_position">Posição do Joystick</string>
+    <string name="setup_controls">Ajustar controles</string>
+    <string name="left">Esquerda</string>
+    <string name="right">Direita</string>
+    <string name="follow">Seguir</string>
+    <string name="private_servers_list">Lista dos servidores privados</string>
     <string name="bots">Bots</string>
     <string name="minions">Minions</string>
-    <string name="public_title">Public</string>
-    <string name="server_name">Server name</string>
-    <string name="background_image">Background image</string>
+    <string name="public_title">Público</string>
+    <string name="server_name">Nome do servidor</string>
+    <string name="background_image">Imagem de fundo</string>
 
     <!--    Rate this app dialog -->
     <string name="smile_rating_terrible">Terrível</string>
@@ -364,22 +364,22 @@
     <string name="smile_rating_good">Boa</string>
     <string name="smile_rating_great">Ótimo</string>
 
-    <string name="repeat_mode">Repeat mode</string>
-    <string name="high_quality">High quality</string>
-    <string name="set_title">Set</string>
+    <string name="repeat_mode">Repetir modo</string>
+    <string name="high_quality">Alta qualidade</string>
+    <string name="set_title">Definir</string>
     <string name="link_title">Link</string>
-    <string name="file_title">File</string>
-    <string name="you_title">You</string>
+    <string name="file_title">Arquivo</string>
+    <string name="you_title">Você</string>
 
-    <string name="kill">Kill</string>
-    <string name="death">Death</string>
-    <string name="locally_muted">Locally muted %s</string>
-    <string name="this_game_supports">This game supports</string>
-    <string name="vibration_desc">Set it so you can feel only a gentle touch</string>
-    <string name="buttons_size">Buttons size:</string>
-    <string name="here_is_your_theme_code">Here is your theme code:</string>
-    <string name="import_title">Import</string>
-    <string name="export_title">Export</string>
+    <string name="kill">Matou</string>
+    <string name="death">Morte</string>
+    <string name="locally_muted">Silenciado externamente %s</string>
+    <string name="this_game_supports">Este jogo suporta</string>
+    <string name="vibration_desc">Configure para sentir apenas um toque suave</string>
+    <string name="buttons_size">Tamanho dos botões:</string>
+    <string name="here_is_your_theme_code">Aqui está o código do seu tema:</string>
+    <string name="import_title">Importar</string>
+    <string name="export_title">Exportar</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -410,7 +410,7 @@
         <item>Certifique-se de juntar-se as nossas redes sociais para estar atualizado, encontrar amigos e melhorar suas habilidades!</item>
         <item>Nós sempre experimentamos novos modos de jogo. Você pode encontrá-los na lista de servidores (servidores não oficiais)!</item>
         <item>Temos incríveis modos de jogo de teste em não oficiais!)</item>
-        <item>If you are new to this game, check out on YouTube how other people rocks in Blob! Its amazing!</item>
+        <item>Se você é novo no jogo, veja no YouTube como outras pessoas arrasam no Blob! É incrível!</item>
         <item>Jogue próximo do seu Wi-Fi, dados móveis nós não recomendamos!!</item>
         <item>Desative o BLUETOOTH para diminuir os atrasos!</item>
         <item>Desative o BLUETOOTH para diminuir os atrasos!</item>
