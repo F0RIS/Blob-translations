@@ -126,9 +126,9 @@
     <string name="offline">Desconectado</string>
     <string name="relations">Relações</string>
     <string name="you_must_log_in">Você precisa conectar-se!</string>
-    <string name="last_seen">Última conexão em</string>
-    <string name="registered">Registrado em</string>
-    <string name="game_time">Tempo jogado</string>
+    <string name="last_seen">Última conexão em:</string>
+    <string name="registered">Registrado em:</string>
+    <string name="game_time">Tempo jogado:</string>
     <string name="user_info_records">Recordes:</string>
 
     <string name="view_profile">Abrir perfil</string>
@@ -377,7 +377,7 @@
     <string name="this_game_supports">Este jogo suporta</string>
     <string name="vibration_desc">Configure para sentir apenas um toque suave</string>
     <string name="buttons_size">Tamanho dos botões:</string>
-    <string name="here_is_your_theme_code">Here is your theme code:</string>
+    <string name="here_is_your_theme_code">Aqui está o código do seu tema:</string>
     <string name="import_title">Importar</string>
     <string name="export_title">Exportar</string>
 
