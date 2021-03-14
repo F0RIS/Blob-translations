@@ -61,8 +61,8 @@ const QUESTS_NAMES = {
         7: strData("Jugar 15 min"),
         8: strData("Dispara a alguien", "Dispara a diferentes jugadores con un virus"),
         9: strData("Matar a youtuber", "Matar a youtuber (un jugador con apodo rojo)"),
-        10: strData("Popsplits", "Do popsplits"),
-        11: strData("Tricksplits", "Do tricksplits"),
+        10: strData("Popsplits", "Haga popsplits"),
+        11: strData("Tricksplits", "Haga tricksplits"),
     },
     fr: {
         1: strData("Ramasser des points"),
@@ -89,7 +89,18 @@ const QUESTS_NAMES = {
         9: strData("youtuber'ı öldür", "youtuber'ı öldür (kırmızı adlı bir oyuncu)"),
         10: strData("Popsplits", "Popsplits"),
         11: strData ("Tricksplits", "tricksplits"),
-    }
+    },
+    pt: {
+        1: strData ("Recolher comida", "Recolha comida"),
+        2: strData ("Colete moedas"),
+        3: strData ("Coma vírus"),
+        4: strData ("Coma poderes"),
+        5: strData ("Mate"),
+        6: strData ("Ganhe exp"),
+        7: strData ("Jogue 15 min"),
+        8: strData ("Atire em alguém", "Atire um vírus em jogadores"),
+        9: strData ("Mate o youtuber", "Mate o youtuber (um jogador com a tag YT)"),
+        10: strData ("Popsplits", "Faça popsplits"),
+        11: strData ("Tricksplits", "Faça tricksplits"),
+     },
     // de:{},
-    // pt:{},
-}
