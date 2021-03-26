@@ -339,7 +339,7 @@
     <string name="too_new_replay_error">يجب عليك تحميل الإصدار الجديد لفتح هذه الإعادة!</string>
     <string name="mute">كتم الصوت</string>
     <string name="buttons_position">مكان الأزرار</string>
-    <string name="setup_controls">إعدادات التحكم</string>
+    <string name="setup_controls">اختر الضوابط</string>
     <string name="left">يسار</string>
     <string name="right">يمين</string>
     <string name="follow">المتابعة</string>

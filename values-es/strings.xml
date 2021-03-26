@@ -322,15 +322,15 @@
     <string name="score_result_best">Mejor puntuación:</string>
     <string name="daily_quests">Recompensa diaria</string>
     <string name="reset_in">(reinicia em %s)</string>
-    <string name="q_replace_desc"> Una vez al día, puedes reemplazar cualquier misión por otra aleatoria!</string>
+    <string name="q_replace_desc">Una vez al día, puedes reemplazar cualquier misión por otra aleatoria!</string>
     <string name="replace">Cambiar</string>
-    <string name="q_choose_replace"> Elija la misión que desea intercambiar</string>
+    <string name="q_choose_replace">Elija la misión que desea intercambiar</string>
     <string name="q_replace_x">Cambiar misión %s ?</string>
     <string name="q_replaced">Misión cambiada!</string>
     <string name="completed">Terminado</string>
     <string name="get_reward">Canjear recompensa</string>
     <string name="daily_reward">Recompensa diaria</string>
-    <string name="gain_exp_and_get_reward_every_day"> Gana exp y obtén recompensas todos los días</string>
+    <string name="gain_exp_and_get_reward_every_day">Gana exp y obtén recompensas todos los días</string>
     <string name="day">Día %d</string>
     <string name="up_to">Hasta %d</string>
     <string name="login_to_avoid_captcha">Inicie sesión para evitar esta verificación</string>
@@ -338,7 +338,7 @@
     <string name="you_have_no_replays">Tu no tienes repeticiones</string>
     <string name="save_replay">Guardar repetición</string>
     <string name="replay_saved">Repetición guardada!</string>
-    <string name="old_replay_warning"> Es posible que las repeticiones de versiones anteriores del juego no funcionen correctamente!</string>
+    <string name="old_replay_warning">Es posible que las repeticiones de versiones anteriores del juego no funcionen correctamente!</string>
     <string name="too_new_replay_error">Tienes que actualizar el juego para ver las repeticiones!</string>
     <string name="mute">Mute</string>
     <string name="buttons_position"> Posición del Joystick</string>
@@ -346,7 +346,7 @@
     <string name="left">Derecha</string>
     <string name="right">Izquierda</string>
     <string name="follow">Seguir</string>
-    <string name="private_servers_list"> Lista de servidores privados</string>
+    <string name="private_servers_list">Lista de servidores privados</string>
     <string name="bots">Bots</string>
     <string name="minions">Minions</string>
     <string name="public_title">Publico</string>
@@ -371,7 +371,7 @@
     <string name="death">Muerte</string>
     <string name="locally_muted">Mutado localmente %s</string>
     <string name="this_game_supports">Este juego admite</string>
-    <string name="vibration_desc"> Configúrelo para que pueda sentir solo un toque suave</string>
+    <string name="vibration_desc">Configúrelo para que pueda sentir solo un toque suave</string>
     <string name="buttons_size">Tamaño botón:</string>
     <string name="here_is_your_theme_code">Aquí está el código de su tema:</string>
     <string name="import_title">Importar</string>
@@ -408,6 +408,7 @@
         <item>Tenemos increíbles modos de juego de prueba en no oficial!)</item>
         <item>Si eres nuevo en este juego, mira en YouTube cómo otras personas se mueven en Blob! Es asombroso!</item>
         <item>Juega cerca de tu Wifi, datos móviles que no recomendamos!</item>
+        <item>Desactive BLUETOOTH para reducir los retrasos!</item>
         <item>Desactive BLUETOOTH para reducir los retrasos!</item>
         <item>Puedes configurar cualquier imagen como fondo!</item>
         <item>Puedes grabar buenos momentos de juego y verlos más tarde en repeticiones!</item>

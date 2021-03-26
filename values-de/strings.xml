@@ -337,7 +337,7 @@
     <string name="too_new_replay_error">You should update the game to open this replay!</string>
     <string name="mute">Mute</string>
     <string name="buttons_position">Joystick position</string>
-    <string name="setup_controls">Setup controls</string>
+    <string name="setup_controls">Wählen Sie Steuerelemente</string>
     <string name="left">Left</string>
     <string name="right">Right</string>
     <string name="follow">Follow</string>

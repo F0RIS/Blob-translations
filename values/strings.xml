@@ -422,7 +422,7 @@
 
     <!--    Setting up controls -->
     <string name="buttons_position">Buttons position</string>
-    <string name="setup_controls">Setup controls</string>
+    <string name="setup_controls">Choose controls</string>
     <string name="left">Left</string>
     <string name="right">Right</string>
     <string name="follow">Follow</string>

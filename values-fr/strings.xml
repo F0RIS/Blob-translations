@@ -345,7 +345,7 @@
     <string name="too_new_replay_error">Vous devez mettre le jeu à jour pour ouvrir cette rediffusion!</string>
     <string name="mute">Muet</string>
     <string name="buttons_position">Position des contrôles</string>
-    <string name="setup_controls">Configuration des contrôles</string>
+    <string name="setup_controls">Choisissez les contrôles</string>
     <string name="left">Gauche</string>
     <string name="right">Droit</string>
     <string name="follow">Suivre</string>

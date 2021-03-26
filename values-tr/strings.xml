@@ -349,7 +349,7 @@
 
     <!--    Setting up controls -->
     <string name="buttons_position">Düğmelerin konumu</string>
-    <string name="setup_controls">Kurulum kontrolleri</string>
+    <string name="setup_controls">Kontrolleri seç</string>
     <string name="left">Sol</string>
     <string name="right">Sağ</string>
     <string name="follow">Takip</string>
