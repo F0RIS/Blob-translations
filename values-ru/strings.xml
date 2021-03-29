@@ -381,6 +381,8 @@
     <string name="here_is_your_theme_code">Вот ваш код темы:</string>
     <string name="import_title">Импорт</string>
     <string name="export_title">Экспорт</string>
+    <string name="default_title">По умолчанию:</string>
+    <string name="too_short_name">Имя слишком короткое</string>
 
     <string-array name="hints">
         <item>Купи ВИП чтобы избавиться от рекламы!</item>

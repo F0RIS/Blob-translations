@@ -376,6 +376,8 @@
     <string name="here_is_your_theme_code">Here is your theme code:</string>
     <string name="import_title">Import</string>
     <string name="export_title">Export</string>
+    <string name="default_title">Default:</string>
+    <string name="too_short_name">The name is too short</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

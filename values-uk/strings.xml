@@ -368,6 +368,8 @@
     <string name="here_is_your_theme_code">Ось ваш код теми:</string>
     <string name="import_title">Імпорт</string>
     <string name="export_title">Експорт</string>
+    <string name="default_title">Default:</string>
+    <string name="too_short_name">The name is too short</string>
 
     <string-array name="hints">
         <item>Купи VIP щоб позбутися реклами!</item>
