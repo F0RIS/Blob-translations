@@ -72,7 +72,7 @@ var CONFIG_NAMES = {
         "virusMinAmount": strData(null, "العدد الأدنى للأشواك "),
         "speedBoosterMinAmount": strData(null, "العدد الادنى لمعززات السرعه"),
         "speedBoosterTime": strData(null, "الوقت المخصص لمعزز السرعه"),
-        "speedBoosterValue": strData(null, "مضاعفة معزز السرعه (1.5 = 50% faster, 0.5 = 50% slower")"
+        "speedBoosterValue": strData(null, "مضاعفة معزز السرعه (1.5 = 50% faster, 0.5 = 50% slower"),
         "speedBoosterSize": strData(null, "حجم معزز السرعه"),
         "mergeBoosterMinAmount": strData(null, "عدد معززات التجمع"),
         "mergeBoosterTime": strData(null, "الوقت المخصص لمعزز التجمع"),
@@ -108,7 +108,7 @@ var CONFIG_NAMES = {
         "mergeBoosterSize": strData("TamañoPoder", "Tamaño de poder de unión"),
         "virusBoosterMinAmount": strData("NúmPoderVirus", "Cantidad poder de virus"),
         "virusBoosterTime": strData("TiempoActivo", "Cuanto tiempo va a funcionar"),
-        "virusBoosterSize": strData("TamañoPoder, "Tamaño de poder de virus"),
+        "virusBoosterSize": strData("TamañoPoder", "Tamaño de poder de virus"),
         "sizeBoosterMinAmount": strData("NúmPoderTamaño", "Cantidad poder de tamaño"),
         "sizeBoosterTime": strData("TiempoActivo", "Cuanto tiempo va a funcionar"),
     },
