@@ -13,7 +13,7 @@
     <string name="show_names">Ativar nomes</string>
     <string name="name">Nome</string>
 
-    <string name="default_name">Não me coma!</string>
+    <string name="default_name">Não me mate!</string>
     <string name="play">Jogar</string>
     <string name="nick_name">Apelido:</string>
     <string name="exit_dialog">O quê você quer?</string>
@@ -24,7 +24,7 @@
     <string name="show_DirectionPointer">Direção do ponteiro</string>
     <string name="show_joystick">Joystick</string>
     <string name="save_button">Salvar</string>
-    <string name="settings">Configurações</string>
+    <string name="settings">Ajustes</string>
     <string name="skins_list">Skins</string>
     <string name="skin_message">Será alterado seu nome!</string>
     <string name="skin_title">Quer mesmo utilizá-la?</string>
@@ -142,10 +142,10 @@
     <string name="better_skins_warning">Isso pode causar lentidões.</string>
 
 
-    <string name="stop_on_release">Parar no lançamento</string>
+    <string name="stop_on_release">Parar ao soltar</string>
     <string name="type_user_id">Digite ID jogador</string>
     <string name="copy_user_id">Copiar ID</string>
-    <string name="send_friend_request">Pedir amizade</string>
+    <string name="send_friend_request">Enviar convite</string>
     <string name="friend_request_successful">Pedido de amizade enviado!</string>
     <string name="added_new_friend">Novo amigo adicionado!</string>
     <string name="moved_to_declined">Movido aos excluídos.</string>
@@ -230,7 +230,7 @@
     </string>
     <string name="top_week_exp_desc">Recolha o máximo de EXP durante uma semana, e você ganhará recompensas!</string>
     <string name="server_app_description">Com este aplicativo, você pode criar seu próprio servidor e jogar offline ou com amigos!</string>
-    <string name="show_fps">Habilitar FPS/PING</string>
+    <string name="show_fps">Mostrar FPS/PING</string>
     <string name="chat_enable_warning">Com esta opção ativada, a alimentação fica mais alta!</string>
     <string name="score_title">Pontuação:</string>
     <string name="saved">Salvos</string>
@@ -323,7 +323,7 @@
     <string name="you_won">VOCÊ ganhou o jogo!</string>
     <string name="someone_won">%s ganhou o jogo !</string>
     <string name="direction_lines">Linhas direcionais</string>
-    <string name="score_result_best">Melhor pontuação</string>
+    <string name="score_result_best">Melhor pontuação:</string>
     <string name="daily_quests">Missões diária</string>
     <string name="reset_in">(reinicia em %s)</string>
     <string name="q_replace_desc">Só é possível substituir a missão 1 vez por dia!</string>
@@ -373,15 +373,15 @@
 
     <string name="kill">Matou</string>
     <string name="death">Morte</string>
-    <string name="locally_muted">Silenciado externamente %s</string>
+    <string name="locally_muted">Silenciado localmente %s</string>
     <string name="this_game_supports">Este jogo suporta</string>
     <string name="vibration_desc">Configure para sentir apenas um toque suave</string>
     <string name="buttons_size">Tamanho dos botões:</string>
     <string name="here_is_your_theme_code">Aqui está o código do seu tema:</string>
     <string name="import_title">Importar</string>
     <string name="export_title">Exportar</string>
-    <string name="default_title">Default:</string>
-    <string name="too_short_name">The name is too short</string>
+    <string name="default_title">Padrão:</string>
+    <string name="too_short_name">Nome muito curto</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
