@@ -196,8 +196,8 @@
     <string name="m">m</string>
     <string name="h">h</string>
     <string name="d">d</string>
-    <string name="mass_booster_has_expired">انتهت صلاحية بوستر الحجم</string>
-    <string name="exp_booster_has_expired">انتهت صلاحية بوستر الإكس بي</string>
+    <string name="mass_booster_has_expired">انتهت صلاحية قوة الحجم</string>
+    <string name="exp_booster_has_expired">انتهت صلاحية قوة الإكس بي</string>
     <string name="chat_suffix_desc">%s إضافة إلى الاسم</string>
     <string name="user_role_desc">%s هذا اللاعب هو</string>
     <string name="size_animation_speed">حجم سرعة الحركة:</string>
@@ -369,15 +369,15 @@
 
     <string name="kill">قتل</string>
     <string name="death">موت</string>
-    <string name="locally_muted">Locally muted %s</string>
-    <string name="this_game_supports">This game supports</string>
-    <string name="vibration_desc">Set it so you can feel only a gentle touch</string>
-    <string name="buttons_size">Buttons size:</string>
-    <string name="here_is_your_theme_code">Here is your theme code:</string>
-    <string name="import_title">Import</string>
-    <string name="export_title">Export</string>
-    <string name="default_title">Default:</string>
-    <string name="too_short_name">The name is too short</string>
+    <string name="locally_muted">%s مكتوم الصوت محليا</string>
+    <string name="this_game_supports">هذه اللعبة تدعم</string>
+    <string name="vibration_desc">اضبط لتشعر بلمسة لطيفة فقط</string>
+    <string name="buttons_size">حجم الزر:</string>
+    <string name="here_is_your_theme_code">هذا هو الرمز الخاص بك:</string>
+    <string name="import_title">إستوراد</string>
+    <string name="export_title">تصدير</string>
+    <string name="default_title">الحالة العادية:</string>
+    <string name="too_short_name">الاسم قصير جدا</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -415,6 +415,6 @@
         <item>يمكنك تعيين أي صورة كخلفية في اللعبة!</item>
         <item>يمكنك تسجيل لقطات ومشاهدتهم من بعد في الإعادات!</item>
         <item>يمكنك مشاركة إعاداتك مع أصدقائك لكي تريهم مهاراتك!</item>
-        <item>This game has full gamepads/controllers support!</item>
+        <item>تحتوي هذه اللعبة على دعم كامل للوحات الألعاب/وحدات التحكم!</item>
     </string-array>
 </resources>

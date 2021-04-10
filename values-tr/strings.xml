@@ -388,6 +388,7 @@
     <string name="export_title">Export</string>
     <string name="default_title">Default:</string>
     <string name="too_short_name">The name is too short</string>
+    <string name="floating_dir_pointer">Floating dir pointer</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
