@@ -385,6 +385,12 @@
     <string name="default_title">Default:</string>
     <string name="too_short_name">The name is too short</string>
     <string name="floating_dir_pointer">Floating dir pointer</string>
+    <string name="render_bot_desc">
+        <![CDATA[If you want convert your replay into a good quality mp4 video you
+        should join our <a href=\"\"><b>DISCORD</b></a> and send replay files in
+        <a href=\'\'><i>#replays-to-convert</i></a> chat]]>
+    </string>
+    <string name="get_video">Get video</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

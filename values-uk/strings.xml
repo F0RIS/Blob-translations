@@ -371,6 +371,12 @@
     <string name="default_title">За замовчуванням:</string>
     <string name="too_short_name">The name is too short</string>
     <string name="floating_dir_pointer">Літаючий вказівник</string>
+    <string name="render_bot_desc">
+        <![CDATA[Если ты хочешь преобразовать свой реплей в mp4 видео хорошего качества
+        ты должен вступить в наш <a href=\"\"><b>DISCORD</b></a> и отправить свои реплеи
+        в чат <a href=\'\'><i>#replays-to-convert</i></a>]]>
+    </string>
+    <string name="get_video">Отримати відео</string>
 
     <string-array name="hints">
         <item>Купи VIP щоб позбутися реклами!</item>
