@@ -127,7 +127,7 @@
     <string name="game_time">Tiempo jugado:</string>
     <string name="user_info_records">Récords:</string>
 
-    <string name="view_profile">Abrir perfil</string>
+    <string name="view_profile">Ver perfil</string>
     <string name="delete">Eliminar</string>
     <string name="join_game">Seguir</string>
     <string name="accept">Aceptar</string>
@@ -141,7 +141,7 @@
     <string name="stop_on_release">Parar en lanzamiento</string>
     <string name="type_user_id">Introducir ID jugador</string>
     <string name="copy_user_id">Copiar ID</string>
-    <string name="send_friend_request">Enviar solicitud</string>
+    <string name="send_friend_request">Enviar invitación</string>
     <string name="friend_request_successful">Solicitud de amistad enviada!</string>
     <string name="added_new_friend">Nuevo amigo agregado!</string>
     <string name="moved_to_declined">Movido a los eliminados.</string>
@@ -178,10 +178,10 @@
     <string name="searching_ad_video">Buscando un vídeo, espere</string>
     <string name="processing">Procesando...</string>
     <string name="free_coins_toast">Ganaste %d monedas de gracia!</string>
-    <string name="quest_coins_toast">You got %d coins!</string>
+    <string name="quest_coins_toast">Ganaste %d monedas!</string>
     <string name="free_coins">Monedas gratis!</string>
     <string name="watch_video">Mirar</string>
-    <string name="lvl_coins_reward">¡Enhorabuena! Usted ha llegado al nivel %1$d y ganó %2$d monedas!</string>
+    <string name="lvl_coins_reward">Enhorabuena! Usted ha llegado al nivel %1$d y ganó %2$d monedas!</string>
 
     <!-- Items description localization -->
     <string name="mass_booster_x1_5_desc">Comience el juego con tamaño 1,5x más grande, con una duración de 1h!</string>
@@ -376,9 +376,9 @@
     <string name="here_is_your_theme_code">Aquí está el código de su tema:</string>
     <string name="import_title">Importar</string>
     <string name="export_title">Exportar</string>
-    <string name="default_title">Default:</string>
-    <string name="too_short_name">The name is too short</string>
-    <string name="floating_dir_pointer">Floating dir pointer</string>
+    <string name="default_title">Estándar:</string>
+    <string name="too_short_name">El nombre es demasiado corto</string>
+    <string name="floating_dir_pointer">Puntero flotante</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
