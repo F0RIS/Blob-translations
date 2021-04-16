@@ -380,11 +380,11 @@
     <string name="too_short_name">El nombre es demasiado corto</string>
     <string name="floating_dir_pointer">Puntero flotante</string>
     <string name="render_bot_desc">
-        <![CDATA[If you want convert your replay into a good quality mp4 video you
-        should join our <a href=\"\"><b>DISCORD</b></a> and send replay files in
+        <![CDATA[Si desea convertir su repetición en un video mp4 de buena calidad,
+        deberá unirse a nuestro <a href=\"\"><b>DISCORD</b></a> y envía los archivos en
         <a href=\'\'><i>#replays-to-convert</i></a> chat]]>
     </string>
-    <string name="get_video">Get video</string>
+    <string name="get_video">Tener vídeo</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
