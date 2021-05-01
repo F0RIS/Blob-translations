@@ -4,22 +4,22 @@
     <string name="cancel">Cancelar</string>
     <string name="error">Erro</string>
     <string name="no_internet">Para jogar você precisa ter uma conexão com a Internet.</string>
-    <string name="show_minimap">Ativar mapa</string>
-    <string name="show_chat">Ativar bate-papo</string>
-    <string name="show_advanced_minimap">Ativar mapa avançado</string>
+    <string name="show_minimap">Mostrar mapa</string>
+    <string name="show_chat">Mostrar bate-papo</string>
+    <string name="show_advanced_minimap">Mostrar mapa avançado</string>
     <string name="region">Região:</string>
-    <string name="show_grid">Ativar grades</string>
+    <string name="show_grid">Mostrar grades</string>
     <string name="show_mass">Mostrar massa</string>
-    <string name="show_names">Ativar nomes</string>
+    <string name="show_names">Mostrar nomes</string>
     <string name="name">Nome</string>
 
     <string name="default_name">Não me coma!</string>
     <string name="play">Jogar</string>
-    <string name="nick_name">Apelido:</string>
+    <string name="nick_name">Nickname:</string>
     <string name="exit_dialog">O quê você quer?</string>
     <string name="exit">Sair</string>
     <string name="restart">Reiniciar</string>
-    <string name="show_leaders">Ativar placar</string>
+    <string name="show_leaders">Mostrar placar</string>
     <string name="show_skins">Mostrar skins</string>
     <string name="show_DirectionPointer">Direção do ponteiro</string>
     <string name="show_joystick">Joystick</string>
@@ -264,7 +264,7 @@
     <string name="friend_accepted">Amigo aceito!</string>
     <string name="only_friends_skins">Apenas skins dos amigos</string>
     <string name="in_game_zoom">Zoom em jogo</string>
-    <string name="copy_nick">Copiar apelido</string>
+    <string name="copy_nick">Copiar nick</string>
     <string name="gold">Ouro</string>
     <string name="silver">Prata</string>
     <string name="bronze">Bronze</string>
@@ -299,13 +299,13 @@
 
     <string name="guide_text1"><![CDATA[Recolha <b>comida</b> para crescer!]]></string>
     <string name="guide_text2"><![CDATA[Pressione <b>SPLIT<b> para se dividir e engolir outros jogadores!]]></string>
-    <string name="guide_text3"><![CDATA[Pressione <b>THROW</b> para atirar vírus, explodir ou alimentar outros jogadores!]]></string>
+    <string name="guide_text3"><![CDATA[Pressione <b>THROW</b> para jogar vírus, explodir ou alimentar outros jogadores!]]></string>
     <string name="guide_text4"><![CDATA[Fique longe dos <b>vírus</b>!]]></string>
     <string name="guide_text5">
         <![CDATA[Este jogo necessita de <b>uma internet forte</b>! Jogue próximo do seu Wi-Fi, desabilitar <b>BLUETOOTH</b>,
         dados móveis nós não recomendamos! Use <b><i><font color="#1A0DAB">Blob Server</font></i></b> para jogar offline!]]>
     </string>
-    <string name="guide_select_region">Selecione a região mais próxima</string>
+    <string name="guide_select_region">Selecione a região mais próxima:</string>
 
     <string name="skins_yt_desc">
         <![CDATA[Você pode gravar e enviar seus vídeos para o YouTube para se tornar popular e obter a Tag <font color="#FF0000"><b><big>[YT]</big></b></font> no jogo.
