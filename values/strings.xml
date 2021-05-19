@@ -471,6 +471,19 @@
         <a href=\'\'><i>#replays-to-convert</i></a> chat]]>
     </string>
     <string name="get_video">Get video</string>
+    <string name="swap_split_throw">Swap SPLIT/THROW</string>
+    <string name="friends_desc">
+        <![CDATA[<big>You have no friends yet</big><br><br>
+        - Friends have <font color="#3cc905"><b>green</font></b> nickname in the game<br>
+        - You can see them on the <b>minimap</b><br>
+        - You can <b>join</b> a room where they play<br>
+        - You can <b>invite</b> them to your room<br><br>]]>
+    </string>
+    <string name="friends_requests_desc">You have no friend requests yet</string>
+    <string name="show_d_t_buttons">Show D/T buttons</string>
+    <string name="enter_room_ip">Type Room IP</string>
+    <string name="room_ip">Room:</string>
+    <string name="share_room">Share Room</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

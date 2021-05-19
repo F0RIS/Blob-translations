@@ -369,14 +369,27 @@
     <string name="import_title">Імпорт</string>
     <string name="export_title">Експорт</string>
     <string name="default_title">За замовчуванням:</string>
-    <string name="too_short_name">The name is too short</string>
+    <string name="too_short_name">Назва занадто коротка</string>
     <string name="floating_dir_pointer">Літаючий вказівник</string>
     <string name="render_bot_desc">
-        <![CDATA[Если ты хочешь преобразовать свой реплей в mp4 видео хорошего качества
-        ты должен вступить в наш <a href=\"\"><b>DISCORD</b></a> и отправить свои реплеи
-        в чат <a href=\'\'><i>#replays-to-convert</i></a>]]>
+        <![CDATA[Якщо ви хочете перетворити свій реплей на якісне mp4 відео
+        Вам слід приєднатися до нашого <a href=\"\"><b>DISCORD</b></a> та надсилати файл реплею
+        у чат <a href=\'\'><i>#replays-to-convert</i></a>]]>
     </string>
     <string name="get_video">Отримати відео</string>
+    <string name="swap_split_throw">Поміняти місцями SPLIT/THROW</string>
+    <string name="friends_desc">
+        <![CDATA[<big>В тебе ще нема на друзів</big><br><br>
+        - Друзі мають <font color="#3cc905"><b>зелений</font></b> нiкнейм у грі<br>
+        - Ви можете побачити їх на <b>мінімапі</b><br>
+        - Ви можете <b>приєднатися</b> до кімнати, де вони грають<br>
+        - Ви можете <b>запросити</b> їх до себе у кімнату<br><br>]]>
+    </string>
+    <string name="friends_requests_desc">В тебе ще нема запитiв на дружбу</string>
+    <string name="show_d_t_buttons">Показувати кнопки D/T</string>
+    <string name="enter_room_ip">Введіть IP кiмнати</string>
+    <string name="room_ip">Кiмната:</string>
+    <string name="share_room">Подiлитися кiмнатою</string>
 
     <string-array name="hints">
         <item>Купи VIP щоб позбутися реклами!</item>

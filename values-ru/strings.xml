@@ -390,6 +390,19 @@
         в чат <a href=\'\'><i>#replays-to-convert</i></a>]]>
     </string>
     <string name="get_video">Получить видео</string>
+    <string name="swap_split_throw">Поменять местами SPLIT/THROW</string>
+    <string name="friends_desc">
+        <![CDATA[<big>У вас еще нет друзей</big><br><br>
+        - У друзей <font color="#3cc905"><b>зеленый</font></b> ник в игре<br>
+        - Вы можете видеть их на <b>миникарте</b><br>
+        - Вы можете <b>заходить</b> в игровую комнату где они играют<br>
+        - Вы можете <b>пригласить</b> их в вашу игровую комнату<br><br>]]>
+    </string>
+    <string name="friends_requests_desc">У вас еще нет запросов в друзья</string>
+    <string name="show_d_t_buttons">Показывать кнопки D/T</string>
+    <string name="enter_room_ip">Введите IP комнаты</string>
+    <string name="room_ip">Комната:</string>
+    <string name="share_room">Поделиться Комнатой</string>
 
     <string-array name="hints">
         <item>Купи ВИП чтобы избавиться от рекламы!</item>
