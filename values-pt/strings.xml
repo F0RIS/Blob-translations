@@ -123,10 +123,10 @@
     <string name="followers">Excluídos</string>
     <string name="blocked">Bloqueado</string>
     <string name="playing">Jogando:&#160;</string>
-    <string name="offline">Desconectado</string>
+    <string name="offline">Offline</string>
     <string name="relations">Relações</string>
     <string name="you_must_log_in">Você precisa conectar-se!</string>
-    <string name="last_seen">Última conexão em:</string>
+    <string name="last_seen">Visto em:</string>
     <string name="registered">Registrado em:</string>
     <string name="game_time">Tempo jogado:</string>
     <string name="user_info_records">Recordes:</string>
@@ -182,7 +182,7 @@
     <string name="searching_ad_video">Procurando por um vídeo, aguarde</string>
     <string name="processing">Processando...</string>
     <string name="free_coins_toast">Você ganhou %d moedas de graça!</string>
-    <string name="quest_coins_toast">You got %d coins!</string>
+    <string name="quest_coins_toast">Você obteve %d moedas!</string>
     <string name="free_coins">Moedas grátis!</string>
     <string name="watch_video">Assistir</string>
     <string name="lvl_coins_reward">Parabéns! Você chegou ao nível %1$d e ganhou %2$d moedas!</string>
@@ -225,7 +225,7 @@
         3.) Não negocie a sua conta BLOB.\n
         4.) Não trapaceie para alcançar o TOP.1 no placar.\n
         5.) Não use nomes inapropriados em jogo.\n
-        6.) Não tire proveito falhas que possam ter no jogo.\n
+        6.) Não tire proveito de falhas que possam ter no jogo.\n
         7.) Não faça time com alguém que já tenha equipe, conforme dito na regra N° 4.\n
     </string>
     <string name="top_week_exp_desc">Recolha o máximo de EXP durante uma semana, e você ganhará recompensas!</string>
@@ -305,7 +305,7 @@
         <![CDATA[Este jogo necessita de <b>uma internet forte</b>! Jogue próximo do seu Wi-Fi, desabilitar <b>BLUETOOTH</b>,
         dados móveis nós não recomendamos! Use <b><i><font color="#1A0DAB">Blob Server</font></i></b> para jogar offline!]]>
     </string>
-    <string name="guide_select_region">Selecione a região mais próxima</string>
+    <string name="guide_select_region">Selecione a região mais próxima!</string>
 
     <string name="skins_yt_desc">
         <![CDATA[Você pode gravar e enviar seus vídeos para o YouTube para se tornar popular e obter a Tag <font color="#FF0000"><b><big>[YT]</big></b></font> no jogo.
@@ -321,7 +321,7 @@
     <string name="custom_server_desc">Aqui você pode criar um servidor privado com configurações personalizadas, adicionar bots/minions e jogar com os amigos!</string>
     <string name="ts2v2_desc">Aqui você pode jogar em equipe 2vs2. Você pode fazer uma aposta de moedas e/ou criar uma batalha com senha para que apenas seus amigos participem dela</string>
     <string name="you_won">VOCÊ ganhou o jogo!</string>
-    <string name="someone_won">%s ganhou o jogo !</string>
+    <string name="someone_won">%s ganhou o jogo!</string>
     <string name="direction_lines">Linhas direcionais</string>
     <string name="score_result_best">Melhor pontuação:</string>
     <string name="daily_quests">Missões diária</string>
@@ -334,7 +334,7 @@
     <string name="completed">Completado</string>
     <string name="get_reward">Obter Recompensa</string>
     <string name="daily_reward">Recompensa diária</string>
-    <string name="gain_exp_and_get_reward_every_day">Gain exp and get reward every day</string>
+    <string name="gain_exp_and_get_reward_every_day">Ganhe exp e obtenha recompensa todos os dias</string>
     <string name="day">Dia %d</string>
     <string name="up_to">Até %d</string>
     <string name="login_to_avoid_captcha">Faça login para evitar esta verificação</string>
