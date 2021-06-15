@@ -243,8 +243,8 @@ var CONFIG_NAMES = {
         "sizeBoosterTime": strData(null, "hacim desteğinin zamanı"),
     },
     pt: {
-        "playerStartMass": strData("MassaInicial", "Massa inicial do jogador"),
-        "playerMaxMass": strData("TamanhoMáximo", "Tamanho máximo da célula do jogador"),
+        "playerStartMass": strData("Massa Inicial", "Massa inicial do jogador"),
+        "playerMaxMass": strData("Tamanho Máximo", "Tamanho máximo da célula do jogador"),
         "playerMaxCells": strData("Células", "Máximo de células que o jogador pode ter"),
         "playerSpeed": strData("Velocidade", "Multiplicador da velocidade do jogador (1=velocidade normal, 2=mais rápido)"),
         "playerDecayRate": strData("Perdas", "Tamanho que se perde por segundo"),
@@ -292,7 +292,7 @@ var CONFIG_NAMES = {
         "virusBoosterTime": strData("Funcionamento", "Por quanto tempo ficará ativo"),
         "virusBoosterSize": strData("Tamanho", "Quão grande será o tamanho do poder"),
 
-        "sizeBoosterMinAmount": strData("PoderDeTamanho", "Quantidade mínima do poder de tamanho"),
+        "sizeBoosterMinAmount": strData("Poder de Tamanho", "Quantidade mínima do poder de tamanho"),
         "sizeBoosterTime": strData("Funcionamento", "Por qunto tempo ficará ativo"),
     },
     // de: {},
