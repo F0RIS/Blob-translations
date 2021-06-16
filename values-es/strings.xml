@@ -4,22 +4,22 @@
     <string name="cancel">Cancelar</string>
     <string name="error">Error</string>
     <string name="no_internet">Para jugar tienes que tener una conexión a Internet</string>
-    <string name="show_minimap">Activar mapa</string>
-    <string name="show_chat">Activar chat</string>
+    <string name="show_minimap">Mostrar mapa</string>
+    <string name="show_chat">Mostrar chat</string>
     <string name="show_advanced_minimap">Activar mapa avanzado</string>
     <string name="region">Región:</string>
-    <string name="show_grid">Activar rejillas</string>
+    <string name="show_grid">Mostrar rejillas</string>
     <string name="show_mass">Mostrar masa</string>
-    <string name="show_names">Activar nombres</string>
+    <string name="show_names">Mostrar nombres</string>
     <string name="name">Nombre</string>
 
     <string name="default_name">No me comas!</string>
     <string name="play">Jugar</string>
-    <string name="nick_name">Apodo:</string>
+    <string name="nick_name">Nickname:</string>
     <string name="exit_dialog">Que tu quieres?</string>
     <string name="exit">Salir</string>
     <string name="restart">Reingresar</string>
-    <string name="show_leaders">Activar placar</string>
+    <string name="show_leaders">Mostrar placar</string>
     <string name="show_skins">Mostrar skins</string>
     <string name="show_DirectionPointer">Dirección del puntero</string>
     <string name="show_joystick">Joystick</string>
@@ -30,7 +30,7 @@
     <string name="skin_title">Quieres usar esta skin?</string>
     <string name="connect_to">Conectar a</string>
     <string name="connecting">Conectando...</string>
-    <string name="enter_ip">Especificar IP</string>
+    <string name="enter_ip">IP</string>
     <string name="copied">Copiado:</string>
     <string name="connection_closed">Conexión perdida</string>
     <string name="connection_lost">Conexión perdida</string>
@@ -394,11 +394,11 @@
         - Puedes <b>invitar</b> ellos a tu sala<br><br>]]>
     </string>
     <string name="friends_requests_desc">Aún no tienes solicitudes de amistad</string>
-    <string name="show_d_t_buttons">Show D/T botones</string>
+    <string name="show_d_t_buttons">Mostrar D/T botones</string>
     <string name="enter_room_ip">Ingrese lo IP</string>
     <string name="room_ip">Sala:</string>
     <string name="share_room">Compartir sala</string>
-    <string name="join_different_region">You join different region, you may have lags!</string>
+    <string name="join_different_region">Ha entrado en una región diferente, puede haber retrasos!</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
