@@ -398,6 +398,7 @@
     <string name="enter_room_ip">Ingrese lo IP</string>
     <string name="room_ip">Sala:</string>
     <string name="share_room">Compartir sala</string>
+    <string name="join_different_region">You join different region, you may have lags!</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

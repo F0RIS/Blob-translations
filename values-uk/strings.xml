@@ -227,7 +227,7 @@
     <string name="edit">Редагувати</string>
     <string name="bet_value">Ставка:</string>
     <string name="create">Створити</string>
-    <string name="custom_server">Особистий сервер</string>
+    <string name="custom_server">Особистий/кастомний сервер</string>
     <string name="custom_server_created">Особистий сервер створений</string>
     <string name="highlight_friends">Підсвічувати друзів</string>
     <string name="custom_colors">Кастомна тема</string>
@@ -390,6 +390,7 @@
     <string name="enter_room_ip">Введіть IP кiмнати</string>
     <string name="room_ip">Кiмната:</string>
     <string name="share_room">Подiлитися кiмнатою</string>
+    <string name="join_different_region">Вы заходите на другой регион, из-за этого может лагать!</string>
 
     <string-array name="hints">
         <item>Купи VIP щоб позбутися реклами!</item>

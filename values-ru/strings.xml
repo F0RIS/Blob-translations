@@ -240,7 +240,7 @@
     <string name="edit">Изменить</string>
     <string name="bet_value">Ставка:</string>
     <string name="create">Создать</string>
-    <string name="custom_server">Личный сервер</string>
+    <string name="custom_server">Личный/кастомный сервер</string>
     <string name="custom_server_created">Личный сервер создан</string>
     <string name="highlight_friends">Подсвечивать друзей</string>
     <string name="custom_colors">Кастомная тема</string>
@@ -351,7 +351,7 @@
     <string name="left">Слева</string>
     <string name="right">Справа</string>
     <string name="follow">Следовать</string>
-    <string name="private_servers_list">Список приватных серверов</string>
+    <string name="private_servers_list">Список приватных/кастомных серверов</string>
     <string name="bots">Боты</string>
     <string name="minions">Миньоны</string>
     <string name="public_title">Публичный</string>
@@ -403,6 +403,7 @@
     <string name="enter_room_ip">Введите IP комнаты</string>
     <string name="room_ip">Комната:</string>
     <string name="share_room">Поделиться Комнатой</string>
+    <string name="join_different_region">Вы заходите на другой регион, из-за этого может лагать!</string>
 
     <string-array name="hints">
         <item>Купи ВИП чтобы избавиться от рекламы!</item>

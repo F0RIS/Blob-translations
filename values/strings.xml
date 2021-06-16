@@ -110,7 +110,7 @@
 
     <string name="low_lvl_message">Your level is lower than required</string>
     <string name="login_for_skins_message">You must log in to use these skins</string>
-    <string name="skin_unlocked">You unlocked a skin %1$s!</string>
+    <string name="skin_unlocked">You unlocked the %1$s skin!</string>
     <string name="optimize_names">Optimize names</string>
     <string name="low_graphic">Low graphics</string>
     <string name="macros">Macros</string>
@@ -301,7 +301,7 @@
     <string name="edit">Edit</string>
     <string name="bet_value">Bet value:</string>
     <string name="create">Create</string>
-    <string name="custom_server">Private server</string>
+    <string name="custom_server">Private/custom server</string>
     <string name="custom_server_created">Private server created</string>
     <string name="highlight_friends">Highlight friends</string>
     <string name="custom_colors">Custom theme</string>
@@ -431,7 +431,7 @@
     <string name="follow">Follow</string>
 
     <!--    PRIVATE servers -->
-    <string name="private_servers_list">Private servers list</string>
+    <string name="private_servers_list">Private/custom servers list</string>
     <string name="bots">Bots</string>
     <string name="minions">Minions</string>
     <string name="public_title">Public</string>
@@ -484,6 +484,7 @@
     <string name="enter_room_ip">Type Room IP</string>
     <string name="room_ip">Room:</string>
     <string name="share_room">Share Room</string>
+    <string name="join_different_region">You join different region, you may have lags!</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

@@ -408,6 +408,7 @@
     <string name="enter_room_ip">Type Room IP</string>
     <string name="room_ip">Room:</string>
     <string name="share_room">Share Room</string>
+    <string name="join_different_region">You join different region, you may have lags!</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
