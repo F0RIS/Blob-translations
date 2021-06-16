@@ -359,7 +359,7 @@
 
     <!--    Rate this app dialog -->
     <string name="smile_rating_terrible">Terrível</string>
-    <string name="smile_rating_bad">Mau</string>
+    <string name="smile_rating_bad">Ruim</string>
     <string name="smile_rating_okay">Okay</string>
     <string name="smile_rating_good">Boa</string>
     <string name="smile_rating_great">Ótimo</string>
@@ -402,7 +402,7 @@
     <string name="enter_room_ip">Digite IP da sala</string>
     <string name="room_ip">Sala:</string>
     <string name="share_room">Compartilhar sala</string>
-    <string name="join_different_region">You join different region, you may have lags!</string>
+    <string name="join_different_region">Você entrou em uma região diferente, poderá ter atrasos!</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
