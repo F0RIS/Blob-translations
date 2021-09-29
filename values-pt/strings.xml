@@ -403,6 +403,7 @@
     <string name="room_ip">Sala:</string>
     <string name="share_room">Compartilhar sala</string>
     <string name="join_different_region">Você entrou em uma região diferente, poderá ter atrasos!</string>
+    <string name="no_google_services_error">You should log in to play Blob without Google Play services or install them</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

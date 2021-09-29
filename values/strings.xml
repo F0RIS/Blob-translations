@@ -336,10 +336,15 @@
         WunZero (Marketing, Videos, Support)\n
         Mike B. (Ideas, Translations, Skins, Support)\n
         Hack4Boss (Translation)\n
+        \n
         Blue (Support)\n
         Karo (Support)\n
         Popsus (Support)\n
-        Risky (Support)
+        Risky (Support)\n
+        \n
+        @twisted.og (Skins)\n
+        @fxhd_io (Skins)\n
+        @hwk.zx (Skins)\n
     </string>
 
     <string name="try_for_free">Try for FREE!</string>
@@ -485,6 +490,7 @@
     <string name="room_ip">Room:</string>
     <string name="share_room">Share Room</string>
     <string name="join_different_region">You join different region, you may have lags!</string>
+    <string name="no_google_services_error">You should log in to play Blob without Google Play services or install them</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
