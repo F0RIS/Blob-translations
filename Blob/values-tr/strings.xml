@@ -380,36 +380,35 @@
     <string name="kill">Öldür</string>
     <string name="death">Ölüm</string>
     <string name="locally_muted">yerel olarak sessize alınmış %s</string>
-    <string name="this_game_supports">This game supports</string>
-    <string name="vibration_desc">Set it so you can feel only a gentle touch</string>
-    <string name="buttons_size">Buttons size:</string>
-    <string name="here_is_your_theme_code">Here is your theme code:</string>
-    <string name="import_title">Import</string>
-    <string name="export_title">Export</string>
-    <string name="default_title">Default:</string>
-    <string name="too_short_name">The name is too short</string>
-    <string name="floating_dir_pointer">Floating dir pointer</string>
+    <string name="this_game_supports">Bu oyun destekleri</string>
+    <string name="vibration_desc">Bunu ayarlarsan hafif bir dokunuş hissedeceksin</string>
+    <string name="buttons_size">Buton büyüklüğü:</string>
+    <string name="here_is_your_theme_code">Tema kodun burada:</string>
+    <string name="import_title">İçe aktar</string>
+    <string name="export_title">Dışa aktar</string>
+    <string name="default_title">Varsayılan:</string>
+    <string name="too_short_name">İsim çok kısa</string>
+    <string name="floating_dir_pointer">Kayan yön işaretçisi</string>
     <string name="render_bot_desc">
-        <![CDATA[If you want convert your replay into a good quality mp4 video you
-        should join our <a href=\"\"><b>DISCORD</b></a> and send replay files in
-        <a href=\'\'><i>#replays-to-convert</i></a> chat]]>
+        <![CDATA[Eğer tekrar oynatmanızı kaliteli mp4 videosuna çevirmek istiyorsanız <a href=\"\"><b>DISCORD\'umuza</b></a> katılmalısınız ve tekrar oynatmayı
+        <a href=\'\'><i>#replays-to-convert\'a göndermelisiniz</i></a> chat]]>
     </string>
-    <string name="get_video">Get video</string>
-    <string name="swap_split_throw">Swap SPLIT/THROW</string>
+    <string name="get_video">Videoyu al</string>
+    <string name="swap_split_throw">Takas BÖLÜNME/ATMA</string>
     <string name="friends_desc">
-        <![CDATA[<big>You have no friends yet</big><br><br>
-        - Friends have <font color="#3cc905"><b>green</font></b> nickname in the game<br>
-        - You can see them on the <b>minimap</b><br>
-        - You can <b>join</b> a room where they play<br>
-        - You can <b>invite</b> them to your room<br><br>]]>
+        <![CDATA[<big>Henüz arkadaşın yok</big><br><br>
+        - Arkadaşlarının oyunda <font color="#3cc905"><b>yeşil</font></b> takma adı var<br>
+        - Onları <b>küçük haritada</b> görebilirsin<br>
+        - Onların oynadığı odaya <b>katılabilirsin</b><br>
+        - Onları odana <b>davet</b> edebilirsin<br><br>]]>
     </string>
-    <string name="friends_requests_desc">You have no friend requests yet</string>
-    <string name="show_d_t_buttons">Show D/T buttons</string>
-    <string name="enter_room_ip">Type Room IP</string>
-    <string name="room_ip">Room:</string>
-    <string name="share_room">Share Room</string>
-    <string name="join_different_region">You join different region, you may have lags!</string>
-    <string name="no_google_services_error">You should log in to play Blob without Google Play services or install them</string>
+    <string name="friends_requests_desc">Henüz arkadaşlık isteğin yok</string>
+    <string name="show_d_t_buttons">D/T butonlarını göster</string>
+    <string name="enter_room_ip">Oda IP\'sini gir</string>
+    <string name="room_ip">Oda:</string>
+    <string name="share_room">Odayı paylaş</string>
+    <string name="join_different_region">Farklı bölgeye katıldın, gecikme olabilir!</string>
+    <string name="no_google_services_error">Blobu Google Play araçları olmadan veya indirmeden oynamak için oturum açmalısın</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -447,6 +446,6 @@
         <item>Oyunda arka plan olarak istediğiniz herhangi bir resmi kurabilirsiniz!</item>
         <item>Güzel oyun anlarını kaydedebilir ve daha sonra tekrarlarda izleyebilirsiniz!</item>
         <item>Yeteneklerinizi göstermek için tekrarlarınızı başkalarıyla paylaşabilirsiniz!</item>
-        <item>This game has full gamepads/controllers support!</item>
+        <item>Bu oyun tam gamepad/kontrolör desteğine sahiptir!</item>
     </string-array>
 </resources>
