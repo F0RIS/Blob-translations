@@ -62,7 +62,7 @@ var LOC_STRINGS = {
         [Strings.double_kill]: "Çifte Öldürüş!",
         [Strings.triple_kill]: "Üçlü Öldürüş!",
         [Strings.monster_kill]: "Canavar Öldürüş!",
-        [Strings.rampage]: "Rampage!",
+        [Strings.rampage]: "Öfke!",
     },
     // pt: {},
     // de:{},
