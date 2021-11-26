@@ -409,6 +409,7 @@
     <string name="share_room">Odayı paylaş</string>
     <string name="join_different_region">Farklı bölgeye katıldın, gecikme olabilir!</string>
     <string name="no_google_services_error">Blobu Google Play araçları olmadan veya indirmeden oynamak için oturum açmalısın</string>
+    <string name="vip_price">3 Days free, then %s/mo</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

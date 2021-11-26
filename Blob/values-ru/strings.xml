@@ -405,6 +405,7 @@
     <string name="share_room">Поделиться Комнатой</string>
     <string name="join_different_region">Вы заходите на другой регион, из-за этого может лагать!</string>
     <string name="no_google_services_error">Ты должен авторизоваться чтобы играть без Google Play сервисов. Или установи их</string>
+    <string name="vip_price">3 дня бесплатно, затем %s/мес</string>
 
     <string-array name="hints">
         <item>Купи ВИП чтобы избавиться от рекламы!</item>

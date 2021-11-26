@@ -392,6 +392,7 @@
     <string name="share_room">Подiлитися кiмнатою</string>
     <string name="join_different_region">Вы заходите на другой регион, из-за этого может лагать!</string>
     <string name="no_google_services_error">Ти повинен авторизуватися щоб грати без Google Play сервісів. Або встанови їх</string>
+    <string name="vip_price">3 дня бескоштовно, потiм %s/мiс</string>
 
     <string-array name="hints">
         <item>Купи VIP щоб позбутися реклами!</item>
