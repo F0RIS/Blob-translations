@@ -391,7 +391,7 @@
     <string name="floating_dir_pointer">Kayan yön işaretçisi</string>
     <string name="render_bot_desc">
         <![CDATA[Eğer tekrar oynatmanızı kaliteli mp4 videosuna çevirmek istiyorsanız <a href=\"\"><b>DISCORD\'umuza</b></a> katılmalısınız ve tekrar oynatmayı
-        <a href=\'\'><i>#replays-to-convert\'a göndermelisiniz</i></a> chat]]>
+        <a href=\'\'><i>#replays-to-convert\'a göndermelisiniz</i></a>]]>
     </string>
     <string name="get_video">Videoyu al</string>
     <string name="swap_split_throw">Takas BÖLÜNME/ATMA</string>
