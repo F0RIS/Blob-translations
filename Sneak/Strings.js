@@ -244,7 +244,7 @@ var LOC_STRINGS = {
         [Strings.double_kill]: "Matança Dupla!",
         [Strings.triple_kill]: "Morte Tripla!",
         [Strings.monster_kill]: "Monstro Mate!",
-        [Strings.rampage]: "Rampage!",
+        [Strings.rampage]: "Raiva!",
 
         [Strings.sg_well_done]: "Bem feito!",
         [Strings.sg_good_job]: "Bom trabalho!",
