@@ -331,22 +331,22 @@
     <string name="login_to_avoid_captcha">Melden Sie sich an, um diese Überprüfung zu vermeiden</string>
     <string name="replays">Replays</string>
     <string name="you_have_no_replays">You have no replays</string>
-    <string name="save_replay">Save replay</string>
-    <string name="replay_saved">Replay saved!</string>
-    <string name="old_replay_warning">Replays from older version of the game might not work correctly!</string>
-    <string name="too_new_replay_error">You should update the game to open this replay!</string>
+    <string name="save_replay">Wiederholung speichern</string>
+    <string name="replay_saved">Wiederholung gespeichert!</string>
+    <string name="old_replay_warning">Wiederholungen von älteren Versionen des Spiels funktionieren möglicherweise nicht richtig!</string>
+    <string name="too_new_replay_error">Du solltest das Spiel aktualisieren, um diese Wiederholung zu öffnen!</string>
     <string name="mute">Mute</string>
     <string name="buttons_position">Joystick position</string>
     <string name="setup_controls">Wählen Sie Steuerelemente</string>
-    <string name="left">Left</string>
-    <string name="right">Right</string>
-    <string name="follow">Follow</string>
-    <string name="private_servers_list">Private servers list</string>
+    <string name="left">Links</string>
+    <string name="right">Rechts</string>
+    <string name="follow">Folgen</string>
+    <string name="private_servers_list">Liste privater Server</string>
     <string name="bots">Bots</string>
     <string name="minions">Minions</string>
     <string name="public_title">Public</string>
-    <string name="server_name">Server name</string>
-    <string name="background_image">Background image</string>
+    <string name="server_name">Servername</string>
+    <string name="background_image">Hintergrundbild</string>
 
     <!--    Rate this app dialog -->
     <string name="smile_rating_terrible">Schrecklich</string>
@@ -355,83 +355,83 @@
     <string name="smile_rating_good">Gut</string>
     <string name="smile_rating_great">Großartig</string>
 
-    <string name="repeat_mode">Repeat mode</string>
-    <string name="high_quality">High quality</string>
+    <string name="repeat_mode">Wiederholungsmodus</string>
+    <string name="high_quality">Hohe Qualität</string>
     <string name="set_title">Set</string>
     <string name="link_title">Link</string>
-    <string name="file_title">File</string>
-    <string name="you_title">You</string>
+    <string name="file_title">Datei</string>
+    <string name="you_title">Sie</string>
 
-    <string name="kill">Kill</string>
+    <string name="kill">Töten</string>
     <string name="death">Death</string>
-    <string name="locally_muted">Locally muted %s</string>
-    <string name="this_game_supports">This game supports</string>
-    <string name="vibration_desc">Set it so you can feel only a gentle touch</string>
-    <string name="buttons_size">Buttons size:</string>
-    <string name="here_is_your_theme_code">Here is your theme code:</string>
-    <string name="import_title">Import</string>
+    <string name="locally_muted">Lokal stummgeschaltet %s</string>
+    <string name="this_game_supports">Dieses Spiel unterstützt</string>
+    <string name="vibration_desc">Stellen Sie es so ein, dass Sie nur eine sanfte Berührung spüren können</string>
+    <string name="buttons_size">Größe der Knöpfe:</string>
+    <string name="here_is_your_theme_code">Hier ist Ihr Themencode:</string>
+    <string name="import_title">Importieren</string>
     <string name="export_title">Export</string>
-    <string name="default_title">Default:</string>
-    <string name="too_short_name">The name is too short</string>
-    <string name="floating_dir_pointer">Floating dir pointer</string>
+    <string name="default_title">Standard:</string>
+    <string name="too_short_name">Der Name ist zu kurz</string>
+    <string name="floating_dir_pointer">Schwebender Dir-Zeiger</string>
     <string name="render_bot_desc">
         <![CDATA[If you want convert your replay into a good quality mp4 video you
         should join our <a href=\"\"><b>DISCORD</b></a> and send replay files in
         <a href=\'\'><i>#replays-to-convert</i></a> chat]]>
     </string>
-    <string name="get_video">Get video</string>
-    <string name="swap_split_throw">Swap SPLIT/THROW</string>
+    <string name="get_video">Holen Sie sich das Video</string>
+    <string name="swap_split_throw">SPLIT/WURF vertauschen</string>
     <string name="friends_desc">
-        <![CDATA[<big>You have no friends yet</big><br><br>
+        <![CDATA[<big>Du hast noch keine Freunde</big><br><br>
         - Friends have <font color="#3cc905"><b>green</font></b> nickname in the game<br>
         - You can see them on the <b>minimap</b><br>
         - You can <b>join</b> a room where they play<br>
         - You can <b>invite</b> them to your room<br><br>]]>
     </string>
-    <string name="friends_requests_desc">You have no friend requests yet</string>
-    <string name="show_d_t_buttons">Show D/T buttons</string>
-    <string name="enter_room_ip">Type Room IP</string>
-    <string name="room_ip">Room:</string>
-    <string name="share_room">Share Room</string>
+    <string name="friends_requests_desc">Du hast noch keine Freundschaftsanfragen</string>
+    <string name="show_d_t_buttons">D/T-Schaltflächen anzeigen</string>
+    <string name="enter_room_ip">Geben Sie Raum-IP ein</string>
+    <string name="room_ip">Zimmer:</string>
+    <string name="share_room">Raum teilen</string>
     <string name="join_different_region">You join different region, you may have lags!</string>
     <string name="no_google_services_error">You should log in to play Blob without Google Play services or install them</string>
-    <string name="vip_price">3 Days free, then %s/mo</string>
+    <string name="vip_price">3 Tage kostenlos, dann %s/Monat</string>
 
     <string-array name="hints">
         <item>Kauf VIP und bekomme keine ads mehr!</item>
         <item>Cooperate with friends and take over any server!</item>
         <item>erschaffe deien eigenen server und spiele mit freunden!</item>
-        <item>Grow own YouTube channel with gameplay vids, achieve YT rank and be popuplar!</item>
+        <item>Baue deinen eigenen YouTube-Kanal mit Gameplay-Videos auf, erreiche YT-Rang und sei beliebt!</item>
         <item>vergiss nicht die stündigen Münzen!</item>
         <item>Get more EXP during one week than anybody else and win 55000 coins!</item>
         <item>du kannst 2 vs 2 für Münzen!</item>
-        <item>You can make team scrimmage up to 5 vs 5!</item>
-        <item>You can open big map by clicking on a minimap in the game!</item>
+        <item>Sie können Team-Scrimmage bis zu 5 gegen 5 machen!</item>
+        <item>Du kannst eine große Karte öffnen, indem du im Spiel auf eine Minikarte klickst!</item>
         <item>du kannst deine maus connecten an deinem handy und spiel wie am PC!</item>
         <item> benutze blob server um deine eigenen offline server zu erschaffen!</item>
-        <item>Click on a triangle near chat and invite friends to your server!</item>
+        <item>Klicken Sie auf ein Dreieck in der Nähe des Chats und laden Sie Freunde zu Ihrem Server ein!</item>
         <item>Loge dich ein um zu lvln und mit größerer startmasse zu starten!</item>
         <item>benutze mass/exp boosters um mehr zugewinnen und schneller zu lvln!</item>
         <item>If you ran out of coins, just buy them! :)</item>
-        <item>Use rare skins and make everybody jealous!</item>
-        <item>Customize game colors/params to your needs to play more comfortable!</item>
-        <item>You can see your friends on the minimap!</item>
-        <item>Have a chat with people and find new friends!</item>
-        <item>Join our discord server to vote/chat and be up to date!</item>
+        <item>Verwenden Sie seltene Skins und machen Sie alle neidisch!</item>
+        <item>Passen Sie Spielfarben/-parameter an Ihre Bedürfnisse an, um komfortabler zu spielen!</item>
+        <item>Du kannst deine Freunde auf der Minikarte sehen!</item>
+        <item>Unterhalte dich mit Leuten und finde neue Freunde!</item>
+        <item>Treten Sie unserem Discord-Server bei, um abzustimmen/zu chatten und auf dem Laufenden zu bleiben!</item>
         <item>Bring your real life friends in Blob to have fun together!</item>
         <item>jeder spieler hat eine eigene ID, du kannst sie teilen damit deine freunde dich in Blob finden!</item>
-        <item>You can play on an empty server as a practice!</item>
-        <item>You can click on IP label and change it or open servers list!</item>
-        <item>Make sure to join our socials to be up to date, find friends and improve your skills!</item>
-        <item>We always experiment with new game modes. You can find them in servers list (unofficial category)!</item>
+        <item>Du kannst als Übung auf einem leeren Server spielen!</item>
+        <item>Sie können auf das IP-Label klicken und es ändern oder die Serverliste öffnen!</item>
+        <item>Stellen Sie sicher, dass Sie unseren sozialen Netzwerken beitreten, um auf dem Laufenden zu bleiben, Freunde zu finden und Ihre Fähigkeiten zu verbessern!</item>
+        <item>Wir experimentieren immer mit neuen Spielmodi. Sie finden sie in der Serverliste (inoffizielle Kategorie)!</item>
         <item>We have awesome test game modes in unofficial!)</item>
         <item>If you are new to this game, check out on YouTube how other people rocks in Blob! Its amazing!</item>
         <item>sitze näher an deinem wifi, um besseres wlan zu krigen !</item>
         <item>schalte dein BLUETOOTH aus um internet lags/verzögerungen zu reduzieren!</item>
         <item>schalte dein BLUETOOTH aus um internet lags/verzögerungen zu reduzieren!</item>
-        <item>You can set up any image as background in the game!</item>
-        <item>You can record nice gameplay moments and watch them later in replays!</item>
+        <item>Du kannst jedes Bild als Hintergrund im Spiel einrichten!</item>
+        <item>Sie können schöne Spielmomente aufnehmen und später in Wiederholungen ansehen!</item>
         <item>You can share your replays with other people to show them how you win!</item>
-        <item>This game has full gamepads/controllers support!</item>
+        <item>Dieses Spiel bietet volle Unterstützung für Gamepads/Controller!</item>
     </string-array>
 </resources>
