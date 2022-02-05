@@ -269,7 +269,7 @@
 
     <string name="try_for_free">ÜCRETSİZ deneyin!</string>
     <string name="account">Hesap</string>
-    <string name="dialog_vip_desc_title2">ADS\'den bıktınız mı? DENE</string>
+    <string name="dialog_vip_desc_title2">Reklamlar\'dan bıktınız mı? DENE</string>
     <string name="no_ads">Reklam yok</string>
     <string name="dialog_vip_desc_free_hours">saat &amp; oyun içi <b>madeni paralar</b></string>
     <string name="dialog_vip_desc_ingame_coins">oyun içi<b>madeni paralar</b></string>
@@ -391,7 +391,7 @@
     <string name="floating_dir_pointer">Kayan yön işaretçisi</string>
     <string name="render_bot_desc">
         <![CDATA[Eğer tekrar oynatmanızı kaliteli mp4 videosuna çevirmek istiyorsanız <a href=\"\"><b>DISCORD\'umuza</b></a> katılmalısınız ve tekrar oynatmayı
-        <a href=\'\'><i>#replays-to-convert\'a göndermelisiniz</i></a> chat]]>
+        <a href=\'\'><i>#replays-to-convert\'a göndermelisiniz</i></a>]]>
     </string>
     <string name="get_video">Videoyu al</string>
     <string name="swap_split_throw">Takas BÖLÜNME/ATMA</string>
@@ -409,11 +409,11 @@
     <string name="share_room">Odayı paylaş</string>
     <string name="join_different_region">Farklı bölgeye katıldın, gecikme olabilir!</string>
     <string name="no_google_services_error">Blobu Google Play araçları olmadan veya indirmeden oynamak için oturum açmalısın</string>
-    <string name="vip_price">3 Days free, then %s/mo</string>
+    <string name="vip_price">3 Gün bedava, daha sonra %s/ay</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
-        <item>VIP satın alın ve ADS\'siz oynayın!</item>
+        <item>VIP satın alın ve reklamsız oynayın!</item>
         <item>Arkadaşlarınızla işbirliği yapın ve herhangi bir sunucuyu ele geçirin!</item>
         <item>Özel ayarlarla kendi sunucunuzu oluşturun ve arkadaşlarınızla oynayın!</item>
         <item>Oynanış videoları ile kendi YouTube kanalınızı büyütün, YT sıralaması alın ve popülerlik kazanın!</item>
@@ -432,7 +432,7 @@
         <item>Oynamayı daha rahat hale getirmek için oyun renklerini/parametrelerini ihtiyaçlarınıza göre özelleştirin!</item>
         <item>Arkadaşlarınızı küçük haritada görebilirsiniz!</item>
         <item>İnsanlarla sohbet edin ve yeni arkadaşlar bulun!</item>
-        <item>Oy vermek/sohbet etmek ve güncel kalmak için discord sunucumuza katılın!</item>
+        <item>Oy vermek/sohbet etmek ve güncel kalmak için Discord sunucumuza katılın!</item>
         <item>Gerçek hayattaki arkadaşlarınızı Blob.io\'ya getirin ve birlikte eğlenin!</item>
         <item>Her oyuncunun benzersiz bir kimliği vardır, bunu paylaşabilirsiniz, böylece insanlar sizi Blob\'da bulabilir!</item>
         <item>Pratik yapmak için boş bir sunucuda oynayabilirsiniz!</item>
