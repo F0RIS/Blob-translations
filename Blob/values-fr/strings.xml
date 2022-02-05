@@ -354,7 +354,7 @@
     <string name="private_servers_list">liste des serveurs privés</string>
     <string name="bots">Bots</string>
     <string name="minions">Minions</string>
-    <string name="public_title">Public</string>
+    <string name="public_title">publique</string>
     <string name="server_name">Nom de serveur</string>
 
     <string name="background_image">Image de fond</string>
@@ -376,37 +376,37 @@
     <string name="kill">Tuer</string>
     <string name="death">Mort</string>
     <string name="locally_muted">Locally muted %s</string>
-    <string name="this_game_supports">This game supports</string>
+    <string name="this_game_supports">Ce jeu prend en charge</string>
     <string name="vibration_desc">Set it so you can feel only a gentle touch</string>
-    <string name="buttons_size">Buttons size:</string>
-    <string name="here_is_your_theme_code">Here is your theme code:</string>
-    <string name="import_title">Import</string>
-    <string name="export_title">Export</string>
+    <string name="buttons_size">Taille des boutons:</string>
+    <string name="here_is_your_theme_code">Voici votre code de thème:</string>
+    <string name="import_title">Importer</string>
+    <string name="export_title">Exportation</string>
     <string name="default_title">Default:</string>
-    <string name="too_short_name">The name is too short</string>
+    <string name="too_short_name">Le nom est trop court</string>
     <string name="floating_dir_pointer">Floating dir pointer</string>
     <string name="render_bot_desc">
         <![CDATA[If you want convert your replay into a good quality mp4 video you
         should join our <a href=\"\"><b>DISCORD</b></a> and send replay files in
         <a href=\'\'><i>#replays-to-convert</i></a> chat]]>
     </string>
-    <string name="get_video">Get video</string>
+    <string name="get_video">Obtenir la vidéo</string>
     <string name="swap_split_throw">Swap SPLIT/THROW</string>
     <string name="friends_desc">
-        <![CDATA[<big>You have no friends yet</big><br><br>
+        <![CDATA[<big>Vous n'avez pas encore d'amis</big><br><br>
         - Friends have <font color="#3cc905"><b>green</font></b> nickname in the game<br>
         - You can see them on the <b>minimap</b><br>
         - You can <b>join</b> a room where they play<br>
         - You can <b>invite</b> them to your room<br><br>]]>
     </string>
-    <string name="friends_requests_desc">You have no friend requests yet</string>
-    <string name="show_d_t_buttons">Show D/T buttons</string>
+    <string name="friends_requests_desc">Vous n'avez pas encore de demande d'ami</string>
+    <string name="show_d_t_buttons">Afficher les boutons D/Ts</string>
     <string name="enter_room_ip">Type Room IP</string>
-    <string name="room_ip">Room:</string>
-    <string name="share_room">Share Room</string>
+    <string name="room_ip">Pièce:</string>
+    <string name="share_room">Partager la chambre</string>
     <string name="join_different_region">You join different region, you may have lags!</string>
     <string name="no_google_services_error">You should log in to play Blob without Google Play services or install them</string>
-    <string name="vip_price">3 Days free, then %s/mo</string>
+    <string name="vip_price">3 jours gratuits, puis %s/mois</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
