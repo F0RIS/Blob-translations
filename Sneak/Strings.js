@@ -204,11 +204,11 @@ var LOC_STRINGS = {
         [Strings.sg_eat_remains_outro]: "Vous grandissez très vite quand vous mangez des restes !",
     },
     tr: {
-        [Strings.kill_streak]: "öldürüş serisi!",
+        [Strings.kill_streak]: "Öldürüş serisi!",
         [Strings.revenge]: "İntikam!",
         [Strings.ghost_activated]: "Hayalet takviyesi etkinleştirildi!",
-        [Strings.headshot]: "Headshot!",
-        [Strings.first_blood]: "İlk kan!",
+        [Strings.headshot]: "Kafa Vuruşu!",
+        [Strings.first_blood]: "İlk Kan!",
         [Strings.double_kill]: "Çifte Öldürüş!",
         [Strings.triple_kill]: "Üçlü Öldürüş!",
         [Strings.monster_kill]: "Canavar Öldürüş!",
@@ -219,7 +219,7 @@ var LOC_STRINGS = {
         [Strings.sg_excellent]: "Harika!",
         [Strings.sg_finish]: "Tebrikler!\Başlangıç kılavuzunu bitirdiniz!",
 
-        [Strings.sg_welcome_intro]: "Hoşgeldiniz Sneak!",
+        [Strings.sg_welcome_intro]: "Sneak'e hoşgeldiniz!",
         [Strings.sg_welcome_text]: "Bu bir başlangıç kılavuzudur!\nBu mesajları okuyun ve istediklerini yapın!",
 
         [Strings.sg_eat_food_intro]: "Nasıl büyüyeceğimizi öğrenelim!",
