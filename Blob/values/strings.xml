@@ -6,7 +6,9 @@
     <string name="ok" translatable="false">OK</string>
 
     <string name="default_name">Don\'t eat me!</string>
-    <string name="intent_prefix" translatable="false">blob.io</string>
+    <string name="intent_prefix1" translatable="false">blobgame.io</string>
+    <string name="intent_prefix2" translatable="false">client.blobgame.io</string>
+    <string name="intent_prefix3" translatable="false">custom.client.blobgame.io</string>
 
     <string name="cancel">Cancel</string>
     <string name="error">Error</string>
