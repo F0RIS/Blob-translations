@@ -383,23 +383,23 @@
         should join our <a href=\"\"><b>DISCORD</b></a> and send replay files in
         <a href=\'\'><i>#replays-to-convert</i></a> chat]]>
     </string>
-    <string name="get_video">Get video</string>
-    <string name="swap_split_throw">Swap SPLIT/THROW</string>
+    <string name="get_video">احصل على الفيديو</string>
+    <string name="swap_split_throw">مبادلة انقسام / رمي</string>
     <string name="friends_desc">
-        <![CDATA[<big>You have no friends yet</big><br><br>
+        <![CDATA[<big>ليس لديك أصدقاء بعد</big><br><br>
         - Friends have <font color="#3cc905"><b>green</font></b> nickname in the game<br>
         - You can see them on the <b>minimap</b><br>
         - You can <b>join</b> a room where they play<br>
         - You can <b>invite</b> them to your room<br><br>]]>
     </string>
-    <string name="friends_requests_desc">You have no friend requests yet</string>
-    <string name="show_d_t_buttons">Show D/T buttons</string>
-    <string name="enter_room_ip">Type Room IP</string>
-    <string name="room_ip">Room:</string>
-    <string name="share_room">Share Room</string>
+    <string name="friends_requests_desc">ليس لديك طلبات صداقة حتى الآن</string>
+    <string name="show_d_t_buttons">إظهار أزرار D / T</string>
+    <string name="enter_room_ip">اكتب عنوان IP للغرفة</string>
+    <string name="room_ip">غرفة:</string>
+    <string name="share_room">مشاركة الغرفه</string>
     <string name="join_different_region">You join different region, you may have lags!</string>
     <string name="no_google_services_error">You should log in to play Blob without Google Play services or install them</string>
-    <string name="vip_price">3 Days free, then %s/mo</string>
+    <string name="vip_price">3 أيام مجانًا ، ثم%s/شهر</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
