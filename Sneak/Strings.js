@@ -69,8 +69,8 @@ var LOC_STRINGS = {
 
         [Strings.sg_kill_snake_intro]: "Let's learn how to defeat other snakes!⚔️",
         [Strings.sg_kill_snake_text]: "Make other snakes hit your tail",
-        [Strings.sg_eat_remains_intro]: "Now eat remains of that snake!",
-        [Strings.sg_eat_remains_text]: "Eat remains of that snake!\nRemains",
+        [Strings.sg_eat_remains_intro]: "Now eat remains of any snake!",
+        [Strings.sg_eat_remains_text]: "Eat remains of any snake!\nRemains",
         [Strings.sg_eat_remains_outro]: "You grow really fast when you eat remains!",
     },
     ru: {
@@ -99,7 +99,7 @@ var LOC_STRINGS = {
         [Strings.sg_speed_up_text]: "Нажми и УДЕРЖИВАЙ кнопку скорости 🚀\nУскоряйся в течение",
         [Strings.sg_speed_up_info]: "Когда ты ускоряешься, ты теряешь массу \nи быстрее становишься меньше!",
 
-        [Strings.sg_kill_snake_intro]: "Научимся побеждать других змеейк!⚔️",
+        [Strings.sg_kill_snake_intro]: "Научимся побеждать других змеек!⚔️",
         [Strings.sg_kill_snake_text]: "Виляй так чтобы другие змейки \nударялись о твой хвост",
         [Strings.sg_eat_remains_intro]: "Теперь ешь остатки этой змейки!",
         [Strings.sg_eat_remains_text]: "Ешь остатки этой змейки!\nОстатки",
