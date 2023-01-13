@@ -145,7 +145,7 @@
     <string name="lvls" translatable="false">LVLs</string>
     <string name="yt_nick" translatable="false">Chat suffix</string>
     <string name="youtube" translatable="false">YouTube</string>
-    <string name="email" translatable="false"><u>blobgame@ya.ru</u></string>
+    <string name="email" translatable="false"><u>blob.game.main@gmail.com</u></string>
     <string name="coming_soon" translatable="false">Coming soon</string>
     <string name="button_next_title" translatable="false">NEXT</string>
     <string name="button_fly_title" translatable="false">FLY</string>
@@ -494,6 +494,11 @@
     <string name="join_different_region">You join different region, you may have lags!</string>
     <string name="no_google_services_error">You should log in to play Blob without Google Play services or install them</string>
     <string name="vip_price">3 Days free, then %s/mo</string>
+    <string name="vip_price_desc">Payment will start automatically after free trial unless it\'s cancelled</string>
+    <string name="animated">Animated</string>
+    <string name="animated_skins">Animated skins</string>
+    <string name="skins_anim_desc">These skins are animated! You can use them with any nickname!</string>
+    <string name="skins_anim_desc2">You can disable certain skins that you don\'t like by unchecking them.</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

@@ -410,6 +410,11 @@
     <string name="join_different_region">Farklı bölgeye katıldın, gecikme olabilir!</string>
     <string name="no_google_services_error">Blobu Google Play araçları olmadan veya indirmeden oynamak için oturum açmalısın</string>
     <string name="vip_price">3 Gün bedava, daha sonra %s/ay</string>
+    <string name="vip_price_desc">İptal edilmediği sürece, ödeme ücretsiz denemeden sonra otomatik olarak başlayacaktır.</string>
+    <string name="animated">Animated</string>
+    <string name="animated_skins">Animated skins</string>
+    <string name="skins_anim_desc">These skins are animated! You can use them with any nickname!</string>
+    <string name="skins_anim_desc2">You can disable certain skins that you don\'t like by unchecking them.</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

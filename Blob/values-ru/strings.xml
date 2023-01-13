@@ -406,6 +406,11 @@
     <string name="join_different_region">Вы заходите на другой регион, из-за этого может лагать!</string>
     <string name="no_google_services_error">Ты должен авторизоваться чтобы играть без Google Play сервисов. Или установи их</string>
     <string name="vip_price">3 дня бесплатно, затем %s/мес</string>
+    <string name="vip_price_desc">Оплата начнется автоматически после бесплатной пробной версии, если она не будет отменена.</string>
+    <string name="animated">Animated</string>
+    <string name="animated_skins">Animated skins</string>
+    <string name="skins_anim_desc">These skins are animated! You can use them with any nickname!</string>
+    <string name="skins_anim_desc2">You can disable certain skins that you don\'t like by unchecking them.</string>
 
     <string-array name="hints">
         <item>Купи ВИП чтобы избавиться от рекламы!</item>

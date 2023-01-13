@@ -407,6 +407,11 @@
     <string name="join_different_region">You join different region, you may have lags!</string>
     <string name="no_google_services_error">You should log in to play Blob without Google Play services or install them</string>
     <string name="vip_price">3 jours gratuits, puis %s/mois</string>
+    <string name="vip_price_desc">Le paiement commencera automatiquement après l\'essai gratuit, sauf s\'il est annulé</string>
+    <string name="animated">Animated</string>
+    <string name="animated_skins">Animated skins</string>
+    <string name="skins_anim_desc">These skins are animated! You can use them with any nickname!</string>
+    <string name="skins_anim_desc2">You can disable certain skins that you don\'t like by unchecking them.</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
