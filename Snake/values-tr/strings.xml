@@ -37,15 +37,13 @@
     <string name="connection_lost">Bağlantı kesildi</string>
     <string name="cant_connect">Sunucuya bağlanılamıyor. Lütfen tekrar deneyiniz</string>
     <string name="about_title">Hakkında</string>
-    <string name="about_text">&#032;&#032;Blob Android istemcisi %1$s \n\n
-        &#032;Önerilerinizi buraya gönderebilirsiniz:
-    </string>
+    <string name="about_text">"&#032;&#032;Viper.io Android istemcisi %1$s \n\n\n        &#032;Önerilerinizi buraya gönderebilirsiniz:\n    "</string>
     <string name="check_update">Güncellemeleri Kontrol Et!</string>
     <string name="score_result">%1$s puan kazandınız</string>
     <string name="you_set_new_record">Bu oyun modunda yeni bir rekor kırdın!</string>
     <string name="share">Paylaş</string>
-    <string name="share_text">Beni Blob.io\'da yenebileceğini mi düşünüyorsun? Hah, şansını dene! :) #blob_game %1$s</string>
-    <string name="share_score_text">Blob.io\'da %1$d puan aldım! Gel benimle oyna! #blob_game %2$s</string>
+    <string name="share_text">Beni Viper.io\'da yenebileceğini mi düşünüyorsun? Hah, şansını dene! :) #viper_io_game %1$s</string>
+    <string name="share_score_text">Viper.io\'da %1$d puan aldım! Gel benimle oyna! #viper_io_game %2$s</string>
     <string name="records">Kayıtlar</string>
     <string name="spec_mode_after_death">Ölümden sonra izle</string>
     <string name="darkTheme">Koyu tema</string>
@@ -56,17 +54,21 @@
     <string name="creating_party">Parti oluşturuluyor...</string>
     <string name="vibration">Titreşim</string>
     <string name="game_mechanic_description">
-        &#160;&#160;- Ne kadar büyük olursanız, o kadar yavaş hareket edersiniz.\n
-        &#160;- İki küçük parçaya bölünmek için ilgili düğmeye dokunun. Yarınızı hızlıca ileri atmak için bölünün-diğer oyuncuları yemek için bu numarayı kullanın.\n
-        &#160;- Ayrı parçalara ayrılırsanız, belirli bir süre geçtikten sonra tek bir parça halinde yeniden birleşebilirsiniz. Parçalarınız ne kadar büyükse, yeniden birleştirmeden önce o kadar uzun süre beklemeniz gerekir.\n
-        &#160;- Dikenden daha küçükseniz, o zaman korumak için içinde saklanabilirsin, ancak dikkatli ol, eğer bir virüsten daha büyükseniz, seni birçok küçük parçaya dönüştürecektir.\n
-        &#160;- Kütlenizin bir kısmını içine atarak dikenleri ayırabilir ve başka parçalara çarpabilirsiniz.\n
-        &#160;- Sizinle aynı boydaki oyuncular tarafından yenemez veya yiyemezsiniz.\n
-        Kontroller:\n
-        &#160;- Hücrenizi hareket ettirmek veya oyun kolunu kullanmak için ekranda herhangi bir yere dokunun.\n
-        &#160;- Kütleyi bölmek veya çıkarmak için ilgili düğmeye dokunun.\n
-        &#160; Ana menüdeki soru işareti simgesine tıklayarak bu bilgiyi tekrar okuyabilirsiniz.\n
-        &#160; Bir şeyler ters giderse, uygulamayı yeniden başlatın ve RAM\'i temizleyin.\n
+        Viper.io is an online multiplayer battle of snakes. Become the biggest snake to be on top.\n
+        Avoid collisions with other snakes and make others crash into you.\n
+        Pick up boosters and food to get extra abilities and grow bigger\n\n
+        Game features:\n
+        - online multiplayer game\n
+        - different game modes\n
+        - a lot of free skins\n
+        - record lists for every game mode\n
+        - lots of quests\n
+        - free daily and hourly coins\n
+        - ability to play together with your friends\n
+        - built-in chat\n\n
+
+        You can read this info again by clicking on the question mark icon in the main menu.\n
+        If something went wrong, restart the application and clear RAM.\n
     </string>
     <string name="first_start_dialog_title">Oyun mekaniği</string>
     <string name="update_title">Güncelleme mevcut!</string>
@@ -217,11 +219,10 @@
         \n
         1.) Diğer oyunculara hakaret etmeyin.\n
         2.) MODERATÖR gibi davranmayın.\n
-        3.) Blob.io hesaplarını oyun içinde veya dışında değiştirmeyin.\n
+        3.) Viper.io hesaplarını oyun içinde veya dışında değiştirmeyin.\n
         4.) Oyunun en üst Sıralamasına ulaşmak için hile yapmayın.\n
         5.) Oyunda uygunsuz isimler kullanmayın.\n
         6.) Oyundaki hatalardan/açıklardan yararlanmayın.\n
-        7.) TAKIM modunda veya TS2v2\'de karşı takımdan biriyle takım yapmayın. (ÇAPRAZ TAKIM)\n
     </string>
     <string name="top_week_exp_desc">Hafta boyunca olabildiğince çok XP alın ve ödül olarak madeni para kazanın!</string>
     <string name="server_app_description">Bu uygulama ile kendi sunucunuzu oluşturabilir ve çevrimdışı veya arkadaşlarınızla oynayabilirsiniz!</string>
@@ -294,7 +295,7 @@
     <string name="help">Yardım</string>
     <string name="web_ver_desc">PC oyuncuları için bir WEB sürümümüz var!</string>
     <string name="share_request">Bu öğenin kilidini açmak için oyunu paylaşın!</string>
-    <string name="share_lvl_text">Blob.io\'da %s seviyesine ulaştım! Daha iyisini yapabilir misin!?</string>
+    <string name="share_lvl_text">Viper.io\'da %s seviyesine ulaştım! Daha iyisini yapabilir misin!?</string>
     <string name="share_double_coins">Sonucunuzu paylaşın ve madeni paraları ÇİFT kazanın!</string>
 
     <string name="guide_text1"><![CDATA[Hareket ettirin ve büyümek için <b>yiyecek</b> (küçük noktalar)\'leri yiyin!]]> </string>
@@ -303,7 +304,7 @@
     <string name="guide_text4"><![CDATA[<b>Dikenlerden</b> uzak durun!]]> </string>
     <string name="guide_text5">
           <![CDATA[Bu oyunun <b>güçlü internete </b> ihtiyacı var! Wi-Fi\'nize daha yakın oturun, <b> BLUETOOTH </b> \'u devre dışı bırakın,
-        mobil internet (veri) tavsiye edilmez! Çevrimdışı oynamak için <b><i><font color="#1A0DAB">Blob Sunucusunu</font></i></b> kullanın!]]>
+        mobil internet (veri) tavsiye edilmez!]]>
     </string>
     <string name="guide_select_region">En yakın bölgeyi seçin!(daha düşük numara/ping ile)</string>
 
@@ -408,18 +409,25 @@
     <string name="room_ip">Oda:</string>
     <string name="share_room">Odayı paylaş</string>
     <string name="join_different_region">Farklı bölgeye katıldın, gecikme olabilir!</string>
-    <string name="no_google_services_error">Blobu Google Play araçları olmadan veya indirmeden oynamak için oturum açmalısın</string>
+    <string name="no_google_services_error">Viper Google Play araçları olmadan veya indirmeden oynamak için oturum açmalısın</string>
     <string name="vip_price">3 Gün bedava, daha sonra %s/ay</string>
     <string name="vip_price_desc">İptal edilmediği sürece, ödeme ücretsiz denemeden sonra otomatik olarak başlayacaktır.</string>
     <string name="animated">Animated</string>
-    <string name="animated_skins">Animasyonlu dış görünümler</string>
-    <string name="skins_anim_desc">Bu deriler animasyonlu! Onları herhangi bir takma adla kullanabilirsiniz!</string>
-    <string name="skins_anim_desc2">Beğenmediğiniz belirli dış görünümleri işaretlerini kaldırarak devre dışı bırakabilirsiniz.</string>
+    <string name="animated_skins">Animated skins</string>
+    <string name="skins_anim_desc">These skins are animated! You can use them with any nickname!</string>
+    <string name="skins_anim_desc2">You can disable certain skins that you don\'t like by unchecking them.</string>
     <string name="custom_sever_help"><![CDATA[If you need help with server creation you should join our
         <a href=\\\"\\\"><b>DISCORD</b></a> and check <a href=\\\'\\\'><i>#private-server-configs</i></a> chat to get help]]>
     </string>
-    <string name="skins_anim_custom_desc">Burada animasyonlu görünümleri özelleştirebilir ve farklı görünmelerini/davranmalarını sağlayabilirsiniz!</string>
-    <string name="eat_animation">Animasyon yiyin</string>
+    <string name="sguide_text1"><![CDATA[Make other snakes <b>hit your tail</b> to kill them]]></string>
+    <string name="sguide_text2"><![CDATA[Eat <b>loot</b> that they leave to grow]]></string>
+    <string name="sguide_text3"><![CDATA[<b>Surround</b> your enemy and wait until he gives up]]></string>
+    <string name="revive">Canlandırmak</string>
+    <string name="gm_revive_desc">Bu oyun modunda video reklamları izleyerek kütlenizin bir kısmı ile canlanabilirsiniz!</string>
+    <string name="gm_friends_desc">Bu oyun modunda arkadaşlarınızı/takım arkadaşlarınızı öldüremez veya onlar tarafından öldürülemezsiniz!🤝</string>
+    <string name="party_code_title">Parti kodunu yazın</string>
+    <string name="party_code_is_too_short">Parti kodu çok kısa</string>
+    <string name="party_code_desc">Partide oynamak için arkadaşınızla aynı kodu yazın!</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -433,7 +441,7 @@
         <item>5\'e 5\'e kadar takım hücumu yapabilirsiniz!</item>
         <item>Oyunda küçük haritaya tıklayarak büyük bir harita açabilirsiniz!</item>
         <item>Telefonunuza bir fare bağlayabilir ve onunla PC\'deki gibi oynayabilirsiniz!</item>
-        <item>Kendi sunucunuzu çevrimdışı oluşturmak için Blob Sunucusu uygulamasını kullanın!</item>
+        <item>Kendi sunucunuzu çevrimdışı oluşturmak için Viper Sunucusu uygulamasını kullanın!</item>
         <item>Sohbetin yanındaki üçgene tıklayın ve arkadaşlarınızı sunucunuza davet edin!</item>
         <item>Seviye atlamak ve oyuna daha fazla kütle ile başlamak için giriş yapın!</item>
         <item>Daha fazla kazanmak ve daha hızlı seviye atlamak için MASS/XP güçlendiricilerini kullanın!</item>
@@ -443,14 +451,14 @@
         <item>Arkadaşlarınızı küçük haritada görebilirsiniz!</item>
         <item>İnsanlarla sohbet edin ve yeni arkadaşlar bulun!</item>
         <item>Oy vermek/sohbet etmek ve güncel kalmak için Discord sunucumuza katılın!</item>
-        <item>Gerçek hayattaki arkadaşlarınızı Blob.io\'ya getirin ve birlikte eğlenin!</item>
-        <item>Her oyuncunun benzersiz bir kimliği vardır, bunu paylaşabilirsiniz, böylece insanlar sizi Blob\'da bulabilir!</item>
+        <item>Gerçek hayattaki arkadaşlarınızı Viper.io\'ya getirin ve birlikte eğlenin!</item>
+        <item>Her oyuncunun benzersiz bir kimliği vardır, bunu paylaşabilirsiniz, böylece insanlar sizi Viper\'da bulabilir!</item>
         <item>Pratik yapmak için boş bir sunucuda oynayabilirsiniz!</item>
         <item>Değiştirmek veya sunucu listesini açmak için IP etiketine tıklayabilirsiniz!</item>
         <item>Güncel kalmak, arkadaşlar bulmak ve becerilerinizi geliştirmek için sosyal medya hesaplarımıza katıldığınızdan emin olun!</item>
         <item>Her zaman yeni oyun modlarını deneriz. Bunları sunucular listesinde (resmi olmayan kategori)\'de bulabilirsiniz!</item>
         <item>Resmi olmayan harika test oyun modlarımız var!)</item>
-        <item>Bu oyunda yeniyseniz, YouTube\'da diğer insanların Blob\'da nasıl oynadığına bakın! Harika</item>
+        <item>Bu oyunda yeniyseniz, YouTube\'da diğer insanların Viper.io\'da nasıl oynadığına bakın! Harika</item>
         <item>Wi-Fi\'nize daha yakın oturun, mobil internet önerilmez!</item>
         <item>Ağ gecikmelerini azaltmak için BLUETOOTH\'u devre dışı bırakın!</item>
         <item>Ağ gecikmelerini azaltmak için BLUETOOTH\'u devre dışı bırakın!</item>

@@ -36,16 +36,14 @@
     <string name="connection_lost">فقد الإتصال</string>
     <string name="cant_connect">لا يمكن الإتصال</string>
     <string name="about_title">بشأن</string>
-    <string name="about_text">&#032;&#032;Blob Android Client %1$s \n\n
-        &#032; يمكنك أن تبعث لنا اقتراحاتك هنا:
-    </string>
+    <string name="about_text">"&#032;&#032;Viper.io Android Client %1$s            &#032; يمكنك أن تبعث لنا اقتراحاتك هنا:     "</string>
 
     <string name="check_update">تحقق من وجود تحديث</string>
     <string name="score_result">%1$s لقد حصلت على </string>
     <string name="you_set_new_record">لقد قمت بفعل رقم قياسي جديد!</string>
     <string name="share">المشاركة</string>
-    <string name="share_text">#blob_game %1$s !هل تعتقد أنه يمكنك هزيمتي في بلوب؟ جرب حظك</string>
-    <string name="share_score_text"> %1$s العب معي! لقد حصلت على #blob_game %2$s</string>
+    <string name="share_text">#viper_io_game %1$s !هل تعتقد أنه يمكنك هزيمتي في بلوب؟ جرب حظك</string>
+    <string name="share_score_text"> %1$s العب معي! لقد حصلت على #viper_io_game %2$s</string>
     <string name="records">السجلات</string>
     <string name="spec_mode_after_death">وضع المشاهدة بعد الموت</string>
     <string name="darkTheme">شكل مظلم</string>
@@ -59,18 +57,21 @@
     <string name="creating_party">جاري الإنشاء...</string>
     <string name="vibration">الإهتزاز</string>
     <string name="game_mechanic_description">
-        &#160;&#160;- كلما كنت كبيرا، كلما كانت حركتك بطيئة.\n
-        &#160;- أنقر على زر التفرق لكي تنقسم و تندفع لأكل اللاعبين الآخرين.\n
-        &#160;- إذا كنت منقسما إلى أجزاء يمكن لك التجمع بعد مرور فترة، كلما كنت كبير كلما إزدادت فترة التجمع.\n
-        &#160;- يمكنك الإختباء وراء الفيروس إذا كنت أصغر منه حجما، و لكن إذا كنت أكبر ستفرقع إلى عدة أجزاء صغيرة.\n
-        &#160;- يمكنك الرمي بالفيروسات عن طريق إطعامهم.\n
-        &#160;- لا يمكنك أكل أو أن تؤكل من قبل اللاعبين الذين لهم نفس الحجم معك.\n
-        التحكم: \n
-        &#160;- انقر في أي مكان على الشاشة للتحرك، أو استعمل عصا التحكم.\n
-        &#160;- اضغط على الأزرار المحددة لكل عملية للقيام بها.\n
-        &#160;- إذا حدث خلل ما، قم بإعادة فتح اللعبة و إخلاء الرام.\n
-        &#160;- يمكنك إعادة قراءة هذه المعلومات عن طريقة الضغط على علامة الإستفهام الموجودة في القائمة الرئيسية.\n
+        Viper.io is an online multiplayer battle of snakes. Become the biggest snake to be on top.\n
+        Avoid collisions with other snakes and make others crash into you.\n
+        Pick up boosters and food to get extra abilities and grow bigger\n\n
+        Game features:\n
+        - online multiplayer game\n
+        - different game modes\n
+        - a lot of free skins\n
+        - record lists for every game mode\n
+        - lots of quests\n
+        - free daily and hourly coins\n
+        - ability to play together with your friends\n
+        - built-in chat\n\n
 
+        You can read this info again by clicking on the question mark icon in the main menu.\n
+        If something went wrong, restart the application and clear RAM.\n
     </string>
     <string name="first_start_dialog_title">ميكانيك اللعبة</string>
     <string name="update_title">يوجد إصدار جديد</string>
@@ -223,7 +224,6 @@
         4.) لا تغش للوصول إلى أعلى تصنيف في اللعبة.\n
         5.) لا تستخدم أسماء غير لائقة في اللعبة.\n
         6.) لا تستفيد من خطأ أو عطب في اللعبة.\n
-        7.) لا تلعب مع شخص في فريق من غير فريقك.\n
     </string>
     <string name="top_week_exp_desc">أحصل على أكبر قدر من الإكس بي في الأسبوع و اربح مكافأة نقدية.</string>
     <string name="server_app_description">مع بلوب، يمكن لك إنشاء خادم خاص بك و اللعب لوحدك أو مع أصدقائك!</string>
@@ -397,19 +397,26 @@
     <string name="enter_room_ip">اكتب عنوان IP للغرفة</string>
     <string name="room_ip">غرفة:</string>
     <string name="share_room">مشاركة الغرفه</string>
-    <string name="join_different_region">إذا انضممت إلى منطقة مختلفة ، فقد يكون لديك تأخيرات!</string>
+    <string name="join_different_region">You join different region, you may have lags!</string>
     <string name="no_google_services_error">You should log in to play Blob without Google Play services or install them</string>
     <string name="vip_price">3 Days free, then %s/mo</string>
     <string name="vip_price_desc">Payment will start automatically after free trial unless it\'s cancelled</string>
     <string name="animated">Animated</string>
-    <string name="animated_skins">جلود متحركة</string>
-    <string name="skins_anim_desc">هذه الأشكال متحركة! يمكنك استخدامها مع أي لقب!</string>
-    <string name="skins_anim_desc2">يمكنك تعطيل بعض الأسطح التي لا تحبها عن طريق إلغاء تحديدها.</string>
+    <string name="animated_skins">Animated skins</string>
+    <string name="skins_anim_desc">These skins are animated! You can use them with any nickname!</string>
+    <string name="skins_anim_desc2">You can disable certain skins that you don\'t like by unchecking them.</string>
     <string name="custom_sever_help"><![CDATA[If you need help with server creation you should join our
         <a href=\\\"\\\"><b>DISCORD</b></a> and check <a href=\\\'\\\'><i>#private-server-configs</i></a> chat to get help]]>
     </string>
-    <string name="skins_anim_custom_desc">هنا يمكنك تخصيص الأشكال المتحركة وجعلها تبدو / تتصرف بشكل مختلف!</string>
-    <string name="eat_animation">أكل الرسوم المتحركة</string>
+    <string name="sguide_text1"><![CDATA[Make other snakes <b>hit your tail</b> to kill them]]></string>
+    <string name="sguide_text2"><![CDATA[Eat <b>loot</b> that they leave to grow]]></string>
+    <string name="sguide_text3"><![CDATA[<b>Surround</b> your enemy and wait until he gives up]]></string>
+    <string name="revive">اعادة احياء</string>
+    <string name="gm_revive_desc">في وضع اللعبة هذا ، يمكنك إحياء جزء من كتلتك من خلال مشاهدة إعلانات الفيديو!</string>
+    <string name="gm_friends_desc">في وضع اللعبة هذا ، لا يمكنك القتل أو القتل على يد أصدقائك!</string>
+    <string name="party_code_title">اكتب رمز الحزب</string>
+    <string name="party_code_is_too_short">رمز الحزب قصير جدًا</string>
+    <string name="party_code_desc">اكتب نفس الرمز مع صديقك للعب في الحفلة!</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

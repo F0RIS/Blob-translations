@@ -36,19 +36,15 @@
     <string name="connection_lost">Conexão perdida!</string>
     <string name="cant_connect">Não foi possível se conectar, por favor, tente novamente!</string>
     <string name="about_title">Sobre</string>
-    <string name="about_text">&#032; Cliente Android Blob %1$s \n\n
-
-	&#032;Você pode enviar-nos sugestões através deste e-mail:
-        <!--<i>E-mail: blobgame@ya.ru</i>\n-->
-
-    </string>
+    <string name="about_text">"&#032; Cliente Android Viper.io %1$s \n\n\n\n\t&#032;Você pode enviar-nos sugestões através deste e-mail:\n
+        \n\n    "</string>
 
     <string name="check_update">Checar atualização</string>
     <string name="score_result">Pontuação final: %1$s</string>
     <string name="you_set_new_record">Você atingiu um novo recorde nesse modo de jogo!</string>
     <string name="share">Compartilhar</string>
-    <string name="share_text">Você acha que consegue me derrotar? Haha :) #blob_game %1$s</string>
-    <string name="share_score_text">Eu consegui %1$d pontuação no Blob io! Jogue comigo! #blob_game %2$s</string>
+    <string name="share_text">Você acha que consegue me derrotar? Haha :) #viper_io_game %1$s</string>
+    <string name="share_score_text">Eu consegui %1$d pontuação no Viper.io! Jogue comigo! #viper_io_game %2$s</string>
     <string name="records">Recordes</string>
     <string name="spec_mode_after_death">Espectar após a morte</string>
     <string name="darkTheme">Tema escuro</string>
@@ -59,18 +55,21 @@
     <string name="creating_party">Criando partida...</string>
     <string name="vibration">Vibração</string>
     <string name="game_mechanic_description">
-        &#160;- Quanto maior você é, mais lento você se move\n
-        &#160;- Toque no botão relevante para dividir em dois blobs menores. A metade de vocês dispara rapidamente, use esse truque para atacar outros jogadores e coma-os.\n
-        &#160;- Se você está dividido, você pode se recombinar em um blob depois de um certo período de tempo ter passado, quanto maior forem as suas gotas, mais você deve aguardar antes que você possa se formar novamente em um blob\n
-        &#160;- Se você é menor do que o spikeballs, então você pode se esconder dentro deles para proteção, mas cuidado, se você é maior do que um spikeball, em seguida, tocar isso faz com que você explodisse em muitas pequenas gotas.\n
-        &#160;- Você pode fazer spikeballs para dividir e alguém, jogando alguma sua massa nele.\n
-        &#160;- Você não pode comer ou ser comido por jogadores exatamente do mesmo tamanho que você.\n
-        &#160;- Controles: Toque em qualquer lugar na tela para mover seu blob ou use joystick.\n
-        &#160;- Toque no botão correspondente para dividir ou ejetar alguma massa.\n\n
-        &#160;- Você pode ler esta informação novamente clicando no ícone com ponto de interrogação no menu e selecionando "Info".\n
-        &#160;- Reinicie o aplicativo e limpe a RAM, se algo deu errado.\n
-        &#160;- Além disso, você pode desativar a exibição de nomes e massa para evitar atrasos.\n
+        Viper.io is an online multiplayer battle of snakes. Become the biggest snake to be on top.\n
+        Avoid collisions with other snakes and make others crash into you.\n
+        Pick up boosters and food to get extra abilities and grow bigger\n\n
+        Game features:\n
+        - online multiplayer game\n
+        - different game modes\n
+        - a lot of free skins\n
+        - record lists for every game mode\n
+        - lots of quests\n
+        - free daily and hourly coins\n
+        - ability to play together with your friends\n
+        - built-in chat\n\n
 
+        You can read this info again by clicking on the question mark icon in the main menu.\n
+        If something went wrong, restart the application and clear RAM.\n
     </string>
     <string name="first_start_dialog_title">Mecanismo do jogo</string>
     <string name="update_title">Atualização disponível!</string>
@@ -222,11 +221,10 @@
         \n
         1.) Não insulte outros jogadores.\n
         2.) Não finja ser um MODERADOR.\n
-        3.) Não negocie a sua conta BLOB.\n
+        3.) Não negocie a sua conta Viper.\n
         4.) Não trapaceie para alcançar o TOP.1 no placar.\n
         5.) Não use nomes inapropriados em jogo.\n
         6.) Não tire proveito de falhas que possam ter no jogo.\n
-        7.) Não faça time com alguém que já tenha equipe, conforme dito na regra N° 4.\n
     </string>
     <string name="top_week_exp_desc">Recolha o máximo de EXP durante uma semana, e você ganhará recompensas!</string>
     <string name="server_app_description">Com este aplicativo, você pode criar seu próprio servidor e jogar offline ou com amigos!</string>
@@ -294,7 +292,7 @@
     <string name="help">Ajuda</string>
     <string name="web_ver_desc">Nós temos uma versão de internet para jogadores de PC!</string>
     <string name="share_request">Compartilhe o jogo para conseguir este item!</string>
-    <string name="share_lvl_text">Eu acabei de desbloquear o LVL %s no Blob.io! Você consegue me ultrapassar!?</string>
+    <string name="share_lvl_text">Eu acabei de desbloquear o LVL %s no Viper.io! Você consegue me ultrapassar!?</string>
     <string name="share_double_coins">Compartilhe o seu resultado e ganhará o DOBRO de moedas!</string>
 
     <string name="guide_text1"><![CDATA[Recolha <b>comida</b> para crescer!]]></string>
@@ -303,7 +301,7 @@
     <string name="guide_text4"><![CDATA[Fique longe dos <b>vírus</b>!]]></string>
     <string name="guide_text5">
         <![CDATA[Este jogo necessita de <b>uma internet forte</b>! Jogue próximo do seu Wi-Fi, desabilitar <b>BLUETOOTH</b>,
-        dados móveis nós não recomendamos! Use <b><i><font color="#1A0DAB">Blob Server</font></i></b> para jogar offline!]]>
+        dados móveis nós não recomendamos!]]>
     </string>
     <string name="guide_select_region">Selecione a região mais próxima!</string>
 
@@ -407,14 +405,21 @@
     <string name="vip_price">3 Days free, then %s/mo</string>
     <string name="vip_price_desc">O pagamento começará automaticamente após a avaliação gratuita, a menos que seja cancelado</string>
     <string name="animated">Animated</string>
-    <string name="animated_skins">Skins animadas</string>
-    <string name="skins_anim_desc">Essas skins são animadas! Você pode usá-los com qualquer apelido!</string>
-    <string name="skins_anim_desc2">Você pode desabilitar certas capas que não gosta desmarcando-as.</string>
+    <string name="animated_skins">Animated skins</string>
+    <string name="skins_anim_desc">These skins are animated! You can use them with any nickname!</string>
+    <string name="skins_anim_desc2">You can disable certain skins that you don\'t like by unchecking them.</string>
     <string name="custom_sever_help"><![CDATA[If you need help with server creation you should join our
         <a href=\\\"\\\"><b>DISCORD</b></a> and check <a href=\\\'\\\'><i>#private-server-configs</i></a> chat to get help]]>
     </string>
-    <string name="skins_anim_custom_desc">Aqui você pode customizar skins animadas e fazer com que pareçam/se comportem de forma diferente!</string>
-    <string name="eat_animation">Comer animação</string>
+    <string name="sguide_text1"><![CDATA[Make other snakes <b>hit your tail</b> to kill them]]></string>
+    <string name="sguide_text2"><![CDATA[Eat <b>loot</b> that they leave to grow]]></string>
+    <string name="sguide_text3"><![CDATA[<b>Surround</b> your enemy and wait until he gives up]]></string>
+    <string name="revive">Reviver</string>
+    <string name="gm_revive_desc">Neste modo de jogo, você pode reviver com parte de sua massa assistindo a anúncios em vídeo!</string>
+    <string name="gm_friends_desc">Neste modo de jogo você não pode matar ou ser morto por seus amigos/companheiros de equipe!🤝</string>
+    <string name="party_code_title">Digite o código da festa</string>
+    <string name="party_code_is_too_short">O código da festa é muito curto</string>
+    <string name="party_code_desc">Digite o mesmo código com seu amigo para jogar em grupo!</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
@@ -438,14 +443,14 @@
         <item>Você pode ver seus amigos no minimap!</item>
         <item>Converse com outras pessoas e encontre novos amigos!</item>
         <item>Junte-se ao nosso servidor do Discord para votar/conversar e estar atualizado!</item>
-        <item>Traga seus amigos da vida real em Blob para se divertir juntos!</item>
-        <item>Cada jogador tem um ID único, você pode compartilhá-lo para que as pessoas possam encontrá-lo no Blob!</item>
+        <item>Traga seus amigos da vida real em Viper.io para se divertir juntos!</item>
+        <item>Cada jogador tem um ID único, você pode compartilhá-lo para que as pessoas possam encontrá-lo no Viper!</item>
         <item>Você pode jogar em um servidor vazio, para treinar!</item>
         <item>Você pode clicar no rótulo IP e alterá-lo ou abrir lista de servidores!</item>
         <item>Certifique-se de juntar-se as nossas redes sociais para estar atualizado, encontrar amigos e melhorar suas habilidades!</item>
         <item>Nós sempre experimentamos novos modos de jogo. Você pode encontrá-los na lista de servidores (servidores não oficiais)!</item>
         <item>Temos incríveis modos de jogo de teste em não oficiais!)</item>
-        <item>Se você é novo no jogo, veja no YouTube como outras pessoas arrasam no Blob! É incrível!</item>
+        <item>Se você é novo no jogo, veja no YouTube como outras pessoas arrasam no Viper.io! É incrível!</item>
         <item>Jogue próximo do seu Wi-Fi, dados móveis nós não recomendamos!!</item>
         <item>Desative o BLUETOOTH para diminuir os atrasos!</item>
         <item>Desative o BLUETOOTH para diminuir os atrasos!</item>

@@ -1,0 +1,239 @@
+var QCriterion = require("../helpers/QuestCriterion");
+var ErrorMessage = require("../helpers/errorMessage");
+var Quest = require("../helpers/QuestClass");
+
+const QUESTS_COUNT = 4; //how many parallel quests user may have
+
+const QUESTS_NAMES = {
+    en: {
+        1: strData("Collect food", "Collect food"),
+        // 2: strData("Collect coins"),
+        // 3: strData("Eat viruses"),
+        4: strData("Eat boosters"),
+        5: strData("Kills"),
+        6: strData("Earn exp"),
+        7: strData("Play 15 min"),
+        // 8: strData("Shoot somebody", "Shoot different players with a virus"),
+        // 9: strData("Kill youtuber", "Kill youtuber (a player with red nickname)"),
+        // 10: strData("Popsplits", "Do popsplits"),
+        // 11: strData("Tricksplits", "Do tricksplits"),
+        12: strData("Revenger", "Do revenges"),
+        13: strData("Streaker", "Do kill streaks"),
+        14: strData("Headshoter", "Do headshots"),
+    },
+    ru: {
+        1: strData("Собирай еду"),
+        // 2: strData("Собирай монетки"),
+        // 3: strData("Ешь вирусы"),
+        4: strData("Ешь бустеры"),
+        5: strData("Ешь игроков", "Ешь игроков полностью!"),
+        6: strData("Набей опыт"),
+        7: strData("Играй 15 мин"),
+        // 8: strData("Подстрели игроков", "Подстрели разных игроков вирусом"),
+        // 9: strData("Убей ютубера", "Убей ютубера (игрок с красным ником)"),
+        // 10: strData("Попсплиты", "Сделать попсплиты"),
+        // 11: strData("Триксплиты", "Сделать триксплиты"),
+        12: strData("Мститель", "Выполни месть"),
+        13: strData("Чередователь", "Сделай череду убийств"),
+        14: strData("Хедшотер", "Сделай хедшоты"),
+    },
+    uk: {
+        1: strData("Збирай їжу"),
+        // 2: strData("Збирай монетки"),
+        // 3: strData("Їж віруси"),
+        4: strData("Їж бустери"),
+        5: strData("Їж гравців", "Їж гравців повністю!"),
+        6: strData("Набий ХР"),
+        7: strData("Грай 15 хв"),
+        // 8: strData("Підстрели гравців", "Підстрели різних гравців вірусом"),
+        // 9: strData("З'їж ютубера", "З'їж ютубера (гравець з червоним ніком)"),
+        // 10: strData("Попспліти", "Зроби попспліти"),
+        // 11: strData("Трикспліти", "Зроби трикспліти"),
+        12: strData("Мститель", "Выполни месть"),
+        13: strData("Чередователь", "Сделай череду убийств"),
+        14: strData("Хедшотер", "Сделай хедшоты"),
+    },
+    ar: {
+        1: strData("جمع الطعام"),
+        // 2: strData("جمع النقود"),
+        // 3: strData("أكل الفيروسات"),
+        4: strData("أكل البوسترز"),
+        5: strData("قتل اللاعبين"),
+        6: strData("كسب الإكس بي"),
+        7: strData("العب لمدة 15 دقيقة"),
+        // 8: strData("اطلاق فيروس على شخص ما", "اطلاق فيروس على اللاعبين"),
+        // 9: strData("قم بقتل يوتيوبر", "اقتل يوتيوبر (اللاعب بالاسم الأحمر)"),
+        // 10: strData("بوب سبليت", "قم بفعل بوبسبليت"),
+        // 11: strData("تريكسبليت", "قم بفعل تريكسبليت"),
+        12: strData("Revenger", "Do revenges"),
+        13: strData("Streaker", "Do kill streaks"),
+        14: strData("Headshoter", "Do headshots"),
+    },
+    es: {
+        1: strData("Recoger comida", "Recoger comida"),
+        // 2: strData("Recoger monedas"),
+        // 3: strData("Come virus"),
+        4: strData("Come refuerzos"),
+        5: strData("Coma"),
+        6: strData("Gane exp"),
+        7: strData("Jugar 15 min"),
+        // 8: strData("Juega virus", "Juega virus contra diferentes jugadores"),
+        // 9: strData("Come un youtuber", "Come un youtuber (un jugador con etiqueta YT)"),
+        // 10: strData("Popsplits", "Haga popsplits"),
+        // 11: strData("Tricksplits", "Haga tricksplits"),
+        12: strData("Revenger", "Do revenges"),
+        13: strData("Streaker", "Do kill streaks"),
+        14: strData("Headshoter", "Do headshots"),
+    },
+    fr: {
+        1: strData("Ramasser des points"),
+        // 2: strData("Ramasser de l'argent"),
+        // 3: strData("Manger des virus"),
+        4: strData("Manger des booster"),
+        5: strData("Tuer des personnes"),
+        6: strData("Gagner de l'expérience"),
+        7: strData("Jouer 15 minutes"),
+        // 8: strData("tuer des joueurs avec des virus"),
+        // 9: strData("Tuez des youtubeurs", "Tuez des youtubeurs (des joueur avec des noms en rouge)"),
+        // 10: strData("Popsplits", "faire des popsplits"),
+        // 11: strData("Tricksplits", "faire des tricksplits"),
+        12: strData("Revenger", "Do revenges"),
+        13: strData("Streaker", "Do kill streaks"),
+        14: strData("Headshoter", "Do headshots"),
+    },
+    tr: {
+        1: strData("Yiyecek topla", "Yiyecek topla"),
+        // 2: strData("Madeni paraları topla"),
+        // 3: strData("Diken yiyin"),
+        4: strData("Güçlendirici ye"),
+        5: strData("Öldürmeler"),
+        6: strData("Exp kazanın"),
+        7: strData("15 dakika oyna"),
+        // 8: strData("Birini vur", "Bir virüsle farklı oyuncular vur"),
+        // 9: strData("youtuber'ı öldür", "youtuber'ı öldür (kırmızı adlı bir oyuncu)"),
+        // 10: strData("Popsplits", "Popsplits"),
+        // 11: strData ("Tricksplits", "tricksplits"),
+        12: strData("Revenger", "Do revenges"),
+        13: strData("Streaker", "Do kill streaks"),
+        14: strData("Headshoter", "Do headshots"),
+    },
+    pt: {
+        1: strData ("Recolher comida", "Recolha comida"),
+        // 2: strData ("Colete moedas"),
+        // 3: strData ("Coma vírus"),
+        4: strData ("Pegue poderes"),
+        5: strData ("Coma"),
+        6: strData ("Ganhe exp"),
+        7: strData ("Jogue 15 min"),
+        // 8: strData ("Dispare vírus", "Dispare vírus contra outros jogadores"),
+        // 9: strData ("Derrote um youtuber", "Coma um youtuber (um jogador com a tag YT)"),
+        // 10: strData ("Popsplits", "Faça popsplits"),
+        // 11: strData ("Tricksplits", "Faça tricksplits"),
+        12: strData("Revenger", "Do revenges"),
+        13: strData("Streaker", "Do kill streaks"),
+        14: strData("Headshoter", "Do headshots"),
+     },
+    // de:{},
+}
+
+const QUESTS_LIST = [
+    new Quest(1, QCriterion.FOOD, 750, 20),
+    // new Quest(2, QCriterion.COINS, 20, 20),
+    // new Quest(3, QCriterion.VRS, 20, 15),
+    new Quest(4, QCriterion.BSTR, 35, 25),
+    new Quest(5, QCriterion.KILLS, 50, 40),
+    new Quest(6, QCriterion.EXP, 2000, 35),
+    new Quest(7, QCriterion.GAME_TIME, 60 * 15, 35),
+    // new Quest(8, QCriterion.VRSS, 25, 50),
+    // new Quest(9, QCriterion.YOUTUBER_KILLS, 1, 100),
+    // new Quest(10, QCriterion.POP_SPLITS, 5, 50),
+    // new Quest(11, QCriterion.TRICK_SPLITS, 5, 50),
+
+    new Quest(12, QCriterion.REVENGE, 5, 50),
+    new Quest(13, QCriterion.KILL_STREAK, 20, 40),
+    new Quest(14, QCriterion.HEADSHOT, 5, 40),
+];
+
+function checkIntegrity() {
+    var qcount = QUESTS_LIST.length;
+    for (var key in QUESTS_NAMES) {
+        if (qcount != Object.keys(QUESTS_NAMES[key]).length) {
+            throw new Error("QUESTS_LIST inconsistent with QUESTS_NAMES");
+        }
+    }
+};
+checkIntegrity();
+
+function strData(name, desc) {
+    if (!desc) { //same name and desc
+        desc = name;
+    }
+    return {
+        n: name,
+        d: desc
+    }
+}
+
+function createNewList() {
+    var indexes = [];
+    var res = [];
+    while (res.length != QUESTS_COUNT) {
+        var idx = parseInt(Math.random() * QUESTS_LIST.length);
+        if (indexes.indexOf(idx) == -1) {
+            res.push(Object.assign({}, QUESTS_LIST[idx]));
+            indexes.push(idx);
+        }
+    }
+    // return Object.assign([], QUESTS_LIST.slice(0, QUESTS_COUNT));
+    return res;
+}
+
+// chane/replace one quest to random another one
+function changeOne(qlist, qid) {
+    if (alreadyChanged(qlist)) {
+        return ErrorMessage.get(ErrorMessage.UNKNOWN_ERROR, "You already replaced one quest!");
+    }
+
+    var ids = qlist.map(item => item.id);
+    for (let i = 0; i < qlist.length; i++) {
+        var item = qlist[i];
+        if (item.id == qid) {
+            if (item.ic) {
+                return ErrorMessage.get(ErrorMessage.UNKNOWN_ERROR, "Completed quest can't be replaced!");
+            }
+            while (true) {
+                var idx = parseInt(Math.random() * QUESTS_LIST.length);
+                if (ids.indexOf(QUESTS_LIST[idx].id) == -1) {
+                    qlist[i] = Object.assign({}, QUESTS_LIST[idx]);
+                    qlist[i].ch = true;
+                    break;
+                }
+            }
+        }
+    }
+    return qlist;
+}
+
+function alreadyChanged(qlist) {
+    for (let i = 0; i < qlist.length; i++) {
+        var item = qlist[i];
+        if (item.ch) {
+            return true;
+        }
+    }
+    return false;
+}
+
+function getNames(locale) {
+    var res = QUESTS_NAMES[locale];
+    if (!res) {
+        res = QUESTS_NAMES["en"];
+    }
+    return res;
+}
+
+module.exports = {
+    createNewList,
+    changeOne,
+    getNames
+}

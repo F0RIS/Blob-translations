@@ -38,6 +38,14 @@ var Strings = {
     sg_eat_remains_text: 30,
     sg_eat_remains_outro: 31,
 
+    friendsModeWelcome: 40,
+
+    //partyCodes
+    pcNoCode: 51,
+    pcYourCodeIs: 52,
+    pcXjoinedYourParty: 53,
+    pcYouJoinedSomeParty: 54,
+
 }
 
 var LOC_STRINGS = {
@@ -57,7 +65,7 @@ var LOC_STRINGS = {
         [Strings.sg_excellent]: "Excellent!",
         [Strings.sg_finish]: "Congratulations!\nYou finished the start guide!",
 
-        [Strings.sg_welcome_intro]: "Welcome to Sneak!",
+        [Strings.sg_welcome_intro]: "Welcome to Viper.io!",
         [Strings.sg_welcome_text]: "This is a start guide!\nRead these messages and do what they ask!",
 
         [Strings.sg_eat_food_intro]: "Let's learn how to grow!",
@@ -72,6 +80,13 @@ var LOC_STRINGS = {
         [Strings.sg_eat_remains_intro]: "Now eat remains of any snake!",
         [Strings.sg_eat_remains_text]: "Eat remains of any snake!\nRemains",
         [Strings.sg_eat_remains_outro]: "You grow really fast when you eat remains!",
+
+        [Strings.friendsModeWelcome]: "You can't kill friends/teammates in this game mode!🤝",
+
+        [Strings.pcNoCode]: "Your party code is empty. You are not in a team with anybody😟",
+        [Strings.pcYourCodeIs]: "You party code is: ",
+        [Strings.pcXjoinedYourParty]: " joined your party!👋",
+        [Strings.pcYouJoinedSomeParty]: "You are in the party! It's members:\n",
     },
     ru: {
         [Strings.kill_streak]: "Череда убийств!",
@@ -89,7 +104,7 @@ var LOC_STRINGS = {
         [Strings.sg_excellent]: "Отлично!",
         [Strings.sg_finish]: "Поздравляем!\nТы закончил обучалку и готов к бою!",
 
-        [Strings.sg_welcome_intro]: "Добро пожаловать в Sneak!",
+        [Strings.sg_welcome_intro]: "Добро пожаловать в Viper.io!",
         [Strings.sg_welcome_text]: "Это стартовая обучалка\nЧитай эти сообщения и делай что в них просят!",
 
         [Strings.sg_eat_food_intro]: "Давай узнаем, как расти!",
@@ -104,6 +119,13 @@ var LOC_STRINGS = {
         [Strings.sg_eat_remains_intro]: "Теперь ешь остатки этой змейки!",
         [Strings.sg_eat_remains_text]: "Ешь остатки этой змейки!\nОстатки",
         [Strings.sg_eat_remains_outro]: "Ты растешь очень быстро когда ешь остатки!",
+
+        [Strings.friendsModeWelcome]: "Ты не можешь убивать друзей/сокомандников\n в этом режиме игры!🤝",
+
+        [Strings.pcNoCode]: "Ты не указал код команды. Ты сам по себе😟",
+        [Strings.pcYourCodeIs]: "Вы вошли в игру с кодом команды: ",
+        [Strings.pcXjoinedYourParty]: " примкнул к твоей команде!👋",
+        [Strings.pcYouJoinedSomeParty]: "Вы в команде! Её состав:\n",
     },
     // uk: {},
     ar: {
@@ -122,7 +144,7 @@ var LOC_STRINGS = {
         [Strings.sg_excellent]: "ممتاز!",
         [Strings.sg_finish]: "تهانينا!\n لقد انتهيت من دليل البدء!",
 
-        [Strings.sg_welcome_intro]: "!Sneak مرحبا بك في",
+        [Strings.sg_welcome_intro]: "!Viper.io مرحبا بك في",
         [Strings.sg_welcome_text]: "هذا هو دليل البداية!",
 
         [Strings.sg_eat_food_intro]: "دعونا نتعلم كيف ننمو!",
@@ -137,6 +159,13 @@ var LOC_STRINGS = {
         [Strings.sg_eat_remains_intro]: "الآن تأكل بقايا هذا الثعبان!",
         [Strings.sg_eat_remains_text]: "أكل بقايا هذا الثعبان!\nبقايا",
         [Strings.sg_eat_remains_outro]: "أنت تنمو بسرعة كبيرة عندما تأكل البقايا!",
+
+        [Strings.friendsModeWelcome]: "لا يمكنك قتل الأصدقاء / زملائك في وضع اللعبة هذا!",
+
+        [Strings.pcNoCode]: "رمز حزبك فارغ. أنت لست في فريق مع أي شخص",
+        [Strings.pcYourCodeIs]: " أنت رمز الحزب هو ",
+        [Strings.pcXjoinedYourParty]: " انضم إلى حزبك ",
+        [Strings.pcYouJoinedSomeParty]: "أنت في الحفلة مع الأعضاء التاليين\n",
     },
     es: {
         [Strings.kill_streak]: "Racha de muertes!",
@@ -155,7 +184,7 @@ var LOC_STRINGS = {
         [Strings.sg_finish]: "¡Felicitaciones!\n¡Terminaste la guía de inicio!",
 
 
-        [Strings.sg_welcome_intro]: "Bienvenido a Sneak!",
+        [Strings.sg_welcome_intro]: "Bienvenido a Viper.io!",
         [Strings.sg_welcome_text]: "¡Esta es una guía de inicio!\nLee estos mensajes y haz lo que te piden.",
 
         [Strings.sg_eat_food_intro]: "¡Aprendamos a crecer!",
@@ -170,6 +199,13 @@ var LOC_STRINGS = {
         [Strings.sg_eat_remains_intro]: "¡Ahora come los restos de esa serpiente!",
         [Strings.sg_eat_remains_text]: "¡Come los restos de esa serpiente!\nPermanece",
         [Strings.sg_eat_remains_outro]: "¡Crece muy rápido cuando come restos!",
+
+        [Strings.friendsModeWelcome]: "¡No puedes matar amigos / compañeros de equipo en este modo de juego!🤝",
+
+        [Strings.pcNoCode]: "Su código de partido está vacío. No estás en un equipo con nadie😟",
+        [Strings.pcYourCodeIs]: "Tu código de fiesta es: ",
+        [Strings.pcXjoinedYourParty]: " ¡Únete a tu fiesta!👋",
+        [Strings.pcYouJoinedSomeParty]: "Estás en el grupo con los siguientes miembros:\n",
     },
     fr: {
         [Strings.kill_streak]: "Série de meurtres!",
@@ -187,7 +223,7 @@ var LOC_STRINGS = {
         [Strings.sg_excellent]: "Excellent!",
         [Strings.sg_finish]: "Félicitations!\nVous avez terminé le guide de démarrage !",
 
-        [Strings.sg_welcome_intro]: "Bienvenue en Sneak!",
+        [Strings.sg_welcome_intro]: "Bienvenue en Viper.io!",
         [Strings.sg_welcome_text]: "Ceci est un guide de démarrage!\nLisez ces messages et faites ce qu'ils vous demandent !",
 
         [Strings.sg_eat_food_intro]: "Apprenons à grandir!",
@@ -202,6 +238,13 @@ var LOC_STRINGS = {
         [Strings.sg_eat_remains_intro]: "Maintenant, mange les restes de ce serpent !",
         [Strings.sg_eat_remains_text]: "Eat remains of that snake!\nRemains",
         [Strings.sg_eat_remains_outro]: "Vous grandissez très vite quand vous mangez des restes !",
+
+        [Strings.friendsModeWelcome]: "Vous ne pouvez pas tuer des amis/coéquipiers dans ce mode de jeu!🤝",
+
+        [Strings.pcNoCode]: "Votre code de parti est vide. Vous n'êtes dans une équipe avec personne😟",
+        [Strings.pcYourCodeIs]: "Votre code de fête est: ",
+        [Strings.pcXjoinedYourParty]: " a rejoint votre groupe!👋",
+        [Strings.pcYouJoinedSomeParty]: "Vous êtes dans le groupe avec les prochains membres:\n",
     },
     tr: {
         [Strings.kill_streak]: "Öldürüş serisi!",
@@ -217,9 +260,9 @@ var LOC_STRINGS = {
         [Strings.sg_well_done]: "Tebrikler!",
         [Strings.sg_good_job]: "Aferin!",
         [Strings.sg_excellent]: "Harika!",
-        [Strings.sg_finish]: "Tebrikler!\Başlangıç kılavuzunu bitirdiniz!",
+        [Strings.sg_finish]: "Tebrikler!\naşlangıç kılavuzunu bitirdiniz!",
 
-        [Strings.sg_welcome_intro]: "Sneak'e hoşgeldiniz!",
+        [Strings.sg_welcome_intro]: "Viper.io'e hoşgeldiniz!",
         [Strings.sg_welcome_text]: "Bu bir başlangıç kılavuzudur!\nBu mesajları okuyun ve istediklerini yapın!",
 
         [Strings.sg_eat_food_intro]: "Nasıl büyüyeceğimizi öğrenelim!",
@@ -234,6 +277,13 @@ var LOC_STRINGS = {
         [Strings.sg_eat_remains_intro]: "Şimdi o yılanın kalıntılarını ye!",
         [Strings.sg_eat_remains_text]: "O yılanın kalıntılarını ye!\nKalıntıları",
         [Strings.sg_eat_remains_outro]: "Kalıntıları yediğinizde çok hızlı büyürsünüz!",
+
+        [Strings.friendsModeWelcome]: "Bu oyun modunda arkadaşlarınızı/takım arkadaşlarınızı öldüremezsiniz!🤝",
+
+        [Strings.pcNoCode]: "Parti kodunuz boş. Kimseyle bir takımda değilsin😟",
+        [Strings.pcYourCodeIs]: "Parti kodunuz: ",
+        [Strings.pcXjoinedYourParty]: " partinize katıldı!👋",
+        [Strings.pcYouJoinedSomeParty]: "Sıradaki üyelerin olduğu partidesiniz:\n",
     },
     pt: {
         [Strings.kill_streak]: "Sequência de matança!",
@@ -251,7 +301,7 @@ var LOC_STRINGS = {
         [Strings.sg_excellent]: "Excelente!",
         [Strings.sg_finish]: "Parabéns!\nVocê terminou o guia de início!",
 
-        [Strings.sg_welcome_intro]: "Bem vindo a Sneak!",
+        [Strings.sg_welcome_intro]: "Bem vindo a Viper.io!",
         [Strings.sg_welcome_text]: "Este é um guia de início!\nLeia essas mensagens e faça o que elas pedem!",
 
         [Strings.sg_eat_food_intro]: "Vamos aprender a crescer!",
@@ -266,6 +316,13 @@ var LOC_STRINGS = {
         [Strings.sg_eat_remains_intro]: "Agora coma os restos daquela cobra!",
         [Strings.sg_eat_remains_text]: "O que resta daquela cobra!\nRestos",
         [Strings.sg_eat_remains_outro]: "Você cresce muito rápido quando você come restos!",
+
+        [Strings.friendsModeWelcome]: "Você não pode matar amigos/companheiros de equipe neste modo de jogo!🤝",
+
+        [Strings.pcNoCode]: "O código da sua festa está vazio. Você não está em uma equipe com ninguém😟",
+        [Strings.pcYourCodeIs]: "O código da sua festa é: ",
+        [Strings.pcXjoinedYourParty]: " entrou na sua festa!👋",
+        [Strings.pcYouJoinedSomeParty]: "Você está no grupo com os próximos membros:\n",
     },
     de: {
         [Strings.kill_streak]: "Kill streak!",
@@ -283,7 +340,7 @@ var LOC_STRINGS = {
         [Strings.sg_excellent]: "Exzellent!",
         [Strings.sg_finish]: "Herzlichen Glückwunsch!\nSie haben die Startanleitung beendet!",
 
-        [Strings.sg_welcome_intro]: "Willkommen zu Sneak!",
+        [Strings.sg_welcome_intro]: "Willkommen zu Viper.io!",
         [Strings.sg_welcome_text]: "Dies ist eine Startanleitung!\nLesen Sie diese Nachrichten und tun Sie, was sie verlangen!",
 
         [Strings.sg_eat_food_intro]: "Lass uns lernen, wie man wächst!",
@@ -298,6 +355,13 @@ var LOC_STRINGS = {
         [Strings.sg_eat_remains_intro]: "Jetzt iss die Überreste dieser Schlange!",
         [Strings.sg_eat_remains_text]: "Iss die Überreste dieser Schlange!\nÜberreste",
         [Strings.sg_eat_remains_outro]: "Sie wachsen wirklich schnell, wenn Sie Reste essen!",
+
+        [Strings.friendsModeWelcome]: "Du kannst in diesem Spielmodus keine Freunde/Teamkollegen töten!🤝",
+
+        [Strings.pcNoCode]: "Ihr Partycode ist leer. Du bist mit niemandem in einem Team😟",
+        [Strings.pcYourCodeIs]: "Ihr Partycode lautet: ",
+        [Strings.pcXjoinedYourParty]: " ist deiner Party beigetreten!👋",
+        [Strings.pcYouJoinedSomeParty]: "Du bist in der Party mit den nächsten Mitgliedern:\n",
     },
 }
 
@@ -385,6 +449,10 @@ function strData(name, desc) {
 
 
 Strings.getString = function (key, locale) {
+    if (!locale) {
+        throw new TypeError("Pass locale argument for key: " + key);
+    }
+
     var lang = LOC_STRINGS[locale] || LOC_STRINGS["en"]
     var item = lang[key];
     if (!item) {
@@ -413,14 +481,26 @@ Strings.getBoosterDescription = function (id, locale) {
     return "\n" + res;
 }
 
-function checkIntegrity() {
+function checkBoostersIntegrity() {
     var qcount = Object.keys(ClientIcons.BOOSTER_ICONS).length;
     for (var key in BOOSTERS_NAMES) {
         if (qcount != Object.keys(BOOSTERS_NAMES[key]).length) {
-            throw new Error("BOOSTER_ICONS is inconsistent with BOOSTERS_NAMES. Strings or icon is missing!");
+            throw new Error("BOOSTER_ICONS is inconsistent with BOOSTERS_NAMES. Strings or icon are missing!");
         }
     }
 };
-checkIntegrity();
+
+function checkTranslationsIntegrity() {
+    for (var locale in LOC_STRINGS) {
+        for (var strID in Strings) {
+            if (!LOC_STRINGS[locale][Strings[strID]] && typeof (Strings[strID]) != "function") {
+                throw new Error("No translation for " + strID + " in locale: " + locale);
+            }
+        }
+    }
+};
+
+checkBoostersIntegrity();
+checkTranslationsIntegrity();
 
 module.exports = Strings;
