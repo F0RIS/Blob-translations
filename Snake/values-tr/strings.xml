@@ -54,25 +54,25 @@
     <string name="creating_party">Parti oluşturuluyor...</string>
     <string name="vibration">Titreşim</string>
     <string name="game_mechanic_description">
-        Viper.io is an online multiplayer battle of snakes. Become the biggest snake to be on top.\n
-        Avoid collisions with other snakes and make others crash into you.\n
-        Pick up boosters and food to get extra abilities and grow bigger\n\n
-        Game features:\n
-        - online multiplayer game\n
-        - different game modes\n
-        - a lot of free skins\n
-        - record lists for every game mode\n
-        - lots of quests\n
-        - free daily and hourly coins\n
-        - ability to play together with your friends\n
-        - built-in chat\n\n
+        Viper.io çokoyunculu yılan savaşı oyunudur. Zirvede olmak için en büyük yılan ol.\n
+        Diğer yılanlara çarpmaktan kaçın ve onların sana carpmasını sağla.\n
+        Ekstra yetenekler için güçlendiricileri ve yemekleri al ve daha çok büyü.\n\n
+        Oyunun özellikleri:\n
+        - çevrimiçi ve çokoyunculu\n
+        - farklı oyun modlari\n
+        - çok fazla ücretsiz görünüm\n
+        - her oyun modu için kayıt listesi\n
+        - bir süru görev\n
+        - ücretsiz gunlük ve saatlik madeni para\n
+        - arkadaşlar ile oynayabilme\n
+        - yerleşik sohbet\n\n
 
-        You can read this info again by clicking on the question mark icon in the main menu.\n
-        If something went wrong, restart the application and clear RAM.\n
+        Ana menüdeki soru işareti simgesine tıklayarak bu bilgiyi tekrar okuyabilirsiniz.\n
+        Bir şeyler ters giderse, uygulamayı yeniden başlatın ve RAM'i temizleyin.\n
     </string>
     <string name="first_start_dialog_title">Oyun mekaniği</string>
     <string name="update_title">Güncelleme mevcut!</string>
-    <string name="update_message">Şimdi yapmak ister misiniz?</string>
+    <string name="update_message">Şimdi güncellemek ister misiniz?</string>
     <string name="players">Oyuncular:&#160;</string>
     <string name="totals">Toplam</string>
 
@@ -82,7 +82,7 @@
          Daha da fazla başlangıç ​​kütlesi elde etmek ve yeni LVL görünümlerinin kilidini açmak için seviye atlayın!</string>
     <string name="how_to_install">Nasıl kurulur?</string>
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
-    <string name="prem_skin_message">Bu cilt kullanılsın mı?</string>
+    <string name="prem_skin_message">Bu görünüm kullanılsın mı?</string>
     <string name="game_mode">Oyun modu:</string>
 
     <string name="unavailable">Kullanım dışı</string>
@@ -107,8 +107,8 @@
     <string name="rta_dialog_ok2">Şimdi paylaşın!</string>
 
     <string name="low_lvl_message">Seviyeniz gerekenden düşük</string>
-    <string name="login_for_skins_message">Bu ciltleri kullanmak için giriş yapmalısınız</string>
-    <string name="skin_unlocked">Bir %1$s cildin kilidini açtınız!</string>
+    <string name="login_for_skins_message">Bu görünümleri kullanmak için giriş yapmalısınız</string>
+    <string name="skin_unlocked">Bir %1$s görünümüm kilidini açtınız!</string>
     <string name="optimize_names">İsminizi optimize edin</string>
     <string name="low_graphic">Düşük grafikler</string>
     <string name="macros">Makro</string>
@@ -137,7 +137,7 @@
     <string name="copy">Kopyala</string>
 
 
-    <string name="better_skins_quality">Daha iyi cilt kalitesi</string>
+    <string name="better_skins_quality">Daha iyi görünüm kalitesi</string>
     <string name="better_skins_warning">Bu, gecikmenize neden olabilir. Yalnızca ciltlerde piksel görürseniz kullanın!</string>
     <string name="stop_on_release">Serbest bırakıldığında durdur</string>
     <string name="type_user_id">Kullanıcı kimliğini yazın</string>
@@ -317,7 +317,7 @@
     <string name="custom_server_desc">Burada özel parametrelerle özel bir sunucu oluşturabilir, botlar/minyonlar ekleyebilir ve arkadaşlarınızla oynayabilirsiniz!</string>
     <string name="ts2v2_desc">Burada 2\'ye2 takım savaşlarında oynayabilirsiniz. Yalnızca arkadaşlarınızım katılacağı madeni para veya bir anahtar ile savaşları oluşturabilirsiniz!</string>
     <string name="skins_prem_desc">FREE/YT görünümlerinin aksine, herhangi bir takma adla PREM/LVL görünümlerini kullanabilirsiniz!</string>
-    <string name="skins_free_desc">Bu ciltleri kullanmak için adınızı takma adınız olarak ayarlamalısınız</string>
+    <string name="skins_free_desc">Bu görunümleri kullanmak için adınızı takma adınız olarak ayarlamalısınız</string>
 
     <string name="revenge">İntikam!</string>
     <string name="kill_streak">Galibiyet serisi!</string>
@@ -413,15 +413,14 @@
     <string name="vip_price">3 Gün bedava, daha sonra %s/ay</string>
     <string name="vip_price_desc">İptal edilmediği sürece, ödeme ücretsiz denemeden sonra otomatik olarak başlayacaktır.</string>
     <string name="animated">Animated</string>
-    <string name="animated_skins">Animated skins</string>
-    <string name="skins_anim_desc">These skins are animated! You can use them with any nickname!</string>
-    <string name="skins_anim_desc2">You can disable certain skins that you don\'t like by unchecking them.</string>
-    <string name="custom_sever_help"><![CDATA[If you need help with server creation you should join our
-        <a href=\\\"\\\"><b>DISCORD</b></a> and check <a href=\\\'\\\'><i>#private-server-configs</i></a> chat to get help]]>
+    <string name="animated_skins">Animasyonlu görünüm</string>
+    <string name="skins_anim_desc">Bu görünümler animasyonlu! Onları herhangi bir takma adla kullanabilirsiniz!</string>
+    <string name="skins_anim_desc2">Beğenmediğiniz belirli dış görünümleri işaretlerini kaldırarak devre dışı bırakabilirsiniz.</string>
+    <string name="custom_sever_help"><![CDATA[Sunucu oluşturma konusunda yardıma ihtiyacınız varsa, <a href=\\\"\\\"><b>DISCORD</b></a> sunucumuza katılmalı ve yardım için <a href=\\\'\\\'><i>#private-server-configs</i></a> kanalına mesaj yazmalısınız]]>
     </string>
-    <string name="sguide_text1"><![CDATA[Make other snakes <b>hit your tail</b> to kill them]]></string>
-    <string name="sguide_text2"><![CDATA[Eat <b>loot</b> that they leave to grow]]></string>
-    <string name="sguide_text3"><![CDATA[<b>Surround</b> your enemy and wait until he gives up]]></string>
+    <string name="sguide_text1"><![CDATA[Diğer yılanları öldürmek için onların <b>Kuyruğunuza</b> çarpmasını sağlayın]]></string>
+    <string name="sguide_text2"><![CDATA[Büyümek için diğer yılanların bıraktığı <b>ganimeti</b> yiyin]]></string>
+    <string name="sguide_text3"><![CDATA[Düşmanın pes edinceye kadar onun <b>etrafını sar</b>]]></string>
     <string name="revive">Canlandırmak</string>
     <string name="gm_revive_desc">Bu oyun modunda video reklamları izleyerek kütlenizin bir kısmı ile canlanabilirsiniz!</string>
     <string name="gm_friends_desc">Bu oyun modunda arkadaşlarınızı/takım arkadaşlarınızı öldüremez veya onlar tarafından öldürülemezsiniz!🤝</string>
