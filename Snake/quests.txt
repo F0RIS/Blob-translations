@@ -113,9 +113,9 @@ const QUESTS_NAMES = {
         // 9: strData("youtuber'ı öldür", "youtuber'ı öldür (kırmızı adlı bir oyuncu)"),
         // 10: strData("Popsplits", "Popsplits"),
         // 11: strData ("Tricksplits", "tricksplits"),
-        12: strData("Revenger", "Do revenges"),
-        13: strData("Streaker", "Do kill streaks"),
-        14: strData("Headshoter", "Do headshots"),
+        12: strData("Revenger", "İntikam al"),
+        13: strData("Streaker", "Art arda öldürme yap"),
+        14: strData("Headshoter", "Kafa vuruşu yap"),
     },
     pt: {
         1: strData ("Recolher comida", "Recolha comida"),
