@@ -22,35 +22,37 @@
     <string name="show_skins">Häute anzeigen</string>
     <string name="show_DirectionPointer">Richtung Zeiger</string>
     <string name="show_joystick">Steuerknüppel</string>
-    <string name="save_button">sparen</string>
-    <string name="settings">die Einstellungen</string>
+    <string name="save_button">Speichern</string>
+    <string name="settings">Einstellungen</string>
     <string name="skins_list">Häute</string>
     <string name="skin_message">Dies wird deinen Spitznamen ändern</string>
     <string name="skin_title">Name für diese Haut festlegen?</string>
     <string name="connect_to">Verbunden mit</string>
-    <string name="connecting">Verbinden mit Verbinden mit spezieller IP</string>
+    <string name="connecting">Verbinden mit spezieller IP</string>
     <string name="enter_ip">Geben Sie die Server-IP ein</string>
     <string name="copied">Kopiert</string>
     <string name="connection_closed">die Verbindung wurde von dem Server geschlossen</string>
     <string name="connection_lost">Verbindung unterbrochen</string>
     <string name="cant_connect">Verbindung zum Server nicht möglich Bitte versuche es erneut</string>
-    <string name="about_title">Über</string>
-    <string name="about_text">"&#032;&#032;Viper.io Android client %1$s \n\n\n        &#032;Wenn dieser Client nicht mehr funktioniert, suchen Sie nach Updates.\n\n    "</string>
+    <string name="about_title">Über unser Spiel</string>
+    <string name="about_text">&#032;&#032;Viper.io Android Client %1$s \n\n
+        &#032;Wenn dieser Client nicht mehr funktioniert, dann sollten sie das spiel aktualisieren.\n
+    </string>
     <string name="check_update">Aktualisierung überprüfen</string>
     <string name="score_result">Ihr Ergebnis %1$s</string>
     <string name="you_set_new_record">Du hast in diesem Spielmodus einen neuen Rekord aufgestellt!</string>
-    <string name="share">Aktie</string>
+    <string name="share">Teilen</string>
     <string name="share_text">Glaubst du, du kannst mich in Viper besiegen? Hah, versuch es :) #viper_io_game %1$s</string>
     <string name="share_score_text">ich habe %1$d punkte im Viper-Spiel! Spiele mit mir! #viper_io_game %2$s</string>
     <string name="records">Aufzeichnungen</string>
-    <string name="spec_mode_after_death">Spectate nach dem Tod</string>
+    <string name="spec_mode_after_death">Umschau-Modus nach dem Tod</string>
     <string name="darkTheme">Dunkles Thema</string>
     <string name="left_hand_control">Linke Handsteuerung</string>
 
     <string name="party_created">Gib diesen Link an deine Freunde weiter:</string>
-    <string name="joining">Beitritt ...</string>
-    <string name="creating_party">Party erstelleninvite</string>
-    <string name="vibration">Vibrieren</string>
+    <string name="joining">Beitritt beginnt ...</string>
+    <string name="creating_party">Party erstellen</string>
+    <string name="vibration">Vibration</string>
     <string name="game_mechanic_description">
         Viper.io is an online multiplayer battle of snakes. Become the biggest snake to be on top.\n
         Avoid collisions with other snakes and make others crash into you.\n
@@ -69,31 +71,31 @@
         If something went wrong, restart the application and clear RAM.\n
     </string>
     <string name="first_start_dialog_title">Spielmechanik</string>
-    <string name="update_title">Update verfügbar</string>
-    <string name="update_message">Willst du es jetzt bekommen?</string>
+    <string name="update_title">ein neues Update ist verfügbar</string>
+    <string name="update_message">Willst du es jetzt aktualisieren?</string>
     <string name="players">Spieler:&#160;</string>
     <string name="totals">Summen</string>
 
 
     <string name="fb_info_title">Information</string>
     <string name="fb_info_message">Melden Sie sich mit Facebook oder Google an und erhalten Sie eine größere Startmasse!\n
-        Steige auf, um noch mehr Startmasse zu erhalten und neue Level-Skins freizuschalten!</string>
+        Steige im Level auf, um noch mehr Startmasse zu erhalten und neue Level-Skins freizuschalten!</string>
     <string name="how_to_install">Wie installiert man</string>
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
-    <string name="prem_skin_message">Setup diese Haut?</string>
+    <string name="prem_skin_message">Möchten sie diese Haut anziehen?</string>
     <string name="game_mode">Spielmodus:</string>
 
     <string name="unavailable">Nicht verfügbar</string>
     <string name="top_lvl">Höchststufe</string>
     <string name="top">Top&#160;</string>
     <string name="receiving">Empfang...</string>
-    <string name="get_it">Hole es!</string>
+    <string name="get_it">Hole es dir!</string>
 
-    <string name="keep_ip">Keep IP für diese Sitzung</string>
+    <string name="keep_ip">Ip-adresse für diese Sitzung beibehalten</string>
     <string name="keep_ip_description">Das Spiel aktualisiert die IP während dieser Spielsitzung nicht automatisch</string>
 
     <!-- Rate this app-->
-    <string name="rta_dialog_title">Bewerte diese App</string>
+    <string name="rta_dialog_title">Lass uns eine Bewertung da! :D</string>
     <string name="rta_dialog_message">Wenn dir diese App gefällt, nimm dir doch einen Moment Zeit und bewerte sie. Danke für deine Unterstützung!</string>
     <string name="rta_dialog_ok">Jetzt bewerten</string>
     <string name="rta_dialog_cancel">Später</string>
@@ -110,7 +112,7 @@
     <string name="optimize_names">Namen optimieren</string>
     <string name="low_graphic">Niedrige Grafik</string>
     <string name="macros">Makros</string>
-    <string name="hello_fake">Du kannst diesen Nickname nur ab Level 30 verwenden :)</string>
+    <string name="hello_fake">Du kannst diesen Spitznamen nur ab Level 30 verwenden :)</string>
     <string name="get_more">Mehr bekommen!</string>
 
 
@@ -123,27 +125,27 @@
     <string name="relations">Beziehungen</string>
     <string name="you_must_log_in">Sie müssen sich einloggen</string>
     <string name="last_seen">Zuletzt gesehen</string>
-    <string name="registered">Eingetragen</string>
+    <string name="registered">Beigetreten am </string>
     <string name="game_time">Spielzeit</string>
-    <string name="user_info_records">Aufzeichnungen:</string>
+    <string name="user_info_records">Statistiken:</string>
 
     <string name="view_profile">Profil anzeigen</string>
     <string name="delete">Löschen</string>
     <string name="join_game">Spiel beitreten</string>
     <string name="accept">Akzeptieren</string>
     <string name="decline">Ablehnen</string>
-    <string name="copy">Kopiere</string>
+    <string name="copy">Kopieren</string>
 
     <string name="better_skins_quality">Bessere Hautqualität</string>
-    <string name="better_skins_warning">Dies kann zu Verzögerungen führen. Verwenden Sie dies, wenn Sie Pixel auf den Skins sehen</string>
+    <string name="better_skins_warning">Dies kann zu Verzögerungen und FPS verluste führen. Verwenden Sie dies, wenn Sie sich sicher sind das ihr Gerät das leisten kann.</string>
     <string name="stop_on_release">Beim loslassen stoppen</string>
     <string name="type_user_id">Geben Sie die Benutzer-ID ein</string>
     <string name="copy_user_id">ID kopieren</string>
-    <string name="send_friend_request">Einladen</string>
+    <string name="send_friend_request">Freundschaftsanfrage senden</string>
     <string name="friend_request_successful">Freundschaftsanfrage erfolgreich gesendet</string>
     <string name="added_new_friend">Neuer Freund hinzugefügt</string>
     <string name="moved_to_declined">In abgelehnt verschoben</string>
-    <string name="show_friends">Zeige Freunde</string>
+    <string name="show_friends">Freunde anzeigen</string>
     <string name="watch">Uhr</string>
     <string name="unknown_user">Unbekannter Benutzer</string>
     <string name="reset">Zurücksetzen</string>
@@ -175,8 +177,8 @@
 
     <string name="searching_ad_video">Suchen Sie nach einem Video, bitte warten Sie</string>
     <string name="processing">Wird bearbeitet...</string>
-    <string name="free_coins_toast">Du hast %d Münzen kostenlos!</string>
-    <string name="quest_coins_toast">You got %d coins!</string>
+    <string name="free_coins_toast">Du hast %d Münzen kostenlos erhalten!</string>
+    <string name="quest_coins_toast">Du hast %d Münzen erhalten!</string>
     <string name="free_coins">Kostenlose Münzen</string>
     <string name="watch_video">Schau Video</string>
     <string name="lvl_coins_reward">Herzlichen Glückwünsch! Du hast Level erreicht %1$d und gewonnen %2$d Münzen!</string>
@@ -184,33 +186,33 @@
     <!-- Items description localization -->
     <string name="mass_booster_x1_5_desc">Spiel starten mit x1.5 größere Masse für die nächste Stunde</string>
     <string name="mass_booster_x2_desc">Beginnen Sie das Spiel mit der doppelten Masse für die nächste Stunde</string>
-    <string name="exp_booster_x1_5_desc">Alle verdienten exp Multiplikationen nach 1.5 für die nächste 1 Stunde</string>
-    <string name="exp_booster_x2_desc">All earned exp multipliziert mit 2 für die nächste Stunde</string>
-    <string name="watch_video_desc">Video ansehen und bekommen sie %d Münzen!</string>
-    <string name="free_coins_desc">Bekommen %1$s Münzen kostenlos %2$d Stunde</string>
+    <string name="exp_booster_x1_5_desc">Alle verdienten Erfahrungspunkte Multipliziert bei 1.5 für die nächste 1 Stunde</string>
+    <string name="exp_booster_x2_desc">Alle verdienten Erfahrungspunkte multipliziert bei 2 für die nächste Stunde</string>
+    <string name="watch_video_desc">Video um %d Münzen zu bekommen!</string>
+    <string name="free_coins_desc">Bekommen %1$s Münzen kostenlos %2$d jede Stunde</string>
     <string name="m">m</string>
     <string name="h">h</string>
     <string name="d">d</string>
     <string name="mass_booster_has_expired">Mass Booster ist abgelaufen</string>
-    <string name="exp_booster_has_expired">Exp-Booster ist abgelaufen</string>
+    <string name="exp_booster_has_expired">Erfahrungspunkte-Booster ist abgelaufen</string>
 
-    <string name="chat_suffix_desc">Zu Nick hinzufügen%s Suffix</string>
+    <string name="chat_suffix_desc">Hinter ihren Namen hinzufügen%s Suffix</string>
     <string name="user_role_desc">Dieser Benutzer ist %s</string>
     <string name="size_animation_speed">Schnelle der Animationsgeschwindigkeit:</string>
     <string name="search">Suche</string>
     <string name="type_skin_name">Geben Sie den Namen der Haut ein</string>
-    <string name="waiting_for_players">Warten auf Spieler</string>
-    <string name="type_room_key">Geben Sie den Zimmerschlüssel ein</string>
+    <string name="waiting_for_players">Auf Spieler warten</string>
+    <string name="type_room_key">Geben Sie die raum Adresse ein</string>
 
     <string name="random">Zufällig</string>
     <string name="key">Schlüssel</string>
-    <string name="left_label">(%s left)</string>
-    <string name="coins_battle">Münzen kämpfen: </string>
+    <string name="left_label">(%s links)</string>
+    <string name="coins_battle">Münz Kampf: </string>
     <string name="spectate_title">Zuschauen</string>
     <string name="game_isnt_started_yet">Das Spiel wurde noch nicht gestartet. Sie können Ihre Münzen verlieren!</string>
     <string name="show_cell_border">Zellenrand anzeigen</string>
-    <string name="cur_week_exp">Kur. Woche Exp</string>
-    <string name="prev_week_exp">Vorherige Woche Exp</string>
+    <string name="cur_week_exp">Kur. Woche Erfahrungspunkte</string>
+    <string name="prev_week_exp">Vorherige Woche Erfahrungspunkte</string>
     <string name="rules_title">Regeln</string>
     <string name="rules_description">
         \n
@@ -223,8 +225,8 @@
     </string>
     <string name="top_week_exp_desc">Erhalten Sie so viel wie möglich während der Woche und gewinnen Sie Münzen Belohnung!</string>
     <string name="server_app_description">Mit dieser App können Sie eigene Server erstellen und offline oder mit Freunden spielen!</string>
-    <string name="show_fps">Zeigen Sie FPS/PING</string>
-    <string name="chat_enable_warning">With this option enabled app rating becomes higher!</string>
+    <string name="show_fps">Zeigen Sie FPS/PING an</string>
+    <string name="chat_enable_warning">Mit dieser option ist die app bewertung höher!</string>
     <string name="score_title">Punktzahl:</string>
 
     <string name="saved">Gespeichert</string>
@@ -232,12 +234,12 @@
     <string name="deleted">Gelöscht</string>
     <string name="added">Hinzugefügt</string>
     <string name="add_new">Neue hinzufügen</string>
-    <string name="cant_be_empty">%s can\'t be empty!</string>
+    <string name="cant_be_empty">%s darf\'darf nicht leer sein!</string>
     <string name="list">Liste</string>
-    <string name="info_title">Info</string>
+    <string name="info_title">Informationen</string>
     <string name="time_left">Übrige Zeit:</string>
     <string name="edit">Bearbeiten</string>
-    <string name="bet_value">Einsatzwer:</string>
+    <string name="bet_value">Einsatzwert:</string>
     <string name="create">Erstellen</string>
     <string name="custom_server">Benutzerdefinierter Server</string>
     <string name="custom_server_created">Benutzerdefinierter Server erstellt</string>
@@ -254,58 +256,58 @@
     <string name="choose_friend">Freund Einladen</string>
     <string name="notifications">Benarichtigung</string>
     <string name="join_server">server beitreten</string>
-    <string name="friend_request">Demande d\'ami</string>
-    <string name="friend_accepted">Ami accepter</string>
-    <string name="only_friends_skins">Alleen de vellen van vrienden</string>
+    <string name="friend_request">Freundschaftsanfrage</string>
+    <string name="friend_accepted">Freund akzeptiert</string>
+    <string name="only_friends_skins">Nur Häute deiner Freunde anzeigen</string>
     <string name="in_game_zoom">Zoomen im spiel</string>
     <string name="copy_nick">Kopie Profielnamen</string>
     <string name="gold">Gold</string>
     <string name="silver">Silber</string>
     <string name="bronze">Bronze</string>
     <string name="medal_description">%1$s medalie für die Plazierung als top %2$s in den globalen rankings!</string>
-    <string name="medal_description_first_place">Medaille vor het plaatsen van EERSTE plaats in wereldwijde ranglijst!</string>
+    <string name="medal_description_first_place">Medaille für den ersten platz!</string>
 
     <string name="try_for_free">versuch es kostenlos</string>
     <string name="account">Konto</string>
-    <string name="dialog_vip_desc_title2">Tired from ADS? TRY</string>
+    <string name="dialog_vip_desc_title2">Keine lust auf Werbung? Hold dir VIP</string>
     <string name="no_ads">keine Werbung</string>
     <string name="dialog_vip_desc_free_hours">x2 gratis <b>Geld</b></string>
     <string name="dialog_vip_desc_ingame_coins">in-game <b>Geld</b></string>
-    <string name="dialog_vip_desc_additional_exp">zusätzliche <b>exp</b></string>
+    <string name="dialog_vip_desc_additional_exp">zusätzliche <b>Erfahrungspunkte</b></string>
     <string name="dialog_vip_desc_start_mass">startmasse</string>
     <string name="dialog_vip_desc_discount">rabatt auf booster</string>
     <string name="dialog_vip_desc_chat_label">chat und profilmarkierung</string>
-    <string name="dialog_vip_desc_border">Rainbow border</string>
-    <string name="dialog_vip_desc_lock_name">Gold lowered name</string>
+    <string name="dialog_vip_desc_border">Regenbogen Rand</string>
+    <string name="dialog_vip_desc_lock_name">Goldener tiefgelegter Name</string>
     <string name="side">Seite:</string>
     <string name="bottom">Unterseite:</string>
     <string name="chat_m_hide_show">verbergen/anzeigen</string>
-    <string name="chat_m_expand_collapse">Erweitern/Zusammenbruch</string>
+    <string name="chat_m_expand_collapse">Erweitern/Normalgröße</string>
     <string name="chat_m_invite_friend">Freund einladen</string>
     <string name="chat_m_big_map">große Karte</string>
     <string name="chat_m_suicide">Selbstmord</string>
-    <string name="chat_m_select_message">Wählen Sie eine Nachricht im Chat aus!</string>
+    <string name="chat_m_select_message">schreiben sie eine Nachricht im Chat!</string>
     <string name="help">Hilfe</string>
     <string name="web_ver_desc">Wir haben eine Webversion des Spiels für PC-Spieler!</string>
     <string name="share_request">Teile das Spiel, um diesen Gegenstand freizuschalten!</string>
-    <string name="share_lvl_text">Ich habe gerade das Level erreicht %s in Viper.io! Kannst du mich jetzt schlagen, Junge??</string>
+    <string name="share_lvl_text">Ich habe gerade das Level erreicht %s in Viper.io! Kannst du mich überholen?</string>
     <string name="share_double_coins">Teile dein Ergebnis und erhalte doppelte Münzen!</string>
 
-    <string name="guide_text1"><![CDATA[Essen <b>Lebensmittel</b> wachsen!]]></string>
+    <string name="guide_text1"><![CDATA[Essen sie <b>punkte</b> um zu wachsen!]]></string>
     <string name="guide_text2"><![CDATA[Drücken Sie <b>TEILT<b> andere Spieler zu teilen und zu essen!]]></string>
-    <string name="guide_text3"><![CDATA[Drücken Sie <b>WERFEN</b> Viren einschleudern und andere Spieler in die Luft jagen!]]></string>
-    <string name="guide_text4"><![CDATA[Finger weg von <b>Viren</b>!]]></string>
+    <string name="guide_text3"><![CDATA[Drücken Sie <b>WERFEN</b> um Viren ab zu schießen und andere Spieler in die Luft jagen!]]></string>
+    <string name="guide_text4"><![CDATA[Vorsicht vor den <b>Viren</b>!]]></string>
     <string name="guide_text5">
         <![CDATA[This game needs <b>strong internet</b>! Sit closer to your Wi-Fi, disable <b>BLUETOOTH</b>,
-        mobile internet is not recommended!]]>
+        Mobile-daten sind nicht rekommandiert!]]>
     </string>
-    <string name="guide_select_region">Wählen Sie die nächstgelegene Region</string>
+    <string name="guide_select_region">Wählen sie die best gelegende Region</string>
 
     <string name="skins_yt_desc"><![CDATA[Du kannst dein Gameplay für YouTube Aufnehmen und dort hochladen, um populär zu werden, und den sogenannten <font color="#FF0000"><b><big>[YT]</big></b></font> rank im Spiel zu erhalten. Dein Skin wird zu dieser Liste hinzugefügt, sodass alle Spieler ihn benutzen können! Lese die aktuellen Anforderungen für den <font color="#FF0000"><b><big>[YT]</big></b></font> rank auf unserem Discord Server.]]></string>
     <string name="skins_prem_desc">Im Gegensatz zu KOSTENLOSEN / YT-Skins kannst du PREM / LVL-Skins mit jedem beliebigen Spielernamen verwenden!</string>
     <string name="skins_free_desc">Um diese Skins zu verwenden, musst du den Namen des Skins als Spielername festlegen</string>
     <string name="revenge">Rache!</string> 
-    <string name="kill_streak">Killstreak!</string>
+    <string name="kill_streak">Tötungsserie!</string>
     <string name="killed_you">%s hat dich getötet</string>
     <string name="servers_list_desc">Hier kannst du einen leeren Server auswählen, um alleine oder mit Freunden zu üben und um den Spielmodus (INOFFIZIELL) zu testen</string>
     <string name="custom_server_desc">Hier kannst du einen privaten Server mit benutzerdefinierten Optionen erstellen, Bots / Minions hinzufügen und mit Freunden spielen!</string> 
@@ -323,18 +325,18 @@
     <string name="q_replaced">Mission ersetzt!</string>
     <string name="completed">Abgeschlossen</string>
     <string name="get_reward">Belohnung erhalten</string>
-    <string name="daily_reward">Daily reward</string>
-    <string name="gain_exp_and_get_reward_every_day">Gain exp and get reward every day</string>
+    <string name="daily_reward">Tägliche Belohnung</string>
+    <string name="gain_exp_and_get_reward_every_day">Erhalte Erfahrungspunkte und bekomme tägliche Belohnungen</string>
     <string name="day">Day %d</string>
     <string name="up_to">Up to %d</string>
     <string name="login_to_avoid_captcha">Melden Sie sich an, um diese Überprüfung zu vermeiden</string>
-    <string name="replays">Replays</string>
-    <string name="you_have_no_replays">You have no replays</string>
+    <string name="replays">Wiederholungen</string>
+    <string name="you_have_no_replays">Du hast keine Wiederholungen</string>
     <string name="save_replay">Wiederholung speichern</string>
     <string name="replay_saved">Wiederholung gespeichert!</string>
     <string name="old_replay_warning">Wiederholungen von älteren Versionen des Spiels funktionieren möglicherweise nicht richtig!</string>
     <string name="too_new_replay_error">Du solltest das Spiel aktualisieren, um diese Wiederholung zu öffnen!</string>
-    <string name="mute">Mute</string>
+    <string name="mute">Stumm schalten</string>
     <string name="buttons_position">Joystick position</string>
     <string name="setup_controls">Wählen Sie Steuerelemente</string>
     <string name="left">Links</string>
@@ -362,7 +364,7 @@
     <string name="you_title">Sie</string>
 
     <string name="kill">Töten</string>
-    <string name="death">Death</string>
+    <string name="death">Tot</string>
     <string name="locally_muted">Lokal stummgeschaltet %s</string>
     <string name="this_game_supports">Dieses Spiel unterstützt</string>
     <string name="vibration_desc">Stellen Sie es so ein, dass Sie nur eine sanfte Berührung spüren können</string>
@@ -374,35 +376,37 @@
     <string name="too_short_name">Der Name ist zu kurz</string>
     <string name="floating_dir_pointer">Schwebender Dir-Zeiger</string>
     <string name="render_bot_desc">
-        <![CDATA[If you want convert your replay into a good quality mp4 video you
-        should join our <a href=\"\"><b>DISCORD</b></a> and send replay files in
-        <a href=\'\'><i>#replays-to-convert</i></a> chat]]>
+        <![CDATA[Wenn du deine Wiederholungen in eine qualitativ hochwertige mp4 Datei umwandeln möchtest
+        dann solltest du unseren <a href=\"\"><b>DISCORD</b></a> beitreten und deine Wiederholungen in
+        <a href=\'\'><i>#replays-to-convert</i></a> chat senden.]]>
     </string>
     <string name="get_video">Holen Sie sich das Video</string>
     <string name="swap_split_throw">SPLIT/WURF vertauschen</string>
     <string name="friends_desc">
         <![CDATA[<big>Du hast noch keine Freunde</big><br><br>
-        - Friends have <font color="#3cc905"><b>green</font></b> nickname in the game<br>
-        - You can see them on the <b>minimap</b><br>
-        - You can <b>join</b> a room where they play<br>
-        - You can <b>invite</b> them to your room<br><br>]]>
+        - Freunde haben einen <font color="#3cc905"><b>green</font></b> Spitznamen in dem Spiel<br>
+        - Du kannst sie auf deiner <b>minimap sehen</b><br>
+        - Du kannst deinen Freunden <b>beitreten</b> egal wo sie gerade spielen<br>
+        - Du kannst deine Freunde <b>einladen</b> damit sie mit dir spielen können<br><br>]]>
     </string>
     <string name="friends_requests_desc">Du hast noch keine Freundschaftsanfragen</string>
     <string name="show_d_t_buttons">D/T-Schaltflächen anzeigen</string>
     <string name="enter_room_ip">Geben Sie Raum-IP ein</string>
     <string name="room_ip">Zimmer:</string>
     <string name="share_room">Raum teilen</string>
-    <string name="join_different_region">You join different region, you may have lags!</string>
-    <string name="no_google_services_error">You should log in to play Viper without Google Play services or install them</string>
+    <string name="join_different_region">Wenn Sie einer anderen Region beitreten, kann es zu Verzögerungen kommen!</string>
+    <string name="no_google_services_error">Du solltest dich bei google einloggen um dein Erfolg zu speichern</string>
     <string name="vip_price">3 Tage kostenlos, dann %s/Monat</string>
     <string name="vip_price_desc">Die Zahlung beginnt automatisch nach der kostenlosen Testversion, sofern sie nicht gekündigt wird</string>
     <string name="animated">Animated</string>
-    <string name="animated_skins">Animated skins</string>
-    <string name="skins_anim_desc">These skins are animated! You can use them with any nickname!</string>
-    <string name="skins_anim_desc2">You can disable certain skins that you don\'t like by unchecking them.</string>
+    <string name="animated_skins">Animierte Skins</string>
+    <string name="skins_anim_desc">Diese Skins sind animiert! Sie können sie mit jedem Spitznamen verwenden!</string>
+    <string name="skins_anim_desc2">Sie können bestimmte Skins, die Ihnen nicht gefallen, deaktivieren, indem Sie sie deaktivieren.</string>
     <string name="custom_sever_help"><![CDATA[If you need help with server creation you should join our
         <a href=\\\"\\\"><b>DISCORD</b></a> and check <a href=\\\'\\\'><i>#private-server-configs</i></a> chat to get help]]>
     </string>
+    <string name="skins_anim_custom_desc">Hier können Sie animierte Skins anpassen und sie anders aussehen/verhalten lassen!</string>
+    <string name="eat_animation">Animation essen</string>
     <string name="sguide_text1"><![CDATA[Make other snakes <b>hit your tail</b> to kill them]]></string>
     <string name="sguide_text2"><![CDATA[Eat <b>loot</b> that they leave to grow]]></string>
     <string name="sguide_text3"><![CDATA[<b>Surround</b> your enemy and wait until he gives up]]></string>
@@ -414,12 +418,12 @@
     <string name="party_code_desc">Geben Sie denselben Code mit Ihrem Freund ein, um in der Party zu spielen!</string>
 
     <string-array name="hints">
-        <item>Kauf VIP und bekomme keine ads mehr!</item>
-        <item>Cooperate with friends and take over any server!</item>
-        <item>erschaffe deien eigenen server und spiele mit freunden!</item>
+        <item>Kauf VIP und bekomme keine Werbungen mehr!</item>
+        <item>Vereine dich mit Freunden und nimm ganze Server ein!</item>
+        <item>erschaffe dein eigenen server und spiele mit freunden!</item>
         <item>Baue deinen eigenen YouTube Kanal mit Gameplay-Videos auf, erreiche YT-Rang und sei beliebt!</item>
         <item>vergiss nicht die stündigen Münzen!</item>
-        <item>Get more EXP during one week than anybody else and win 55000 coins!</item>
+        <item>Sammel mehr Erfahrung als jeder andere und erhalte 55000 Münzen !</item>
         <item>du kannst 2 vs 2 für Münzen!</item>
         <item>Sie können Team-Scrimmage bis zu 5 gegen 5 machen!</item>
         <item>Du kannst eine große Karte öffnen, indem du im Spiel auf eine Minikarte klickst!</item>
@@ -428,27 +432,27 @@
         <item>Klicken Sie auf ein Dreieck in der Nähe des Chats und laden Sie Freunde zu Ihrem Server ein!</item>
         <item>Loge dich ein um zu lvln und mit größerer startmasse zu starten!</item>
         <item>benutze mass/exp boosters um mehr zugewinnen und schneller zu lvln!</item>
-        <item>If you ran out of coins, just buy them! :)</item>
+        <item>Wenn deine Münzen knapp werden kauf dir einfach neue! :)</item>
         <item>Verwenden Sie seltene Skins und machen Sie alle neidisch!</item>
         <item>Passen Sie Spielfarben/-parameter an Ihre Bedürfnisse an, um komfortabl
             er zu spielen!</item>
         <item>Du kannst deine Freunde auf der Minikarte sehen!</item>
         <item>Unterhalte dich mit Leuten und finde neue Freunde!</item>
         <item>Treten Sie unserem Discord-Server bei, um abzustimmen/zu chatten und auf dem Laufenden zu bleiben!</item>
-        <item>Bring your real life friends in Viper to have fun together!</item>
+        <item>Zeig Viper.io dein Freunden und habt spaß zusammen!</item>
         <item>jeder spieler hat eine eigene ID, du kannst sie teilen damit deine freunde dich in Viper finden!</item>
         <item>Du kannst als Übung auf einem leeren Server spielen!</item>
         <item>Sie können auf das IP Label klicken und es ändern oder die Serverliste öffnen!</item>
         <item>Stellen Sie sicher, dass Sie unseren sozialen Netzwerken beitreten, um auf dem Laufenden zu bleiben, Freunde zu finden und Ihre Fähigkeiten zu verbessern!</item>
         <item>Wir experimentieren immer mit neuen Spielmodi. Sie finden sie in der Serverliste (inoffizielle Kategorie)!</item>
-        <item>We have awesome test game modes in unofficial!)</item>
-        <item>If you are new to this game, check out on YouTube how other people rocks in Viper.io! Its amazing!</item>
-        <item>sitze näher an deinem wifi, um besseres wlan zu krigen !</item>
+        <item>Wir haben richtig tolle test-Modi in inoffiziell!)</item>
+        <item>Wenn du neu im spiel bist und tips brauchst schau dir Viper.io Videos auf Youtube an!</item>
+        <item>sitze näher an deinem wifi, um besseres wlan verbindung zu krigen !</item>
         <item>schalte dein BLUETOOTH aus um internet lags/verzögerungen zu reduzieren!</item>
         <item>schalte dein BLUETOOTH aus um internet lags/verzögerungen zu reduzieren!</item>
         <item>Du kannst jedes Bild als Hintergrund im Spiel einrichten!</item>
         <item>Sie können schöne Spielmomente aufnehmen und später in Wiederholungen ansehen!</item>
-        <item>You can share your replays with other people to show them how you win!</item>
+        <item>Du kannst deine Wiederholungen speichern und allen zeigen wie du gewinnst!</item>
         <item>Dieses Spiel bietet volle Unterstützung für Gamepads/Controller!</item>
     </string-array>
 </resources>

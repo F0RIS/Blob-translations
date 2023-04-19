@@ -22,7 +22,7 @@
     <string name="show_skins">Häute anzeigen</string>
     <string name="show_DirectionPointer">Richtung Zeiger</string>
     <string name="show_joystick">Steuerknüppel</string>
-    <string name="save_button">speichern</string>
+    <string name="save_button">Speichern</string>
     <string name="settings">Einstellungen</string>
     <string name="skins_list">Häute</string>
     <string name="skin_message">Dies wird deinen Spitznamen ändern</string>
@@ -85,7 +85,7 @@
 
     <string name="unavailable">Nicht verfügbar</string>
     <string name="top_lvl">Höchststufe</string>
-    <string name="top">Erster&#160;</string>
+    <string name="top">Top&#160;</string>
     <string name="receiving">Empfang...</string>
     <string name="get_it">Hole es dir!</string>
 

@@ -393,7 +393,7 @@
     <string name="skins_yt_desc">
         <![CDATA[You can record and upload your gameplay on YouTube to become <b><i>popular</i></b> and get <font color="#FF0000"><b><big>[YT]</big></b></font> in-game ROLE.
         Your skin will be added to this list, so players can use it!
-        Read actual requirements for <font color="#FF0000"><b><big>[YT]</big></b></font> tag in <b>discord</b>.]]>
+        Read actual requirements for <font color="#FF0000"><b><big>[YT]</big></b></font> tag in <b>Discord</b>.]]>
     </string>
     <string name="servers_list_desc">Here you can choose an empty server to practice alone or with friends and test (UNOFFICIAL) game modes!</string>
     <string name="custom_server_desc">Here you can create a private server with custom params, add bots/minions and play with friends!</string>
