@@ -54,25 +54,25 @@
     <string name="creating_party">Parti oluşturuluyor...</string>
     <string name="vibration">Titreşim</string>
     <string name="game_mechanic_description">
-        Viper.io is an online multiplayer battle of snakes. Become the biggest snake to be on top.\n
-        Avoid collisions with other snakes and make others crash into you.\n
-        Pick up boosters and food to get extra abilities and grow bigger\n\n
-        Game features:\n
-        - online multiplayer game\n
-        - different game modes\n
-        - a lot of free skins\n
-        - record lists for every game mode\n
-        - lots of quests\n
-        - free daily and hourly coins\n
-        - ability to play together with your friends\n
-        - built-in chat\n\n
+        Viper.io çokoyunculu yılan savaşı oyunudur. Zirvede olmak için en büyük yılan ol.\n
+        Diğer yılanlara çarpmaktan kaçın ve onların sana carpmasını sağla.\n
+        Ekstra yetenekler için güçlendiricileri ve yemekleri al ve daha çok büyü.\n\n
+        Oyunun özellikleri:\n
+        - çevrimiçi ve çokoyunculu\n
+        - farklı oyun modlari\n
+        - çok fazla ücretsiz görünüm\n
+        - her oyun modu için kayıt listesi\n
+        - bir süru görev\n
+        - ücretsiz gunlük ve saatlik madeni para\n
+        - arkadaşlar ile oynayabilme\n
+        - yerleşik sohbet\n\n
 
-        You can read this info again by clicking on the question mark icon in the main menu.\n
-        If something went wrong, restart the application and clear RAM.\n
+        Ana menüdeki soru işareti simgesine tıklayarak bu bilgiyi tekrar okuyabilirsiniz.\n
+        Bir şeyler ters giderse, uygulamayı yeniden başlatın ve RAM\'i temizleyin.\n
     </string>
     <string name="first_start_dialog_title">Oyun mekaniği</string>
     <string name="update_title">Güncelleme mevcut!</string>
-    <string name="update_message">Şimdi yapmak ister misiniz?</string>
+    <string name="update_message">Şimdi güncellemek ister misiniz?</string>
     <string name="players">Oyuncular:&#160;</string>
     <string name="totals">Toplam</string>
 
@@ -421,9 +421,9 @@
     </string>
     <string name="skins_anim_custom_desc">Burada animasyonlu görünümleri özelleştirebilir ve farklı görünmelerini/davranmalarını sağlayabilirsiniz!</string>
     <string name="eat_animation">Animasyon yiyin</string>
-    <string name="sguide_text1"><![CDATA[Make other snakes <b>hit your tail</b> to kill them]]></string>
-    <string name="sguide_text2"><![CDATA[Eat <b>loot</b> that they leave to grow]]></string>
-    <string name="sguide_text3"><![CDATA[<b>Surround</b> your enemy and wait until he gives up]]></string>
+    <string name="sguide_text1"><![CDATA[Diğer yılanları öldürmek için onların <b>Kuyruğunuza</b> çarpmasını sağlayın]]></string>
+    <string name="sguide_text2"><![CDATA[Büyümek için diğer yılanların bıraktığı <b>ganimeti</b> yiyin]]></string>
+    <string name="sguide_text3"><![CDATA[Düşmanın pes edinceye kadar onun <b>etrafını sar</b>]]></string>
     <string name="revive">Canlandırmak</string>
     <string name="gm_revive_desc">Bu oyun modunda video reklamları izleyerek kütlenizin bir kısmı ile canlanabilirsiniz!</string>
     <string name="gm_friends_desc">Bu oyun modunda arkadaşlarınızı/takım arkadaşlarınızı öldüremez veya onlar tarafından öldürülemezsiniz!🤝</string>
