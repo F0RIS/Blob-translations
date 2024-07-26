@@ -25,8 +25,8 @@
     <string name="save_button">Speichern</string>
     <string name="settings">Einstellungen</string>
     <string name="skins_list">Skins</string>
-    <string name="skin_message">Dies wird deinen Namen ändern</string>
-    <string name="skin_title">Name für diesn Skin festlegen?</string>
+    <string name="skin_message">Dies wird Ihren Namen ändern</string>
+    <string name="skin_title">Name für diesen Skin festlegen?</string>
     <string name="connect_to">Verbunden mit</string>
     <string name="connecting">Verbinden mit spezieller IP</string>
     <string name="enter_ip">Geben Sie die Server-IP ein</string>
