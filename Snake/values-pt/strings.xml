@@ -405,12 +405,14 @@
     <string name="vip_price">3 Days free, then %s/mo</string>
     <string name="vip_price_desc">O pagamento começará automaticamente após a avaliação gratuita, a menos que seja cancelado</string>
     <string name="animated">Animated</string>
-    <string name="animated_skins">Animated skins</string>
-    <string name="skins_anim_desc">These skins are animated! You can use them with any nickname!</string>
-    <string name="skins_anim_desc2">You can disable certain skins that you don\'t like by unchecking them.</string>
+    <string name="animated_skins">Skins animadas</string>
+    <string name="skins_anim_desc">Essas skins são animadas! Você pode usá-los com qualquer apelido!</string>
+    <string name="skins_anim_desc2">Você pode desabilitar certas capas que não gosta desmarcando-as.</string>
     <string name="custom_sever_help"><![CDATA[If you need help with server creation you should join our
         <a href=\\\"\\\"><b>DISCORD</b></a> and check <a href=\\\'\\\'><i>#private-server-configs</i></a> chat to get help]]>
     </string>
+    <string name="skins_anim_custom_desc">Aqui você pode customizar skins animadas e fazer com que pareçam/se comportem de forma diferente!</string>
+    <string name="eat_animation">Comer animação</string>
     <string name="sguide_text1"><![CDATA[Make other snakes <b>hit your tail</b> to kill them]]></string>
     <string name="sguide_text2"><![CDATA[Eat <b>loot</b> that they leave to grow]]></string>
     <string name="sguide_text3"><![CDATA[<b>Surround</b> your enemy and wait until he gives up]]></string>

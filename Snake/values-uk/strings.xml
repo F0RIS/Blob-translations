@@ -399,12 +399,14 @@
     <string name="vip_price">3 дня бескоштовно, потiм %s/мiс</string>
     <string name="vip_price_desc">Оплата почнеться автоматично після безкоштовної пробної версії, якщо її не буде скасовано</string>
     <string name="animated">Animated</string>
-    <string name="animated_skins">Animated skins</string>
-    <string name="skins_anim_desc">These skins are animated! You can use them with any nickname!</string>
-    <string name="skins_anim_desc2">You can disable certain skins that you don\'t like by unchecking them.</string>
+    <string name="animated_skins">Анімовані скіни</string>
+    <string name="skins_anim_desc">Це анімовані скіни!Ти можеш використовувати їх із будь-яким ніком!</string>
+    <string name="skins_anim_desc2">Ти можеш відключати певні скіни, які тобі не подобаються</string>
     <string name="custom_sever_help"><![CDATA[If you need help with server creation you should join our
         <a href=\\\"\\\"><b>DISCORD</b></a> and check <a href=\\\'\\\'><i>#private-server-configs</i></a> chat to get help]]>
     </string>
+    <string name="skins_anim_custom_desc">Тут ти можеш налаштовувати анімовані скіни, щоб вони виглядали інакше!</string>
+    <string name="eat_animation">Анімація поїдання</string>
     <string name="sguide_text1"><![CDATA[Виляй так чтобы другие змейки <b>ударялись о твой хвост</b> чтобы убить их]]></string>
     <string name="sguide_text2"><![CDATA[Ешь <b>добычу</b> которую они оставляют чтобы расти]]></string>
     <string name="sguide_text3"><![CDATA[<b>Окружай</b> своего врага и жди пока он сдастся]]></string>

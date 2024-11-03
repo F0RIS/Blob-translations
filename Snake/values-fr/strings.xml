@@ -402,17 +402,19 @@
     <string name="enter_room_ip">Type Room IP</string>
     <string name="room_ip">Pièce:</string>
     <string name="share_room">Partager la chambre</string>
-    <string name="join_different_region">You join different region, you may have lags!</string>
+    <string name="join_different_region">Vous rejoignez une région différente, vous pouvez avoir des décalages !</string>
     <string name="no_google_services_error">You should log in to play Viper without Google Play services or install them</string>
     <string name="vip_price">3 jours gratuits, puis %s/mois</string>
     <string name="vip_price_desc">Le paiement commencera automatiquement après l\'essai gratuit, sauf s\'il est annulé</string>
     <string name="animated">Animated</string>
-    <string name="animated_skins">Animated skins</string>
-    <string name="skins_anim_desc">These skins are animated! You can use them with any nickname!</string>
-    <string name="skins_anim_desc2">You can disable certain skins that you don\'t like by unchecking them.</string>
+    <string name="animated_skins">Peaux animées</string>
+    <string name="skins_anim_desc">Ces skins sont animés ! Vous pouvez les utiliser avec n\'importe quel surnom !</string>
+    <string name="skins_anim_desc2">Vous pouvez désactiver certains skins que vous n\'aimez pas en les décochant.</string>
     <string name="custom_sever_help"><![CDATA[If you need help with server creation you should join our
         <a href=\\\"\\\"><b>DISCORD</b></a> and check <a href=\\\'\\\'><i>#private-server-configs</i></a> chat to get help]]>
     </string>
+    <string name="skins_anim_custom_desc">Ici, vous pouvez personnaliser les skins animés et leur donner un aspect/comportement différent !</string>
+    <string name="eat_animation">Manger des animations</string>
     <string name="sguide_text1"><![CDATA[Make other snakes <b>hit your tail</b> to kill them]]></string>
     <string name="sguide_text2"><![CDATA[Eat <b>loot</b> that they leave to grow]]></string>
     <string name="sguide_text3"><![CDATA[<b>Surround</b> your enemy and wait until he gives up]]></string>

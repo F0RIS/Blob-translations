@@ -397,17 +397,19 @@
     <string name="enter_room_ip">اكتب عنوان IP للغرفة</string>
     <string name="room_ip">غرفة:</string>
     <string name="share_room">مشاركة الغرفه</string>
-    <string name="join_different_region">You join different region, you may have lags!</string>
+    <string name="join_different_region">إذا انضممت إلى منطقة مختلفة ، فقد يكون لديك تأخيرات!</string>
     <string name="no_google_services_error">You should log in to play Blob without Google Play services or install them</string>
     <string name="vip_price">3 Days free, then %s/mo</string>
     <string name="vip_price_desc">Payment will start automatically after free trial unless it\'s cancelled</string>
     <string name="animated">Animated</string>
-    <string name="animated_skins">Animated skins</string>
-    <string name="skins_anim_desc">These skins are animated! You can use them with any nickname!</string>
-    <string name="skins_anim_desc2">You can disable certain skins that you don\'t like by unchecking them.</string>
+    <string name="animated_skins">جلود متحركة</string>
+    <string name="skins_anim_desc">هذه الأشكال متحركة! يمكنك استخدامها مع أي لقب!</string>
+    <string name="skins_anim_desc2">يمكنك تعطيل بعض الأسطح التي لا تحبها عن طريق إلغاء تحديدها.</string>
     <string name="custom_sever_help"><![CDATA[If you need help with server creation you should join our
         <a href=\\\"\\\"><b>DISCORD</b></a> and check <a href=\\\'\\\'><i>#private-server-configs</i></a> chat to get help]]>
     </string>
+    <string name="skins_anim_custom_desc">هنا يمكنك تخصيص الأشكال المتحركة وجعلها تبدو / تتصرف بشكل مختلف!</string>
+    <string name="eat_animation">أكل الرسوم المتحركة</string>
     <string name="sguide_text1"><![CDATA[Make other snakes <b>hit your tail</b> to kill them]]></string>
     <string name="sguide_text2"><![CDATA[Eat <b>loot</b> that they leave to grow]]></string>
     <string name="sguide_text3"><![CDATA[<b>Surround</b> your enemy and wait until he gives up]]></string>

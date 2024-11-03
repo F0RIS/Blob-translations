@@ -145,7 +145,7 @@
     <string name="free" translatable="false">Free</string>
     <string name="premium" translatable="false">Premium</string>
     <string name="lvls" translatable="false">LVLs</string>
-    <string name="yt_nick" translatable="false">Chat suffix</string>
+    <string name="yt_nick" translatable="false">Chat [YT/MD] label</string>
     <string name="youtube" translatable="false">YouTube</string>
     <string name="email" translatable="false"><u>viper.game.main@gmail.com</u></string>
     <string name="coming_soon" translatable="false">Coming soon</string>
@@ -394,7 +394,7 @@
     <string name="skins_yt_desc">
         <![CDATA[You can record and upload your gameplay on YouTube to become <b><i>popular</i></b> and get <font color="#FF0000"><b><big>[YT]</big></b></font> in-game ROLE.
         Your skin will be added to this list, so players can use it!
-        Read actual requirements for <font color="#FF0000"><b><big>[YT]</big></b></font> tag in <b>discord</b>.]]>
+        Read actual requirements for <font color="#FF0000"><b><big>[YT]</big></b></font> tag in <b>Discord</b>.]]>
     </string>
     <string name="servers_list_desc">Here you can choose an empty server to practice alone or with friends and test (UNOFFICIAL) game modes!</string>
     <string name="custom_server_desc">Here you can create a private server with custom params, add bots/minions and play with friends!</string>
@@ -503,6 +503,8 @@
     <string name="custom_sever_help"><![CDATA[If you need help with server creation you should join our
         <a href=\\\"\\\"><b>DISCORD</b></a> and check <a href=\\\'\\\'><i>#private-server-configs</i></a> chat to get help]]>
     </string>
+    <string name="skins_anim_custom_desc">Here you can customize animated skins and make them look/behave different!</string>
+    <string name="eat_animation">Eat animation</string>
     <string name="sguide_text1"><![CDATA[Make other snakes <b>hit your tail</b> to kill them]]></string>
     <string name="sguide_text2"><![CDATA[Eat <b>loot</b> that they leave to grow]]></string>
     <string name="sguide_text3"><![CDATA[<b>Surround</b> your enemy and wait until he gives up]]></string>
