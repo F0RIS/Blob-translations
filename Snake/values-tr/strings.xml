@@ -220,7 +220,7 @@
         1.) Diğer oyunculara hakaret etmeyin.\n
         2.) MODERATÖR gibi davranmayın.\n
         3.) Viper.io hesaplarını oyun içinde veya dışında değiştirmeyin.\n
-        4.) Oyunun en üst Sıralamasına ulaşmak için hile yapmayın.\n
+        4.) Oyunun en üst sıralamasına ulaşmak için hile yapmayın.\n
         5.) Oyunda uygunsuz isimler kullanmayın.\n
         6.) Oyundaki hatalardan/açıklardan yararlanmayın.\n
     </string>
@@ -412,10 +412,10 @@
     <string name="no_google_services_error">Viper Google Play araçları olmadan veya indirmeden oynamak için oturum açmalısın</string>
     <string name="vip_price">3 Gün bedava, daha sonra %s/ay</string>
     <string name="vip_price_desc">İptal edilmediği sürece, ödeme ücretsiz denemeden sonra otomatik olarak başlayacaktır.</string>
-    <string name="animated">Animated</string>
-    <string name="animated_skins">Animasyonlu dış görünümler</string>
-    <string name="skins_anim_desc">Bu deriler animasyonlu! Onları herhangi bir takma adla kullanabilirsiniz!</string>
-    <string name="skins_anim_desc2">Beğenmediğiniz belirli dış görünümleri işaretlerini kaldırarak devre dışı bırakabilirsiniz.</string>
+    <string name="animated">Hareketli</string>
+    <string name="animated_skins">Hareketli ciltler</string>
+    <string name="skins_anim_desc">Bunlar hareketli ciltlerdir. Onları herhangi bir takma ad ile kullanabilirsiniz!</string>
+    <string name="skins_anim_desc2">Beğenmediğiniz ciltlerin işaretini kaldırarak devre dışı bırakabilirsiniz.</string>
     <string name="custom_sever_help"><![CDATA[If you need help with server creation you should join our
         <a href=\\\"\\\"><b>DISCORD</b></a> and check <a href=\\\'\\\'><i>#private-server-configs</i></a> chat to get help]]>
     </string>
