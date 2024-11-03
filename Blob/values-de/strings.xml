@@ -1,129 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="locale">de</string>
-    <string name="default_name">iss mich nicht</string>
-    <string name="cancel">Stornieren</string>
-    <string name="error">der Fehler</string>
+    <string name="default_name">Iss mich nicht!</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="error">Fehler</string>
     <string name="no_internet">Für dieses Spiel benötigen Sie eine Internetverbindung</string>
     <string name="show_minimap">Minikarte anzeigen</string>
-    <string name="show_chat">Zeigen Sie den Chat</string>
+    <string name="show_chat">Chat anzeigen</string>
     <string name="show_advanced_minimap">Erweiterte Minikarte</string>
     <string name="region">Region:</string>
     <string name="show_grid">Raster anzeigen</string>
     <string name="show_mass">Masse anzeigen</string>
     <string name="show_names">Namen anzeigen</string>
     <string name="name">Name</string>
-    <string name="play">abspielen</string>
-    <string name="nick_name">Spitzname:</string>
-    <string name="exit_dialog">Was möchtest du?</string>
-    <string name="exit">Ausgang</string>
+    <string name="play">Spielen</string>
+    <string name="nick_name">Name:</string>
+    <string name="exit_dialog">Was möchten Sie tun?</string>
+    <string name="exit">Verlassen</string>
     <string name="restart">Neustart</string>
-    <string name="show_leaders">Zeigen Sie Anführer</string>
-    <string name="show_skins">Häute anzeigen</string>
-    <string name="show_DirectionPointer">Richtung Zeiger</string>
+    <string name="show_leaders">Bestenliste anzeigen</string>
+    <string name="show_skins">Skins anzeigen</string>
+    <string name="show_DirectionPointer">Richtungszeiger</string>
     <string name="show_joystick">Steuerknüppel</string>
     <string name="save_button">Speichern</string>
     <string name="settings">Einstellungen</string>
-    <string name="skins_list">Häute</string>
-    <string name="skin_message">Dies wird deinen Spitznamen ändern</string>
-    <string name="skin_title">Name für diese Haut festlegen?</string>
+    <string name="skins_list">Skins</string>
+    <string name="skin_message">Dies wird Ihren Namen ändern</string>
+    <string name="skin_title">Name für diesen Skin festlegen?</string>
     <string name="connect_to">Verbunden mit</string>
     <string name="connecting">Verbinden mit spezieller IP</string>
     <string name="enter_ip">Geben Sie die Server-IP ein</string>
     <string name="copied">Kopiert</string>
-    <string name="connection_closed">die Verbindung wurde von dem Server geschlossen</string>
+    <string name="connection_closed">Die Verbindung wurde vom Server geschlossen</string>
     <string name="connection_lost">Verbindung unterbrochen</string>
-    <string name="cant_connect">Verbindung zum Server nicht möglich Bitte versuche es erneut</string>
+    <string name="cant_connect">Verbindung zum Server nicht möglich, bitte erneut versuchen</string>
     <string name="about_title">Über unser Spiel</string>
     <string name="about_text">&#032;&#032;Blob Android Client %1$s \n\n
-        &#032;Wenn dieser Client nicht mehr funktioniert, dann sollten sie das spiel aktualisieren.\n
+        &#032;Wenn dieser Client nicht mehr funktioniert, dann sollten Sie das spiel aktualisieren.\n
     </string>
-    <string name="check_update">Aktualisierung überprüfen</string>
-    <string name="score_result">Ihr Ergebnis %1$s</string>
-    <string name="you_set_new_record">Du hast in diesem Spielmodus einen neuen Rekord aufgestellt!</string>
+    <string name="check_update">Nach Updates suchen</string>
+    <string name="score_result">Ihr Ergebnis: %1$s</string>
+    <string name="you_set_new_record">Sie haben in diesem Spielmodus einen neuen Rekord aufgestellt!</string>
     <string name="share">Teilen</string>
-    <string name="share_text">Glaubst du, du kannst mich in Blob besiegen? Hah, versuch es :) #blob_game %1$s</string>
-    <string name="share_score_text">ich habe %1$d punkte im Blob-Spiel! Spiele mit mir! #blob_game %2$s</string>
+    <string name="share_text">Glauben Sie, Sie können mich in Blob besiegen? Hah, versuchen Sie es :) #blob_game %1$s</string>
+    <string name="share_score_text">ich habe %1$d punkte in Blob! Spielen Sie mit mir! #blob_game %2$s</string>
     <string name="records">Aufzeichnungen</string>
-    <string name="spec_mode_after_death">Umschau-Modus nach dem Tod</string>
-    <string name="darkTheme">Dunkles Thema</string>
-    <string name="left_hand_control">Linke Handsteuerung</string>
+    <string name="spec_mode_after_death">Zuschauer-Modus nach dem Tod</string>
+    <string name="darkTheme">Dunkles Theme</string>
+    <string name="left_hand_control">Steuerung für Linkshänder</string>
 
-    <string name="party_created">Gib diesen Link an deine Freunde weiter:</string>
-    <string name="joining">Beitritt beginnt ...</string>
+    <string name="party_created">Geben Sie diesen Link an Ihren Freunden:</string>
+    <string name="joining">Trete bei ...</string>
     <string name="creating_party">Party erstellen</string>
     <string name="vibration">Vibration</string>
     <string name="game_mechanic_description">
         &#160;&#160;- Je größer Sie sind, desto langsamer bewegen Sie sich\n
-        &#160;- Tippen Sie auf die entsprechende Schaltfläche, um dich in zwei zu teilen. Eine Hälfte von Ihnen schießt schnell vorwärts, verwenden Sie diesen Trick an, um andere Spieler zu treffen und zu essen.\n
-        &#160;- Wenn Sie geteilt sind, können Sie nach Ablauf einer bestimmten Zeit zu einem Blob rekombinieren. Je größer Ihre Blobs (Bälle) sind, desto länger müssen Sie warten, bevor Sie sich wieder zu einem Blob formen können\n
+        &#160;- Tippen Sie auf die entsprechende Schaltfläche, um sich in zwei zu teilen. Eine Hälfte von Ihnen schießt schnell vorwärts, verwenden Sie diesen Trick an, um andere Spieler zu treffen und zu essen.\n
+        &#160;- Wenn Sie geteilt sind, kombinieren Sie sich nach einer bestimmten Zeit wieder. Je größer Ihre Blobs (Bälle) sind, desto länger müssen Sie warten, bevor Sie sich wieder zu einem Blob zusammensetzen\n
         &#160;- Wenn Sie kleiner als die stacheligen Bälle sind, können Sie sich zum Schutz in ihnen verstecken. Wenn Sie jedoch größer als ein Stachelball sind, werden Sie durch Berührung in viele winzige Teile gesprengt.\n
-        &#160;- Du kannst Stachelbälle auf andere schießen und andere spieler somit zum platzen bringen, in dem du auf auswerfen drückst während du auf ein grünen Stachelball zielst.\n
+        &#160;- Sie können Stachelbälle auf andere schießen und andere Spieler somit zum Platzen bringen, indem Sie auf auswerfen drücken während Sie auf einen grünen Stachelball zielen.\n
         &#160;- Sie können nicht von Spielern gegessen werden, die die gleiche Größe haben wie Sie\n
-        Steuerelemente:\n
+        Steuerung:\n
         &#160;- Tippen Sie auf eine beliebige Stelle auf dem Bildschirm, um sich zu bewegen, oder verwenden Sie einfach den Joystick\n
-        &#160;- Tippen Sie auf die entsprechende Schaltfläche, um eine Masse zu teilen oder auszuwerfen\n
-        &#160; Sie können diese Informationen erneut lesen, indem Sie auf das Fragezeichen-Symbol im Hauptmenü klicken und "Spielmechanik" auswählen.\n
-        &#160; Starten Sie die Anwendung neu und löschen Sie den Arbeitsspeicher, wenn etwas schiefgelaufen ist aber bitte speichern sie ihre Aufzeichnungen vorher um den verlust dieser zu vermeiden.\n
-        &#160; Sie können auch die Anzeige von Namen und Masse deaktivieren, um Verzögerungen und FPS verlust zu vermeiden.\n
+        &#160;- Tippen Sie auf die entsprechende Schaltfläche, um sich zu teilen oder Masse auszuwerfen\n
+        &#160;- Sie können diese Informationen erneut lesen, indem Sie auf das Fragezeichen-Symbol im Hauptmenü klicken und "Spielmechanik" auswählen.\n
+        &#160;- Starten Sie die Anwendung neu und löschen Sie den Arbeitsspeicher wenn etwas schiefgelaufen ist. aber bitte speichern sie ihre Aufzeichnungen vorher um den verlust dieser zu vermeiden.\n
+        &#160;- Sie können auch Namen und Masse deaktivieren, um Verzögerungen und FPS-Verlust zu vermeiden.\n
 
     </string>
     <string name="first_start_dialog_title">Spielmechanik</string>
-    <string name="update_title">ein neues Update ist verfügbar</string>
-    <string name="update_message">Willst du es jetzt aktualisieren?</string>
+    <string name="update_title">Ein neues Update ist verfügbar</string>
+    <string name="update_message">Möchten Sie jetzt aktualisieren?</string>
     <string name="players">Spieler:&#160;</string>
     <string name="totals">Summen</string>
 
 
     <string name="fb_info_title">Information</string>
     <string name="fb_info_message">Melden Sie sich mit Facebook oder Google an und erhalten Sie eine größere Startmasse!\n
-        Steige im Level auf, um noch mehr Startmasse zu erhalten und neue Level-Skins freizuschalten!</string>
+        Steigen Sie im Level auf, um noch mehr Startmasse zu erhalten und neue Level-Skins freizuschalten!</string>
     <string name="how_to_install">Wie installiert man</string>
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
-    <string name="prem_skin_message">Möchten sie diese Haut anziehen?</string>
+    <string name="prem_skin_message">Möchten sie diesen Skin verwenden?</string>
     <string name="game_mode">Spielmodus:</string>
 
     <string name="unavailable">Nicht verfügbar</string>
     <string name="top_lvl">Höchststufe</string>
     <string name="top">Top&#160;</string>
-    <string name="receiving">Empfang...</string>
-    <string name="get_it">Hole es dir!</string>
+    <string name="receiving">Erhalte...</string>
+    <string name="get_it">Holen Sie es sich!</string>
 
-    <string name="keep_ip">Ip-adresse für diese Sitzung beibehalten</string>
-    <string name="keep_ip_description">Das Spiel aktualisiert die IP während dieser Spielsitzung nicht automatisch</string>
+    <string name="keep_ip">IP-Adresse für diese Sitzung beibehalten</string>
+    <string name="keep_ip_description">Die IP-Adresse wird während dieser Sitzung nicht mehr automatisch geändert</string>
 
     <!-- Rate this app-->
-    <string name="rta_dialog_title">Lass uns eine Bewertung da! :D</string>
-    <string name="rta_dialog_message">Wenn dir diese App gefällt, nimm dir doch einen Moment Zeit und bewerte sie. Danke für deine Unterstützung!</string>
+    <string name="rta_dialog_title">Lassen Sie uns eine Bewertung da! :D</string>
+    <string name="rta_dialog_message">Wenn Ihnen diese App gefällt, nehmen Sie sich doch einen Moment Zeit und bewerten Sie sie. Danke für Ihre Unterstützung!</string>
     <string name="rta_dialog_ok">Jetzt bewerten</string>
     <string name="rta_dialog_cancel">Später</string>
     <string name="rta_dialog_no">Nein, Danke</string>
 
     <!-- Share this app-->
-    <string name="rta_dialog_title2">Teile diese App</string>
-    <string name="rta_dialog_message2">Teilen Sie diese App Wenn Sie diese App mögen, zeigen Sie es Ihren Freunden! Sie mögen es vielleicht auch!</string>
+    <string name="rta_dialog_title2">Teilen Sie diese App</string>
+    <string name="rta_dialog_message2">Teilen Sie diese App mit Ihren Freunden! Womöglich gefällt sie ihnen auch!</string>
     <string name="rta_dialog_ok2">Jetzt teilen!</string>
 
-    <string name="low_lvl_message">Ihr Level ist niedriger als erforderlich</string>
+    <string name="low_lvl_message">Ihr Level ist zu niedrig</string>
     <string name="login_for_skins_message">Sie müssen sich anmelden, um diese Skins verwenden zu können</string>
-    <string name="skin_unlocked">Du hast die Haut freigeschaltet %1$s!</string>
+    <string name="skin_unlocked">Neuen Skin freigeschaltet %1$s!</string>
     <string name="optimize_names">Namen optimieren</string>
     <string name="low_graphic">Niedrige Grafik</string>
     <string name="macros">Makros</string>
-    <string name="hello_fake">Du kannst diesen Spitznamen nur ab Level 30 verwenden :)</string>
-    <string name="get_more">Mehr bekommen!</string>
+    <string name="hello_fake">Sie können diesen Namen erst ab Level 30 verwenden :)</string>
+    <string name="get_more">Mehr erhalten!</string>
 
 
     <string name="my_friends">Freunde</string>
     <string name="my_new_friends">Anfragen</string>
-    <string name="followers">Abgelehnt</string>
-    <string name="blocked">verstopft</string>
-    <string name="playing">Spielen:&#160;</string>
+    <string name="followers">Follower</string>
+    <string name="blocked">Blockiert</string>
+    <string name="playing">Spielt:&#160;</string>
     <string name="offline">Offline</string>
     <string name="relations">Beziehungen</string>
-    <string name="you_must_log_in">Sie müssen sich einloggen</string>
+    <string name="you_must_log_in">Sie müssen sich anmelden</string>
     <string name="last_seen">Zuletzt gesehen</string>
-    <string name="registered">Beigetreten am </string>
+    <string name="registered">Registriert </string>
     <string name="game_time">Spielzeit</string>
     <string name="user_info_records">Statistiken:</string>
 
@@ -134,60 +134,60 @@
     <string name="decline">Ablehnen</string>
     <string name="copy">Kopieren</string>
 
-    <string name="better_skins_quality">Bessere Hautqualität</string>
-    <string name="better_skins_warning">Dies kann zu Verzögerungen und FPS verluste führen. Verwenden Sie dies, wenn Sie sich sicher sind das ihr Gerät das leisten kann.</string>
-    <string name="stop_on_release">Beim loslassen stoppen</string>
+    <string name="better_skins_quality">Bessere Skinqualität</string>
+    <string name="better_skins_warning">Dies kann zu Verzögerungen und Verlust von FPS führen. Nur verwenden, wenn Sie sich sicher sind das ihr Gerät genug Leistung hat.</string>
+    <string name="stop_on_release">Beim Loslassen stoppen</string>
     <string name="type_user_id">Geben Sie die Benutzer-ID ein</string>
     <string name="copy_user_id">ID kopieren</string>
     <string name="send_friend_request">Freundschaftsanfrage senden</string>
     <string name="friend_request_successful">Freundschaftsanfrage erfolgreich gesendet</string>
     <string name="added_new_friend">Neuer Freund hinzugefügt</string>
-    <string name="moved_to_declined">In abgelehnt verschoben</string>
+    <string name="moved_to_declined">Zu Abgelehnt verschoben</string>
     <string name="show_friends">Freunde anzeigen</string>
-    <string name="watch">Uhr</string>
+    <string name="watch">Zusehen</string>
     <string name="unknown_user">Unbekannter Benutzer</string>
     <string name="reset">Zurücksetzen</string>
 
     <!-- More settings -->
     <string name="more">Mehr</string>
-    <string name="controls_opacity">Steuert die Opazität:</string>
+    <string name="controls_opacity">Sichtbarkeit der Steuerung:</string>
     <string name="chat_text_size">Chat-Textgröße:</string>
-    <string name="camera_zoom">Kamera herauszoomen:</string>
-    <string name="live_score">Live-Ergebnis</string>
+    <string name="camera_zoom">Zoom:</string>
+    <string name="live_score">Masse anzeigen</string>
 
     <!-- Joystick settings-->
-    <string name="margins">Margen:</string>
+    <string name="margins">Rand:</string>
     <string name="size">Größe:</string>
     <string name="old_type">Alter Typ</string>
 
     <string name="coins">Münzen</string>
 
     <string name="empty">Leer</string>
-    <string name="you_dont_have_friends">Du hast noch keine Freunde :(</string>
-    <string name="bought_succeed">Du kauftest %s erfolgreich!</string>
+    <string name="you_dont_have_friends">Sie haben noch keine Freunde :(</string>
+    <string name="bought_succeed">Sie haben %s erfolgreich gekauft!</string>
 
     <!-- API ERROR MESSAGES -->
-    <string name="user_not_found">Benutzer mit dieser ID wurde nicht gefunden</string>
+    <string name="user_not_found">Keinen Benutzer mit dieser ID gefunden</string>
     <string name="request_already_sent_error">Freundschaftsanfrage bereits gesendet</string>
-    <string name="already_friend_error">Dieser Benutzer ist schon dein Freund</string>
-    <string name="not_enough_coins">Du hast nicht genug Münzen</string>
+    <string name="already_friend_error">Dieser Benutzer ist schon Ihr Freund</string>
+    <string name="not_enough_coins">Sie haben nicht genug Münzen</string>
     <string name="already_own_item">Du besitzt diesen Gegenstand bereits</string>
 
     <string name="searching_ad_video">Suchen Sie nach einem Video, bitte warten Sie</string>
     <string name="processing">Wird bearbeitet...</string>
-    <string name="free_coins_toast">Du hast %d Münzen kostenlos erhalten!</string>
-    <string name="quest_coins_toast">Du hast %d Münzen erhalten!</string>
+    <string name="free_coins_toast">Sie haben %d Münzen kostenlos erhalten!</string>
+    <string name="quest_coins_toast">Sie haben %d Münzen erhalten!</string>
     <string name="free_coins">Kostenlose Münzen</string>
     <string name="watch_video">Schau Video</string>
-    <string name="lvl_coins_reward">Herzlichen Glückwünsch! Du hast Level erreicht %1$d und gewonnen %2$d Münzen!</string>
+    <string name="lvl_coins_reward">Herzlichen Glückwünsch! Sie haben Level %1$d erreicht und %2$d Münzen gewonnen!</string>
 
     <!-- Items description localization -->
-    <string name="mass_booster_x1_5_desc">Spiel starten mit x1.5 größere Masse für die nächste Stunde</string>
-    <string name="mass_booster_x2_desc">Beginnen Sie das Spiel mit der doppelten Masse für die nächste Stunde</string>
-    <string name="exp_booster_x1_5_desc">Alle verdienten Erfahrungspunkte Multipliziert bei 1.5 für die nächste 1 Stunde</string>
-    <string name="exp_booster_x2_desc">Alle verdienten Erfahrungspunkte multipliziert bei 2 für die nächste Stunde</string>
-    <string name="watch_video_desc">Video um %d Münzen zu bekommen!</string>
-    <string name="free_coins_desc">Bekommen %1$s Münzen kostenlos %2$d jede Stunde</string>
+    <string name="mass_booster_x1_5_desc">Starten Sie 1 Stunde lang mit x1.5 mehr Masse in jeder Runde</string>
+    <string name="mass_booster_x2_desc">Starten Sie 1 Stunde lang mit x1.5 mehr Masse in jeder Runde</string>
+    <string name="exp_booster_x1_5_desc">Erhalten Sie 1 Stunde lang x1.5 mehr Erfahrungspunkte</string>
+    <string name="exp_booster_x2_desc">Erhalten Sie 1 Stunde lang x1.5 mehr Erfahrungspunkte</string>
+    <string name="watch_video_desc">Schauen Sie ein kurzes Video um %d Münzen zu bekommen!</string>
+    <string name="free_coins_desc">Erhalten Sie %1$s Münzen kostenlos jede %2$d Stunde(n)</string>
     <string name="m">m</string>
     <string name="h">h</string>
     <string name="d">d</string>
@@ -196,11 +196,11 @@
 
     <string name="chat_suffix_desc">Hinter ihren Namen hinzufügen%s Suffix</string>
     <string name="user_role_desc">Dieser Benutzer ist %s</string>
-    <string name="size_animation_speed">Schnelle der Animationsgeschwindigkeit:</string>
+    <string name="size_animation_speed">Animationsgeschwindigkeit:</string>
     <string name="search">Suche</string>
-    <string name="type_skin_name">Geben Sie den Namen der Haut ein</string>
-    <string name="waiting_for_players">Auf Spieler warten</string>
-    <string name="type_room_key">Geben Sie die raum Adresse ein</string>
+    <string name="type_skin_name">Geben Sie den Namen des Skins ein</string>
+    <string name="waiting_for_players">Auf weitere Spieler warten</string>
+    <string name="type_room_key">Geben Sie den Raum-Schlüssel ein</string>
 
     <string name="random">Zufällig</string>
     <string name="key">Schlüssel</string>
@@ -209,23 +209,23 @@
     <string name="spectate_title">Zuschauen</string>
     <string name="game_isnt_started_yet">Das Spiel wurde noch nicht gestartet. Sie können Ihre Münzen verlieren!</string>
     <string name="show_cell_border">Zellenrand anzeigen</string>
-    <string name="cur_week_exp">Kur. Woche Erfahrungspunkte</string>
-    <string name="prev_week_exp">Vorherige Woche Erfahrungspunkte</string>
+    <string name="cur_week_exp">Erfahrungspunkte dieser Woche</string>
+    <string name="prev_week_exp">Erfahrungspunkte der vorherigen Woche </string>
     <string name="rules_title">Regeln</string>
     <string name="rules_description">
         \n
-        1.) Beleidige keine anderen Spieler\n
-        2.) Gib nicht vor, ein MODERATOR zu sein\n
-        3.) Tauschen Sie keine Blob.io-Konten außerhalb oder innerhalb des Spiels aus\n
-        4.) Betrüge nicht, um die beste Platzierung zu erreichen\n
+        1.) Beleidigen Sie keine anderen Spieler\n
+        2.) Geben Sie nicht vor, ein MODERATOR zu sein\n
+        3.) Tauschen Sie keine Blob.io-Accounts außerhalb oder innerhalb des Spiels aus\n
+        4.) Betrügen Sie nicht, um die beste Platzierung zu erreichen\n
         5.) Verwenden Sie keine unangemessenen Namen im Spiel\n
-        6.) Nutzen Sie keine Bugs im Spiel\n
-        7.) Nicht mit jemandem auf der anderen Seite des Teams zusammenarbeiten (CROSS TEAMING) in Teammode\n
+        6.) Nutzen Sie keine Bugs im Spiel aus\n
+        7.) Arbeiten Sie in Team-Modi nicht mit jemandem aus dem anderen Team zusammen\n
     </string>
-    <string name="top_week_exp_desc">Erhalten Sie so viel wie möglich während der Woche und gewinnen Sie Münzen Belohnung!</string>
+    <string name="top_week_exp_desc">Erhalten Sie in der aktuellen Woche so viele EP wie möglich und erhalten Sie zur Belohnung Münzen!</string>
     <string name="server_app_description">Mit dieser App können Sie eigene Server erstellen und offline oder mit Freunden spielen!</string>
-    <string name="show_fps">Zeigen Sie FPS/PING an</string>
-    <string name="chat_enable_warning">Mit dieser option ist die app bewertung höher!</string>
+    <string name="show_fps">FPS/PING anzeigen</string>
+    <string name="chat_enable_warning">Das Aktivieren erhöht die Alterseinstufung!</string>
     <string name="score_title">Punktzahl:</string>
 
     <string name="saved">Gespeichert</string>
@@ -233,50 +233,50 @@
     <string name="deleted">Gelöscht</string>
     <string name="added">Hinzugefügt</string>
     <string name="add_new">Neue hinzufügen</string>
-    <string name="cant_be_empty">%s darf\'darf nicht leer sein!</string>
+    <string name="cant_be_empty">%s darf nicht leer sein!</string>
     <string name="list">Liste</string>
     <string name="info_title">Informationen</string>
     <string name="time_left">Übrige Zeit:</string>
     <string name="edit">Bearbeiten</string>
-    <string name="bet_value">Einsatzwert:</string>
+    <string name="bet_value">Wetteinsatz::</string>
     <string name="create">Erstellen</string>
     <string name="custom_server">Benutzerdefinierter Server</string>
-    <string name="custom_server_created">Benutzerdefinierter Server erstellt</string>
+    <string name="custom_server_created">Benutzerdefinierter Server wurde erstellt</string>
     <string name="highlight_friends">Freunde hervorheben</string>
     <string name="custom_colors">Benutzerdefiniertes Theme</string>
-    <string name="background_color">Hintergrund festlegen</string>
-    <string name="grid_title">Gitter</string>
+    <string name="background_color">Hintergrundfarbe</string>
+    <string name="grid_title">Raster</string>
     <string name="food_title">Essen</string>
     <string name="virus_title">Virus</string>
     <string name="mother_cell_title">Mutterzelle</string>
     <string name="eject_title">Auswerfen</string>
     <string name="friend_name_title">Name des Freundes</string>
-    <string name="invitation_sent">In den Server joinen!</string>
-    <string name="choose_friend">Freund Einladen</string>
-    <string name="notifications">Benarichtigung</string>
-    <string name="join_server">server beitreten</string>
+    <string name="invitation_sent">Einladung wurde versendet</string>
+    <string name="choose_friend">Freund einladen</string>
+    <string name="notifications">Benachrichtigungen</string>
+    <string name="join_server">Server beitreten</string>
     <string name="friend_request">Freundschaftsanfrage</string>
-    <string name="friend_accepted">Freund akzeptiert</string>
-    <string name="only_friends_skins">Nur Häute deiner Freunde anzeigen</string>
-    <string name="in_game_zoom">Zoomen im spiel</string>
-    <string name="copy_nick">Kopie Profielnamen</string>
+    <string name="friend_accepted">Freund hinzugefügt</string>
+    <string name="only_friends_skins">Nur Skins deiner Freunde anzeigen</string>
+    <string name="in_game_zoom">Zoom im Spiel</string>
+    <string name="copy_nick">Namen kopieren</string>
     <string name="gold">Gold</string>
     <string name="silver">Silber</string>
     <string name="bronze">Bronze</string>
-    <string name="medal_description">%1$s medalie für die Plazierung als top %2$s in den globalen rankings!</string>
-    <string name="medal_description_first_place">Medaille für den ersten platz!</string>
+    <string name="medal_description">%1$s Medaille für das Erreichen von Platz %2$s in den globalen Rankings!</string>
+    <string name="medal_description_first_place">Medaille für das Erreichen des ersten Platzes in den globalen Ranking!</string>
 
-    <string name="try_for_free">versuch es kostenlos</string>
-    <string name="account">Konto</string>
+    <string name="try_for_free">Kostenlos testen</string>
+    <string name="account">Account</string>
     <string name="dialog_vip_desc_title2">Keine lust auf Werbung? Hold dir VIP</string>
-    <string name="no_ads">keine Werbung</string>
-    <string name="dialog_vip_desc_free_hours">x2 gratis <b>Geld</b></string>
-    <string name="dialog_vip_desc_ingame_coins">in-game <b>Geld</b></string>
+    <string name="no_ads">Keine Werbung</string>
+    <string name="dialog_vip_desc_free_hours">gratis <b>Münzen</b></string>
+    <string name="dialog_vip_desc_ingame_coins">in-game <b>Münzen</b></string>
     <string name="dialog_vip_desc_additional_exp">zusätzliche <b>Erfahrungspunkte</b></string>
-    <string name="dialog_vip_desc_start_mass">startmasse</string>
-    <string name="dialog_vip_desc_discount">rabatt auf booster</string>
-    <string name="dialog_vip_desc_chat_label">chat und profilmarkierung</string>
-    <string name="dialog_vip_desc_border">Regenbogen Rand</string>
+    <string name="dialog_vip_desc_start_mass">Startmasse</string>
+    <string name="dialog_vip_desc_discount">Rabatt auf Booster</string>
+    <string name="dialog_vip_desc_chat_label">Markierung im Chat und im Profil</string>
+    <string name="dialog_vip_desc_border"> Regenbogenfarbener Zellenrand</string>
     <string name="dialog_vip_desc_lock_name">Goldener tiefgelegter Name</string>
     <string name="side">Seite:</string>
     <string name="bottom">Unterseite:</string>
@@ -285,66 +285,66 @@
     <string name="chat_m_invite_friend">Freund einladen</string>
     <string name="chat_m_big_map">große Karte</string>
     <string name="chat_m_suicide">Selbstmord</string>
-    <string name="chat_m_select_message">schreiben sie eine Nachricht im Chat!</string>
+    <string name="chat_m_select_message">schreiben Sie eine Nachricht im Chat!</string>
     <string name="help">Hilfe</string>
     <string name="web_ver_desc">Wir haben eine Webversion des Spiels für PC-Spieler!</string>
-    <string name="share_request">Teile das Spiel, um diesen Gegenstand freizuschalten!</string>
-    <string name="share_lvl_text">Ich habe gerade das Level erreicht %s in Blob.io! Kannst du mich überholen?</string>
-    <string name="share_double_coins">Teile dein Ergebnis und erhalte doppelte Münzen!</string>
+    <string name="share_request">Teilen Sie Spiel, um diesen Gegenstand freizuschalten!</string>
+    <string name="share_lvl_text">Ich habe gerade Level %s in Blob.io erreicht! Kannst du mich überholen?</string>
+    <string name="share_double_coins">Teilen Sie Ihr Ergebnis um die doppelte Menge an Münzen zu erhalten!</string>
 
     <string name="guide_text1"><![CDATA[Essen sie <b>punkte</b> um zu wachsen!]]></string>
-    <string name="guide_text2"><![CDATA[Drücken Sie <b>TEILT<b> andere Spieler zu teilen und zu essen!]]></string>
-    <string name="guide_text3"><![CDATA[Drücken Sie <b>WERFEN</b> um Viren ab zu schießen und andere Spieler in die Luft jagen!]]></string>
+    <string name="guide_text2"><![CDATA[Drücken Sie <b>TEILT<b> um sich aufzuteilen und zu essen!]]></string>
+    <string name="guide_text3"><![CDATA[Drücken Sie <b>WERFEN</b> um Viren zu schießen und andere Spieler in die Luft zu jagen!]]></string>
     <string name="guide_text4"><![CDATA[Vorsicht vor den <b>Viren</b>!]]></string>
     <string name="guide_text5">
-        <![CDATA[This game needs <b>strong internet</b>! Sit closer to your Wi-Fi, disable <b>BLUETOOTH</b>,
-        Mobile-daten sind nicht rekommandiert!]]>
+        <![CDATA[Dieses Spiel benötigt eine <b>gute Internetverbindung</b>!  Setzen Sie sich in die Nähe des WLAN-Routers und deaktivieren Sie Ihr Bluetooth. 
+        Mobile Daten sind nicht empfehlenswert!]]>
     </string>
-    <string name="guide_select_region">Wählen sie die best gelegende Region</string>
+    <string name="guide_select_region">Wählen Sie die best gelegenste Region</string>
 
-    <string name="skins_yt_desc"><![CDATA[Du kannst dein Gameplay für YouTube Aufnehmen und dort hochladen, um populär zu werden, und den sogenannten <font color="#FF0000"><b><big>[YT]</big></b></font> rank im Spiel zu erhalten. Dein Skin wird zu dieser Liste hinzugefügt, sodass alle Spieler ihn benutzen können! Lese die aktuellen Anforderungen für den <font color="#FF0000"><b><big>[YT]</big></b></font> rank auf unserem Discord Server.]]></string>
-    <string name="skins_prem_desc">Im Gegensatz zu KOSTENLOSEN / YT-Skins kannst du PREM / LVL-Skins mit jedem beliebigen Spielernamen verwenden!</string>
-    <string name="skins_free_desc">Um diese Skins zu verwenden, musst du den Namen des Skins als Spielername festlegen</string>
+    <string name="skins_yt_desc"><![CDATA[Sie können Ihr Gameplay für YouTube aufnehmen und dort hochladen, um populär zu werden, und den sogenannten <font color="#FF0000"><b><big>[YT]</big></b></font> Rang im Spiel zu erhalten. Dein Skin wird zu dieser Liste hinzugefügt, sodass alle Spieler ihn benutzen können! Lese die aktuellen Anforderungen für den <font color="#FF0000"><b><big>[YT]</big></b></font> rank auf unserem Discord Server.]]></string>
+    <string name="skins_prem_desc">Im Gegensatz zu Kostenlosen / YT-Skins können Sie Premium / LVL-Skins mit jedem beliebigen Spielernamen verwenden!</string>
+    <string name="skins_free_desc">Um diese Skins zu verwenden, müssen Sie den Namen des Skins als Namen festlegen.</string>
     <string name="revenge">Rache!</string> 
     <string name="kill_streak">Tötungsserie!</string>
-    <string name="killed_you">%s hat dich getötet</string>
-    <string name="servers_list_desc">Hier kannst du einen leeren Server auswählen, um alleine oder mit Freunden zu üben und um den Spielmodus (INOFFIZIELL) zu testen</string>
-    <string name="custom_server_desc">Hier kannst du einen privaten Server mit benutzerdefinierten Optionen erstellen, Bots / Minions hinzufügen und mit Freunden spielen!</string> 
-    <string name="ts2v2_desc">Im Team Kampf spielen 2 Spieler gegen 2 andere Spieler. Du kannst Münzen einsetzen und / oder einen Kampf mit einem Kennwort erstellen, sodass nur deine Freunde daran teilnehmen können</string>
-    <string name="you_won">Du hast das Spiel gewonnen!</string>
+    <string name="killed_you">%s hat Sie getötet</string>
+    <string name="servers_list_desc">Hier können Sie einen leeren Server auswählen, um alleine oder mit Freunden zu üben oder um inoffizielle Server zu testen!</string>
+    <string name="custom_server_desc">Hier können Sie einen privaten Server mit benutzerdefinierten Optionen erstellen, Bots / Minions hinzufügen und mit Freunden spielen!</string> 
+    <string name="ts2v2_desc">Im Team Kampf spielen 2 Teams mit jeweils 2 Spielern gegeneinander. Du kannst Münzen einsetzen und / oder einen Kampf mit einem Kennwort erstellen, sodass nur deine Freunde daran teilnehmen können</string>
+    <string name="you_won">Sie haben das Spiel gewonnen!</string>
     <string name="someone_won">%s gewann das Spiel!</string>
     <string name="direction_lines">Richtungslinien</string>
     <string name="score_result_best">Bestes Ergebnis</string>
     <string name="daily_quests">Tägliche Missionen</string>
     <string name="reset_in">(Wird in %s zurückgesetzt)</string>        
-    <string name="q_replace_desc">Einmal am Tag kannst du jede Mission durch eine andere zufällige ersetzen!</string> 
+    <string name="q_replace_desc">Einmal am Tag können Sie eine der täglichen Missionen durch eine andere Zufällige ersetzen!</string> 
     <string name="replace">Ersetzen</string>
-    <string name="q_choose_replace">Wähle eine Mission aus die du Ersetzen willst</string>
-    <string name="q_replace_x">Mission %s Ersetzen?</string>
+    <string name="q_choose_replace">Wählen Sie eine Mission aus die Sie Ersetzen wollen.</string>
+    <string name="q_replace_x">Mission %s ersetzen?</string>
     <string name="q_replaced">Mission ersetzt!</string>
     <string name="completed">Abgeschlossen</string>
     <string name="get_reward">Belohnung erhalten</string>
     <string name="daily_reward">Tägliche Belohnung</string>
-    <string name="gain_exp_and_get_reward_every_day">Erhalte Erfahrungspunkte und bekomme tägliche Belohnungen</string>
-    <string name="day">Day %d</string>
-    <string name="up_to">Up to %d</string>
-    <string name="login_to_avoid_captcha">Melden Sie sich an, um diese Überprüfung zu vermeiden</string>
+    <string name="gain_exp_and_get_reward_every_day">Erhalten Sie täöglich Erfahrungspunkte und tolle Belohnungen!</string>
+    <string name="day">Tag %d</string>
+    <string name="up_to">Bis zu %d</string>
+    <string name="login_to_avoid_captcha">Melden Sie sich an, um die Sicherheitsüberprüfung zu überspringen!</string>
     <string name="replays">Wiederholungen</string>
-    <string name="you_have_no_replays">Du hast keine Wiederholungen</string>
+    <string name="you_have_no_replays">Sie haben keine Wiederholungen</string>
     <string name="save_replay">Wiederholung speichern</string>
     <string name="replay_saved">Wiederholung gespeichert!</string>
     <string name="old_replay_warning">Wiederholungen von älteren Versionen des Spiels funktionieren möglicherweise nicht richtig!</string>
-    <string name="too_new_replay_error">Du solltest das Spiel aktualisieren, um diese Wiederholung zu öffnen!</string>
+    <string name="too_new_replay_error">Sie müssen das Spiel aktualisieren, um diese Wiederholung zu öffnen!</string>
     <string name="mute">Stumm schalten</string>
-    <string name="buttons_position">Joystick position</string>
-    <string name="setup_controls">Wählen Sie Steuerelemente</string>
+    <string name="buttons_position">Joystick-Position</string>
+    <string name="setup_controls">Wählen Sie Ihre Steuerung</string>
     <string name="left">Links</string>
     <string name="right">Rechts</string>
     <string name="follow">Folgen</string>
     <string name="private_servers_list">Liste privater Server</string>
     <string name="bots">Bots</string>
     <string name="minions">Minions</string>
-    <string name="public_title">Public</string>
+    <string name="public_title">Öffentlich</string>
     <string name="server_name">Servername</string>
     <string name="background_image">Hintergrundbild</string>
 
@@ -355,7 +355,7 @@
     <string name="smile_rating_good">Gut</string>
     <string name="smile_rating_great">Großartig</string>
 
-    <string name="repeat_mode">Wiederholungsmodus</string>
+    <string name="repeat_mode">Wiederholen</string>
     <string name="high_quality">Hohe Qualität</string>
     <string name="set_title">Set</string>
     <string name="link_title">Link</string>
@@ -363,85 +363,84 @@
     <string name="you_title">Sie</string>
 
     <string name="kill">Töten</string>
-    <string name="death">Tot</string>
-    <string name="locally_muted">Lokal stummgeschaltet %s</string>
+    <string name="death">Tod</string>
+    <string name="locally_muted">%s lokal Stummgeschaltet</string>
     <string name="this_game_supports">Dieses Spiel unterstützt</string>
-    <string name="vibration_desc">Stellen Sie es so ein, dass Sie nur eine sanfte Berührung spüren können</string>
-    <string name="buttons_size">Größe der Knöpfe:</string>
-    <string name="here_is_your_theme_code">Hier ist Ihr Themencode:</string>
+    <string name="vibration_desc">Dies wird Vibrationen als Feedback auf in-game Aktionen aktivieren.</string>
+    <string name="buttons_size">Knöpfgröße:</string>
+    <string name="here_is_your_theme_code">Hier ist Ihr Themecode:</string>
     <string name="import_title">Importieren</string>
-    <string name="export_title">Export</string>
+    <string name="export_title">Exportieren</string>
     <string name="default_title">Standard:</string>
     <string name="too_short_name">Der Name ist zu kurz</string>
-    <string name="floating_dir_pointer">Schwebender Dir-Zeiger</string>
+    <string name="floating_dir_pointer">Flexibler Richtungszeiger</string>
     <string name="render_bot_desc">
-        <![CDATA[Wenn du deine Wiederholungen in eine qualitativ hochwertige mp4 Datei umwandeln möchtest
-        dann solltest du unseren <a href=\"\"><b>DISCORD</b></a> beitreten und deine Wiederholungen in
-        <a href=\'\'><i>#replays-to-convert</i></a> chat senden.]]>
+        <![CDATA[Wenn Sie Ihre Wiederholungen in eine qualitativ hochwertige MP4-Datei umwandeln möchten,
+        dann sollten Sie unserem <a href=\"\"><b>DISCORD</b></a> beitreten. Dort können Sie Ihre Wiederholungen in den
+        <a href=\'\'><i>#replays-to-convert</i></a> Chat senden.]]>
     </string>
-    <string name="get_video">Holen Sie sich das Video</string>
-    <string name="swap_split_throw">SPLIT/WURF vertauschen</string>
+    <string name="get_video">Wiederholung herunterladen</string>
+    <string name="swap_split_throw">D/T umkehren</string>
     <string name="friends_desc">
-        <![CDATA[<big>Du hast noch keine Freunde</big><br><br>
-        - Freunde haben einen <font color="#3cc905"><b>green</font></b> Spitznamen in dem Spiel<br>
-        - Du kannst sie auf deiner <b>minimap sehen</b><br>
-        - Du kannst deinen Freunden <b>beitreten</b> egal wo sie gerade spielen<br>
-        - Du kannst deine Freunde <b>einladen</b> damit sie mit dir spielen können<br><br>]]>
+        <![CDATA[<big>Sie haben noch keine Freunde</big><br><br>
+        - Freunde werden im Spiel durch einen <font color="#3cc905"><b>grünen</font></b> Namen hervorgehoben.<br>
+        - Sie können sie auf Ihrer <b>minimap sehen</b>.<br>
+        - Sie können Ihren Freunden <b>beitreten</b>, egal wo sie gerade spielen.<br>
+        - Sie können Ihre Freunde <b>einladen</b>, um gemeinsam mit ihnen zu spielen.<br><br>]]>
     </string>
-    <string name="friends_requests_desc">Du hast noch keine Freundschaftsanfragen</string>
+    <string name="friends_requests_desc">Sie haben keine Freundschaftsanfragen</string>
     <string name="show_d_t_buttons">D/T-Schaltflächen anzeigen</string>
-    <string name="enter_room_ip">Geben Sie Raum-IP ein</string>
-    <string name="room_ip">Zimmer:</string>
-    <string name="share_room">Raum teilen</string>
+    <string name="enter_room_ip">Geben Sie die Server-IP ein</string>
+    <string name="room_ip">Server:</string>
+    <string name="share_room">Server teilen</string>
     <string name="join_different_region">Wenn Sie einer anderen Region beitreten, kann es zu Verzögerungen kommen!</string>
-    <string name="no_google_services_error">Du solltest dich bei google einloggen um dein Erfolg zu speichern</string>
-    <string name="vip_price">3 Tage kostenlos, dann %s/Monat</string>
-    <string name="vip_price_desc">Die Zahlung beginnt automatisch nach der kostenlosen Testversion, sofern sie nicht gekündigt wird</string>
-    <string name="animated">Animated</string>
+    <string name="no_google_services_error">Loggen Sie sich via Google oder Facebook ein, um Ihre Erfolge zu speichern!</string>
+    <string name="vip_price">3 Tage kostenlos, dann %s/Monat.</string>
+    <string name="vip_price_desc">Die Zahlung beginnt automatisch nach der kostenlosen Testversion, sofern das Abo nicht gekündigt wird.</string>
+    <string name="animated">Animiert</string>
     <string name="animated_skins">Animierte Skins</string>
-    <string name="skins_anim_desc">Diese Skins sind animiert! Sie können sie mit jedem Spitznamen verwenden!</string>
+    <string name="skins_anim_desc">Diese Skins sind animiert! Sie können sie mit jedem Namen verwenden!</string>
     <string name="skins_anim_desc2">Sie können bestimmte Skins, die Ihnen nicht gefallen, deaktivieren, indem Sie sie deaktivieren.</string>
-    <string name="custom_sever_help"><![CDATA[If you need help with server creation you should join our
-        <a href=\\\"\\\"><b>DISCORD</b></a> and check <a href=\\\'\\\'><i>#private-server-configs</i></a> chat to get help]]>
+    <string name="custom_sever_help"><![CDATA[Wenn Sie Hilfe beim Erstellen eines privaten Servers brauchen, können Sie unserem 
+        <a href=\\\"\\\"><b>DISCORD</b></a> beitreten und in <a href=\\\'\\\'><i>#private-server-configs</i></a> nach Hilfe fragen!]]>
     </string>
-    <string name="skins_anim_custom_desc">Hier können Sie animierte Skins anpassen und sie anders aussehen/verhalten lassen!</string>
-    <string name="eat_animation">Animation essen</string>
+    <string name="skins_anim_custom_desc">Hier können Sie animierte Skins anpassen um dessen Aussehen und Verhalten zu verändern!</string>
+    <string name="eat_animation">Ess-Animation</string>
 
     <string-array name="hints">
-        <item>Kauf VIP und bekomme keine Werbungen mehr!</item>
-        <item>Vereine dich mit Freunden und nimm ganze Server ein!</item>
-        <item>erschaffe dein eigenen server und spiele mit freunden!</item>
-        <item>Baue deinen eigenen YouTube Kanal mit Gameplay-Videos auf, erreiche YT-Rang und sei beliebt!</item>
-        <item>vergiss nicht die stündigen Münzen!</item>
-        <item>Sammel mehr Erfahrung als jeder andere und erhalte 55000 Münzen !</item>
-        <item>du kannst 2 vs 2 für Münzen!</item>
-        <item>Sie können Team-Scrimmage bis zu 5 gegen 5 machen!</item>
-        <item>Du kannst eine große Karte öffnen, indem du im Spiel auf eine Minikarte klickst!</item>
-        <item>du kannst deine maus connecten an deinem handy und spiel wie am PC!</item>
-        <item> benutze blob server um deine eigenen offline server zu erschaffen!</item>
-        <item>Klicken Sie auf ein Dreieck in der Nähe des Chats und laden Sie Freunde zu Ihrem Server ein!</item>
-        <item>Loge dich ein um zu lvln und mit größerer startmasse zu starten!</item>
-        <item>benutze mass/exp boosters um mehr zugewinnen und schneller zu lvln!</item>
-        <item>Wenn deine Münzen knapp werden kauf dir einfach neue! :)</item>
-        <item>Verwenden Sie seltene Skins und machen Sie alle neidisch!</item>
-        <item>Passen Sie Spielfarben/-parameter an Ihre Bedürfnisse an, um komfortabler zu spielen!</item>
-        <item>Du kannst deine Freunde auf der Minikarte sehen!</item>
-        <item>Unterhalte dich mit Leuten und finde neue Freunde!</item>
+        <item>Kaufen Sie VIP um Werbung zu vermeiden!</item>
+        <item>Schließen Sie sich mit Ihren Freunden zusammen und dominieren Sie ganze Server!</item>
+        <item>Erstellen Sie eigene Server und spielen Sie mit Freunden!</item>
+        <item>Bauen Sie einen YouTube Kanal mit Gameplay-Videos auf, holen Sie sich den YT-Rank und seien Sie beliebt!</item>
+        <item>Vergessen Sie nicht die stündilichen Münzen!</item>
+        <item>Sammeln Sie mehr Erfahrungspunkte als jeder andere und erhalten Sie 55000 Münzen!</item>
+        <item>Im 2v2 Spielmodus können Sie Münzen gewinnen!</item>
+        <item>Sie können Team-Scrimmage in 2 Teams mit jeweils bis zu 5 Spielern spielen!</item>
+        <item>Sie können die Minikarte vergrößern indem Sie während dem Spiel drauf klicken!</item>
+        <item>Sie können Ihre Maus mit Ihrem Gerät verbinden um wie am Computer zu spielen!</item>
+        <item>Mit der Blob Server App können sie offline Server erstellen und darauf spielen</item>
+        <item>Klicken Sie auf das Dreieck neben dem Chat, dort können Sie Freunde zu Ihrem Server einladen!</item>
+        <item>Melden Sie sich an um zu Leveln und mit mehr Masse zu starten!</item>
+        <item>Nutzen Sie Booster um schneller aufzusteigen und mehr Münzen zu erhalten!</item>
+        <item>Wenn Ihre Münzen knapp werden, ,können Sie sich im Shop mehr davon kaufen! :)</item>
+        <item>Nutzen Sie seltene Skins und machen Sie alle neidisch!</item>
+        <item>Passen Sie Ihre Einstellungen an Ihre Bedürfnisse an!</item>
+        <item>Sie können Ihre Freunde auf der Minikarte sehen!</item>
+        <item>Unterhalten Sie sich mit Leuten und schließen Sie neue Freundschaften!</item>
         <item>Treten Sie unserem Discord-Server bei, um abzustimmen/zu chatten und auf dem Laufenden zu bleiben!</item>
-        <item>Zeig Blobio dein Freunden und habt spaß zusammen!</item>
-        <item>jeder spieler hat eine eigene ID, du kannst sie teilen damit deine freunde dich in Blob finden!</item>
-        <item>Du kannst als Übung auf einem leeren Server spielen!</item>
-        <item>Sie können auf das IP Label klicken und es ändern oder die Serverliste öffnen!</item>
-        <item>Stellen Sie sicher, dass Sie unseren sozialen Netzwerken beitreten, um auf dem Laufenden zu bleiben, Freunde zu finden und Ihre Fähigkeiten zu verbessern!</item>
-        <item>Wir experimentieren immer mit neuen Spielmodi. Sie finden sie in der Serverliste (inoffizielle Kategorie)!</item>
-        <item>Wir haben richtig tolle test-Modi in inoffiziell!)</item>
-        <item>Wenn du neu im spiel bist und tips brauchst schau dir Blobio Videos auf Youtube an!</item>
-        <item>sitze näher an deinem wifi, um besseres wlan verbindung zu krigen !</item>
-        <item>schalte dein BLUETOOTH aus um internet lags/verzögerungen zu reduzieren!</item>
-        <item>schalte dein BLUETOOTH aus um internet lags/verzögerungen zu reduzieren!</item>
-        <item>Du kannst jedes Bild als Hintergrund im Spiel einrichten!</item>
+        <item>Zeigen Sie Blob.io Ihren Freunden um gemeinsam Spaß zu haben!</item>
+        <item>Jeder Spieler hat eine eigene ID, durch diese können Ihre Freunde Sie finden!</item>
+        <item>Zum Üben können Sie auf einem leeren Server spielen!</item>
+        <item>Klicken Sie auf das IP-Feld um diese zu ändern oder die Serverliste zu öffnen!</item>
+        <item>Treten Sie unseren Sozialen Netzwerken bei, um auf dem Laufenden zu bleiben, Freunde zu finden und Ihr Können zu verbessern!</item>
+        <item>Wir experimentieren immer mit neuen Spielmodi. Diese finden Sie in der Serverliste (Inoffizielle Kategorie)!</item>
+        <item>Wir haben richtig tolle Test-Modi in der Kategorie (Inoffiziell)!</item>
+        <item>Wenn Sie neu im Spiel sind und Tipps brauchen, schauen Sie sich Blob.io Videos auf Youtube an!</item>
+        <item>Sitzen Sie in der Nähe Ihren WLAN-Routers um eine gute Verbindung sicherzustellen!</item>
+        <item>Schalten Sie Ihr Bluetooth aus um Internet Lags/Verzögerungen zu reduzieren!</item>
+        <item>Sie können jedes beliebige Bild als Hintergrund im Spiel verwenden!</item>
         <item>Sie können schöne Spielmomente aufnehmen und später in Wiederholungen ansehen!</item>
-        <item>Du kannst deine Wiederholungen speichern und allen zeigen wie du gewinnst!</item>
+        <item>Sie können Ihre Wiederholungen speichern und allen zeigen wie Sie gewinnen!</item>
         <item>Dieses Spiel bietet volle Unterstützung für Gamepads/Controller!</item>
     </string-array>
 </resources>
