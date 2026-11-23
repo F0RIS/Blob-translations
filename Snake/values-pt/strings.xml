@@ -15,7 +15,7 @@
 
     <string name="default_name">Não me coma!</string>
     <string name="play">Jogar</string>
-    <string name="nick_name">Nickname:</string>
+    <string name="nick_name">Apelido:</string>
     <string name="exit_dialog">O quê você quer?</string>
     <string name="exit">Sair</string>
     <string name="restart">Reiniciar</string>
@@ -36,8 +36,12 @@
     <string name="connection_lost">Conexão perdida!</string>
     <string name="cant_connect">Não foi possível se conectar, por favor, tente novamente!</string>
     <string name="about_title">Sobre</string>
-    <string name="about_text">"&#032; Cliente Android Viper.io %1$s \n\n\n\n\t&#032;Você pode enviar-nos sugestões através deste e-mail:\n
-        \n\n    "</string>
+    <string name="about_text">&#032; Cliente Android Viper.io %1$s \n\n
+
+	&#032;Você pode enviar-nos sugestões através deste e-mail:
+        <!--<i>E-mail: blobgame@ya.ru</i>\n-->
+
+    </string>
 
     <string name="check_update">Checar atualização</string>
     <string name="score_result">Pontuação final: %1$s</string>
@@ -55,21 +59,21 @@
     <string name="creating_party">Criando partida...</string>
     <string name="vibration">Vibração</string>
     <string name="game_mechanic_description">
-        Viper.io is an online multiplayer battle of snakes. Become the biggest snake to be on top.\n
-        Avoid collisions with other snakes and make others crash into you.\n
-        Pick up boosters and food to get extra abilities and grow bigger\n\n
-        Game features:\n
-        - online multiplayer game\n
-        - different game modes\n
-        - a lot of free skins\n
-        - record lists for every game mode\n
-        - lots of quests\n
-        - free daily and hourly coins\n
-        - ability to play together with your friends\n
-        - built-in chat\n\n
-
-        You can read this info again by clicking on the question mark icon in the main menu.\n
-        If something went wrong, restart the application and clear RAM.\n
+        Viper.io é uma batalha multijogador online de cobras. Torne-se a maior cobra para ficar no topo.\n
+        Evite colisões com outras cobras e faça as outras baterem em você.\n
+        Pegue bônus e comida para ganhar habilidades extras e crescer mais\n\n
+        Recursos do jogo:\n
+        - jogo multijogador online\n
+        - diferentes modos de jogo\n
+        - muitas skins grátis\n
+        - listas de recordes para cada modo de jogo\n
+        - muitas missões\n
+        - moedas grátis diárias e a cada hora\n
+        - possibilidade de jogar com seus amigos\n
+        - chat integrado\n\n
+        
+        Você pode ler estas informações novamente tocando no ícone de interrogação no menu principal.\n
+        Se algo der errado, reinicie o aplicativo e limpe a memória RAM.\n
     </string>
     <string name="first_start_dialog_title">Mecanismo do jogo</string>
     <string name="update_title">Atualização disponível!</string>
@@ -248,11 +252,11 @@
     <string name="highlight_friends">Amigos destacados</string>
     <string name="custom_colors">Customizar cores</string>
     <string name="background_color">Fundo</string>
-    <string name="grid_title">Grades</string>
-    <string name="food_title">Alimentação</string>
+    <string name="grid_title">Grade</string>
+    <string name="food_title">Comida</string>
     <string name="virus_title">Vírus</string>
     <string name="mother_cell_title">Célula mãe</string>
-    <string name="eject_title">Ejeção</string>
+    <string name="eject_title">Restos</string>
     <string name="friend_name_title">Nick do amigo</string>
     <string name="invitation_sent">Convite enviado com sucesso!</string>
     <string name="choose_friend">Escolher amigo</string>
@@ -273,9 +277,9 @@
     <string name="account">Conta</string>
     <string name="dialog_vip_desc_title2">Cansado dos anúncios? EXPERIMENTE</string>
     <string name="no_ads">Sem anúncios</string>
-    <string name="dialog_vip_desc_free_hours">Horas grátis em <b>moedas</b></string>
-    <string name="dialog_vip_desc_ingame_coins">Em jogo de <b>moedas</b></string>
-    <string name="dialog_vip_desc_additional_exp">Adicional em <b>exp</b></string>
+    <string name="dialog_vip_desc_free_hours"><b>moedas</b> por hora e no jogo</string>
+    <string name="dialog_vip_desc_ingame_coins"><b>moedas</b> no jogo</string>
+    <string name="dialog_vip_desc_additional_exp"><b>XP</b> adicional</string>
     <string name="dialog_vip_desc_start_mass">Massa inicial</string>
     <string name="dialog_vip_desc_discount">Desconto em impulsos</string>
     <string name="dialog_vip_desc_chat_label">Bate-papo e perfil</string>
@@ -296,19 +300,19 @@
     <string name="share_double_coins">Compartilhe o seu resultado e ganhará o DOBRO de moedas!</string>
 
     <string name="guide_text1"><![CDATA[Recolha <b>comida</b> para crescer!]]></string>
-    <string name="guide_text2"><![CDATA[Pressione <b>SPLIT<b> para se dividir e engolir outros jogadores!]]></string>
+    <string name="guide_text2"><![CDATA[Pressione <b>SPLIT</b> para se dividir e engolir outros jogadores!]]></string>
     <string name="guide_text3"><![CDATA[Pressione <b>THROW</b> para jogar vírus, explodir ou alimentar outros jogadores!]]></string>
     <string name="guide_text4"><![CDATA[Fique longe dos <b>vírus</b>!]]></string>
     <string name="guide_text5">
-        <![CDATA[Este jogo necessita de <b>uma internet forte</b>! Jogue próximo do seu Wi-Fi, desabilitar <b>BLUETOOTH</b>,
-        dados móveis nós não recomendamos!]]>
+        <![CDATA[Este jogo precisa de <b>uma internet forte</b>! Fique perto do seu Wi-Fi, desative o <b>BLUETOOTH</b>,
+        dados móveis não são recomendados!]]>
     </string>
     <string name="guide_select_region">Selecione a região mais próxima!</string>
 
     <string name="skins_yt_desc">
-        <![CDATA[Você pode gravar e enviar seus vídeos para o YouTube para se tornar popular e obter a Tag <font color="#FF0000"><b><big>[YT]</big></b></font> no jogo.
-        Sua skin será adicionada nesta lista, para as pessoas usarem!
-        Leia os requisitos para ter a tag <font color="#FF0000"><b><big>[YT]</big></b></font> no Discord.]]>
+        <![CDATA[Você pode gravar e enviar seus vídeos para o YouTube para se tornar <b><i>popular</i></b> e obter a tag <font color="#FF0000"><b><big>[YT]</big></b></font> no jogo.
+        Seu canal será adicionado a esta lista!
+        Leia os requisitos atuais para ter a tag <font color="#FF0000"><b><big>[YT]</big></b></font> no <b>Discord</b>.]]>
     </string>
     <string name="skins_prem_desc">Ao contrário das skins FREE/YT, você pode usar skins PREM/LVL com qualquer apelido!</string>
     <string name="skins_free_desc">Para usar essas skins você deve definir o nome delas como apelido</string>
@@ -336,12 +340,26 @@
     <string name="day">Dia %d</string>
     <string name="up_to">Até %d</string>
     <string name="login_to_avoid_captcha">Faça login para evitar esta verificação</string>
+    <string name="checking_not_robot">Verificando se você não é um robô…</string>
     <string name="replays">Replays</string>
     <string name="you_have_no_replays">Você não tem replays</string>
     <string name="save_replay">Salvar replay</string>
     <string name="replay_saved">Replay salvo!</string>
+    <string name="replays_length">Duração dos replays:</string>
+    <string name="replay_length_ask">Perguntar</string>
+    <string name="replay_length_sec">%ds</string>
+    <string name="save_replay_last">Salvar os últimos:</string>
     <string name="old_replay_warning">Replays de versões anteriores do jogo podem não funcionar corretamente!</string>
     <string name="too_new_replay_error">Você deve atualizar o jogo para ver este replay!</string>
+    <string name="delete_replay_title">Excluir replay?</string>
+    <plurals name="delete_replays_title">
+        <item quantity="one">Excluir %d replay?</item>
+        <item quantity="many">Excluir %d replays?</item>
+        <item quantity="other">Excluir %d replays?</item>
+    </plurals>
+    <string name="cant_share_file">Não é possível compartilhar este arquivo</string>
+    <string name="something_went_wrong">Algo deu errado!</string>
+    <string name="select">Selecionar</string>
     <string name="mute">Mudo</string>
     <string name="buttons_position">Posição do Joystick</string>
     <string name="setup_controls">Ajustar controles</string>
@@ -390,7 +408,7 @@
     <string name="swap_split_throw">Trocar SPLIT/THROW</string>
     <string name="friends_desc">
         <![CDATA[<big>Você ainda não tem amigos</big><br><br>
-        - Amigos tem <font color="#3cc905"><b>verde</font></b> nickname em jogo<br>
+        - Amigos tem <font color="#3cc905"><b>verde</b></font> nickname em jogo<br>
         - Você pode vê-los no <b>minimapa</b><br>
         - Você pode <b>entrar</b> na sala onde eles estão jogando<br>
         - Você pode <b>convidar</b> eles para sua sala<br><br>]]>
@@ -401,21 +419,22 @@
     <string name="room_ip">Sala:</string>
     <string name="share_room">Compartilhar sala</string>
     <string name="join_different_region">Você entrou em uma região diferente, poderá ter atrasos!</string>
-    <string name="no_google_services_error">You should log in to play Blob without Google Play services or install them</string>
-    <string name="vip_price">3 Days free, then %s/mo</string>
+    <string name="no_google_services_error">Você precisa fazer login para jogar Blob sem os serviços do Google Play ou instalá-los</string>
+    <string name="vip_price">3 dias grátis, depois %s/mês</string>
     <string name="vip_price_desc">O pagamento começará automaticamente após a avaliação gratuita, a menos que seja cancelado</string>
-    <string name="animated">Animated</string>
     <string name="animated_skins">Skins animadas</string>
     <string name="skins_anim_desc">Essas skins são animadas! Você pode usá-los com qualquer apelido!</string>
     <string name="skins_anim_desc2">Você pode desabilitar certas capas que não gosta desmarcando-as.</string>
-    <string name="custom_sever_help"><![CDATA[If you need help with server creation you should join our
-        <a href=\\\"\\\"><b>DISCORD</b></a> and check <a href=\\\'\\\'><i>#private-server-configs</i></a> chat to get help]]>
+    <string name="custom_sever_help"><![CDATA[Se você precisa de ajuda para criar um servidor, entre no nosso
+        <a href=\\\"\\\"><b>DISCORD</b></a> e confira o canal <a href=\\\'\\\'><i>#private-server-configs</i></a> para obter ajuda]]>
     </string>
     <string name="skins_anim_custom_desc">Aqui você pode customizar skins animadas e fazer com que pareçam/se comportem de forma diferente!</string>
-    <string name="eat_animation">Comer animação</string>
-    <string name="sguide_text1"><![CDATA[Make other snakes <b>hit your tail</b> to kill them]]></string>
-    <string name="sguide_text2"><![CDATA[Eat <b>loot</b> that they leave to grow]]></string>
-    <string name="sguide_text3"><![CDATA[<b>Surround</b> your enemy and wait until he gives up]]></string>
+    <string name="eat_animation">Animação ao comer</string>
+    <string name="notif_request_desc">Para receber notificações de solicitação de amizade e convite do servidor, ative as notificações</string>
+
+    <string name="sguide_text1"><![CDATA[Faça outras cobras <b>baterem na sua cauda</b> para matá-las]]></string>
+    <string name="sguide_text2"><![CDATA[Coma os <b>restos</b> que elas deixam para crescer]]></string>
+    <string name="sguide_text3"><![CDATA[<b>Cerque</b> seu inimigo e espere até ele desistir]]></string>
     <string name="revive">Reviver</string>
     <string name="gm_revive_desc">Neste modo de jogo, você pode reviver com parte de sua massa assistindo a anúncios em vídeo!</string>
     <string name="gm_friends_desc">Neste modo de jogo você não pode matar ou ser morto por seus amigos/companheiros de equipe!🤝</string>
@@ -435,7 +454,7 @@
         <item>Você pode formar uma equipe de até 5 vs 5!</item>
         <item>Você pode abrir um mapa grande clicando no minimapa em jogo!</item>
         <item>Você pode conectar um mouse ao seu celular e jogar como se fosse no PC!</item>
-        <item>Use o aplicativo Blob Server para criar seu servidor offline!</item>
+        <!--<item>Use o aplicativo Blob Server para criar seu servidor offline!</item>-->
         <item>Clique num triângulo perto do chat e convide seus amigos ao servidor!</item>
         <item>Faça login para passar de nível e obter uma maior massa inicialmente!</item>
         <item>Use impulsos de massa/exp e ganhará mais XP para passar de nível mais rápido!</item>

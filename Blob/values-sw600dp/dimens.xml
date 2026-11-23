@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="settingCheckBoxTestSize">30sp</dimen>
+    <dimen name="settingSaveButtonWidth">190dp</dimen>
+    <dimen name="menuButtonWidth">220dp</dimen>
+    <dimen name="menuButtonHeight">75dp</dimen>
+    <dimen name="menuColsPadding">10dp</dimen>
+    <dimen name="skin_preview_size">90dp</dimen>
+    <dimen name="skins_tab_text_size">35sp</dimen>
+    <dimen name="skin_name_size">40sp</dimen>
+    <dimen name="top_player_text_size">32sp</dimen>
+    <dimen name="skin_cost_size">25sp</dimen>
+    <dimen name="skin_lvl_size">25sp</dimen>
+
+    <dimen name="chat_height">100dp</dimen>
+    <dimen name="chat_width">285dp</dimen>
+    <dimen name="chat_text_size">16sp</dimen>
+
+    <dimen name="buy_dialog_coin_size">75dp</dimen>
+    <dimen name="list_item_coin_size">50dp</dimen>
+
+    <dimen name="menu_coins_text_size">20sp</dimen>
+    <dimen name="menu_coins_field_width">130dp</dimen>
+    <dimen name="menu_booster_size">46dp</dimen>
+    <dimen name="menu_booster_plus_size">18.5dp</dimen>
+    <dimen name="menu_booster_text_size">16sp</dimen>
+
+    <dimen name="medal_height">21sp</dimen>
+    <dimen name="user_info_photo_size">217dp</dimen>
+    <dimen name="user_info_photo_block_height">239dp</dimen>
+    <dimen name="user_info_photo_block_width">265dp</dimen>
+    <dimen name="user_info_text_size">17sp</dimen>
+    <dimen name="user_info_text_block_width">352dp</dimen>
+    <dimen name="user_info_name_text_size">23sp</dimen>
+    <dimen name="user_info_role_mark_size">45dp</dimen>
+    <dimen name="user_info_vip_mark_size">54dp</dimen>
+
+    <dimen name="user_info_record_text_size">16sp</dimen>
+    <dimen name="user_profile_expbar_width">228dp</dimen>
+    <dimen name="user_profile_expbar_margin">16dp</dimen>
+
+    <dimen name="login_btn_text_size">15sp</dimen>
+    <dimen name="login_btn_width">190dp</dimen>
+    <dimen name="login_btn_height">30dp</dimen>
+    <dimen name="login_screen_width">313dp</dimen>
+    <dimen name="login_screen_photo_size">155dp</dimen>
+    <dimen name="login_screen_name_size">24sp</dimen>
+    <dimen name="login_screen_photo_block_width">185dp</dimen>
+    <dimen name="login_screen_photo_block_height">165dp</dimen>
+
+
+    <dimen name="dialog_vip_desc_title_icon_size">47dp</dimen>
+    <dimen name="dialog_vip_desc_title_text_size">30sp</dimen>
+    <dimen name="dialog_vip_desc_bonuses_size">0dp</dimen>
+    <dimen name="dialog_vip_desc_tv_size">19dp</dimen>
+    <dimen name="dialog_vip_desc_col1_text_size">23sp</dimen>
+    <dimen name="dialog_vip_desc_col1_text_size_smaller">20sp</dimen>
+    <dimen name="dialog_vip_desc_col2_text_size">18sp</dimen>
+
+    <dimen name="menu_vip_btn_size">57dp</dimen>
+    <dimen name="menu_blob_server_size">46dp</dimen>
+
+    <dimen name="list_item_vip_mark_size">36dp</dimen>
+    <dimen name="list_item_role_mark_size">30dp</dimen>
+    <dimen name="menu_hint_text_size">18sp</dimen>
+    <dimen name="dialog_vip_info_size">30dp</dimen>
+    <dimen name="guide_head_text_size">35sp</dimen>
+    <dimen name="list_item_checkbox_size">2</dimen>
+
+    <dimen name="skin_preview_size_grid">180dp</dimen>
+    <dimen name="skin_new_mark_grid">45dp</dimen>
+    <dimen name="skin_name_size_grid">22sp</dimen>
+</resources>

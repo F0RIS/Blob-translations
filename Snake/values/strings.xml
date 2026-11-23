@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="locale">en</string>
+    <string name="push_channel_description" translatable="false">Game notifications</string>
     <string name="facebook_app_id" translatable="false">327874085660876</string>
     <string name="app_name" translatable="false">Viper.io</string>
     <string name="ok" translatable="false">OK</string>
@@ -9,6 +10,9 @@
     <string name="intent_prefix1" translatable="false">vipergame.io</string>
     <string name="intent_prefix2" translatable="false">client.vipergame.io</string>
     <string name="intent_prefix3" translatable="false">custom.client.vipergame.io</string>
+
+    <string name="privacy_policy" translatable="false"><u>Privacy Policy</u></string>
+    <string name="release_notes" translatable="false"><u>Release notes</u></string>
 
     <string name="cancel">Cancel</string>
     <string name="error">Error</string>
@@ -145,6 +149,7 @@
     <string name="free" translatable="false">Free</string>
     <string name="premium" translatable="false">Premium</string>
     <string name="lvls" translatable="false">LVLs</string>
+    <string name="animated" translatable="false">Animated</string>
     <string name="yt_nick" translatable="false">Chat [YT/MD] label</string>
     <string name="youtube" translatable="false">YouTube</string>
     <string name="email" translatable="false"><u>viper.game.main@gmail.com</u></string>
@@ -393,7 +398,7 @@
 
     <string name="skins_yt_desc">
         <![CDATA[You can record and upload your gameplay on YouTube to become <b><i>popular</i></b> and get <font color="#FF0000"><b><big>[YT]</big></b></font> in-game ROLE.
-        Your skin will be added to this list, so players can use it!
+        Your channel will be added to this list!
         Read actual requirements for <font color="#FF0000"><b><big>[YT]</big></b></font> tag in <b>Discord</b>.]]>
     </string>
     <string name="servers_list_desc">Here you can choose an empty server to practice alone or with friends and test (UNOFFICIAL) game modes!</string>
@@ -423,12 +428,25 @@
     <string name="day">Day %d</string>
     <string name="up_to">Up to %d</string>
     <string name="login_to_avoid_captcha">LOG IN to avoid this check</string>
+    <string name="checking_not_robot">Verifying you\'re not a robot…</string>
     <string name="replays">Replays</string>
     <string name="you_have_no_replays">With replays you can rewatch nice moments when you did something cool.\n\nYou have no replays yet. To save replay click here:</string>
     <string name="save_replay">Save replay</string>
     <string name="replay_saved">Replay saved!</string>
+    <string name="replays_length">Replays length:</string>
+    <string name="replay_length_ask">Ask</string>
+    <string name="replay_length_sec">%ds</string>
+    <string name="save_replay_last">Save last:</string>
     <string name="old_replay_warning">Replays from older version of the game might not work correctly!</string>
     <string name="too_new_replay_error">You should update the game to open this replay!</string>
+    <string name="delete_replay_title">Delete replay?</string>
+    <plurals name="delete_replays_title">
+        <item quantity="one">Delete %d replay?</item>
+        <item quantity="other">Delete %d replays?</item>
+    </plurals>
+    <string name="cant_share_file">Can\'t share this file</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="select">Select</string>
     <string name="mute">Mute</string>
 
     <!--    Setting up controls -->
@@ -482,7 +500,7 @@
     <string name="swap_split_throw">Swap SPLIT/THROW</string>
     <string name="friends_desc">
         <![CDATA[<big>You have no friends yet</big><br><br>
-        - Friends have <font color="#3cc905"><b>green</font></b> nickname in the game<br>
+        - Friends have <font color="#3cc905"><b>green</b></font> nickname in the game<br>
         - You can see them on the <b>minimap</b><br>
         - You can <b>join</b> a room where they play<br>
         - You can <b>invite</b> them to your room<br><br>]]>
@@ -496,7 +514,6 @@
     <string name="no_google_services_error">You should log in to play Blob without Google Play services or install them</string>
     <string name="vip_price">3 Days free, then %s/mo</string>
     <string name="vip_price_desc">Payment will start automatically after free trial unless it\'s cancelled</string>
-    <string name="animated">Animated</string>
     <string name="animated_skins">Animated skins</string>
     <string name="skins_anim_desc">These skins are animated! You can use them with any nickname!</string>
     <string name="skins_anim_desc2">You can disable certain skins that you don\'t like by unchecking them.</string>
@@ -505,6 +522,7 @@
     </string>
     <string name="skins_anim_custom_desc">Here you can customize animated skins and make them look/behave different!</string>
     <string name="eat_animation">Eat animation</string>
+    <string name="notif_request_desc">To receive friend request and server invite messages, enable notifications</string>
     <string name="sguide_text1"><![CDATA[Make other snakes <b>hit your tail</b> to kill them]]></string>
     <string name="sguide_text2"><![CDATA[Eat <b>loot</b> that they leave to grow]]></string>
     <string name="sguide_text3"><![CDATA[<b>Surround</b> your enemy and wait until he gives up]]></string>
@@ -527,7 +545,7 @@
         <item>You can make team scrimmage up to 5 vs 5!</item>
         <item>You can open a big map by clicking on the minimap in the game!</item>
         <item>You can connect a mouse/keyboard to your phone and play with it like on PC!</item>
-        <item>Use the Viper.io Server app to create your very own server offline!</item>
+        <!--<item>Use the Viper.io Server app to create your very own server offline!</item>-->
         <item>Click on the triangle next to the chat and invite friends to your server!</item>
         <item>Log in to level up and start the game with more mass!</item>
         <item>Use MASS/XP boosters to win more and level up faster!</item>

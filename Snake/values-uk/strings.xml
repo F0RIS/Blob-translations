@@ -39,7 +39,7 @@
     <string name="score_result">Ви набрали %1$s очок</string>
     <string name="you_set_new_record">Ви встановили новий рекорд в цьому режимі гри!</string>
     <string name="share">Поділитися</string>
-    <string name="share_score_text">Я набрав %1$d очок в грі Blob! Грайте зі мною! #blob_game %2$s</string>
+    <string name="share_score_text">Я набрав %1$d очок у грі Viper.io! Грайте зі мною! #viper_io_game %2$s</string>
     <string name="records">Рекорди</string>
     <string name="spec_mode_after_death">Спостерігати після смерті</string>
     <string name="darkTheme">Темна тема</string>
@@ -55,21 +55,21 @@
     <string name="party_created">Дайте це посилання вашим друзями</string>
     <string name="vibration">Вібрація</string>
     <string name="game_mechanic_description">
-        Viper.io is an online multiplayer battle of snakes. Become the biggest snake to be on top.\n
-        Avoid collisions with other snakes and make others crash into you.\n
-        Pick up boosters and food to get extra abilities and grow bigger\n\n
-        Game features:\n
-        - online multiplayer game\n
-        - different game modes\n
-        - a lot of free skins\n
-        - record lists for every game mode\n
-        - lots of quests\n
-        - free daily and hourly coins\n
-        - ability to play together with your friends\n
-        - built-in chat\n\n
-
-        You can read this info again by clicking on the question mark icon in the main menu.\n
-        If something went wrong, restart the application and clear RAM.\n
+        Viper.io — це багатокористувацька онлайн-битва змій. Стань найбільшою змією, щоб опинитися на вершині.\n
+        Уникай зіткнень з іншими змійками та змушуй інших врізатися в тебе.\n
+        Збирай бонуси та їжу, щоб отримати додаткові здібності й вирости більшим\n\n
+        Особливості гри:\n
+        - багатокористувацька онлайн-гра\n
+        - різні режими гри\n
+        - безліч безкоштовних скінів\n
+        - списки рекордів для кожного режиму гри\n
+        - безліч завдань\n
+        - безкоштовні щоденні та щогодинні монети\n
+        - можливість грати разом із друзями\n
+        - вбудований чат\n\n
+        
+        Ти можеш прочитати це ще раз, натиснувши на значок знака питання в головному меню.\n
+        Якщо щось пішло не так, перезапусти застосунок і очисти оперативну пам\'ять.\n
     </string>
     <string name="first_start_dialog_title">Механіка гри</string>
     <string name="update_title">Доступно оновлення</string>
@@ -134,7 +134,7 @@
     <string name="better_skins_quality">Покращені скіни</string>
     <string name="better_skins_warning">Це може викликати лаги. Використовуйте цей параметр якщо бачите на скінів пікселі</string>
     <string name="stop_on_release">Зупинка при відпусканні</string>
-    <string name="share_text">Думаєш зможеш обігнати мене в Sneka? Ха, а ти спробуй :) #viper_io_game %1$s</string>
+    <string name="share_text">Думаєш, зможеш обіграти мене у Viper.io? Ха, а ти спробуй :) #viper_io_game %1$s</string>
     <string name="type_user_id">Введіть ID користувача</string>
     <string name="added_new_friend">Додано нового друга</string>
     <string name="send_friend_request">Подружитися</string>
@@ -284,7 +284,7 @@
     <string name="help">Допомога</string>
     <string name="web_ver_desc">У нас є веб версія для PC гравців!</string>
     <string name="share_request">Поділися грою, щоб отримати цей предмет!</string>
-    <string name="share_lvl_text">Я тільки що отримав $1%s рівень в Viper.io! Чи зможеш мене тепер перемогти!?</string>
+    <string name="share_lvl_text">Я щойно отримав %s рівень у Viper.io! Чи зможеш тепер мене перемогти!?</string>
     <string name="share_double_coins">Поділися своїм результатом і отримай в ДВА РАЗИ більше монет!</string>
 
     <string name="guide_text1"><![CDATA[Керуй своєю клітиною і збирай <b>їжу</b>(крапки) щоб рости!]]></string>
@@ -298,9 +298,9 @@
     <string name="guide_select_region">Вибери найближчий регіон! (з меншою цифрою/пінгом)</string>
 
     <string name="skins_yt_desc">
-        <![CDATA[Ти можеш записувати і завантажувати на YouTube свій геймплей щоб стати популярним і отримати <font color="#FF0000"><b><big>[YT]</big></b></font> роль в грі.
-        Твій скін буде доданий в цей список і люди будуть користуватися ним!
-        Читай актуальні вимоги для отримання ролі <font color="#FF0000"><b><big>[YT]</big></b></font> в нашому дискорд сервері.]]>
+        <![CDATA[Ти можеш записувати і завантажувати на YouTube свій геймплей, щоб стати <b><i>популярним</i></b> і отримати <font color="#FF0000"><b><big>[YT]</big></b></font> роль в грі.
+        Твій канал буде доданий в цей список!
+        Читай актуальні вимоги для отримання ролі <font color="#FF0000"><b><big>[YT]</big></b></font> на нашому <b>Discord</b>-сервері.]]>
     </string>
     <string name="servers_list_desc">Тут ти можеш вибрати порожній сервер і грати самотужки або з друзями, а також тестувати UNOFFICIAL режими!</string>
     <string name="custom_server_desc">Тут ти можеш створити приватний сервер зі своїми налаштуваннями, додати ботів/міньйонів і грати з друзями!</string>
@@ -330,12 +330,27 @@
     <string name="day">День %d</string>
     <string name="up_to">До %d</string>
     <string name="login_to_avoid_captcha">Авторизуйтесь щоб прибрати цю перевірку</string>
+    <string name="checking_not_robot">Перевіряємо, що ви не робот…</string>
     <string name="replays">Реплєї</string>
     <string name="you_have_no_replays">Завдяки реплєям ти можеш переглянути моменти, коли зробив щось круте.\n\nУ тебе ще немає реплєїв. Щоб зберегти реплєй тисни тут:</string>
     <string name="save_replay">Зберегти реплєй</string>
     <string name="replay_saved">Реплєй збережений!</string>
+    <string name="replays_length">Довжина реплєїв:</string>
+    <string name="replay_length_ask">Запитати</string>
+    <string name="replay_length_sec">%dс</string>
+    <string name="save_replay_last">Зберегти останні:</string>
     <string name="old_replay_warning">Реплєї зі старої версії гри можуть працювати неправильно!</string>
     <string name="too_new_replay_error">Обнови гру щоб відкрити цей реплєї!</string>
+    <string name="delete_replay_title">Видалити реплей?</string>
+    <plurals name="delete_replays_title">
+        <item quantity="one">Видалити %d реплей?</item>
+        <item quantity="few">Видалити %d реплеї?</item>
+        <item quantity="many">Видалити %d реплеїв?</item>
+        <item quantity="other">Видалити %d реплея?</item>
+    </plurals>
+    <string name="cant_share_file">Не вдалося поділитися файлом</string>
+    <string name="something_went_wrong">Щось пішло не так!</string>
+    <string name="select">Вибрати</string>
     <string name="mute">Мьют</string>
     <string name="buttons_position">Позиція кнопок</string>
     <string name="setup_controls">Вибери управління</string>
@@ -384,7 +399,7 @@
     <string name="swap_split_throw">Поміняти місцями SPLIT/THROW</string>
     <string name="friends_desc">
         <![CDATA[<big>В тебе ще нема на друзів</big><br><br>
-        - Друзі мають <font color="#3cc905"><b>зелений</font></b> нiкнейм у грі<br>
+        - Друзі мають <font color="#3cc905"><b>зелений</b></font> нiкнейм у грі<br>
         - Ви можете побачити їх на <b>мінімапі</b><br>
         - Ви можете <b>приєднатися</b> до кімнати, де вони грають<br>
         - Ви можете <b>запросити</b> їх до себе у кімнату<br><br>]]>
@@ -398,18 +413,19 @@
     <string name="no_google_services_error">Ти повинен авторизуватися щоб грати без Google Play сервісів. Або встанови їх</string>
     <string name="vip_price">3 дня бескоштовно, потiм %s/мiс</string>
     <string name="vip_price_desc">Оплата почнеться автоматично після безкоштовної пробної версії, якщо її не буде скасовано</string>
-    <string name="animated">Animated</string>
     <string name="animated_skins">Анімовані скіни</string>
     <string name="skins_anim_desc">Це анімовані скіни!Ти можеш використовувати їх із будь-яким ніком!</string>
     <string name="skins_anim_desc2">Ти можеш відключати певні скіни, які тобі не подобаються</string>
-    <string name="custom_sever_help"><![CDATA[If you need help with server creation you should join our
-        <a href=\\\"\\\"><b>DISCORD</b></a> and check <a href=\\\'\\\'><i>#private-server-configs</i></a> chat to get help]]>
+    <string name="custom_sever_help"><![CDATA[Якщо тобі потрібна допомога зі створенням сервера, заходь у наш
+        <a href=\\\"\\\"><b>DISCORD</b></a> і зазирни в чат <a href=\\\'\\\'><i>#private-server-configs</i></a>, щоб отримати допомогу]]>
     </string>
     <string name="skins_anim_custom_desc">Тут ти можеш налаштовувати анімовані скіни, щоб вони виглядали інакше!</string>
     <string name="eat_animation">Анімація поїдання</string>
-    <string name="sguide_text1"><![CDATA[Виляй так чтобы другие змейки <b>ударялись о твой хвост</b> чтобы убить их]]></string>
-    <string name="sguide_text2"><![CDATA[Ешь <b>добычу</b> которую они оставляют чтобы расти]]></string>
-    <string name="sguide_text3"><![CDATA[<b>Окружай</b> своего врага и жди пока он сдастся]]></string>
+    <string name="notif_request_desc">Щоб отримувати повідомлення про пропозицію дружби та запрошення на сервер, дозволь повідомлення</string>
+
+    <string name="sguide_text1"><![CDATA[Звивайся так, щоб інші змійки <b>врізалися в твій хвіст</b> і гинули]]></string>
+    <string name="sguide_text2"><![CDATA[Їж <b>здобич</b>, яку вони залишають, щоб рости]]></string>
+    <string name="sguide_text3"><![CDATA[<b>Оточуй</b> ворога й чекай, поки він здасться]]></string>
     <string name="revive">Відродити</string>
     <string name="gm_revive_desc">У цьому режимі гри ти можеш відродитися з частиною маси, подивившись рекламу!</string>
     <string name="gm_friends_desc">У цьому ігровому режимі ви не можете вбивати або бути вбитим вашими друзями/товаришами по команді!🤝</string>
@@ -428,7 +444,7 @@
         <item>Ти можеш робити битви командами аж до 5 на 5!</item>
         <item>Ти можеш відкрити велику карту натиснувши на мінмапу в грі!</item>
         <item>Ти можеш підключити мишку/клавіатуру до девайсу і грати з нею як на ПК!</item>
-        <item>Використовуй додаток Viper.io Server і створюй свій сервер оффлайн!</item>
+        <!--<item>Використовуй додаток Viper.io Server і створюй свій сервер оффлайн!</item>-->
         <item>Натисни на трикутник біля чату і запроси друзів на поточний сервер!</item>
         <item>Авторизуйтесь щоб отримувати лвл і починати гру з більшою масою!</item>
         <item>Використовуй mass/exp бустери щоб вигравати частіше і прокачувати лвл швидше!</item>

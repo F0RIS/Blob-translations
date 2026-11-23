@@ -294,9 +294,9 @@
     <string name="guide_select_region">Вибери найближчий регіон! (з меншою цифрою/пінгом)</string>
 
     <string name="skins_yt_desc">
-        <![CDATA[Ти можеш записувати і завантажувати на YouTube свій геймплей щоб стати популярним і отримати <font color="#FF0000"><b><big>[YT]</big></b></font> роль в грі.
+        <![CDATA[Ти можеш записувати і завантажувати на YouTube свій геймплей, щоб стати <b><i>популярним</i></b> і отримати <font color="#FF0000"><b><big>[YT]</big></b></font> роль в грі.
         Твій скін буде доданий в цей список і люди будуть користуватися ним!
-        Читай актуальні вимоги для отримання ролі <font color="#FF0000"><b><big>[YT]</big></b></font> в нашому дискорд сервері.]]>
+        Читай актуальні вимоги для отримання ролі <font color="#FF0000"><b><big>[YT]</big></b></font> на нашому <b>Discord</b>-сервері.]]>
     </string>
     <string name="servers_list_desc">Тут ти можеш вибрати порожній сервер і грати самотужки або з друзями, а також тестувати UNOFFICIAL режими!</string>
     <string name="custom_server_desc">Тут ти можеш створити приватний сервер зі своїми налаштуваннями, додати ботів/міньйонів і грати з друзями!</string>
@@ -326,12 +326,27 @@
     <string name="day">День %d</string>
     <string name="up_to">До %d</string>
     <string name="login_to_avoid_captcha">Авторизуйтесь щоб прибрати цю перевірку</string>
+    <string name="checking_not_robot">Перевіряємо, що ви не робот…</string>
     <string name="replays">Реплєї</string>
     <string name="you_have_no_replays">Завдяки реплєям ти можеш переглянути моменти, коли зробив щось круте.\n\nУ тебе ще немає реплєїв. Щоб зберегти реплєй тисни тут:</string>
     <string name="save_replay">Зберегти реплєй</string>
     <string name="replay_saved">Реплєй збережений!</string>
+    <string name="replays_length">Довжина реплєїв:</string>
+    <string name="replay_length_ask">Запитати</string>
+    <string name="replay_length_sec">%dс</string>
+    <string name="save_replay_last">Зберегти останні:</string>
     <string name="old_replay_warning">Реплєї зі старої версії гри можуть працювати неправильно!</string>
     <string name="too_new_replay_error">Обнови гру щоб відкрити цей реплєї!</string>
+    <string name="delete_replay_title">Видалити реплей?</string>
+    <plurals name="delete_replays_title">
+        <item quantity="one">Видалити %d реплей?</item>
+        <item quantity="few">Видалити %d реплеї?</item>
+        <item quantity="many">Видалити %d реплеїв?</item>
+        <item quantity="other">Видалити %d реплея?</item>
+    </plurals>
+    <string name="cant_share_file">Не вдалося поділитися файлом</string>
+    <string name="something_went_wrong">Щось пішло не так!</string>
+    <string name="select">Вибрати</string>
     <string name="mute">Мьют</string>
     <string name="buttons_position">Позиція кнопок</string>
     <string name="setup_controls">Вибери управління</string>
@@ -380,7 +395,7 @@
     <string name="swap_split_throw">Поміняти місцями SPLIT/THROW</string>
     <string name="friends_desc">
         <![CDATA[<big>В тебе ще нема на друзів</big><br><br>
-        - Друзі мають <font color="#3cc905"><b>зелений</font></b> нiкнейм у грі<br>
+        - Друзі мають <font color="#3cc905"><b>зелений</b></font> нiкнейм у грі<br>
         - Ви можете побачити їх на <b>мінімапі</b><br>
         - Ви можете <b>приєднатися</b> до кімнати, де вони грають<br>
         - Ви можете <b>запросити</b> їх до себе у кімнату<br><br>]]>
@@ -394,15 +409,15 @@
     <string name="no_google_services_error">Ти повинен авторизуватися щоб грати без Google Play сервісів. Або встанови їх</string>
     <string name="vip_price">3 дня бескоштовно, потiм %s/мiс</string>
     <string name="vip_price_desc">Оплата почнеться автоматично після безкоштовної пробної версії, якщо її не буде скасовано</string>
-    <string name="animated">Animated</string>
     <string name="animated_skins">Анімовані скіни</string>
     <string name="skins_anim_desc">Це анімовані скіни!Ти можеш використовувати їх із будь-яким ніком!</string>
     <string name="skins_anim_desc2">Ти можеш відключати певні скіни, які тобі не подобаються</string>
-    <string name="custom_sever_help"><![CDATA[If you need help with server creation you should join our
-        <a href=\\\"\\\"><b>DISCORD</b></a> and check <a href=\\\'\\\'><i>#private-server-configs</i></a> chat to get help]]>
+    <string name="custom_sever_help"><![CDATA[Якщо тобі потрібна допомога зі створенням сервера, заходь у наш
+        <a href=\\\"\\\"><b>DISCORD</b></a> і зазирни в чат <a href=\\\'\\\'><i>#private-server-configs</i></a>, щоб отримати допомогу]]>
     </string>
     <string name="skins_anim_custom_desc">Тут ти можеш налаштовувати анімовані скіни, щоб вони виглядали інакше!</string>
     <string name="eat_animation">Анімація поїдання</string>
+    <string name="notif_request_desc">Щоб отримувати повідомлення про пропозицію дружби та запрошення на сервер, дозволь повідомлення</string>
 
     <string-array name="hints">
         <item>Купи VIP щоб позбутися реклами!</item>

@@ -54,21 +54,21 @@
     <string name="creating_party">Party erstellen</string>
     <string name="vibration">Vibration</string>
     <string name="game_mechanic_description">
-        Viper.io is an online multiplayer battle of snakes. Become the biggest snake to be on top.\n
-        Avoid collisions with other snakes and make others crash into you.\n
-        Pick up boosters and food to get extra abilities and grow bigger\n\n
-        Game features:\n
-        - online multiplayer game\n
-        - different game modes\n
-        - a lot of free skins\n
-        - record lists for every game mode\n
-        - lots of quests\n
-        - free daily and hourly coins\n
-        - ability to play together with your friends\n
-        - built-in chat\n\n
-
-        You can read this info again by clicking on the question mark icon in the main menu.\n
-        If something went wrong, restart the application and clear RAM.\n
+        Viper.io ist ein Online-Multiplayer-Kampf der Schlangen. Werde die größte Schlange, um an der Spitze zu stehen.\n
+        Vermeide Zusammenstöße mit anderen Schlangen und bring andere dazu, in dich hineinzukrachen.\n
+        Sammle Booster und Futter, um zusätzliche Fähigkeiten zu bekommen und größer zu werden\n\n
+        Spielfunktionen:\n
+        - Online-Multiplayer-Spiel\n
+        - verschiedene Spielmodi\n
+        - viele kostenlose Skins\n
+        - Rekordlisten für jeden Spielmodus\n
+        - viele Quests\n
+        - kostenlose tägliche und stündliche Münzen\n
+        - mit deinen Freunden zusammen spielen\n
+        - integrierter Chat\n\n
+        
+        Du kannst diese Infos erneut lesen, indem du im Hauptmenü auf das Fragezeichen-Symbol tippst.\n
+        Wenn etwas schiefgeht, starte die App neu und leere den Arbeitsspeicher (RAM).\n
     </string>
     <string name="first_start_dialog_title">Spielmechanik</string>
     <string name="update_title">ein neues Update ist verfügbar</string>
@@ -192,7 +192,7 @@
     <string name="free_coins_desc">Bekommen %1$s Münzen kostenlos %2$d jede Stunde</string>
     <string name="m">m</string>
     <string name="h">h</string>
-    <string name="d">d</string>
+    <string name="d">T</string>
     <string name="mass_booster_has_expired">Mass Booster ist abgelaufen</string>
     <string name="exp_booster_has_expired">Erfahrungspunkte-Booster ist abgelaufen</string>
 
@@ -250,7 +250,7 @@
     <string name="food_title">Essen</string>
     <string name="virus_title">Virus</string>
     <string name="mother_cell_title">Mutterzelle</string>
-    <string name="eject_title">Auswerfen</string>
+    <string name="eject_title">Beute</string>
     <string name="friend_name_title">Name des Freundes</string>
     <string name="invitation_sent">In den Server joinen!</string>
     <string name="choose_friend">Freund Einladen</string>
@@ -271,8 +271,8 @@
     <string name="account">Konto</string>
     <string name="dialog_vip_desc_title2">Keine lust auf Werbung? Hold dir VIP</string>
     <string name="no_ads">keine Werbung</string>
-    <string name="dialog_vip_desc_free_hours">x2 gratis <b>Geld</b></string>
-    <string name="dialog_vip_desc_ingame_coins">in-game <b>Geld</b></string>
+    <string name="dialog_vip_desc_free_hours">stündliche &amp; im Spiel gesammelte <b>Münzen</b></string>
+    <string name="dialog_vip_desc_ingame_coins">im Spiel gesammelte <b>Münzen</b></string>
     <string name="dialog_vip_desc_additional_exp">zusätzliche <b>Erfahrungspunkte</b></string>
     <string name="dialog_vip_desc_start_mass">startmasse</string>
     <string name="dialog_vip_desc_discount">rabatt auf booster</string>
@@ -294,16 +294,20 @@
     <string name="share_double_coins">Teile dein Ergebnis und erhalte doppelte Münzen!</string>
 
     <string name="guide_text1"><![CDATA[Essen sie <b>punkte</b> um zu wachsen!]]></string>
-    <string name="guide_text2"><![CDATA[Drücken Sie <b>TEILT<b> andere Spieler zu teilen und zu essen!]]></string>
+    <string name="guide_text2"><![CDATA[Drücken Sie <b>SPLIT</b>, um sich zu teilen und andere Spieler zu fressen!]]></string>
     <string name="guide_text3"><![CDATA[Drücken Sie <b>WERFEN</b> um Viren ab zu schießen und andere Spieler in die Luft jagen!]]></string>
     <string name="guide_text4"><![CDATA[Vorsicht vor den <b>Viren</b>!]]></string>
     <string name="guide_text5">
-        <![CDATA[This game needs <b>strong internet</b>! Sit closer to your Wi-Fi, disable <b>BLUETOOTH</b>,
-        Mobile-daten sind nicht rekommandiert!]]>
+        <![CDATA[Dieses Spiel braucht <b>starkes Internet</b>! Setz dich näher an dein WLAN, deaktiviere <b>BLUETOOTH</b>,
+        mobile Daten werden nicht empfohlen!]]>
     </string>
     <string name="guide_select_region">Wählen sie die best gelegende Region</string>
 
-    <string name="skins_yt_desc"><![CDATA[Du kannst dein Gameplay für YouTube Aufnehmen und dort hochladen, um populär zu werden, und den sogenannten <font color="#FF0000"><b><big>[YT]</big></b></font> rank im Spiel zu erhalten. Dein Skin wird zu dieser Liste hinzugefügt, sodass alle Spieler ihn benutzen können! Lese die aktuellen Anforderungen für den <font color="#FF0000"><b><big>[YT]</big></b></font> rank auf unserem Discord Server.]]></string>
+    <string name="skins_yt_desc">
+        <![CDATA[Du kannst dein Gameplay aufnehmen und auf YouTube hochladen, um <b><i>populär</i></b> zu werden und im Spiel die <font color="#FF0000"><b><big>[YT]</big></b></font>-ROLLE zu erhalten.
+        Dein Kanal wird zu dieser Liste hinzugefügt!
+        Lies die aktuellen Anforderungen für den <font color="#FF0000"><b><big>[YT]</big></b></font>-Tag auf unserem <b>Discord</b>-Server.]]>
+    </string>
     <string name="skins_prem_desc">Im Gegensatz zu KOSTENLOSEN / YT-Skins kannst du PREM / LVL-Skins mit jedem beliebigen Spielernamen verwenden!</string>
     <string name="skins_free_desc">Um diese Skins zu verwenden, musst du den Namen des Skins als Spielername festlegen</string>
     <string name="revenge">Rache!</string> 
@@ -327,15 +331,28 @@
     <string name="get_reward">Belohnung erhalten</string>
     <string name="daily_reward">Tägliche Belohnung</string>
     <string name="gain_exp_and_get_reward_every_day">Erhalte Erfahrungspunkte und bekomme tägliche Belohnungen</string>
-    <string name="day">Day %d</string>
-    <string name="up_to">Up to %d</string>
+    <string name="day">Tag %d</string>
+    <string name="up_to">Bis zu %d</string>
     <string name="login_to_avoid_captcha">Melden Sie sich an, um diese Überprüfung zu vermeiden</string>
+    <string name="checking_not_robot">Wir prüfen, dass Sie kein Roboter sind…</string>
     <string name="replays">Wiederholungen</string>
     <string name="you_have_no_replays">Du hast keine Wiederholungen</string>
     <string name="save_replay">Wiederholung speichern</string>
     <string name="replay_saved">Wiederholung gespeichert!</string>
+    <string name="replays_length">Wiederholungslänge:</string>
+    <string name="replay_length_ask">Fragen</string>
+    <string name="replay_length_sec">%ds</string>
+    <string name="save_replay_last">Letzte speichern:</string>
     <string name="old_replay_warning">Wiederholungen von älteren Versionen des Spiels funktionieren möglicherweise nicht richtig!</string>
     <string name="too_new_replay_error">Du solltest das Spiel aktualisieren, um diese Wiederholung zu öffnen!</string>
+    <string name="delete_replay_title">Wiederholung löschen?</string>
+    <plurals name="delete_replays_title">
+        <item quantity="one">%d Wiederholung löschen?</item>
+        <item quantity="other">%d Wiederholungen löschen?</item>
+    </plurals>
+    <string name="cant_share_file">Diese Datei kann nicht geteilt werden</string>
+    <string name="something_went_wrong">Etwas ist schiefgelaufen!</string>
+    <string name="select">Auswählen</string>
     <string name="mute">Stumm schalten</string>
     <string name="buttons_position">Joystick position</string>
     <string name="setup_controls">Wählen Sie Steuerelemente</string>
@@ -345,7 +362,7 @@
     <string name="private_servers_list">Liste privater Server</string>
     <string name="bots">Bots</string>
     <string name="minions">Minions</string>
-    <string name="public_title">Public</string>
+    <string name="public_title">Öffentlich</string>
     <string name="server_name">Servername</string>
     <string name="background_image">Hintergrundbild</string>
 
@@ -358,7 +375,7 @@
 
     <string name="repeat_mode">Wiederholungsmodus</string>
     <string name="high_quality">Hohe Qualität</string>
-    <string name="set_title">Set</string>
+    <string name="set_title">Festlegen</string>
     <string name="link_title">Link</string>
     <string name="file_title">Datei</string>
     <string name="you_title">Sie</string>
@@ -371,7 +388,7 @@
     <string name="buttons_size">Größe der Knöpfe:</string>
     <string name="here_is_your_theme_code">Hier ist Ihr Themencode:</string>
     <string name="import_title">Importieren</string>
-    <string name="export_title">Export</string>
+    <string name="export_title">Exportieren</string>
     <string name="default_title">Standard:</string>
     <string name="too_short_name">Der Name ist zu kurz</string>
     <string name="floating_dir_pointer">Schwebender Dir-Zeiger</string>
@@ -384,7 +401,7 @@
     <string name="swap_split_throw">SPLIT/WURF vertauschen</string>
     <string name="friends_desc">
         <![CDATA[<big>Du hast noch keine Freunde</big><br><br>
-        - Freunde haben einen <font color="#3cc905"><b>green</font></b> Spitznamen in dem Spiel<br>
+        - Freunde haben einen <font color="#3cc905"><b>green</b></font> Spitznamen in dem Spiel<br>
         - Du kannst sie auf deiner <b>minimap sehen</b><br>
         - Du kannst deinen Freunden <b>beitreten</b> egal wo sie gerade spielen<br>
         - Du kannst deine Freunde <b>einladen</b> damit sie mit dir spielen können<br><br>]]>
@@ -395,21 +412,22 @@
     <string name="room_ip">Zimmer:</string>
     <string name="share_room">Raum teilen</string>
     <string name="join_different_region">Wenn Sie einer anderen Region beitreten, kann es zu Verzögerungen kommen!</string>
-    <string name="no_google_services_error">Du solltest dich bei google einloggen um dein Erfolg zu speichern</string>
+    <string name="no_google_services_error">Melde dich an, um Viper.io ohne Google Play-Dienste zu spielen, oder installiere sie</string>
     <string name="vip_price">3 Tage kostenlos, dann %s/Monat</string>
     <string name="vip_price_desc">Die Zahlung beginnt automatisch nach der kostenlosen Testversion, sofern sie nicht gekündigt wird</string>
-    <string name="animated">Animated</string>
     <string name="animated_skins">Animierte Skins</string>
     <string name="skins_anim_desc">Diese Skins sind animiert! Sie können sie mit jedem Spitznamen verwenden!</string>
     <string name="skins_anim_desc2">Sie können bestimmte Skins, die Ihnen nicht gefallen, deaktivieren, indem Sie sie deaktivieren.</string>
-    <string name="custom_sever_help"><![CDATA[If you need help with server creation you should join our
-        <a href=\\\"\\\"><b>DISCORD</b></a> and check <a href=\\\'\\\'><i>#private-server-configs</i></a> chat to get help]]>
+    <string name="custom_sever_help"><![CDATA[Wenn du Hilfe bei der Servererstellung brauchst, tritt unserem
+        <a href=\\\"\\\"><b>DISCORD</b></a> bei und schau im Chat <a href=\\\'\\\'><i>#private-server-configs</i></a> vorbei]]>
     </string>
     <string name="skins_anim_custom_desc">Hier können Sie animierte Skins anpassen und sie anders aussehen/verhalten lassen!</string>
-    <string name="eat_animation">Animation essen</string>
-    <string name="sguide_text1"><![CDATA[Make other snakes <b>hit your tail</b> to kill them]]></string>
-    <string name="sguide_text2"><![CDATA[Eat <b>loot</b> that they leave to grow]]></string>
-    <string name="sguide_text3"><![CDATA[<b>Surround</b> your enemy and wait until he gives up]]></string>
+    <string name="eat_animation">Fress-Animation</string>
+    <string name="notif_request_desc">Um Benachrichtigungen über Freundschaftsanfragen und Servereinladungen zu erhalten, aktivieren Sie Benachrichtigungen</string>
+
+    <string name="sguide_text1"><![CDATA[Bring andere Schlangen dazu, <b>gegen deinen Schwanz</b> zu prallen, um sie zu besiegen]]></string>
+    <string name="sguide_text2"><![CDATA[Friss die <b>Beute</b>, die sie hinterlassen, um zu wachsen]]></string>
+    <string name="sguide_text3"><![CDATA[<b>Umzingle</b> deinen Gegner und warte, bis er aufgibt]]></string>
     <string name="revive">Beleben</string>
     <string name="gm_revive_desc">In diesem Spielmodus können Sie sich mit einem Teil Ihrer Masse wiederbeleben, indem Sie Videoanzeigen ansehen!</string>
     <string name="gm_friends_desc">In diesem Spielmodus kannst du deine Freunde/Teamkollegen nicht töten oder von ihnen getötet werden!🤝</string>
@@ -428,7 +446,7 @@
         <item>Sie können Team-Scrimmage bis zu 5 gegen 5 machen!</item>
         <item>Du kannst eine große Karte öffnen, indem du im Spiel auf eine Minikarte klickst!</item>
         <item>du kannst deine maus connecten an deinem handy und spiel wie am PC!</item>
-        <item> benutze viper server um deine eigenen offline server zu erschaffen!</item>
+        <!--<item> benutze viper server um deine eigenen offline server zu erschaffen!</item>-->
         <item>Klicken Sie auf ein Dreieck in der Nähe des Chats und laden Sie Freunde zu Ihrem Server ein!</item>
         <item>Loge dich ein um zu lvln und mit größerer startmasse zu starten!</item>
         <item>benutze mass/exp boosters um mehr zugewinnen und schneller zu lvln!</item>

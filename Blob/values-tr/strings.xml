@@ -73,9 +73,9 @@
 
         &#160;- Bölünmek veya kütle atmak için ilgili düğmeye dokun.\n
 
-        &#160; Bu bilgiyi ana menüdeki soru işareti simgesine tıklayarak tekrar okuyabilirsin.\\n
+        &#160; Bu bilgiyi ana menüdeki soru işareti simgesine tıklayarak tekrar okuyabilirsin.\n
 
-        &#160; Bir sorun olursa uygulamayı yeniden başlat ve RAM'i temizle.\\n
+        &#160; Bir sorun olursa uygulamayı yeniden başlat ve RAM\'i temizle.\n
     </string>
     <string name="first_start_dialog_title">Oyun mekaniği</string>
     <string name="update_title">Güncelleme mevcut!</string>
@@ -170,7 +170,7 @@
     <string name="size">Boyut:</string>
     <string name="old_type">Eski tür</string>
 
-    <string name="coins">Altın</string>
+    <string name="coins">Madeni paralar</string>
 
     <string name="empty">Boş</string>
     <string name="you_dont_have_friends">Şuanda hiç arkadaşın yok :(</string>
@@ -198,9 +198,9 @@
     <string name="exp_booster_x2_desc">Kazanılan tüm XP\'ler sonraki 1 saat boyunca 2 ile çarpılır!</string>
     <string name="watch_video_desc">Videoyu izleyin ve %d madeni para kazanın!</string>
     <string name="free_coins_desc">%2$d saatte bir ücretsiz %1$s madeni para kazanın!</string>
-    <string name="m">m</string>
-    <string name="h">h</string>
-    <string name="d">d</string>
+    <string name="m">dk</string>
+    <string name="h">sa</string>
+    <string name="d">g</string>
     <string name="mass_booster_has_expired">Kütle güçlendiricisinin süresi doldu</string>
     <string name="exp_booster_has_expired">XP güçlendiricisinin süresi doldu</string>
 
@@ -258,7 +258,7 @@
     <string name="food_title">Yiyecek</string>
     <string name="virus_title">Virüs</string>
     <string name="mother_cell_title">Ana hücre</string>
-    <string name="eject_title">Kütle At</string>
+    <string name="eject_title">Atılan kütle</string>
     <string name="friend_name_title">Arkadaş adı</string>
     <string name="invitation_sent">Davet başarıyla gönderildi!</string>
     <string name="choose_friend">Arkadaş seç</string>
@@ -307,21 +307,21 @@
     <string name="share_double_coins">Sonucunuzu paylaşın ve madeni paraları ÇİFT kazanın!</string>
 
     <string name="guide_text1"><![CDATA[Hücreni hareket ettir ve büyümek için <b>yiyecekleri</b> (küçük noktaları) ye!]]></string>
-    <string name="guide_text2"><![CDATA[Diğer oyuncuları yemek için <b>BÖL</b> düğmesine bas!]]></string>
-    <string name="guide_text3"><![CDATA[Virüslere kütle atıp diğer oyuncuları patlatmak için <b>FIRLAT</b> düğmesine bas!]]></string>
+    <string name="guide_text2"><![CDATA[Diğer oyuncuları yemek için <b>SPLIT</b> düğmesine bas!]]></string>
+    <string name="guide_text3"><![CDATA[Virüslere kütle atıp diğer oyuncuları patlatmak için <b>THROW</b> düğmesine bas!]]></string>
     <string name="guide_text4"><![CDATA[<b>Virüslerden</b> uzak dur!]]></string>
-    <string name="guide_text5">        <![CDATA[Bu oyun için <b>güçlü bir internet bağlantısı</b> gerekir! Wi-Fi'na daha yakın ol, <b>BLUETOOTH</b>'u kapat;
+    <string name="guide_text5">        <![CDATA[Bu oyun için <b>güçlü bir internet bağlantısı</b> gerekir! Wi-Fi\'na daha yakın ol, <b>BLUETOOTH</b>\'u kapat;
         mobil veri önerilmez! Çevrimdışı oynamak için <b><i><font color="#1A0DAB">Blob Server</font></i></b> kullan!]]>
     </string>
     <string name="guide_select_region">En yakın bölgeyi seçin! (daha düşük ping için)</string>
 
-    <string name="skins_yt_desc">        <![CDATA[Oynanışını YouTube'a kaydedip yükleyerek <b><i>popüler</i></b> olabilir ve oyunda <font color="#FF0000"><b><big>[YT]</big></b></font> rolünü kazanabilirsin.
+    <string name="skins_yt_desc">        <![CDATA[Oynanışını YouTube\'a kaydedip yükleyerek <b><i>popüler</i></b> olabilir ve oyunda <font color="#FF0000"><b><big>[YT]</big></b></font> rolünü kazanabilirsin.
         Görünümün bu listeye eklenir ve diğer oyuncular onu kullanabilir!
-        <font color="#FF0000"><b><big>[YT]</big></b></font> etiketi için güncel şartları <b>Discord</b>'dan öğren.]]>
+        <font color="#FF0000"><b><big>[YT]</big></b></font> etiketi için güncel şartları <b>Discord</b>\'dan öğren.]]>
     </string>
     <string name="servers_list_desc">Burada tek başınıza veya arkadaşlarınızla pratik yapmak ve (RESMİ OLMAYAN) oyun modlarını test etmek için boş bir sunucu seçebilirsiniz!</string>
     <string name="custom_server_desc">Burada özel parametrelerle özel bir sunucu oluşturabilir, botlar/minyonlar ekleyebilir ve arkadaşlarınızla oynayabilirsiniz!</string>
-    <string name="ts2v2_desc">Burada 2'ye 2 takım savaşları oynayabilirsiniz. Altınla bahis yapabilir ya da sadece arkadaşlarınızın katılabileceği anahtarlı savaşlar oluşturabilirsiniz!</string>
+    <string name="ts2v2_desc">Burada 2\'ye 2 takım savaşları oynayabilirsiniz. Madeni parayla bahis yapabilir ya da sadece arkadaşlarınızın katılabileceği anahtarlı savaşlar oluşturabilirsiniz!</string>
     <string name="skins_prem_desc">FREE/YT görünümlerinin aksine, herhangi bir takma adla PREM/LVL görünümlerini kullanabilirsiniz!</string>
     <string name="skins_free_desc">Bu görünümleri kullanmak için isimlerini takma adınız olarak ayarlamalısınız</string>
 
@@ -346,12 +346,25 @@
     <string name="day">Gün %d</string>
     <string name="up_to">En çok %d</string>
     <string name="login_to_avoid_captcha">Bu kontrolden kaçınmak için GİRİŞ YAPIN</string>
+    <string name="checking_not_robot">Robot olmadığınız doğrulanıyor…</string>
     <string name="replays">Tekrarlar</string>
     <string name="you_have_no_replays">Tekrarlarla, havalı bir şey yaptığınızda güzel anları yeniden izleyebilirsiniz. \n\nHenüz tekrar oynamadınız. Tekrar kaydetmek için burayı tıklayın:</string>
     <string name="save_replay">Tekrarı kaydet</string>
     <string name="replay_saved">Yeniden oynatma kaydedildi!</string>
+    <string name="replays_length">Tekrar uzunluğu:</string>
+    <string name="replay_length_ask">Sor</string>
+    <string name="replay_length_sec">%dsn</string>
+    <string name="save_replay_last">Son kısmı kaydet:</string>
     <string name="old_replay_warning">Oyunun eski sürümünde tekrarlar düzgün çalışmayabilir!</string>
     <string name="too_new_replay_error">Bu takrarı açmak için oyunu güncellemelisin!</string>
+    <string name="delete_replay_title">Tekrar silinsin mi?</string>
+    <plurals name="delete_replays_title">
+        <item quantity="one">%d tekrar silinsin mi?</item>
+        <item quantity="other">%d tekrar silinsin mi?</item>
+    </plurals>
+    <string name="cant_share_file">Bu dosya paylaşılamıyor</string>
+    <string name="something_went_wrong">Bir şeyler ters gitti!</string>
+    <string name="select">Seç</string>
     <string name="mute">Sustur</string>
 
     <!--    Setting up controls -->
@@ -396,8 +409,9 @@
     <string name="default_title">Varsayılan:</string>
     <string name="too_short_name">İsim çok kısa</string>
     <string name="floating_dir_pointer">Kayan yön işaretçisi</string>
-    <string name="render_bot_desc">        <![CDATA[Yüksek kaliteli bir mp4 videosu almak istiyorsan <a href=""><b>DISCORD</b></a> sunucumuza katıl ve tekrar dosyanı
-        <a href=''><i>#replays-to-convert</i></a> kanalına gönder]]>
+    <string name="render_bot_desc">
+        <![CDATA[Yüksek kaliteli bir mp4 videosu almak istiyorsan <a href=\"\"><b>DISCORD</b></a> sunucumuza katıl
+        ve tekrar dosyanı <a href=\'\'><i>#replays-to-convert</i></a> kanalına gönder]]>
     </string>
     <string name="get_video">Videoyu al</string>
     <string name="swap_split_throw">Takas BÖLÜNME/ATMA</string>
@@ -416,15 +430,15 @@
     <string name="no_google_services_error">Blobu Google Play araçları olmadan veya indirmeden oynamak için oturum açmalısın</string>
     <string name="vip_price">3 Gün bedava, daha sonra %s/ay</string>
     <string name="vip_price_desc">İptal edilmediği sürece, ödeme ücretsiz denemeden sonra otomatik olarak başlayacaktır.</string>
-    <string name="animated">Animasyonlu</string>
     <string name="animated_skins">Animasyonlu görünümler</string>
     <string name="skins_anim_desc">Bu görünümler animasyonludur! İstediğiniz takma adla kullanabilirsiniz!</string>
     <string name="skins_anim_desc2">Beğenmediğiniz görünümlerin işaretini kaldırarak onları devre dışı bırakabilirsiniz.</string>
-    <string name="custom_sever_help">        <![CDATA[Sunucu kurma konusunda yardıma ihtiyacın varsa
-        <a href=""><b>DISCORD</b></a> sunucumuza katıl ve <a href=""><i>#private-server-configs</i></a> kanalına göz at]]>
+    <string name="custom_sever_help"><![CDATA[Sunucu oluşturma konusunda yardıma ihtiyacın varsa
+        <a href=\\\"\\\"><b>DISCORD</b></a> sunucumuza katıl ve yardım almak için <a href=\\\'\\\'><i>#private-server-configs</i></a> kanalına göz at]]>
     </string>
     <string name="skins_anim_custom_desc">Burada animasyonlu görünümleri özelleştirip farklı görünmelerini ve davranmalarını sağlayabilirsin!</string>
     <string name="eat_animation">Yeme animasyonu</string>
+    <string name="notif_request_desc">Arkadaşlık isteği ve sunucu davet mesajlarını almak için bildirimlere izin ver</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">

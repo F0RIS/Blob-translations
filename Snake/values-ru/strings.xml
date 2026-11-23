@@ -311,8 +311,8 @@
     <string name="guide_select_region">Выбери ближайший регион! (c меньшей цифрой/пингом)</string>
 
     <string name="skins_yt_desc">
-        <![CDATA[Ты можешь записывать и загружать на YouTube свой геймплей чтобы стать популярным и получить <font color="#FF0000"><b><big>[YT]</big></b></font> роль в игре.
-        Твой скин буде добавлен в этот список и люди будут пользоваться им!
+        <![CDATA[Ты можешь записывать и загружать на YouTube свой геймплей, чтобы стать <b><i>популярным</i></b> и получить <font color="#FF0000"><b><big>[YT]</big></b></font> роль в игре.
+        Твой канал будет добавлен в этот список!
         Читай актуальные требования для получения роли <font color="#FF0000"><b><big>[YT]</big></b></font> в нашем <b>Discord</b>.]]>
     </string>
     <string name="servers_list_desc">Тут ты можешь выбрать пустой сервер и играть в одиночку или с друзьями, а так же тестировать UNOFFICIAL (НЕОФИЦИАЛЬНЫЕ) режимы!</string>
@@ -343,12 +343,27 @@
     <string name="day">День %d</string>
     <string name="up_to">До %d</string>
     <string name="login_to_avoid_captcha">Авторизуйся, чтобы убрать эту проверку</string>
+    <string name="checking_not_robot">Проверяем, что ты не робот…</string>
     <string name="replays">Реплеи</string>
     <string name="you_have_no_replays">С реплеями ты можешь пересмотреть моменты, когда сделал что-то крутое.\n\nУ тебя еще нет реплеев. Чтобы сохранить реплей, жми тут:</string>
     <string name="save_replay">Сохранить реплей</string>
     <string name="replay_saved">Реплей сохранен!</string>
+    <string name="replays_length">Длина реплеев:</string>
+    <string name="replay_length_ask">Спросить</string>
+    <string name="replay_length_sec">%dс</string>
+    <string name="save_replay_last">Сохранить последние:</string>
     <string name="old_replay_warning">Реплеи из старой версии игры могут работать неправильно!</string>
     <string name="too_new_replay_error">Обнови игру, чтобы открыть этот реплей!</string>
+    <string name="delete_replay_title">Удалить реплей?</string>
+    <plurals name="delete_replays_title">
+        <item quantity="one">Удалить %d реплей?</item>
+        <item quantity="few">Удалить %d реплея?</item>
+        <item quantity="many">Удалить %d реплеев?</item>
+        <item quantity="other">Удалить %d реплея?</item>
+    </plurals>
+    <string name="cant_share_file">Не удалось поделиться файлом</string>
+    <string name="something_went_wrong">Что-то пошло не так!</string>
+    <string name="select">Выбрать</string>
     <string name="mute">Заглуш.</string>
     <string name="buttons_position">Позиция кнопок</string>
     <string name="setup_controls">Выбери управление</string>
@@ -397,7 +412,7 @@
     <string name="swap_split_throw">Помен. мест. SPLIT/THROW</string>
     <string name="friends_desc">
         <![CDATA[<big>У вас еще нет друзей</big><br><br>
-        - У друзей <font color="#3cc905"><b>зеленый</font></b> ник в игре<br>
+        - У друзей <font color="#3cc905"><b>зеленый</b></font> ник в игре<br>
         - Вы можете видеть их на <b>мини-карте</b><br>
         - Вы можете <b>заходить</b> в игровую комнату, где они играют<br>
         - Вы можете <b>пригласить</b> их в вашу игровую комнату<br><br>]]>
@@ -411,7 +426,6 @@
     <string name="no_google_services_error">Ты должен авторизоваться, чтобы играть без Google Play сервисов. Или установи их</string>
     <string name="vip_price">3 дня бесплатно, затем %s/мес</string>
     <string name="vip_price_desc">Оплата начнется автоматически после бесплатной пробной версии, если она не будет отменена.</string>
-    <string name="animated">Animated</string>
     <string name="animated_skins">Анимированные скины</string>
     <string name="skins_anim_desc">Это анимированные скины! Ты можешь использовать их с любым ником!</string>
     <string name="skins_anim_desc2">Ты можешь отключить некоторые скины, которые тебе не нравятся, сняв с них галочки.</string>
@@ -420,9 +434,11 @@
     </string>
     <string name="skins_anim_custom_desc">Здесь ты можешь настраивать анимированные скины, чтобы они выглядели по-другому!</string>
     <string name="eat_animation">Анимация поедания</string>
-    <string name="sguide_text1"><![CDATA[Виляй так чтобы другие змейки <b>ударялись о твой хвост</b>, чтобы убить их]]></string>
-    <string name="sguide_text2"><![CDATA[Ешь <b>добычу</b> которую они оставляют, чтобы расти]]></string>
-    <string name="sguide_text3"><![CDATA[<b>Окружай</b> своего врага и жди пока он сдастся]]></string>
+    <string name="notif_request_desc">Чтобы получать сообщения о предложении дружбы и приглашения на сервер, разреши уведомления</string>
+
+    <string name="sguide_text1"><![CDATA[Виляй так, чтобы другие змейки <b>врезались в твой хвост</b> и погибали]]></string>
+    <string name="sguide_text2"><![CDATA[Ешь <b>добычу</b>, которую они оставляют, чтобы расти]]></string>
+    <string name="sguide_text3"><![CDATA[<b>Окружай</b> врага и жди, пока он сдастся]]></string>
     <string name="revive">Возродить</string>
     <string name="gm_revive_desc">В этом режиме игры ты можешь возродиться с частью массы, посмотрев рекламу!</string>
     <string name="gm_friends_desc">В этом режиме ты не можешь убить или быть убитым другом/сокомандником🤝</string>
@@ -441,7 +457,7 @@
         <item>Ты можешь делать сражения командами вплоть до 5 на 5!</item>
         <item>Ты можешь открыть большую карту, нажав на мини-карту в игре!</item>
         <item>Ты можешь подключить мышку/клавиатуру и играть с ней как на ПК!</item>
-        <item>Используй приложение Viper Server и создавай свой сервер оффлайн!</item>
+        <!--<item>Используй приложение Viper Server и создавай свой сервер оффлайн!</item>-->
         <item>Нажми на треугольник возле чата и пригласи друзей на текущий сервер!</item>
         <item>Авторизуйся для получения уровня и начинай игру с большей массой!</item>
         <item>Используй бустеры массы/опыта, чтобы выигрывать чаще и прокачивать уровень быстрее!</item>
